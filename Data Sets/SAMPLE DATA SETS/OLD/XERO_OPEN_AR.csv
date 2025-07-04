@@ -1,0 +1,22 @@
+*InvoiceNumber,*InvoiceDate,Currrency,*UnitAmount,*CustomerName,*DueDate,Description,*Quantity,*TaxType,LineAmountType,*AccountCode
+30528,23-Jun-22,AUD,"4,800.00",Dean Aravidis,23-Jun-22,.,1,BAS Excluded,Exclusive,960
+30544,30-Jun-22,AUD,"1,768.80",John Nielsen,30-Jun-22,.,1,BAS Excluded,Exclusive,960
+30531,27-Jun-22,AUD,68.47,John Nielsen,27-Jun-22,.,1,BAS Excluded,Exclusive,960
+30529,23-Jun-22,AUD,220,Bernice Smith,23-Jun-22,.,1,BAS Excluded,Exclusive,960
+30533,27-Jun-22,AUD,"2,948.00",Eurofins ARL Pty Ltd,27-Jun-22,.,1,BAS Excluded,Exclusive,960
+30516,07-Jun-22,AUD,10.1,David Austin,07-Jun-22,.,1,BAS Excluded,Exclusive,960
+30515,07-Jun-22,AUD,10.1,David Austin,07-Jun-22,.,1,BAS Excluded,Exclusive,960
+30514,07-Jun-22,AUD,10.1,David Austin,07-Jun-22,.,1,BAS Excluded,Exclusive,960
+30513,07-Jun-22,AUD,10.1,David Austin,07-Jun-22,.,1,BAS Excluded,Exclusive,960
+30521,09-Jun-22,AUD,"6,274.10",David Austin,09-Jun-22,.,1,BAS Excluded,Exclusive,960
+30522,10-Jun-22,AUD,"1,128.17",David Austin,10-Jun-22,.,1,BAS Excluded,Exclusive,960
+30536,29-Jun-22,AUD,165.64,David Austin,29-Jun-22,.,1,BAS Excluded,Exclusive,960
+30537,30-Jun-22,AUD,650.81,Justin Herrington,30-Jun-22,.,1,BAS Excluded,Exclusive,960
+30527,18-Jun-22,USD,"7,098.64",Bilal Syed,18-Jun-22,.,1,BAS Excluded,Exclusive,960
+30549,27-Jun-22,AUD,235,Bilal Syed,27-Jun-22,.,1,BAS Excluded,Exclusive,960
+30548,27-Jun-22,AUD,185.44,Bilal Syed,27-Jun-22,.,1,BAS Excluded,Exclusive,960
+30547,27-Jun-22,AUD,79.99,Bilal Syed,27-Jun-22,.,1,BAS Excluded,Exclusive,960
+30534,28-Jun-22,AUD,"1,064.49",Bilal Syed,28-Jun-22,.,1,BAS Excluded,Exclusive,960
+30553,30-Jun-22,AUD,592.9,Venkatesh Iyer,30-Jun-22,.,1,BAS Excluded,Exclusive,960
+30565,30-Jun-22,AUD,736.18,Venkatesh Iyer,30-Jun-22,.,1,BAS Excluded,Exclusive,960
+30538,30-Jun-22,AUD,136.87,ZircoData Pty Ltd,30-Jun-22,.,1,BAS Excluded,Exclusive,960

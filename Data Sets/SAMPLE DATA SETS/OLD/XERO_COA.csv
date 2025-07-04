@@ -1,0 +1,333 @@
+*Code,*Name,*Type,*Tax Code,Description,Account Type
+10000,Assets,Current Asset,BAS Excluded,,Asset
+11000,Current Assets,Current Asset,BAS Excluded,,Asset
+11100,Cash On Hand,Current Asset,BAS Excluded,,Asset
+11110,Cash At Bank,Bank,BAS Excluded,,Bank
+11120,Payroll Cheque Account,Bank,BAS Excluded,,Bank
+11130,ANZ Infracorr Cons P/L - 97636,Bank,BAS Excluded,,Bank
+11135,ANZ Infracorr Cons P/L - 07146,Bank,BAS Excluded,,Bank
+11136,ANZ Offset Account,Bank,BAS Excluded,,Bank
+11140,Petty Cash,Bank,BAS Excluded,,Bank
+11145,Cash on Hand,Bank,BAS Excluded,,Bank
+11150,Provision Account,Bank,BAS Excluded,,Bank
+11160,Investment Account,Bank,BAS Excluded,,Bank
+11180,Undeposited Funds,Bank,BAS Excluded,,Bank
+11190,Electronic Clearing Account,Bank,BAS Excluded,,Bank
+11199,Receivables,Current Asset,BAS Excluded,,Asset
+11200,Trade Debtors,Accounts Receivable,BAS Excluded,,Accounts Receivable
+11201,Sundry Debtors,Current Asset,BAS Excluded,,Other Current Asset
+11202,Deposits Paid,Current Asset,BAS Excluded,,Other Current Asset
+11203,Deposit paid for car,Current Asset,BAS Excluded,,Other Asset
+11204,Prepayment - Trendspek,Current Asset,BAS Excluded,,Other Current Asset
+11205,Prepayments - Other Creditors,Current Asset,BAS Excluded,,Other Current Asset
+11206,Loan at call - Dean Ferguson,Current Asset,BAS Excluded,DF Borrowings from Company,Other Asset
+11207,Equipment prepay,Current Asset,BAS Excluded,,Other Asset
+11210,Less Prov'n for Doubtful Debts,Current Asset,BAS Excluded,,Other Asset
+11240,Godson Family Trust,Current Asset,BAS Excluded,,Other Asset
+11249,Directors Loans,Current Asset,BAS Excluded,,Asset
+11250,Loan - 2020 Directors loan,Current Asset,BAS Excluded,,Other Asset
+11251,Loan - 2021 Directors Loan,Current Asset,BAS Excluded,,Other Asset
+11252,Loan - 2012 Directors Loan,Current Asset,BAS Excluded,,Other Asset
+11253,Loan - 2013 Directors Loan,Current Asset,BAS Excluded,,Other Asset
+11254,Loan - 2014 Directors Loan,Current Asset,BAS Excluded,,Other Asset
+11255,Loan - 2015 Directors Loan,Current Asset,BAS Excluded,,Other Asset
+11256,Loan - 2016 Directors Loan,Current Asset,BAS Excluded,,Other Asset
+11257,Loan - 2017 Directors Loan,Current Asset,BAS Excluded,,Other Asset
+11258,Loan - 2018 Directors Loan,Current Asset,BAS Excluded,,Other Asset
+11259,Loan- 2019 Directors Loan,Current Asset,BAS Excluded,,Other Asset
+11260,Loan - Ian & Jenny Godson,Current Asset,BAS Excluded,,Other Asset
+11261,Loan - Employee advances,Current Asset,BAS Excluded,,Other Asset
+11262,Loan- 2022 Directors Loan,Current Asset,BAS Excluded,,Other Asset
+11263,Loan- 2023 Directors Loan,Current Asset,BAS Excluded,,Other Asset
+11264,Loan - 2022 Directors Loan,Current Asset,BAS Excluded,,Other Asset
+11265,Loan - 2024 Director Loan,Current Asset,BAS Excluded,,Other Asset
+11266,Loan - 2025 Director Loan,Current Asset,BAS Excluded,,Other Asset
+11270,Sundry Debtor,Current Asset,BAS Excluded,,Other Asset
+11300,Loans - Employee shareholders,Current Asset,BAS Excluded,,Asset
+11301,Shareholder loan - D.Ferguson,Current Asset,BAS Excluded,,Other Asset
+11302,Shareholder loan - J.Heath,Current Asset,BAS Excluded,,Other Asset
+11303,Shareholder loan - A.Czerwinski,Current Asset,BAS Excluded,,Other Asset
+11304,Shareholder loan - H.Matthey,Current Asset,BAS Excluded,,Other Asset
+11305,Shareholder loan - B.Grey,Current Asset,BAS Excluded,,Other Asset
+11306,Shareholder loan - D. Soliman,Current Asset,BAS Excluded,,Other Asset
+11307,Shareholder Loan - N. Gaitz,Current Asset,BAS Excluded,,Other Asset
+11308,Shareholder Loan - N. Way,Current Asset,BAS Excluded,,Other Asset
+11309,Shareholder loan - D.Ross,Current Asset,BAS Excluded,,Other Asset
+11400,Prepaid Insurance,Current Asset,BAS Excluded,,Other Asset
+11500,Prepaid Interest,Current Asset,BAS Excluded,,Other Asset
+11700,Other Prepayments,Current Asset,BAS Excluded,,Other Asset
+11800,Long term investments,Current Asset,BAS Excluded,,Other Asset
+11950,Withholding Credits,Current Asset,BAS Excluded,,Asset
+11960,Voluntary Withholding Credits,Current Asset,BAS Excluded,,Other Asset
+11970,ABN Withholding Credits,Current Asset,BAS Excluded,,Other Asset
+12000,Fixed Assets,Current Asset,BAS Excluded,,Asset
+12200,Office Equipment,Current Asset,BAS Excluded,,Asset
+12210,Office Equipment,Fixed Asset,BAS Excluded,,Fixed Asset
+12220,Accumulated Amortisation,Fixed Asset,BAS Excluded,,Fixed Asset
+12300,Buildings & Improvements,Current Asset,BAS Excluded,,Asset
+12310,Bldgs & Imprv at Cost,Current Asset,BAS Excluded,,Other Asset
+12320,Bldgs & Imprv Accum Dep,Current Asset,BAS Excluded,,Other Asset
+12400,Leasehold Improvements,Current Asset,BAS Excluded,,Asset
+12410,Leasehold Impr - at cost,Fixed Asset,BAS Excluded,,Fixed Asset
+12420,Leasehold Imrp - accum dep,Fixed Asset,BAS Excluded,,Fixed Asset
+12500,Vehicles,Current Asset,BAS Excluded,,Asset
+12510,Vehicles - at Cost,Fixed Asset,BAS Excluded,,Fixed Asset
+12515,Excess depreciation limit,Fixed Asset,BAS Excluded,,Fixed Asset
+12520,Vehicles - Accum Dep,Fixed Asset,BAS Excluded,,Fixed Asset
+12530,Borrowing Exp,Fixed Asset,BAS Excluded,,Fixed Asset
+12540,Less Acc: Dep,Fixed Asset,BAS Excluded,,Fixed Asset
+12550,Vehicles at cost- BYD,Fixed Asset,BAS Excluded,,Fixed Asset
+12560,Vehicle Accum Dep - BYD,Fixed Asset,BAS Excluded,,Fixed Asset
+12570,Vehicle at cost - Hyundai,Current Asset,BAS Excluded,,Other Asset
+12580,Vehicle Accum Dep - Hyundai,Current Asset,BAS Excluded,,Other Asset
+12600,Plant & Equipment,Current Asset,BAS Excluded,,Asset
+12610,Plant & Equipment,Fixed Asset,BAS Excluded,,Fixed Asset
+12620,Plant & Equip - Accum Depn,Fixed Asset,BAS Excluded,,Fixed Asset
+12700,Furniture and Fixtures,Current Asset,BAS Excluded,,Asset
+12710,Furniture & Fixtures Orig Co,Fixed Asset,BAS Excluded,,Fixed Asset
+12720,Furniture & Fixtures Accum Dep,Fixed Asset,BAS Excluded,,Fixed Asset
+12800,Bonds Refundable,Current Asset,BAS Excluded,,Asset
+12810,Bond refundable  ,Current Asset,BAS Excluded,,Other Asset
+13000,Goodwill on purchase,Current Asset,BAS Excluded,,Other Asset
+20000,Liabilities,Liability,BAS Excluded,,Liability
+21000,Current Liabilities,Liability,BAS Excluded,,Liability
+21100,Credit Cards,Liability,BAS Excluded,,Liability
+21110,Bankcard,Bank,BAS Excluded,,Credit Card
+21120,Diners Club,Bank,BAS Excluded,,Credit Card
+21130,MasterCard,Bank,BAS Excluded,,Credit Card
+21140,Visa - Ian,Bank,BAS Excluded,,Credit Card
+21150,Company  VISA,Bank,BAS Excluded,,Credit Card
+21151,Company Visa Clearing,Current Liability,BAS Excluded,,Other Liability
+21160,Company AMEX,Bank,BAS Excluded,,Credit Card
+21199,Payables,Liability,BAS Excluded,,Liability
+21200,Trade Creditors,Accounts Payable,BAS Excluded,,Accounts Payable
+21205,Other Creditors,Current Liability,BAS Excluded,,Other Liability
+21210,A/P Accrual - Inventory,Current Liability,BAS Excluded,,Other Liability
+21250,Provision for Tax,Current Liability,BAS Excluded,,Other Liability
+21280,Resident Withholding Tax,Current Liability,BAS Excluded,,Other Liability
+21300,GST Liabilities,Liability,BAS Excluded,,Liability
+21310,GST Collected,Current Liability,BAS Excluded,,Other Liability
+21330,GST Paid,Current Liability,BAS Excluded,,Other Liability
+21335,GST Liability - Trade Debtors,Current Liability,BAS Excluded,,Other Liability
+21340,GST Liability - FBT Recovered,Current Liability,BAS Excluded,,Other Liability
+21350,Fuel Tax Credits Accrued,Current Liability,BAS Excluded,,Other Liability
+21355,WET Payable,Current Liability,BAS Excluded,,Other Liability
+21360,Import Duty Payable,Current Liability,BAS Excluded,,Other Liability
+21370,Dividends Payable,Current Liability,BAS Excluded,,Other Liability
+21371,Chattel Mortage - Audi A4,Current Liability,BAS Excluded,,Other Liability
+21372,Unexpired Interest - Audi A4,Current Liability,BAS Excluded,,Other Liability
+21373,Chattel Mortgage - Audi Q5,Current Liability,BAS Excluded,,Other Liability
+21374,Unexpired Interest - Audi Q5,Current Liability,BAS Excluded,,Other Liability
+21375,Chattel Mortgage - Alfa,Current Liability,BAS Excluded,,Other Liability
+21376,Unexpired Interest - Alfa,Current Liability,BAS Excluded,,Other Liability
+21377,Chattel Mortgage - Toyota,Current Liability,BAS Excluded,,Other Liability
+21378,Unexpired Interest - Toyota,Current Liability,BAS Excluded,,Other Liability
+21380,ABN Withholdings Payable,Current Liability,BAS Excluded,,Other Liability
+21381,Chattel Mortgage - Porsche,Current Liability,BAS Excluded,Porsche purchased Oct 2016,Other Liability
+21382,Unexpired Interest - Porsche,Current Liability,BAS Excluded,,Other Liability
+21383,Chattel Mortgage  - BYD,Current Liability,BAS Excluded,,Other Liability
+21384,Unexpired  Interest -BYD,Current Liability,BAS Excluded,,Other Liability
+21390,Luxury Car Tax Payable,Current Liability,BAS Excluded,,Other Liability
+21400,Payroll Liabilities,Liability,BAS Excluded,,Liability
+21410,Superannuation Payable,Current Liability,BAS Excluded,,Other Liability
+21420,PAYG Withholding Payable,Current Liability,BAS Excluded,,Other Liability
+21430,Salary Sac MV Payable,Current Liability,BAS Excluded,,Other Liability
+21500,Accrued LSL & AL,Current Liability,BAS Excluded,,Other Liability
+21560,Child Support Payments,Current Liability,BAS Excluded,Child Support Payments,Other Liability
+21600,Customer Deposits,Current Liability,BAS Excluded,,Other Liability
+21700,Accrued expenses,Current Liability,BAS Excluded,General accrued expenses,Other Liability
+21800,Unearned Revenue,Current Liability,BAS Excluded,,Other Liability
+21900,Other Current Liabilities,Current Liability,BAS Excluded,,Other Liability
+22000,Long Term Liabilities,Liability,BAS Excluded,,Liability
+22100,ANZ Business Loan,Current Liability,BAS Excluded,,Other Liability
+22200,Chattel Mortgage - Alfa,Current Liability,BAS Excluded,,Other Liability
+22201,Unexpired Interest - Alfa,Current Liability,BAS Excluded,,Other Liability
+22202,Chattel Mortgage - Merc,Current Liability,BAS Excluded,,Other Liability
+22203,Unexpired Int - Merc,Current Liability,BAS Excluded,,Other Liability
+22204,Chattel Mortgage - BMW,Current Liability,BAS Excluded,,Other Liability
+22205,Unexpired Int - BMW,Current Liability,BAS Excluded,,Other Liability
+22206,Chattel Mortgage - Mitsubishi,Liability,BAS Excluded,,Long Term Liability
+22207,Unexpired Int - Mitsubishi,Liability,BAS Excluded,,Long Term Liability
+22210,Chattel Mortgage - Porche,Liability,BAS Excluded,,Long Term Liability
+22211,Unexpired Interest - Porche,Liability,BAS Excluded,,Long Term Liability
+22300,Other Long Term Liabilities,Current Liability,BAS Excluded,,Other Liability
+23000,Provison for credit,Current Liability,BAS Excluded,,Other Liability
+30000,Equity,Equity,BAS Excluded,,Equity
+31000,Owner's/Shareholder's Equity,Equity,BAS Excluded,,Equity
+31100,Owner's/Sharehldr Capital,Equity,BAS Excluded,,Equity
+31200,Owner's/Sharehldr Drawings,Equity,BAS Excluded,,Equity
+38000,Retained Earnings,Equity,BAS Excluded,,Equity
+39000,Current Year Earnings,Equity,BAS Excluded,,Equity
+39999,Historical Balancing,Equity,BAS Excluded,,Equity
+40000,Income,Revenue,BAS Excluded,,Income
+41000,Consulting Fees,Revenue,GST on Income,,Income
+41100,NSW Consulting Fees,Revenue,GST on Income,,Income
+41500,AWC Consulting Fees,Revenue,GST on Income,,Income
+42000,Product Sales,Revenue,GST on Income,,Income
+43000,Expenses Reimbursed,Revenue,GST on Income,,Income
+44000,SUSPENSE,Revenue,BAS Excluded,,Income
+45000,FBT Recovered,Revenue,BAS Excluded,,Income
+45500,Freight Recovered,Revenue,GST on Income,,Income
+46000,Late Fees Collected,Revenue,BAS Excluded,,Income
+48000,Miscellaneous Income,Revenue,BAS Excluded,,Income
+49000,Fuel Tax Credits,Revenue,BAS Excluded,,Income
+50000,Cost of Sales,Direct Costs,BAS Excluded,,Cost of Sales
+51000,Purchases - Maintenance and Consumables,Direct Costs,BAS Excluded,,Cost of Sales
+51050,Purchases - Technical Equipment,Direct Costs,BAS Excluded,,Cost of Sales
+51051,Purchases Safety Equipment - Non-Project,Direct Costs,BAS Excluded,,Cost of Sales
+51100,Client Registration Systems - Non-Project,Direct Costs,BAS Excluded,,Cost of Sales
+51200,"Safety, Training and Inductions - Non Project",Direct Costs,BAS Excluded,,Cost of Sales
+51300,Medicals - Non Project,Direct Costs,BAS Excluded,,Cost of Sales
+51500,Technical Software - Non Project,Direct Costs,BAS Excluded,,Cost of Sales
+52000,Purchases - Resale,Direct Costs,BAS Excluded,,Cost of Sales
+53000,Not in use,Direct Costs,BAS Excluded,,Cost of Sales
+53200,cos/purchases,Direct Costs,BAS Excluded,,Cost of Sales
+53400,COSDISBURSEMENT,Direct Costs,BAS Excluded,,Cost of Sales
+54000,Consulting Fee Costs,Direct Costs,BAS Excluded,,Cost of Sales
+54100,Consulting - Materials,Direct Costs,BAS Excluded,,Cost of Sales
+54200,Consulting - Salaries,Direct Costs,BAS Excluded,,Cost of Sales
+54300,Consulting - Subcontractors,Direct Costs,BAS Excluded,,Cost of Sales
+54301, Trendspek - job specific cost,Direct Costs,BAS Excluded,,Cost of Sales
+54350,Consulting - Subcontractor CAD,Direct Costs,BAS Excluded,,Cost of Sales
+54400,Consulting - Consultants,Direct Costs,BAS Excluded,,Cost of Sales
+54500,Consulting - Travel,Direct Costs,BAS Excluded,,Cost of Sales
+54501,Consulting - Own Car KM's travel,Direct Costs,BAS Excluded,,Cost of Sales
+54600,Consulting - LAFHA,Direct Costs,BAS Excluded,,Cost of Sales
+54700,Consulting - Car Allowance,Direct Costs,BAS Excluded,,Cost of Sales
+54750,Consulting - Trendspek,Direct Costs,BAS Excluded,,Cost of Sales
+54800,"Consulting - Safety, Training and Inductions",Direct Costs,BAS Excluded,,Cost of Sales
+54810,Training costs - not reimbursed,Direct Costs,BAS Excluded,,Cost of Sales
+54820,Consulting - Medicals,Direct Costs,BAS Excluded,,Cost of Sales
+54850,Infracorr Vehicle fuel/tolls,Direct Costs,BAS Excluded,,Cost of Sales
+54900,Sales - Other Costs,Direct Costs,BAS Excluded,,Cost of Sales
+54910,Sales - Own Car KM's travel,Direct Costs,BAS Excluded,,Cost of Sales
+54920,Sales - Travel,Direct Costs,BAS Excluded,,Cost of Sales
+54930,Sales - Salaries,Direct Costs,BAS Excluded,,Cost of Sales
+55000,Product Sales Costs,Direct Costs,BAS Excluded,,Cost of Sales
+55100,Product Sales - Materials,Direct Costs,BAS Excluded,,Cost of Sales
+55200,Product Sales - Salaries,Direct Costs,BAS Excluded,,Cost of Sales
+55300,Product Sales - Subcontractors,Direct Costs,BAS Excluded,,Cost of Sales
+55400,Product Sales - Consultants,Direct Costs,BAS Excluded,,Cost of Sales
+55500,Product Sales - Travel,Direct Costs,BAS Excluded,,Cost of Sales
+58000,Discounts Given,Direct Costs,BAS Excluded,,Cost of Sales
+59000,Business Development,Direct Costs,BAS Excluded,,Cost of Sales
+59100,Business Development,Direct Costs,BAS Excluded,,Cost of Sales
+59110,Advertising & Promotion,Direct Costs,BAS Excluded,,Cost of Sales
+59120,Conference & Seminar Costs,Direct Costs,BAS Excluded,,Cost of Sales
+59130,BD - External Consulting,Direct Costs,BAS Excluded,,Cost of Sales
+59140,BD - Corporate Memberships,Direct Costs,BAS Excluded,,Cost of Sales
+59200,BD - Salaries,Direct Costs,BAS Excluded,,Cost of Sales
+59500,BD - Travel,Direct Costs,BAS Excluded,,Cost of Sales
+59501,BD - Own Car KM's travel,Direct Costs,BAS Excluded,,Cost of Sales
+60000,Expenses,Expense,BAS Excluded,,Expense
+61000,General & Administrative Exp,Expense,BAS Excluded,,Expense
+61010,Advertising & Promotion,Expense,GST on Expenses,,Expense
+61015,Accounting,Expense,GST on Expenses,,Expense
+61017,Amortisation Expense,Expense,BAS Excluded,,Expense
+61019,Bad Debts,Expense,BAS Excluded,,Expense
+61020,Bank Fees & Charges,Expense,BAS Excluded,,Expense
+61021,Computing Equiptment,Expense,GST on Expenses,,Expense
+61022,Borrowing Costs,Expense,BAS Excluded,,Expense
+61030,Internal Conference and Seminars,Expense,GST on Expenses,,Expense
+61035,Business Consultants,Expense,GST on Expenses,,Expense
+61036,Couriers,Expense,GST on Expenses,,Expense
+61037,Quality/OHS Audits,Expense,GST on Expenses,,Expense
+61038,Human Resources,Expense,GST on Expenses,,Expense
+61040,Depreciation - Capital <$1000,Expense,BAS Excluded,,Expense
+61050,Depreciation,Expense,BAS Excluded,,Expense
+61060,Directors Fees,Expense,BAS Excluded,,Expense
+61070,Donations,Expense,GST Free Expenses,,Expense
+61080,Business Development,Expense,GST on Expenses,,Expense
+61090,Office Equipment Purchase,Expense,GST on Expenses,,Expense
+61100,Filing Fees,Expense,GST Free Expenses,,Expense
+61110,Fines,Expense,GST Free Expenses,,Expense
+61120,General Expenses,Expense,GST on Expenses,,Expense
+61130,Hire/Rent Plant & Equipment,Expense,GST on Expenses,,Expense
+61140,Insurance,Expense,GST on Expenses,,Expense
+61149,ICT head account,Expense,BAS Excluded,,Expense
+61150,ICT - Services and Consumables,Expense,GST on Expenses,,Expense
+61151,ICT - Hardware and CAPEX,Expense,BAS Excluded,,Expense
+61152,ICT - Consulting,Expense,GST on Expenses,,Expense
+61153,Telephone,Expense,GST on Expenses,,Expense
+61154,Telephone - Hardware,Expense,GST on Expenses,,Expense
+61155,ICT - Internet,Expense,GST on Expenses,,Expense
+61160,Interest - Australia,Expense,BAS Excluded,,Expense
+61165,Legal Fee,Expense,GST on Expenses,,Expense
+61170,Materials & Supplies,Expense,GST on Expenses,,Expense
+61175,Purchases,Expense,GST on Expenses,,Expense
+61180,M/V Car - Fuel & Oil,Expense,GST on Expenses,,Expense
+61181,MV/PARKING/TOLLS,Expense,GST on Expenses,,Expense
+61182,MV - Km's,Expense,BAS Excluded,,Expense
+61185,MV - Depreciation,Expense,BAS Excluded,,Expense
+61190,M/V Car - Lease,Expense,BAS Excluded,,Expense
+61195,MV - Interest,Expense,BAS Excluded,,Expense
+61200,M/V Car - Rego/Insurance - Tesla,Expense,GST on Expenses,,Expense
+61205,M/V Car - Rego/Insurance - BYD,Expense,BAS Excluded,,Expense
+61207,M/V Car - Rego/ Insurance - Huyndai,Expense,GST on Expenses,,Expense
+61210,M/V Car - Maintenance/Repairs - Tesla,Expense,GST on Expenses,,Expense
+61212,M/V Car - Maintenance/Repairs - BYD,Expense,GST on Expenses,,Expense
+61213,M/V Car Maintenance/ Repair - Hyundai,Expense,GST on Expenses,,Expense
+61215,Office Expenses,Expense,GST on Expenses,,Expense
+61220,"Printing, Stationery & Postage",Expense,GST on Expenses,,Expense
+61230,Protective Clothing,Expense,GST on Expenses,,Expense
+61240,Petty Cash,Expense,GST on Expenses,,Expense
+61250,Building Repairs & Maintenance,Expense,GST on Expenses,,Expense
+61260,"Replacements (Tools, etc)",Expense,GST on Expenses,,Expense
+61262,Safety Ware,Expense,GST on Expenses,,Expense
+61265,Salaries,Expense,BAS Excluded,,Expense
+61266,Salaries - Car allowance,Expense,BAS Excluded,,Expense
+61267,Salaries - Novated Lease,Expense,BAS Excluded,,Expense
+61268,Night Shift Allowance,Expense,BAS Excluded,,Expense
+61269,Superannuation,Expense,BAS Excluded,,Expense
+61270,Security,Expense,GST on Expenses,,Expense
+61280,Staff Amenities,Expense,GST on Expenses,,Expense
+61281,Health & Fitness,Expense,BAS Excluded,,Expense
+61290,Software subscriptions,Expense,GST on Expenses,,Expense
+61295,SUSPENSE,Expense,BAS Excluded,,Expense
+61300,Telephone - Services Fees,Expense,GST on Expenses,,Expense
+61301,Telephone - Hardware,Expense,GST on Expenses,,Expense
+61310,Training,Expense,GST on Expenses,,Expense
+61400,Travel Expenses - Admin,Expense,GST on Expenses,,Expense
+61401,Admin - Own Car KM's travel,Expense,BAS Excluded,,Expense
+61450,Travel Allowance - Admin,Expense,BAS Excluded,,Expense
+61600,Discounts Taken,Expense,BAS Excluded,,Expense
+61700,Freight Paid,Expense,BAS Excluded,,Expense
+61750,OVERSEAS FREIGHT &EXPORT CHARG,Expense,BAS Excluded,,Expense
+61755,OVERSEAS INSURANCE,Expense,BAS Excluded,,Expense
+61760,LOCAL CUSTOMS aND HANDLING,Expense,BAS Excluded,,Expense
+61800,Late Fees Paid,Expense,BAS Excluded,,Expense
+64000,Shrinkage/Spoilage,Expense,BAS Excluded,,Expense
+65100,Employment Expenses,Expense,BAS Excluded,,Expense
+65104,Payroll Tax,Expense,BAS Excluded,,Expense
+65105,Fringe Benefits Tax,Expense,BAS Excluded,,Expense
+65110,Staff Amenities,Expense,BAS Excluded,,Expense
+65120,Superannuation - Assoc,Expense,BAS Excluded,,Expense
+65122,Superannuation - Employee,Expense,BAS Excluded,,Expense
+65130,Wages & Salaries,Expense,BAS Excluded,,Expense
+65140,Workers' Compensation,Expense,GST on Expenses,,Expense
+65145,Staff Amenities,Expense,GST on Expenses,,Expense
+65150,Other Employer Expenses,Expense,BAS Excluded,,Expense
+65155,Income Protection,Expense,GST on Expenses,,Expense
+65160,Leave accruals,Expense,BAS Excluded,,Expense
+65170,Professional Registrations,Expense,GST on Expenses,,Expense
+65900,Salaries recovered,Expense,BAS Excluded,,Expense
+66000,Occupancy Costs,Expense,BAS Excluded,,Expense
+66010,Rent,Expense,GST on Expenses,,Expense
+66020,Rates,Expense,GST Free Expenses,,Expense
+66030,Gas,Expense,GST on Expenses,,Expense
+66060,Electricity,Expense,GST on Expenses,,Expense
+66080,Alarm Monitoring,Expense,GST on Expenses,,Expense
+66090,Water,Expense,GST Free Expenses,,Expense
+80000,Other Income,Other Income,BAS Excluded,,Other Income
+81000,Interest Income,Other Income,BAS Excluded,,Other Income
+81050,Rental Income,Other Income,BAS Excluded,,Other Income
+82000,Maternity Leave Cont,Other Income,BAS Excluded,,Other Income
+82050,ATO - Cash Flow Boost,Other Income,BAS Excluded,,Other Income
+83000,FBT Recovered,Other Income,BAS Excluded,,Other Income
+84000,Profit/Loss on Sale of Assets,Other Income,GST on Capital,,Other Income
+85000,Other Revenue,Other Income,BAS Excluded,,Other Income
+90000,Other Expenses,Expense,BAS Excluded,,Other Expense
+91000,Interest Expense,Expense,BAS Excluded,,Other Expense
+92000,Income Tax Expense,Expense,BAS Excluded,,Other Expense
+92100,Under Prov for Income Tax,Expense,BAS Excluded,,Other Expense
+93000,Dividends Paid,Expense,BAS Excluded,,Other Expense

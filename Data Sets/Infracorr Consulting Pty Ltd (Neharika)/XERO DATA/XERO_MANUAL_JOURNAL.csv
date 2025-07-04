@@ -1,0 +1,583 @@
+Narration,Date,Description,AccountCode,TaxRate,Amount,TrackingName1,TrackingOption1,TrackingName2,TrackingOption2,LineAmountType,Status
+GJ000000,01/07/2021,End of Year Adjustment,39000,BAS Excluded,280751.14,,,,,Exclusive,DRAFT
+GJ000000,01/07/2021,End of Year Adjustment,38000,BAS Excluded,-280751.14,,,,,Exclusive,DRAFT
+GJ000277,01/07/2021,General interest Charge,60032,BAS Excluded,158.25,,,,,Exclusive,DRAFT
+GJ000277,01/07/2021,General interest Charge,21103,BAS Excluded,-158.25,,,,,Exclusive,DRAFT
+GJ000256,08/07/2021,Lodgement of June 21 BAS,21101,BAS Excluded,17691.0,,,,,Exclusive,DRAFT
+GJ000256,08/07/2021,Lodgement of June 21 BAS,21102,BAS Excluded,-20822.0,,,,,Exclusive,DRAFT
+GJ000256,08/07/2021,Lodgement of June 21 BAS,21105,BAS Excluded,5903.0,,,,,Exclusive,DRAFT
+GJ000256,08/07/2021,Lodgement of June 21 BAS,21203,BAS Excluded,12188.0,,,,,Exclusive,DRAFT
+GJ000256,08/07/2021,Lodgement of June 21 BAS,21103,BAS Excluded,-14960.0,,,,,Exclusive,DRAFT
+GJ000211,11/08/2021,Adjusting Inventory and Equipment account as a pendulum used was sol to Concrete & Flooring Solutions,43003,BAS Excluded,-3850.0,,,,,Exclusive,DRAFT
+GJ000211,11/08/2021,Adjusting Inventory and Equipment account as a pendulum used was sol to Concrete & Flooring Solutions,61708,BAS Excluded,3850.0,,,,,Exclusive,DRAFT
+GJ000257,12/08/2021,Lodgement of July 21 BAS,21101,BAS Excluded,15656.0,,,,,Exclusive,DRAFT
+GJ000257,12/08/2021,Lodgement of July 21 BAS,21102,BAS Excluded,-5688.0,,,,,Exclusive,DRAFT
+GJ000257,12/08/2021,Lodgement of July 21 BAS,21203,BAS Excluded,12970.0,,,,,Exclusive,DRAFT
+GJ000257,12/08/2021,Lodgement of July 21 BAS,21103,BAS Excluded,-22938.0,,,,,Exclusive,DRAFT
+GJ000258,13/09/2021,Lodgement of September 2022 BAS,21101,BAS Excluded,14898.0,,,,,Exclusive,DRAFT
+GJ000258,13/09/2021,Lodgement of September 2022 BAS,21102,BAS Excluded,-3138.0,,,,,Exclusive,DRAFT
+GJ000258,13/09/2021,Lodgement of September 2022 BAS,21203,BAS Excluded,12749.0,,,,,Exclusive,DRAFT
+GJ000258,13/09/2021,Lodgement of September 2022 BAS,21103,BAS Excluded,-24509.0,,,,,Exclusive,DRAFT
+GJ000259,11/10/2021,Lodgement of September 2021 BAS,21101,BAS Excluded,15399.0,,,,,Exclusive,DRAFT
+GJ000259,11/10/2021,Lodgement of September 2021 BAS,21102,BAS Excluded,-5015.0,,,,,Exclusive,DRAFT
+GJ000259,11/10/2021,Lodgement of September 2021 BAS,21106,BAS Excluded,472.0,,,,,Exclusive,DRAFT
+GJ000259,11/10/2021,Lodgement of September 2021 BAS,21105,BAS Excluded,7659.0,,,,,Exclusive,DRAFT
+GJ000259,11/10/2021,Lodgement of September 2021 BAS,21203,BAS Excluded,15557.0,,,,,Exclusive,DRAFT
+GJ000259,11/10/2021,Lodgement of September 2021 BAS,21103,BAS Excluded,-34072.0,,,,,Exclusive,DRAFT
+GJ000212,01/11/2021,adjustment to equipment account Wanmma pendulum transferred from Inventory to ISTS equipment email from Mick 29102021,11302,BAS Excluded,5598.97,,,,,Exclusive,DRAFT
+GJ000212,01/11/2021,adjustment to equipment account Wanmma pendulum transferred from Inventory to ISTS equipment email from Mick 29102021,61701,BAS Excluded,-5598.97,,,,,Exclusive,DRAFT
+GJ000260,08/11/2021,Lodgement of October 21 BAS,21101,BAS Excluded,12033.0,,,,,Exclusive,DRAFT
+GJ000260,08/11/2021,Lodgement of October 21 BAS,21102,BAS Excluded,-4232.0,,,,,Exclusive,DRAFT
+GJ000260,08/11/2021,Lodgement of October 21 BAS,21203,BAS Excluded,12488.0,,,,,Exclusive,DRAFT
+GJ000260,08/11/2021,Lodgement of October 21 BAS,21103,BAS Excluded,-20289.0,,,,,Exclusive,DRAFT
+GJ000261,14/12/2021,Lodgement of November 2021 BAS,21101,BAS Excluded,16368.0,,,,,Exclusive,DRAFT
+GJ000261,14/12/2021,Lodgement of November 2021 BAS,21102,BAS Excluded,-5163.0,,,,,Exclusive,DRAFT
+GJ000261,14/12/2021,Lodgement of November 2021 BAS,21203,BAS Excluded,17041.0,,,,,Exclusive,DRAFT
+GJ000261,14/12/2021,Lodgement of November 2021 BAS,21103,BAS Excluded,-28246.0,,,,,Exclusive,DRAFT
+GJ000262,18/01/2022,Lodgement of December 2021 BAS,21101,BAS Excluded,16843.0,,,,,Exclusive,DRAFT
+GJ000262,18/01/2022,Lodgement of December 2021 BAS,21102,BAS Excluded,-3786.0,,,,,Exclusive,DRAFT
+GJ000262,18/01/2022,Lodgement of December 2021 BAS,21203,BAS Excluded,12731.0,,,,,Exclusive,DRAFT
+GJ000262,18/01/2022,Lodgement of December 2021 BAS,21106,BAS Excluded,472.0,,,,,Exclusive,DRAFT
+GJ000262,18/01/2022,Lodgement of December 2021 BAS,21105,BAS Excluded,6781.0,,,,,Exclusive,DRAFT
+GJ000262,18/01/2022,Lodgement of December 2021 BAS,21103,BAS Excluded,-33041.0,,,,,Exclusive,DRAFT
+GJ000266,01/02/2022,Transfer from income tax account,21103,BAS Excluded,7.87,,,,,Exclusive,DRAFT
+GJ000266,01/02/2022,Transfer from income tax account,21106,BAS Excluded,-7.87,,,,,Exclusive,DRAFT
+GJ000254,03/02/2022,Journal entry as a purchase on Ebay made on 03022022 was attempted to delete the payment and for some reason MYOB did not allow to reallocate the money to the credit card.,11202,BAS Excluded,747.86,,,,,Exclusive,DRAFT
+GJ000254,03/02/2022,Journal entry as a purchase on Ebay made on 03022022 was attempted to delete the payment and for some reason MYOB did not allow to reallocate the money to the credit card.,21002,BAS Excluded,-747.86,,,,,Exclusive,DRAFT
+GJ000263,10/02/2022,Lodgement of January 2022 BAS,21101,BAS Excluded,14807.0,,,,,Exclusive,DRAFT
+GJ000263,10/02/2022,Lodgement of January 2022 BAS,21102,BAS Excluded,-4950.0,,,,,Exclusive,DRAFT
+GJ000263,10/02/2022,Lodgement of January 2022 BAS,21203,BAS Excluded,12622.0,,,,,Exclusive,DRAFT
+GJ000263,10/02/2022,Lodgement of January 2022 BAS,21103,BAS Excluded,-22479.0,,,,,Exclusive,DRAFT
+GJ000252,15/02/2022,Reallocation of Andy's deduction  for excess insurance and repairing a vehicle he damaged onsite ,62005,BAS Excluded,-636.36,,,,,Exclusive,DRAFT
+GJ000252,15/02/2022,Reallocation of Andy's deduction  for excess insurance and repairing a vehicle he damaged onsite ,21101,BAS Excluded,-63.64,,,,,Exclusive,DRAFT
+GJ000252,15/02/2022,Reallocation of Andy's deduction  for excess insurance and repairing a vehicle he damaged onsite ,21201,BAS Excluded,700.0,,,,,Exclusive,DRAFT
+GJ000253,22/02/2022,New BMW 049DV7  Invoice from 06/08/2021,11401,BAS Excluded,119333.0,,,,,Exclusive,DRAFT
+GJ000253,22/02/2022,New BMW 049DV7  Invoice from 06/08/2021,11401,BAS Excluded,6643.0,,,,,Exclusive,DRAFT
+GJ000253,22/02/2022,New BMW 049DV7  Invoice from 06/08/2021,11401,BAS Excluded,350.0,,,,,Exclusive,DRAFT
+GJ000253,22/02/2022,New BMW 049DV7  Invoice from 06/08/2021,62004,BAS Excluded,619.45,,,,,Exclusive,DRAFT
+GJ000253,22/02/2022,New BMW 049DV7  Invoice from 06/08/2021,62004,BAS Excluded,338.43,,,,,Exclusive,DRAFT
+GJ000253,22/02/2022,New BMW 049DV7  Invoice from 06/08/2021,11401,BAS Excluded,175.0,,,,,Exclusive,DRAFT
+GJ000253,22/02/2022,New BMW 049DV7  Invoice from 06/08/2021,11401,BAS Excluded,6726.17,,,,,Exclusive,DRAFT
+GJ000253,22/02/2022,New BMW 049DV7  Invoice from 06/08/2021,11401,BAS Excluded,8800.0,,,,,Exclusive,DRAFT
+GJ000253,22/02/2022,New BMW 049DV7  Invoice from 06/08/2021,11401,BAS Excluded,19197.72,,,,,Exclusive,DRAFT
+GJ000253,22/02/2022,New BMW 049DV7  Invoice from 06/08/2021,11401,BAS Excluded,-12540.37,,,,,Exclusive,DRAFT
+GJ000253,22/02/2022,New BMW 049DV7  Invoice from 06/08/2021,21002,BAS Excluded,0.0,,,,,Exclusive,DRAFT
+GJ000253,22/02/2022,New BMW 049DV7  Invoice from 06/08/2021,19001,BAS Excluded,-60000.0,,,,,Exclusive,DRAFT
+GJ000253,22/02/2022,New BMW 049DV7  Invoice from 06/08/2021,21301,BAS Excluded,-49275.0,,,,,Exclusive,DRAFT
+GJ000253,22/02/2022,New BMW 049DV7  Invoice from 06/08/2021,43005,BAS Excluded,-43636.36,,,,,Exclusive,DRAFT
+GJ000253,22/02/2022,New BMW 049DV7  Invoice from 06/08/2021,11401,BAS Excluded,-5000.0,,,,,Exclusive,DRAFT
+GJ000253,22/02/2022,New BMW 049DV7  Invoice from 06/08/2021,21102,BAS Excluded,8268.96,,,,,Exclusive,DRAFT
+GJ000264,17/03/2022,Lodgement of February 2022 BAS,21101,BAS Excluded,13612.0,,,,,Exclusive,DRAFT
+GJ000264,17/03/2022,Lodgement of February 2022 BAS,21102,BAS Excluded,-1802.0,,,,,Exclusive,DRAFT
+GJ000264,17/03/2022,Lodgement of February 2022 BAS,21203,BAS Excluded,13576.0,,,,,Exclusive,DRAFT
+GJ000264,17/03/2022,Lodgement of February 2022 BAS,21103,BAS Excluded,-25386.0,,,,,Exclusive,DRAFT
+GJ000265,19/04/2022,Lodement of March 2022 BAS,21101,BAS Excluded,15302.0,,,,,Exclusive,DRAFT
+GJ000265,19/04/2022,Lodement of March 2022 BAS,21102,BAS Excluded,-5305.0,,,,,Exclusive,DRAFT
+GJ000265,19/04/2022,Lodement of March 2022 BAS,21105,BAS Excluded,6781.0,,,,,Exclusive,DRAFT
+GJ000265,19/04/2022,Lodement of March 2022 BAS,21203,BAS Excluded,13094.0,,,,,Exclusive,DRAFT
+GJ000265,19/04/2022,Lodement of March 2022 BAS,21106,BAS Excluded,22573.0,,,,,Exclusive,DRAFT
+GJ000265,19/04/2022,Lodement of March 2022 BAS,21103,BAS Excluded,-52445.0,,,,,Exclusive,DRAFT
+GJ000267,02/05/2022,General interest charge,60032,BAS Excluded,211.67,,,,,Exclusive,DRAFT
+GJ000267,02/05/2022,General interest charge,21103,BAS Excluded,-211.67,,,,,Exclusive,DRAFT
+GJ000268,03/05/2022,Transfer from Income Tax Account,21106,BAS Excluded,-2192.49,,,,,Exclusive,DRAFT
+GJ000268,03/05/2022,Transfer from Income Tax Account,21106,BAS Excluded,-2807.51,,,,,Exclusive,DRAFT
+GJ000268,03/05/2022,Transfer from Income Tax Account,21103,BAS Excluded,2192.49,,,,,Exclusive,DRAFT
+GJ000268,03/05/2022,Transfer from Income Tax Account,21103,BAS Excluded,2807.51,,,,,Exclusive,DRAFT
+GJ000269,03/05/2022,Remission of general interest charge,60032,BAS Excluded,-30.11,,,,,Exclusive,DRAFT
+GJ000269,03/05/2022,Remission of general interest charge,21103,BAS Excluded,30.11,,,,,Exclusive,DRAFT
+GJ000270,20/05/2022,Transfer from income tax account,21103,BAS Excluded,2.76,,,,,Exclusive,DRAFT
+GJ000270,20/05/2022,Transfer from income tax account,21106,BAS Excluded,-2.76,,,,,Exclusive,DRAFT
+GJ000271,20/05/2022,Interest for early payment,49500,BAS Excluded,-2.76,,,,,Exclusive,DRAFT
+GJ000271,20/05/2022,Interest for early payment,21106,BAS Excluded,2.76,,,,,Exclusive,DRAFT
+GJ000272,20/05/2022,General interest charge,21103,BAS Excluded,-152.67,,,,,Exclusive,DRAFT
+GJ000272,20/05/2022,General interest charge,60032,BAS Excluded,152.67,,,,,Exclusive,DRAFT
+GJ000273,20/05/2022,Lodgement of April 2022 BAS,21101,BAS Excluded,15830.0,,,,,Exclusive,DRAFT
+GJ000273,20/05/2022,Lodgement of April 2022 BAS,21102,BAS Excluded,-3479.0,,,,,Exclusive,DRAFT
+GJ000273,20/05/2022,Lodgement of April 2022 BAS,21203,BAS Excluded,16245.0,,,,,Exclusive,DRAFT
+GJ000273,20/05/2022,Lodgement of April 2022 BAS,21103,BAS Excluded,-28596.0,,,,,Exclusive,DRAFT
+GJ000274,23/05/2022,General Interest Charge,21103,BAS Excluded,3.89,,,,,Exclusive,DRAFT
+GJ000274,23/05/2022,General Interest Charge,60032,BAS Excluded,-3.89,,,,,Exclusive,DRAFT
+GJ000275,01/06/2022,General interest charge,60032,BAS Excluded,117.52,,,,,Exclusive,DRAFT
+GJ000275,01/06/2022,General interest charge,21103,BAS Excluded,-117.52,,,,,Exclusive,DRAFT
+GJ000276,17/06/2022,Lodgement of May 2022 BAS,21101,BAS Excluded,12754.0,,,,,Exclusive,DRAFT
+GJ000276,17/06/2022,Lodgement of May 2022 BAS,21102,BAS Excluded,-7065.0,,,,,Exclusive,DRAFT
+GJ000276,17/06/2022,Lodgement of May 2022 BAS,21203,BAS Excluded,16536.0,,,,,Exclusive,DRAFT
+GJ000276,17/06/2022,Lodgement of May 2022 BAS,21103,BAS Excluded,-22225.0,,,,,Exclusive,DRAFT
+GJ000279,20/06/2022,General interest charge,60032,BAS Excluded,182.35,,,,,Exclusive,DRAFT
+GJ000279,20/06/2022,General interest charge,21103,BAS Excluded,-182.35,,,,,Exclusive,DRAFT
+GJ000278,21/06/2022,Lodgement of 2022 FBT tax return,60029,BAS Excluded,23800.8,,,,,Exclusive,DRAFT
+GJ000278,21/06/2022,Lodgement of 2022 FBT tax return,21105,BAS Excluded,-23800.8,,,,,Exclusive,DRAFT
+GJ000280,21/06/2022,Apply credit from FBT account to ICA account,21105,BAS Excluded,-3323.2,,,,,Exclusive,DRAFT
+GJ000280,21/06/2022,Apply credit from FBT account to ICA account,21103,BAS Excluded,3323.2,,,,,Exclusive,DRAFT
+GJ000281,30/06/2022,Post interest on chattel mortgage,60032,BAS Excluded,368.43,,,,,Exclusive,DRAFT
+GJ000281,30/06/2022,Post interest on chattel mortgage,21301,BAS Excluded,-368.43,,,,,Exclusive,DRAFT
+GJ000283,30/06/2022,EA: Reallocate overclaimed GST credits on BMW purchase,11401,BAS Excluded,7097.02,,,,,Exclusive,DRAFT
+GJ000283,30/06/2022,EA: Reallocate overclaimed GST credits on BMW purchase,21101,BAS Excluded,-7097.02,,,,,Exclusive,DRAFT
+GJ000284,30/06/2022,Disposal of old BMW and Holden Commodore on trade in,11401,BAS Excluded,-59256.52,,,,,Exclusive,DRAFT
+GJ000284,30/06/2022,Disposal of old BMW and Holden Commodore on trade in,11401,BAS Excluded,-33409.0,,,,,Exclusive,DRAFT
+GJ000284,30/06/2022,Disposal of old BMW and Holden Commodore on trade in,11402,BAS Excluded,14208.81,,,,,Exclusive,DRAFT
+GJ000284,30/06/2022,Disposal of old BMW and Holden Commodore on trade in,11402,BAS Excluded,24557.0,,,,,Exclusive,DRAFT
+GJ000284,30/06/2022,Disposal of old BMW and Holden Commodore on trade in,43005,BAS Excluded,53899.71,,,,,Exclusive,DRAFT
+GJ000285,30/06/2022,Empire: add back GST on entertainment expenses,61801,BAS Excluded,516.18,,,,,Exclusive,DRAFT
+GJ000285,30/06/2022,Empire: add back GST on entertainment expenses,21101,BAS Excluded,-516.18,,,,,Exclusive,DRAFT
+GJ000286,30/06/2022,Empire: clear rounding on PAYG withholding,21203,BAS Excluded,0.96,,,,,Exclusive,DRAFT
+GJ000286,30/06/2022,Empire: clear rounding on PAYG withholding,43000,BAS Excluded,-0.96,,,,,Exclusive,DRAFT
+GJ000287,30/06/2022,EA: reallocate receive item to purchases,21346,BAS Excluded,229.09,,,,,Exclusive,DRAFT
+GJ000287,30/06/2022,EA: reallocate receive item to purchases,50001,BAS Excluded,-229.09,,,,,Exclusive,DRAFT
+GJ000288,30/06/2022,EA: claim GST on GTC rent expense,62601,BAS Excluded,-3309.28,,,,,Exclusive,DRAFT
+GJ000288,30/06/2022,EA: claim GST on GTC rent expense,21102,BAS Excluded,3309.28,,,,,Exclusive,DRAFT
+GJ000289,30/06/2022,EA: Post deprecition on disposed of MVs,60015,BAS Excluded,8729.61,,,,,Exclusive,DRAFT
+GJ000289,30/06/2022,EA: Post deprecition on disposed of MVs,11402,BAS Excluded,-8729.61,,,,,Exclusive,DRAFT
+GJ000290,30/06/2022,EA: post depreciatio nto 30 June 2022 ,13340,BAS Excluded,-5533.64,,,,,Exclusive,DRAFT
+GJ000290,30/06/2022,EA: post depreciatio nto 30 June 2022 ,13340,BAS Excluded,-32436.66,,,,,Exclusive,DRAFT
+GJ000290,30/06/2022,EA: post depreciatio nto 30 June 2022 ,11402,BAS Excluded,-56932.28,,,,,Exclusive,DRAFT
+GJ000290,30/06/2022,EA: post depreciatio nto 30 June 2022 ,13320,BAS Excluded,-3296.8,,,,,Exclusive,DRAFT
+GJ000290,30/06/2022,EA: post depreciatio nto 30 June 2022 ,60015,BAS Excluded,98199.38,,,,,Exclusive,DRAFT
+GJ000291,30/06/2022,EA: declare dividend for 2022 ,38500,BAS Excluded,48100.0,,,,,Exclusive,DRAFT
+GJ000291,30/06/2022,EA: declare dividend for 2022 ,61102,BAS Excluded,-48100.0,,,,,Exclusive,DRAFT
+GJ000292,30/06/2022,EA: Post provision for income tax 2022,93000,BAS Excluded,24078.5,,,,,Exclusive,DRAFT
+GJ000292,30/06/2022,EA: Post provision for income tax 2022,21106,BAS Excluded,-24078.5,,,,,Exclusive,DRAFT
+GJ000293,30/06/2022,EA: post trust distribution from Walton Global 2022,85000,BAS Excluded,-7839.77,,,,,Exclusive,DRAFT
+GJ000293,30/06/2022,EA: post trust distribution from Walton Global 2022,21501,BAS Excluded,7839.77,,,,,Exclusive,DRAFT
+GJ000341,30/06/2022,.,92500,BAS Excluded,48100.0,,,,,Exclusive,DRAFT
+GJ000341,30/06/2022,.,38500,BAS Excluded,-48100.0,,,,,Exclusive,DRAFT
+GJ000000,01/07/2022,End of Year Adjustment,39000,BAS Excluded,35033.67,,,,,Exclusive,DRAFT
+GJ000000,01/07/2022,End of Year Adjustment,38000,BAS Excluded,-35033.67,,,,,Exclusive,DRAFT
+GJ000306,01/07/2022,EA: General Interest Charge ATO,60032,BAS Excluded,104.14,,,,,Exclusive,DRAFT
+GJ000306,01/07/2022,EA: General Interest Charge ATO,21103,BAS Excluded,-104.14,,,,,Exclusive,DRAFT
+GJ000307,15/07/2022,EA: lodgement of Jun 22 BAS,21103,BAS Excluded,-38275.0,,,,,Exclusive,DRAFT
+GJ000307,15/07/2022,EA: lodgement of Jun 22 BAS,21101,BAS Excluded,9106.0,,,,,Exclusive,DRAFT
+GJ000307,15/07/2022,EA: lodgement of Jun 22 BAS,21203,BAS Excluded,14549.0,,,,,Exclusive,DRAFT
+GJ000307,15/07/2022,EA: lodgement of Jun 22 BAS,21106,BAS Excluded,7839.0,,,,,Exclusive,DRAFT
+GJ000307,15/07/2022,EA: lodgement of Jun 22 BAS,21105,BAS Excluded,6781.0,,,,,Exclusive,DRAFT
+GJ000255,26/07/2022,Adjusting balance inventory account and asset account ,11201,BAS Excluded,3.42,,,,,Exclusive,DRAFT
+GJ000255,26/07/2022,Adjusting balance inventory account and asset account ,61708,BAS Excluded,-3.42,,,,,Exclusive,DRAFT
+GJ000308,01/08/2022,EA: General Interest Charge,60032,BAS Excluded,406.44,,,,,Exclusive,DRAFT
+GJ000308,01/08/2022,EA: General Interest Charge,21103,BAS Excluded,-406.44,,,,,Exclusive,DRAFT
+GJ000310,12/08/2022,EA: Lodgement of July 22 BAS,21101,BAS Excluded,7082.0,,,,,Exclusive,DRAFT
+GJ000310,12/08/2022,EA: Lodgement of July 22 BAS,21203,BAS Excluded,14633.0,,,,,Exclusive,DRAFT
+GJ000310,12/08/2022,EA: Lodgement of July 22 BAS,21103,BAS Excluded,-21715.0,,,,,Exclusive,DRAFT
+GJ000296,19/08/2022,Transaction paid by New Zealand Credit card as Mick confused them. NZ$25.82 Wilson Parking,62002,BAS Excluded,23.0,,,,,Exclusive,DRAFT
+GJ000296,19/08/2022,Transaction paid by New Zealand Credit card as Mick confused them. NZ$25.82 Wilson Parking,14001,BAS Excluded,-23.0,,,,,Exclusive,DRAFT
+GJ000297,31/08/2022,Transaction paid by New Zealand Credit card as Mick confused them. NZ$78.07. IGA Manly Village End of the month lunch,61801,BAS Excluded,68.51,,,,,Exclusive,DRAFT
+GJ000297,31/08/2022,Transaction paid by New Zealand Credit card as Mick confused them. NZ$78.07. IGA Manly Village End of the month lunch,14001,BAS Excluded,-68.51,,,,,Exclusive,DRAFT
+GJ000298,31/08/2022,Transaction paid by New Zealand Credit card as Mick confused them. NZ$23.20  IGA Manly Bakery End of the month lunch,61801,BAS Excluded,20.36,,,,,Exclusive,DRAFT
+GJ000298,31/08/2022,Transaction paid by New Zealand Credit card as Mick confused them. NZ$23.20  IGA Manly Bakery End of the month lunch,14001,BAS Excluded,-20.36,,,,,Exclusive,DRAFT
+GJ000299,31/08/2022,Transaction paid by New Zealand Credit card as Mick confused them. NZ$53.61. IGA Garvick Pty Ltd End of the month lunch,61801,BAS Excluded,47.04,,,,,Exclusive,DRAFT
+GJ000299,31/08/2022,Transaction paid by New Zealand Credit card as Mick confused them. NZ$53.61. IGA Garvick Pty Ltd End of the month lunch,14001,BAS Excluded,-47.04,,,,,Exclusive,DRAFT
+GJ000309,01/09/2022,EA: General Interest Charge,60032,BAS Excluded,479.91,,,,,Exclusive,DRAFT
+GJ000309,01/09/2022,EA: General Interest Charge,21103,BAS Excluded,-479.91,,,,,Exclusive,DRAFT
+GJ000300,01/09/2022,Transaction paid by New Zealand Credit card as Mick confused them. NZ$454.70. Carl's Accor Membership,61511,BAS Excluded,399.0,,,,,Exclusive,DRAFT
+GJ000300,01/09/2022,Transaction paid by New Zealand Credit card as Mick confused them. NZ$454.70. Carl's Accor Membership,14001,BAS Excluded,-399.0,,,,,Exclusive,DRAFT
+GJ000301,01/09/2022,Transaction paid by New Zealand Credit card as Mick confused them. NZ$17.74  Take away coffee,21401,BAS Excluded,15.6,,,,,Exclusive,DRAFT
+GJ000301,01/09/2022,Transaction paid by New Zealand Credit card as Mick confused them. NZ$17.74  Take away coffee,14001,BAS Excluded,-15.6,,,,,Exclusive,DRAFT
+GJ000311,14/09/2022,EA: lodgement of August 22 BAS,21103,BAS Excluded,-27427.0,,,,,Exclusive,DRAFT
+GJ000311,14/09/2022,EA: lodgement of August 22 BAS,21101,BAS Excluded,11859.0,,,,,Exclusive,DRAFT
+GJ000311,14/09/2022,EA: lodgement of August 22 BAS,21203,BAS Excluded,15568.0,,,,,Exclusive,DRAFT
+GJ000312,03/10/2022,EA: general interest charge,60032,BAS Excluded,345.08,,,,,Exclusive,DRAFT
+GJ000312,03/10/2022,EA: general interest charge,21103,BAS Excluded,-345.08,,,,,Exclusive,DRAFT
+GJ000313,19/10/2022,EA: general interest charge,60032,BAS Excluded,117.45,,,,,Exclusive,DRAFT
+GJ000313,19/10/2022,EA: general interest charge,21103,BAS Excluded,-117.45,,,,,Exclusive,DRAFT
+GJ000315,24/10/2022,EA: Lodgement of Sep 22 BAS,21103,BAS Excluded,-41015.0,,,,,Exclusive,DRAFT
+GJ000315,24/10/2022,EA: Lodgement of Sep 22 BAS,21101,BAS Excluded,11751.0,,,,,Exclusive,DRAFT
+GJ000315,24/10/2022,EA: Lodgement of Sep 22 BAS,21203,BAS Excluded,16149.0,,,,,Exclusive,DRAFT
+GJ000315,24/10/2022,EA: Lodgement of Sep 22 BAS,21105,BAS Excluded,5119.0,,,,,Exclusive,DRAFT
+GJ000315,24/10/2022,EA: Lodgement of Sep 22 BAS,21106,BAS Excluded,7996.0,,,,,Exclusive,DRAFT
+GJ000314,27/10/2022,EA: general interest charge,60032,BAS Excluded,-4.09,,,,,Exclusive,DRAFT
+GJ000314,27/10/2022,EA: general interest charge,21103,BAS Excluded,4.09,,,,,Exclusive,DRAFT
+GJ000316,16/11/2022,EA: Lodgement of October 22 BAS,21103,BAS Excluded,-39685.0,,,,,Exclusive,DRAFT
+GJ000316,16/11/2022,EA: Lodgement of October 22 BAS,21101,BAS Excluded,14683.0,,,,,Exclusive,DRAFT
+GJ000316,16/11/2022,EA: Lodgement of October 22 BAS,21203,BAS Excluded,25002.0,,,,,Exclusive,DRAFT
+GJ000282,01/12/2022,Reclassification travel allowances as a new account for introductory training allowances was created.,61905,BAS Excluded,200.0,,,,,Exclusive,DRAFT
+GJ000282,01/12/2022,Reclassification travel allowances as a new account for introductory training allowances was created.,61507,BAS Excluded,-200.0,,,,,Exclusive,DRAFT
+GJ000317,13/12/2022,EA: 2022 Tax Refund Applied against ICA,21106,BAS Excluded,-7277.5,,,,,Exclusive,DRAFT
+GJ000317,13/12/2022,EA: 2022 Tax Refund Applied against ICA,21103,BAS Excluded,7277.5,,,,,Exclusive,DRAFT
+GJ000318,14/12/2022,EA: Lodgement of November 22 BAS,21101,BAS Excluded,10959.0,,,,,Exclusive,DRAFT
+GJ000318,14/12/2022,EA: Lodgement of November 22 BAS,21203,BAS Excluded,14783.0,,,,,Exclusive,DRAFT
+GJ000318,14/12/2022,EA: Lodgement of November 22 BAS,21103,BAS Excluded,-25742.0,,,,,Exclusive,DRAFT
+GJ000319,23/01/2023,EA: Lodgement of December 22 BAS,21103,BAS Excluded,-41111.0,,,,,Exclusive,DRAFT
+GJ000319,23/01/2023,EA: Lodgement of December 22 BAS,21101,BAS Excluded,11069.0,,,,,Exclusive,DRAFT
+GJ000319,23/01/2023,EA: Lodgement of December 22 BAS,21203,BAS Excluded,16096.0,,,,,Exclusive,DRAFT
+GJ000319,23/01/2023,EA: Lodgement of December 22 BAS,21105,BAS Excluded,5950.0,,,,,Exclusive,DRAFT
+GJ000319,23/01/2023,EA: Lodgement of December 22 BAS,21106,BAS Excluded,7996.0,,,,,Exclusive,DRAFT
+GJ000320,13/02/2023,EA: Lodgement of Jan 23 BAS,21103,BAS Excluded,-24032.0,,,,,Exclusive,DRAFT
+GJ000320,13/02/2023,EA: Lodgement of Jan 23 BAS,21101,BAS Excluded,7691.0,,,,,Exclusive,DRAFT
+GJ000320,13/02/2023,EA: Lodgement of Jan 23 BAS,21203,BAS Excluded,16341.0,,,,,Exclusive,DRAFT
+GJ000294,28/02/2023,Reallocation excess insurance deducted from Chris Rezuk as his car was crashed ,21201,BAS Excluded,175.0,,,,,Exclusive,DRAFT
+GJ000294,28/02/2023,Reallocation excess insurance deducted from Chris Rezuk as his car was crashed ,62004,BAS Excluded,-175.0,,,,,Exclusive,DRAFT
+GJ000322,01/03/2023,EA: general interest charge,60032,BAS Excluded,104.11,,,,,Exclusive,DRAFT
+GJ000322,01/03/2023,EA: general interest charge,21103,BAS Excluded,-104.11,,,,,Exclusive,DRAFT
+GJ000295,15/03/2023,Reallocation excess insurance deducted from Chris Rezuk as his car was crashed ,21201,BAS Excluded,175.0,,,,,Exclusive,DRAFT
+GJ000295,15/03/2023,Reallocation excess insurance deducted from Chris Rezuk as his car was crashed ,62004,BAS Excluded,-175.0,,,,,Exclusive,DRAFT
+GJ000321,16/03/2023,EA: Lodgement of Feb 23 BAS,21103,BAS Excluded,-25312.0,,,,,Exclusive,DRAFT
+GJ000321,16/03/2023,EA: Lodgement of Feb 23 BAS,21101,BAS Excluded,9473.0,,,,,Exclusive,DRAFT
+GJ000321,16/03/2023,EA: Lodgement of Feb 23 BAS,21203,BAS Excluded,15839.0,,,,,Exclusive,DRAFT
+GJ000323,20/03/2023,EA: general interest charge,60032,BAS Excluded,151.49,,,,,Exclusive,DRAFT
+GJ000323,20/03/2023,EA: general interest charge,21103,BAS Excluded,-151.49,,,,,Exclusive,DRAFT
+GJ000327,19/04/2023,EA: Lodgement of Mar 23 BAS,21103,BAS Excluded,-38677.0,,,,,Exclusive,DRAFT
+GJ000327,19/04/2023,EA: Lodgement of Mar 23 BAS,21101,BAS Excluded,15746.0,,,,,Exclusive,DRAFT
+GJ000327,19/04/2023,EA: Lodgement of Mar 23 BAS,21105,BAS Excluded,5950.0,,,,,Exclusive,DRAFT
+GJ000327,19/04/2023,EA: Lodgement of Mar 23 BAS,21203,BAS Excluded,14554.0,,,,,Exclusive,DRAFT
+GJ000327,19/04/2023,EA: Lodgement of Mar 23 BAS,21106,BAS Excluded,2427.0,,,,,Exclusive,DRAFT
+GJ000324,01/05/2023,EA: general interest charge,60032,BAS Excluded,129.81,,,,,Exclusive,DRAFT
+GJ000324,01/05/2023,EA: general interest charge,21103,BAS Excluded,-129.81,,,,,Exclusive,DRAFT
+GJ000328,19/05/2023,EA: Lodgement of Apr 23 BAS,21103,BAS Excluded,-26569.0,,,,,Exclusive,DRAFT
+GJ000328,19/05/2023,EA: Lodgement of Apr 23 BAS,21101,BAS Excluded,10402.0,,,,,Exclusive,DRAFT
+GJ000328,19/05/2023,EA: Lodgement of Apr 23 BAS,21203,BAS Excluded,16167.0,,,,,Exclusive,DRAFT
+GJ000325,22/05/2023,EA: general interest charge,60032,BAS Excluded,242.75,,,,,Exclusive,DRAFT
+GJ000325,22/05/2023,EA: general interest charge,21103,BAS Excluded,-242.75,,,,,Exclusive,DRAFT
+GJ000326,01/06/2023,EA: general interest charge,60032,BAS Excluded,154.91,,,,,Exclusive,DRAFT
+GJ000326,01/06/2023,EA: general interest charge,21103,BAS Excluded,-154.91,,,,,Exclusive,DRAFT
+GJ000332,02/06/2023,EA: post FBT 2023 expense,60029,BAS Excluded,13468.32,,,,,Exclusive,DRAFT
+GJ000332,02/06/2023,EA: post FBT 2023 expense,21105,BAS Excluded,-13468.32,,,,,Exclusive,DRAFT
+GJ000330,15/06/2023,EA: transfer refund from FBT account,21105,BAS Excluded,-10331.68,,,,,Exclusive,DRAFT
+GJ000330,15/06/2023,EA: transfer refund from FBT account,21103,BAS Excluded,10331.68,,,,,Exclusive,DRAFT
+GJ000329,20/06/2023,EA: Lodgement of Apr 23 BAS,21103,BAS Excluded,-30646.0,,,,,Exclusive,DRAFT
+GJ000329,20/06/2023,EA: Lodgement of Apr 23 BAS,21101,BAS Excluded,14046.0,,,,,Exclusive,DRAFT
+GJ000329,20/06/2023,EA: Lodgement of Apr 23 BAS,21203,BAS Excluded,16600.0,,,,,Exclusive,DRAFT
+GJ000331,28/06/2023,EA: remission of general interest charge,81000,BAS Excluded,-2335.5,,,,,Exclusive,DRAFT
+GJ000331,28/06/2023,EA: remission of general interest charge,21103,BAS Excluded,2335.5,,,,,Exclusive,DRAFT
+GJ000333,30/06/2023,EA EOY Reconcile PAYGW account,60001,BAS Excluded,4.97,,,,,Exclusive,DRAFT
+GJ000333,30/06/2023,EA EOY Reconcile PAYGW account,21203,BAS Excluded,-4.97,,,,,Exclusive,DRAFT
+GJ000334,30/06/2023,EA EOY interest on HP loan ,60032,BAS Excluded,1294.97,,,,,Exclusive,DRAFT
+GJ000334,30/06/2023,EA EOY interest on HP loan ,21301,BAS Excluded,-1294.97,,,,,Exclusive,DRAFT
+GJ000337,30/06/2023,Adam Payment ,61905,BAS Excluded,292.2,,,,,Exclusive,DRAFT
+GJ000337,30/06/2023,Adam Payment ,11815,BAS Excluded,-292.2,,,,,Exclusive,DRAFT
+GJ000338,30/06/2023,Clear Tracking account for goods,11202,BAS Excluded,171.91,,,,,Exclusive,DRAFT
+GJ000338,30/06/2023,Clear Tracking account for goods,50001,BAS Excluded,-171.91,,,,,Exclusive,DRAFT
+GJ000339,30/06/2023,Depreciation ,60015,BAS Excluded,116039.43,,,,,Exclusive,DRAFT
+GJ000339,30/06/2023,Depreciation ,13320,BAS Excluded,-3061.98,,,,,Exclusive,DRAFT
+GJ000339,30/06/2023,Depreciation ,13340,BAS Excluded,-26729.23,,,,,Exclusive,DRAFT
+GJ000339,30/06/2023,Depreciation ,11303,BAS Excluded,-5533.39,,,,,Exclusive,DRAFT
+GJ000339,30/06/2023,Depreciation ,11402,BAS Excluded,-13396.41,,,,,Exclusive,DRAFT
+GJ000339,30/06/2023,Depreciation ,43005,BAS Excluded,70388.3,,,,,Exclusive,DRAFT
+GJ000339,30/06/2023,Depreciation ,11401,BAS Excluded,-137706.72,,,,,Exclusive,DRAFT
+GJ000340,30/06/2023,Loss carried back ,93000,BAS Excluded,-5112.0,,,,,Exclusive,DRAFT
+GJ000340,30/06/2023,Loss carried back ,21106,BAS Excluded,5112.0,,,,,Exclusive,DRAFT
+GJ000343,30/06/2023,EA EOY Clear rent to loan,21501,BAS Excluded,48100.0,,,,,Exclusive,DRAFT
+GJ000343,30/06/2023,EA EOY Clear rent to loan,61102,BAS Excluded,-48100.0,,,,,Exclusive,DRAFT
+GJ000000,01/07/2023,End of Year Adjustment,39000,BAS Excluded,-87299.4,,,,,Exclusive,DRAFT
+GJ000000,01/07/2023,End of Year Adjustment,38000,BAS Excluded,87299.4,,,,,Exclusive,DRAFT
+GJ000346,01/07/2023,Clear Superannuation Balance,21201,BAS Excluded,975.11,,,,,Exclusive,DRAFT
+GJ000346,01/07/2023,Clear Superannuation Balance,61904,BAS Excluded,-975.11,,,,,Exclusive,DRAFT
+GJ000302,04/08/2023,Adjusting WL used pendulum from equipment sales to inventory. It will be sold to ISTS United Emirates,43005,BAS Excluded,-3850.0,,,,,Exclusive,DRAFT
+GJ000302,04/08/2023,Adjusting WL used pendulum from equipment sales to inventory. It will be sold to ISTS United Emirates,61708,BAS Excluded,3850.0,,,,,Exclusive,DRAFT
+GJ000303,17/08/2023,RAV 4 acquisition and finance registration 469HZ3 ,11401,BAS Excluded,46736.36,,,,,Exclusive,DRAFT
+GJ000303,17/08/2023,RAV 4 acquisition and finance registration 469HZ3 ,11401,BAS Excluded,-1603.5,,,,,Exclusive,DRAFT
+GJ000303,17/08/2023,RAV 4 acquisition and finance registration 469HZ3 ,11401,BAS Excluded,613.64,,,,,Exclusive,DRAFT
+GJ000303,17/08/2023,RAV 4 acquisition and finance registration 469HZ3 ,11401,BAS Excluded,904.55,,,,,Exclusive,DRAFT
+GJ000303,17/08/2023,RAV 4 acquisition and finance registration 469HZ3 ,62015,BAS Excluded,386.0,,,,,Exclusive,DRAFT
+GJ000303,17/08/2023,RAV 4 acquisition and finance registration 469HZ3 ,62004,BAS Excluded,493.55,,,,,Exclusive,DRAFT
+GJ000303,17/08/2023,RAV 4 acquisition and finance registration 469HZ3 ,11401,BAS Excluded,1042.0,,,,,Exclusive,DRAFT
+GJ000303,17/08/2023,RAV 4 acquisition and finance registration 469HZ3 ,11304,BAS Excluded,-5000.0,,,,,Exclusive,DRAFT
+GJ000303,17/08/2023,RAV 4 acquisition and finance registration 469HZ3 ,19001,BAS Excluded,-15000.0,,,,,Exclusive,DRAFT
+GJ000303,17/08/2023,RAV 4 acquisition and finance registration 469HZ3 ,21302,BAS Excluded,-33237.7,,,,,Exclusive,DRAFT
+GJ000303,17/08/2023,RAV 4 acquisition and finance registration 469HZ3 ,21102,BAS Excluded,4665.1,,,,,Exclusive,DRAFT
+GJ000304,15/09/2023,Reclassification Matthew Logan excess vehicle (repair 969 ele5 RAV 4) First instalment,21201,BAS Excluded,200.0,,,,,Exclusive,DRAFT
+GJ000304,15/09/2023,Reclassification Matthew Logan excess vehicle (repair 969 ele5 RAV 4) First instalment,62005,BAS Excluded,-200.0,,,,,Exclusive,DRAFT
+GJ000305,30/09/2023,Reclassification Matthew Logan excess vehicle (repair 969 ele5 RAV 4) Second and final instalment,21201,BAS Excluded,200.0,,,,,Exclusive,DRAFT
+GJ000305,30/09/2023,Reclassification Matthew Logan excess vehicle (repair 969 ele5 RAV 4) Second and final instalment,62005,BAS Excluded,-200.0,,,,,Exclusive,DRAFT
+GJ000335,15/11/2023,Reclassification Matthew Logan excess vehicle (repair 969 EL5 RAV 4) tHE CAR WAS CRASHED ON 04112023,21201,BAS Excluded,700.0,,,,,Exclusive,DRAFT
+GJ000335,15/11/2023,Reclassification Matthew Logan excess vehicle (repair 969 EL5 RAV 4) tHE CAR WAS CRASHED ON 04112023,62005,BAS Excluded,-700.0,,,,,Exclusive,DRAFT
+GJ000336,16/11/2023,RAV 4 acquisition and finance registration 204IS2,11401,BAS Excluded,46736.36,,,,,Exclusive,DRAFT
+GJ000336,16/11/2023,RAV 4 acquisition and finance registration 204IS2,11401,BAS Excluded,-1200.0,,,,,Exclusive,DRAFT
+GJ000336,16/11/2023,RAV 4 acquisition and finance registration 204IS2,11401,BAS Excluded,613.64,,,,,Exclusive,DRAFT
+GJ000336,16/11/2023,RAV 4 acquisition and finance registration 204IS2,11401,BAS Excluded,904.55,,,,,Exclusive,DRAFT
+GJ000336,16/11/2023,RAV 4 acquisition and finance registration 204IS2,62015,BAS Excluded,386.0,,,,,Exclusive,DRAFT
+GJ000336,16/11/2023,RAV 4 acquisition and finance registration 204IS2,62004,BAS Excluded,493.55,,,,,Exclusive,DRAFT
+GJ000336,16/11/2023,RAV 4 acquisition and finance registration 204IS2,11401,BAS Excluded,1042.0,,,,,Exclusive,DRAFT
+GJ000336,16/11/2023,RAV 4 acquisition and finance registration 204IS2,11304,BAS Excluded,-3000.0,,,,,Exclusive,DRAFT
+GJ000336,16/11/2023,RAV 4 acquisition and finance registration 204IS2,19001,BAS Excluded,-17000.0,,,,,Exclusive,DRAFT
+GJ000336,16/11/2023,RAV 4 acquisition and finance registration 204IS2,21303,BAS Excluded,-33681.55,,,,,Exclusive,DRAFT
+GJ000336,16/11/2023,RAV 4 acquisition and finance registration 204IS2,21102,BAS Excluded,4705.45,,,,,Exclusive,DRAFT
+GJ000342,30/11/2023,Reclassification $200 deduction for excess insurance repair vehicle 589YSF Grant MacVitie,21201,BAS Excluded,200.0,,,,,Exclusive,DRAFT
+GJ000342,30/11/2023,Reclassification $200 deduction for excess insurance repair vehicle 589YSF Grant MacVitie,62005,BAS Excluded,-200.0,,,,,Exclusive,DRAFT
+GJ000344,01/12/2023,Mick transferred a pendulum from our equipment to be part of the inventory as used pendulum ,43005,BAS Excluded,-3850.0,,,,,Exclusive,DRAFT
+GJ000344,01/12/2023,Mick transferred a pendulum from our equipment to be part of the inventory as used pendulum ,61708,BAS Excluded,3850.0,,,,,Exclusive,DRAFT
+GJ000345,18/12/2023,Reclassification $200 deduction for excess insurance repair vehicle 589YSF Grant MacVitie,21201,BAS Excluded,200.0,,,,,Exclusive,DRAFT
+GJ000345,18/12/2023,Reclassification $200 deduction for excess insurance repair vehicle 589YSF Grant MacVitie,62005,BAS Excluded,-200.0,,,,,Exclusive,DRAFT
+GJ000347,01/05/2024,Reclassification excess vehicle repairing 448BG4 Elliot Benson,21201,BAS Excluded,500.0,,,,,Exclusive,DRAFT
+GJ000347,01/05/2024,Reclassification excess vehicle repairing 448BG4 Elliot Benson,62005,BAS Excluded,-500.0,,,,,Exclusive,DRAFT
+GJ000348,09/05/2024,RAV 4 acquisition and finance registration 480JW9,11401,BAS Excluded,46736.36,,,,,Exclusive,DRAFT
+GJ000348,09/05/2024,RAV 4 acquisition and finance registration 480JW9,11401,BAS Excluded,-1000.0,,,,,Exclusive,DRAFT
+GJ000348,09/05/2024,RAV 4 acquisition and finance registration 480JW9,11401,BAS Excluded,613.64,,,,,Exclusive,DRAFT
+GJ000348,09/05/2024,RAV 4 acquisition and finance registration 480JW9,11401,BAS Excluded,904.55,,,,,Exclusive,DRAFT
+GJ000348,09/05/2024,RAV 4 acquisition and finance registration 480JW9,62015,BAS Excluded,386.0,,,,,Exclusive,DRAFT
+GJ000348,09/05/2024,RAV 4 acquisition and finance registration 480JW9,62004,BAS Excluded,493.55,,,,,Exclusive,DRAFT
+GJ000348,09/05/2024,RAV 4 acquisition and finance registration 480JW9,11401,BAS Excluded,1042.0,,,,,Exclusive,DRAFT
+GJ000348,09/05/2024,RAV 4 acquisition and finance registration 480JW9,11304,BAS Excluded,-3000.0,,,,,Exclusive,DRAFT
+GJ000348,09/05/2024,RAV 4 acquisition and finance registration 480JW9,11114,BAS Excluded,-25000.0,,,,,Exclusive,DRAFT
+GJ000348,09/05/2024,RAV 4 acquisition and finance registration 480JW9,21304,BAS Excluded,-25901.55,,,,,Exclusive,DRAFT
+GJ000348,09/05/2024,RAV 4 acquisition and finance registration 480JW9,21102,BAS Excluded,4725.45,,,,,Exclusive,DRAFT
+GJ000351,11/05/2024,Transaction paid by New Zealand Credit card as Mick confused them. NZ$40.03 Yeloow Cab ,61505,BAS Excluded,32.68,,,,,Exclusive,DRAFT
+GJ000351,11/05/2024,Transaction paid by New Zealand Credit card as Mick confused them. NZ$40.03 Yeloow Cab ,14001,BAS Excluded,-35.95,,,,,Exclusive,DRAFT
+GJ000351,11/05/2024,Transaction paid by New Zealand Credit card as Mick confused them. NZ$40.03 Yeloow Cab ,21102,BAS Excluded,3.27,,,,,Exclusive,DRAFT
+GJ000349,17/05/2024,RAV 4 acquisition and finance registration 483JW9,11401,BAS Excluded,46736.36,,,,,Exclusive,DRAFT
+GJ000349,17/05/2024,RAV 4 acquisition and finance registration 483JW9,11401,BAS Excluded,-1000.0,,,,,Exclusive,DRAFT
+GJ000349,17/05/2024,RAV 4 acquisition and finance registration 483JW9,11401,BAS Excluded,613.64,,,,,Exclusive,DRAFT
+GJ000349,17/05/2024,RAV 4 acquisition and finance registration 483JW9,11401,BAS Excluded,904.55,,,,,Exclusive,DRAFT
+GJ000349,17/05/2024,RAV 4 acquisition and finance registration 483JW9,62015,BAS Excluded,386.0,,,,,Exclusive,DRAFT
+GJ000349,17/05/2024,RAV 4 acquisition and finance registration 483JW9,62004,BAS Excluded,493.55,,,,,Exclusive,DRAFT
+GJ000349,17/05/2024,RAV 4 acquisition and finance registration 483JW9,11401,BAS Excluded,1042.0,,,,,Exclusive,DRAFT
+GJ000349,17/05/2024,RAV 4 acquisition and finance registration 483JW9,11304,BAS Excluded,-3000.0,,,,,Exclusive,DRAFT
+GJ000349,17/05/2024,RAV 4 acquisition and finance registration 483JW9,11111,BAS Excluded,-25000.0,,,,,Exclusive,DRAFT
+GJ000349,17/05/2024,RAV 4 acquisition and finance registration 483JW9,21305,BAS Excluded,-25901.55,,,,,Exclusive,DRAFT
+GJ000349,17/05/2024,RAV 4 acquisition and finance registration 483JW9,21102,BAS Excluded,4725.45,,,,,Exclusive,DRAFT
+GJ000352,03/06/2024,Reclassification excess vehicle writing off Commodore 448BG4 Elliot Benson,21201,BAS Excluded,500.0,,,,,Exclusive,DRAFT
+GJ000352,03/06/2024,Reclassification excess vehicle writing off Commodore 448BG4 Elliot Benson,62005,BAS Excluded,-500.0,,,,,Exclusive,DRAFT
+GJ000353,28/06/2024,Vehicle Acquisition DL34BV Sydney,11401,BAS Excluded,45181.82,,,,,Exclusive,DRAFT
+GJ000353,28/06/2024,Vehicle Acquisition DL34BV Sydney,11401,BAS Excluded,-1090.91,,,,,Exclusive,DRAFT
+GJ000353,28/06/2024,Vehicle Acquisition DL34BV Sydney,11401,BAS Excluded,-318.18,,,,,Exclusive,DRAFT
+GJ000353,28/06/2024,Vehicle Acquisition DL34BV Sydney,11401,BAS Excluded,613.63,,,,,Exclusive,DRAFT
+GJ000353,28/06/2024,Vehicle Acquisition DL34BV Sydney,62007,BAS Excluded,117.0,,,,,Exclusive,DRAFT
+GJ000353,28/06/2024,Vehicle Acquisition DL34BV Sydney,62007,BAS Excluded,390.91,,,,,Exclusive,DRAFT
+GJ000353,28/06/2024,Vehicle Acquisition DL34BV Sydney,62007,BAS Excluded,904.54,,,,,Exclusive,DRAFT
+GJ000353,28/06/2024,Vehicle Acquisition DL34BV Sydney,62015,BAS Excluded,469.0,,,,,Exclusive,DRAFT
+GJ000353,28/06/2024,Vehicle Acquisition DL34BV Sydney,62004,BAS Excluded,847.0,,,,,Exclusive,DRAFT
+GJ000353,28/06/2024,Vehicle Acquisition DL34BV Sydney,62004,BAS Excluded,52.0,,,,,Exclusive,DRAFT
+GJ000353,28/06/2024,Vehicle Acquisition DL34BV Sydney,62004,BAS Excluded,75.0,,,,,Exclusive,DRAFT
+GJ000353,28/06/2024,Vehicle Acquisition DL34BV Sydney,11401,BAS Excluded,1620.0,,,,,Exclusive,DRAFT
+GJ000353,28/06/2024,Vehicle Acquisition DL34BV Sydney,11304,BAS Excluded,-3000.0,,,,,Exclusive,DRAFT
+GJ000353,28/06/2024,Vehicle Acquisition DL34BV Sydney,11304,BAS Excluded,-15000.0,,,,,Exclusive,DRAFT
+GJ000353,28/06/2024,Vehicle Acquisition DL34BV Sydney,11304,BAS Excluded,-2000.0,,,,,Exclusive,DRAFT
+GJ000353,28/06/2024,Vehicle Acquisition DL34BV Sydney,21306,BAS Excluded,-33441.7,,,,,Exclusive,DRAFT
+GJ000353,28/06/2024,Vehicle Acquisition DL34BV Sydney,21102,BAS Excluded,4579.89,,,,,Exclusive,DRAFT
+GJ000362,30/06/2024,EA ICA movement for 2024 FY,21101,BAS Excluded,19722.0,,,,,Exclusive,DRAFT
+GJ000362,30/06/2024,EA ICA movement for 2024 FY,21102,BAS Excluded,-12616.0,,,,,Exclusive,DRAFT
+GJ000362,30/06/2024,EA ICA movement for 2024 FY,21203,BAS Excluded,16872.0,,,,,Exclusive,DRAFT
+GJ000362,30/06/2024,EA ICA movement for 2024 FY,21106,BAS Excluded,6140.0,,,,,Exclusive,DRAFT
+GJ000362,30/06/2024,EA ICA movement for 2024 FY,60029,BAS Excluded,5950.0,,,,,Exclusive,DRAFT
+GJ000362,30/06/2024,EA ICA movement for 2024 FY,21101,BAS Excluded,48513.0,,,,,Exclusive,DRAFT
+GJ000362,30/06/2024,EA ICA movement for 2024 FY,21102,BAS Excluded,-16017.0,,,,,Exclusive,DRAFT
+GJ000362,30/06/2024,EA ICA movement for 2024 FY,21203,BAS Excluded,16890.0,,,,,Exclusive,DRAFT
+GJ000362,30/06/2024,EA ICA movement for 2024 FY,21101,BAS Excluded,18520.0,,,,,Exclusive,DRAFT
+GJ000362,30/06/2024,EA ICA movement for 2024 FY,21102,BAS Excluded,-3886.0,,,,,Exclusive,DRAFT
+GJ000362,30/06/2024,EA ICA movement for 2024 FY,21203,BAS Excluded,17468.0,,,,,Exclusive,DRAFT
+GJ000362,30/06/2024,EA ICA movement for 2024 FY,21101,BAS Excluded,17990.0,,,,,Exclusive,DRAFT
+GJ000362,30/06/2024,EA ICA movement for 2024 FY,21102,BAS Excluded,-6273.0,,,,,Exclusive,DRAFT
+GJ000362,30/06/2024,EA ICA movement for 2024 FY,21203,BAS Excluded,16864.0,,,,,Exclusive,DRAFT
+GJ000362,30/06/2024,EA ICA movement for 2024 FY,21106,BAS Excluded,6380.0,,,,,Exclusive,DRAFT
+GJ000362,30/06/2024,EA ICA movement for 2024 FY,60029,BAS Excluded,783.0,,,,,Exclusive,DRAFT
+GJ000362,30/06/2024,EA ICA movement for 2024 FY,21101,BAS Excluded,12932.0,,,,,Exclusive,DRAFT
+GJ000362,30/06/2024,EA ICA movement for 2024 FY,21102,BAS Excluded,-3628.0,,,,,Exclusive,DRAFT
+GJ000362,30/06/2024,EA ICA movement for 2024 FY,21203,BAS Excluded,19625.0,,,,,Exclusive,DRAFT
+GJ000362,30/06/2024,EA ICA movement for 2024 FY,21101,BAS Excluded,17517.0,,,,,Exclusive,DRAFT
+GJ000362,30/06/2024,EA ICA movement for 2024 FY,21102,BAS Excluded,-13544.0,,,,,Exclusive,DRAFT
+GJ000362,30/06/2024,EA ICA movement for 2024 FY,21203,BAS Excluded,24340.0,,,,,Exclusive,DRAFT
+GJ000362,30/06/2024,EA ICA movement for 2024 FY,21101,BAS Excluded,14793.0,,,,,Exclusive,DRAFT
+GJ000362,30/06/2024,EA ICA movement for 2024 FY,21102,BAS Excluded,-4644.0,,,,,Exclusive,DRAFT
+GJ000362,30/06/2024,EA ICA movement for 2024 FY,21203,BAS Excluded,17230.0,,,,,Exclusive,DRAFT
+GJ000362,30/06/2024,EA ICA movement for 2024 FY,21106,BAS Excluded,6380.0,,,,,Exclusive,DRAFT
+GJ000362,30/06/2024,EA ICA movement for 2024 FY,60029,BAS Excluded,3367.0,,,,,Exclusive,DRAFT
+GJ000362,30/06/2024,EA ICA movement for 2024 FY,21101,BAS Excluded,16093.0,,,,,Exclusive,DRAFT
+GJ000362,30/06/2024,EA ICA movement for 2024 FY,21102,BAS Excluded,-5019.0,,,,,Exclusive,DRAFT
+GJ000362,30/06/2024,EA ICA movement for 2024 FY,21203,BAS Excluded,16480.0,,,,,Exclusive,DRAFT
+GJ000362,30/06/2024,EA ICA movement for 2024 FY,21101,BAS Excluded,21476.0,,,,,Exclusive,DRAFT
+GJ000362,30/06/2024,EA ICA movement for 2024 FY,21102,BAS Excluded,-6825.0,,,,,Exclusive,DRAFT
+GJ000362,30/06/2024,EA ICA movement for 2024 FY,21203,BAS Excluded,16181.0,,,,,Exclusive,DRAFT
+GJ000362,30/06/2024,EA ICA movement for 2024 FY,21101,BAS Excluded,18190.0,,,,,Exclusive,DRAFT
+GJ000362,30/06/2024,EA ICA movement for 2024 FY,21102,BAS Excluded,-5737.0,,,,,Exclusive,DRAFT
+GJ000362,30/06/2024,EA ICA movement for 2024 FY,21203,BAS Excluded,17120.0,,,,,Exclusive,DRAFT
+GJ000362,30/06/2024,EA ICA movement for 2024 FY,60029,BAS Excluded,3367.0,,,,,Exclusive,DRAFT
+GJ000362,30/06/2024,EA ICA movement for 2024 FY,21101,BAS Excluded,14185.0,,,,,Exclusive,DRAFT
+GJ000362,30/06/2024,EA ICA movement for 2024 FY,21102,BAS Excluded,-4163.0,,,,,Exclusive,DRAFT
+GJ000362,30/06/2024,EA ICA movement for 2024 FY,21203,BAS Excluded,17555.0,,,,,Exclusive,DRAFT
+GJ000362,30/06/2024,EA ICA movement for 2024 FY,21101,BAS Excluded,16666.0,,,,,Exclusive,DRAFT
+GJ000362,30/06/2024,EA ICA movement for 2024 FY,21102,BAS Excluded,-13447.0,,,,,Exclusive,DRAFT
+GJ000362,30/06/2024,EA ICA movement for 2024 FY,21203,BAS Excluded,18218.0,,,,,Exclusive,DRAFT
+GJ000362,30/06/2024,EA ICA movement for 2024 FY,60032,BAS Excluded,133.73,,,,,Exclusive,DRAFT
+GJ000362,30/06/2024,EA ICA movement for 2024 FY,60029,BAS Excluded,-2070.44,,,,,Exclusive,DRAFT
+GJ000362,30/06/2024,EA ICA movement for 2024 FY,21106,BAS Excluded,-29732.0,,,,,Exclusive,DRAFT
+GJ000362,30/06/2024,EA ICA movement for 2024 FY,21203,BAS Excluded,-0.45,,,,,Exclusive,DRAFT
+GJ000362,30/06/2024,EA ICA movement for 2024 FY,60001,BAS Excluded,0.45,,,,,Exclusive,DRAFT
+GJ000362,30/06/2024,EA ICA movement for 2024 FY,21102,BAS Excluded,-12655.0,,,,,Exclusive,DRAFT
+GJ000362,30/06/2024,EA ICA movement for 2024 FY,21102,BAS Excluded,-10073.0,,,,,Exclusive,DRAFT
+GJ000362,30/06/2024,EA ICA movement for 2024 FY,21102,BAS Excluded,-20903.0,,,,,Exclusive,DRAFT
+GJ000362,30/06/2024,EA ICA movement for 2024 FY,21103,BAS Excluded,-312703.29,,,,,Exclusive,DRAFT
+GJ000362,30/06/2024,EA ICA movement for 2024 FY,21102,BAS Excluded,-5.0,,,,,Exclusive,DRAFT
+GJ000363,30/06/2024,.,11818,BAS Excluded,0.02,,,,,Exclusive,DRAFT
+GJ000363,30/06/2024,.,60001,BAS Excluded,-0.02,,,,,Exclusive,DRAFT
+GJ000364,30/06/2024,Record Interest on loan 049DV7,60032,BAS Excluded,974.74,,,,,Exclusive,DRAFT
+GJ000364,30/06/2024,Record Interest on loan 049DV7,21301,BAS Excluded,-974.74,,,,,Exclusive,DRAFT
+GJ000365,30/06/2024,EA EOY Interest on HP loan,60032,BAS Excluded,1855.12,,,,,Exclusive,DRAFT
+GJ000365,30/06/2024,EA EOY Interest on HP loan,12300,BAS Excluded,1380.0,,,,,Exclusive,DRAFT
+GJ000365,30/06/2024,EA EOY Interest on HP loan,21302,BAS Excluded,-3235.12,,,,,Exclusive,DRAFT
+GJ000366,30/06/2024,EA EOY Interest on HP loan,60032,BAS Excluded,1503.51,,,,,Exclusive,DRAFT
+GJ000366,30/06/2024,EA EOY Interest on HP loan,12300,BAS Excluded,1380.0,,,,,Exclusive,DRAFT
+GJ000366,30/06/2024,EA EOY Interest on HP loan,21303,BAS Excluded,-2883.51,,,,,Exclusive,DRAFT
+GJ000367,30/06/2024,EA EOY Interest on HP loan,12300,BAS Excluded,1380.0,,,,,Exclusive,DRAFT
+GJ000367,30/06/2024,EA EOY Interest on HP loan,21304,BAS Excluded,-1380.0,,,,,Exclusive,DRAFT
+GJ000368,30/06/2024,EA EOY Interest on HP loan,12300,BAS Excluded,1380.0,,,,,Exclusive,DRAFT
+GJ000368,30/06/2024,EA EOY Interest on HP loan,21305,BAS Excluded,-1380.0,,,,,Exclusive,DRAFT
+GJ000369,30/06/2024,EA EOY Interest on HP loan,12300,BAS Excluded,1380.0,,,,,Exclusive,DRAFT
+GJ000369,30/06/2024,EA EOY Interest on HP loan,21306,BAS Excluded,-1380.0,,,,,Exclusive,DRAFT
+GJ000370,30/06/2024,EA EOY 2024 Borrowing cost,60005,BAS Excluded,489.5,,,,,Exclusive,DRAFT
+GJ000370,30/06/2024,EA EOY 2024 Borrowing cost,12300,BAS Excluded,-489.5,,,,,Exclusive,DRAFT
+GJ000371,30/06/2024,EA EOY Depreciation & Disposal of assets,60015,BAS Excluded,106456.56,,,,,Exclusive,DRAFT
+GJ000371,30/06/2024,EA EOY Depreciation & Disposal of assets,13320,BAS Excluded,-2865.91,,,,,Exclusive,DRAFT
+GJ000371,30/06/2024,EA EOY Depreciation & Disposal of assets,13340,BAS Excluded,-17859.3,,,,,Exclusive,DRAFT
+GJ000371,30/06/2024,EA EOY Depreciation & Disposal of assets,11303,BAS Excluded,-2010.76,,,,,Exclusive,DRAFT
+GJ000371,30/06/2024,EA EOY Depreciation & Disposal of assets,11402,BAS Excluded,-83720.59,,,,,Exclusive,DRAFT
+GJ000371,30/06/2024,EA EOY Depreciation & Disposal of assets,11401,BAS Excluded,-115525.61,,,,,Exclusive,DRAFT
+GJ000371,30/06/2024,EA EOY Depreciation & Disposal of assets,13330,BAS Excluded,-11640.03,,,,,Exclusive,DRAFT
+GJ000371,30/06/2024,EA EOY Depreciation & Disposal of assets,43005,BAS Excluded,75523.4,,,,,Exclusive,DRAFT
+GJ000371,30/06/2024,EA EOY Depreciation & Disposal of assets,43005,BAS Excluded,-21160.71,,,,,Exclusive,DRAFT
+GJ000371,30/06/2024,EA EOY Depreciation & Disposal of assets,13340,BAS Excluded,5051.2,,,,,Exclusive,DRAFT
+GJ000371,30/06/2024,EA EOY Depreciation & Disposal of assets,11402,BAS Excluded,67751.75,,,,,Exclusive,DRAFT
+GJ000372,30/06/2024,EA EOY Post provision for income tax,93000,BAS Excluded,18991.25,,,,,Exclusive,DRAFT
+GJ000372,30/06/2024,EA EOY Post provision for income tax,21106,BAS Excluded,-18991.25,,,,,Exclusive,DRAFT
+GJ000375,30/06/2024,EA EOY Disposal of assets ,11303,BAS Excluded,69893.0,,,,,Exclusive,DRAFT
+GJ000375,30/06/2024,EA EOY Disposal of assets ,11302,BAS Excluded,-74737.0,,,,,Exclusive,DRAFT
+GJ000375,30/06/2024,EA EOY Disposal of assets ,43005,BAS Excluded,4844.0,,,,,Exclusive,DRAFT
+GJ000376,30/06/2024,EA EOY Average Rent Sydney apartment,62706,BAS Excluded,10135.0,,,,,Exclusive,DRAFT
+GJ000376,30/06/2024,EA EOY Average Rent Sydney apartment,21501,BAS Excluded,-10135.0,,,,,Exclusive,DRAFT
+GJ000377,30/06/2024,EA Clear Mick's loan,21401,BAS Excluded,-81874.63,,,,,Exclusive,DRAFT
+GJ000377,30/06/2024,EA Clear Mick's loan,21402,BAS Excluded,41520.78,,,,,Exclusive,DRAFT
+GJ000377,30/06/2024,EA Clear Mick's loan,21501,BAS Excluded,40353.85,,,,,Exclusive,DRAFT
+GJ000000,01/07/2024,End of Year Adjustment,39000,BAS Excluded,-69825.3,,,,,Exclusive,DRAFT
+GJ000000,01/07/2024,End of Year Adjustment,38000,BAS Excluded,69825.3,,,,,Exclusive,DRAFT
+GJ000392,01/07/2024,EB: ATO General Interest Charge,60032,BAS Excluded,203.14,,,,,Exclusive,DRAFT
+GJ000392,01/07/2024,EB: ATO General Interest Charge,21103,BAS Excluded,-203.14,,,,,Exclusive,DRAFT
+GJ000354,15/07/2024,Reclassification first payment received from Centrelink Paid parental leave paid from 15062024 to 15072024 $882.75 each week,21202,BAS Excluded,5296.5,,,,,Exclusive,DRAFT
+GJ000354,15/07/2024,Reclassification first payment received from Centrelink Paid parental leave paid from 15062024 to 15072024 $882.75 each week,83000,BAS Excluded,-5296.5,,,,,Exclusive,DRAFT
+GJ000382,22/07/2024,EB: June 24 BAS,21102,BAS Excluded,-13260.0,,,,,Exclusive,DRAFT
+GJ000382,22/07/2024,EB: June 24 BAS,21101,BAS Excluded,21478.0,,,,,Exclusive,DRAFT
+GJ000382,22/07/2024,EB: June 24 BAS,21203,BAS Excluded,17790.0,,,,,Exclusive,DRAFT
+GJ000382,22/07/2024,EB: June 24 BAS,60029,BAS Excluded,2849.0,,,,,Exclusive,DRAFT
+GJ000382,22/07/2024,EB: June 24 BAS,21103,BAS Excluded,-28857.0,,,,,Exclusive,DRAFT
+GJ000393,22/07/2024,EB: ATO General Interest Charge,60032,BAS Excluded,102.82,,,,,Exclusive,DRAFT
+GJ000393,22/07/2024,EB: ATO General Interest Charge,21103,BAS Excluded,-102.82,,,,,Exclusive,DRAFT
+GJ000355,31/07/2024,Reclassification excess vehicle Nathan Martin first instalment RAV 4 923EL5 ,21201,BAS Excluded,350.0,,,,,Exclusive,DRAFT
+GJ000355,31/07/2024,Reclassification excess vehicle Nathan Martin first instalment RAV 4 923EL5 ,62005,BAS Excluded,-350.0,,,,,Exclusive,DRAFT
+GJ000356,31/07/2024,Reclassification paid parental leave 4th payment to Nikita Murtagh wage $882.75 paid on 31072024. ,21202,BAS Excluded,882.75,,,,,Exclusive,DRAFT
+GJ000356,31/07/2024,Reclassification paid parental leave 4th payment to Nikita Murtagh wage $882.75 paid on 31072024. ,83000,BAS Excluded,-882.75,,,,,Exclusive,DRAFT
+GJ000394,01/08/2024,EB: ATO General Interest Charge,60032,BAS Excluded,126.12,,,,,Exclusive,DRAFT
+GJ000394,01/08/2024,EB: ATO General Interest Charge,21103,BAS Excluded,-126.12,,,,,Exclusive,DRAFT
+GJ000357,13/08/2024,RAV 4 acquisition and finance registration 154KV2,11401,BAS Excluded,46736.36,,,,,Exclusive,DRAFT
+GJ000357,13/08/2024,RAV 4 acquisition and finance registration 154KV2,11401,BAS Excluded,-1000.0,,,,,Exclusive,DRAFT
+GJ000357,13/08/2024,RAV 4 acquisition and finance registration 154KV2,11401,BAS Excluded,613.64,,,,,Exclusive,DRAFT
+GJ000357,13/08/2024,RAV 4 acquisition and finance registration 154KV2,11401,BAS Excluded,113.64,,,,,Exclusive,DRAFT
+GJ000357,13/08/2024,RAV 4 acquisition and finance registration 154KV2,11401,BAS Excluded,904.54,,,,,Exclusive,DRAFT
+GJ000357,13/08/2024,RAV 4 acquisition and finance registration 154KV2,62015,BAS Excluded,386.0,,,,,Exclusive,DRAFT
+GJ000357,13/08/2024,RAV 4 acquisition and finance registration 154KV2,62004,BAS Excluded,493.55,,,,,Exclusive,DRAFT
+GJ000357,13/08/2024,RAV 4 acquisition and finance registration 154KV2,11401,BAS Excluded,1046.0,,,,,Exclusive,DRAFT
+GJ000357,13/08/2024,RAV 4 acquisition and finance registration 154KV2,11304,BAS Excluded,-5000.0,,,,,Exclusive,DRAFT
+GJ000357,13/08/2024,RAV 4 acquisition and finance registration 154KV2,11114,BAS Excluded,-15000.0,,,,,Exclusive,DRAFT
+GJ000357,13/08/2024,RAV 4 acquisition and finance registration 154KV2,21307,BAS Excluded,-29030.55,,,,,Exclusive,DRAFT
+GJ000357,13/08/2024,RAV 4 acquisition and finance registration 154KV2,21002,BAS Excluded,-5000.0,,,,,Exclusive,DRAFT
+GJ000357,13/08/2024,RAV 4 acquisition and finance registration 154KV2,21102,BAS Excluded,4736.82,,,,,Exclusive,DRAFT
+GJ000383,21/08/2024,EB: July 24 BAS,21102,BAS Excluded,-5737.0,,,,,Exclusive,DRAFT
+GJ000383,21/08/2024,EB: July 24 BAS,21101,BAS Excluded,16676.0,,,,,Exclusive,DRAFT
+GJ000383,21/08/2024,EB: July 24 BAS,21203,BAS Excluded,16052.0,,,,,Exclusive,DRAFT
+GJ000383,21/08/2024,EB: July 24 BAS,21103,BAS Excluded,-26991.0,,,,,Exclusive,DRAFT
+GJ000358,22/08/2024,Nifty IT paid by New Zealand Credit card as Mick confused them. NZ$2134.88 ,61001,BAS Excluded,1870.0,,,,,Exclusive,DRAFT
+GJ000358,22/08/2024,Nifty IT paid by New Zealand Credit card as Mick confused them. NZ$2134.88 ,14001,BAS Excluded,-1870.0,,,,,Exclusive,DRAFT
+GJ000359,31/08/2024,Reclassification excess vehicle Nathan Martin second instalment RAV 4 923EL5 ,21201,BAS Excluded,350.0,,,,,Exclusive,DRAFT
+GJ000359,31/08/2024,Reclassification excess vehicle Nathan Martin second instalment RAV 4 923EL5 ,62005,BAS Excluded,-350.0,,,,,Exclusive,DRAFT
+GJ000360,31/08/2024,Reclassification Nikita parental leave 5 payments of $915.80. 1 payment of $915.80 paid on 31072024 and 2 payments from 15082024 to 31082024,21202,BAS Excluded,4579.0,,,,,Exclusive,DRAFT
+GJ000360,31/08/2024,Reclassification Nikita parental leave 5 payments of $915.80. 1 payment of $915.80 paid on 31072024 and 2 payments from 15082024 to 31082024,83000,BAS Excluded,-4579.0,,,,,Exclusive,DRAFT
+GJ000395,02/09/2024,EB: ATO General Interest Charge,60032,BAS Excluded,321.15,,,,,Exclusive,DRAFT
+GJ000395,02/09/2024,EB: ATO General Interest Charge,21103,BAS Excluded,-321.15,,,,,Exclusive,DRAFT
+GJ000408,02/09/2024,EB: Amended General Interest Charge,60032,BAS Excluded,-2.33,,,,,Exclusive,DRAFT
+GJ000408,02/09/2024,EB: Amended General Interest Charge,21103,BAS Excluded,2.33,,,,,Exclusive,DRAFT
+GJ000384,24/09/2024,EB: August 24 BAS,21102,BAS Excluded,-9641.0,,,,,Exclusive,DRAFT
+GJ000384,24/09/2024,EB: August 24 BAS,21101,BAS Excluded,18152.0,,,,,Exclusive,DRAFT
+GJ000384,24/09/2024,EB: August 24 BAS,21203,BAS Excluded,18213.0,,,,,Exclusive,DRAFT
+GJ000384,24/09/2024,EB: August 24 BAS,21103,BAS Excluded,-26724.0,,,,,Exclusive,DRAFT
+GJ000396,01/10/2024,EB: ATO General Interest Charge,60032,BAS Excluded,313.08,,,,,Exclusive,DRAFT
+GJ000396,01/10/2024,EB: ATO General Interest Charge,21103,BAS Excluded,-313.08,,,,,Exclusive,DRAFT
+GJ000361,15/10/2024,Reclassification Nikita parental leave payments frpm 15092024 to 15102024.,21202,BAS Excluded,5494.8,,,,,Exclusive,DRAFT
+GJ000361,15/10/2024,Reclassification Nikita parental leave payments frpm 15092024 to 15102024.,83000,BAS Excluded,-5494.8,,,,,Exclusive,DRAFT
+GJ000385,21/10/2024,EB: Sept 24 BAS,21102,BAS Excluded,-4801.0,,,,,Exclusive,DRAFT
+GJ000385,21/10/2024,EB: Sept 24 BAS,21101,BAS Excluded,19996.0,,,,,Exclusive,DRAFT
+GJ000385,21/10/2024,EB: Sept 24 BAS,21203,BAS Excluded,17072.0,,,,,Exclusive,DRAFT
+GJ000385,21/10/2024,EB: Sept 24 BAS,60029,BAS Excluded,2849.0,,,,,Exclusive,DRAFT
+GJ000385,21/10/2024,EB: Sept 24 BAS,21103,BAS Excluded,-35116.0,,,,,Exclusive,DRAFT
+GJ000378,31/10/2024,Clear Tracking account for goods  $99.50 (credit) Ebay mistake posting the price in MYOB.   $224.70 (Debit) Crystal White Mop Heads ordered but they did not have the good to be delivered  $144.35 (debit Northside Cleaning Same story as Crystal White,11202,BAS Excluded,-216.68,,,,,Exclusive,DRAFT
+GJ000378,31/10/2024,Clear Tracking account for goods  $99.50 (credit) Ebay mistake posting the price in MYOB.   $224.70 (Debit) Crystal White Mop Heads ordered but they did not have the good to be delivered  $144.35 (debit Northside Cleaning Same story as Crystal White,50001,BAS Excluded,216.68,,,,,Exclusive,DRAFT
+GJ000397,01/11/2024,EB: ATO General Interest Charge,60032,BAS Excluded,308.21,,,,,Exclusive,DRAFT
+GJ000397,01/11/2024,EB: ATO General Interest Charge,21103,BAS Excluded,-308.21,,,,,Exclusive,DRAFT
+GJ000373,01/11/2024,Mick transferred a pendulum from our equipment to be part of the inventory as used pendulum W17 (WM006),13330,BAS Excluded,-3850.0,,,,,Exclusive,DRAFT
+GJ000373,01/11/2024,Mick transferred a pendulum from our equipment to be part of the inventory as used pendulum W17 (WM006),61708,BAS Excluded,3850.0,,,,,Exclusive,DRAFT
+GJ000374,01/11/2024,Transfer a new pendulum to be part of our equipment WM108.,13330,BAS Excluded,6232.0,,,,,Exclusive,DRAFT
+GJ000374,01/11/2024,Transfer a new pendulum to be part of our equipment WM108.,61708,BAS Excluded,-6232.0,,,,,Exclusive,DRAFT
+GJ000386,21/11/2024,EB: Oct 24 BAS,21102,BAS Excluded,-6157.0,,,,,Exclusive,DRAFT
+GJ000386,21/11/2024,EB: Oct 24 BAS,21101,BAS Excluded,17631.0,,,,,Exclusive,DRAFT
+GJ000386,21/11/2024,EB: Oct 24 BAS,21203,BAS Excluded,19707.0,,,,,Exclusive,DRAFT
+GJ000386,21/11/2024,EB: Oct 24 BAS,21103,BAS Excluded,-31181.0,,,,,Exclusive,DRAFT
+GJ000398,25/11/2024,EB: ATO General Interest Charge,60032,BAS Excluded,262.78,,,,,Exclusive,DRAFT
+GJ000398,25/11/2024,EB: ATO General Interest Charge,21103,BAS Excluded,-262.78,,,,,Exclusive,DRAFT
+GJ000399,02/12/2024,EB: ATO General Interest Charge,60032,BAS Excluded,115.97,,,,,Exclusive,DRAFT
+GJ000399,02/12/2024,EB: ATO General Interest Charge,21103,BAS Excluded,-115.97,,,,,Exclusive,DRAFT
+GJ000387,23/12/2024,EB: Nov 24 BAS,21102,BAS Excluded,-4964.0,,,,,Exclusive,DRAFT
+GJ000387,23/12/2024,EB: Nov 24 BAS,21101,BAS Excluded,19120.0,,,,,Exclusive,DRAFT
+GJ000387,23/12/2024,EB: Nov 24 BAS,21203,BAS Excluded,22247.0,,,,,Exclusive,DRAFT
+GJ000387,23/12/2024,EB: Nov 24 BAS,21103,BAS Excluded,-36403.0,,,,,Exclusive,DRAFT
+GJ000400,02/01/2025,EB: ATO General Interest Charge,60032,BAS Excluded,457.34,,,,,Exclusive,DRAFT
+GJ000400,02/01/2025,EB: ATO General Interest Charge,21103,BAS Excluded,-457.34,,,,,Exclusive,DRAFT
+GJ000409,02/01/2025,EB: Amended general interest charge,60032,BAS Excluded,-1.4,,,,,Exclusive,DRAFT
+GJ000409,02/01/2025,EB: Amended general interest charge,21103,BAS Excluded,1.4,,,,,Exclusive,DRAFT
+GJ000401,03/02/2025,EB: ATO General Interest Charge,60032,BAS Excluded,450.0,,,,,Exclusive,DRAFT
+GJ000401,03/02/2025,EB: ATO General Interest Charge,21103,BAS Excluded,-450.0,,,,,Exclusive,DRAFT
+GJ000388,21/02/2025,EB: Dec 24 BAS,21102,BAS Excluded,-5148.0,,,,,Exclusive,DRAFT
+GJ000388,21/02/2025,EB: Dec 24 BAS,21101,BAS Excluded,19541.0,,,,,Exclusive,DRAFT
+GJ000388,21/02/2025,EB: Dec 24 BAS,21203,BAS Excluded,16657.0,,,,,Exclusive,DRAFT
+GJ000388,21/02/2025,EB: Dec 24 BAS,21106,BAS Excluded,5032.0,,,,,Exclusive,DRAFT
+GJ000388,21/02/2025,EB: Dec 24 BAS,60029,BAS Excluded,2849.0,,,,,Exclusive,DRAFT
+GJ000388,21/02/2025,EB: Dec 24 BAS,21103,BAS Excluded,-38931.0,,,,,Exclusive,DRAFT
+GJ000389,21/02/2025,EB: Jan 25 BAS,21102,BAS Excluded,-5112.0,,,,,Exclusive,DRAFT
+GJ000389,21/02/2025,EB: Jan 25 BAS,21101,BAS Excluded,16248.0,,,,,Exclusive,DRAFT
+GJ000389,21/02/2025,EB: Jan 25 BAS,21203,BAS Excluded,16817.0,,,,,Exclusive,DRAFT
+GJ000389,21/02/2025,EB: Jan 25 BAS,21103,BAS Excluded,-27953.0,,,,,Exclusive,DRAFT
+GJ000402,24/02/2025,EB: ATO General Interest Charge,60032,BAS Excluded,96.08,,,,,Exclusive,DRAFT
+GJ000402,24/02/2025,EB: ATO General Interest Charge,21103,BAS Excluded,-96.08,,,,,Exclusive,DRAFT
+GJ000410,24/02/2025,EB: Amended general interest charge,60032,BAS Excluded,-1.88,,,,,Exclusive,DRAFT
+GJ000410,24/02/2025,EB: Amended general interest charge,21103,BAS Excluded,1.88,,,,,Exclusive,DRAFT
+GJ000379,24/02/2025,Recording MYOB fee for double payment received from Colliers on 24/02/2025 invoice #00076664,43006,BAS Excluded,-10.65,,,,,Exclusive,DRAFT
+GJ000379,24/02/2025,Recording MYOB fee for double payment received from Colliers on 24/02/2025 invoice #00076664,60009,BAS Excluded,9.68,,,,,Exclusive,DRAFT
+GJ000379,24/02/2025,Recording MYOB fee for double payment received from Colliers on 24/02/2025 invoice #00076664,21101,BAS Excluded,0.97,,,,,Exclusive,DRAFT
+GJ000403,03/03/2025,EB: ATO General Interest Charge,60032,BAS Excluded,125.1,,,,,Exclusive,DRAFT
+GJ000403,03/03/2025,EB: ATO General Interest Charge,21103,BAS Excluded,-125.1,,,,,Exclusive,DRAFT
+GJ000411,03/03/2025,EB: Amended general interest charge,60032,BAS Excluded,-8.45,,,,,Exclusive,DRAFT
+GJ000411,03/03/2025,EB: Amended general interest charge,21103,BAS Excluded,8.45,,,,,Exclusive,DRAFT
+GJ000380,19/03/2025,Mick transferred a pendulum from our equipment to be part of the inventory as used pendulum W4 (W1049),13330,BAS Excluded,3850.0,,,,,Exclusive,DRAFT
+GJ000380,19/03/2025,Mick transferred a pendulum from our equipment to be part of the inventory as used pendulum W4 (W1049),61708,BAS Excluded,-3850.0,,,,,Exclusive,DRAFT
+GJ000390,21/03/2025,EB: Feb 25 BAS,21102,BAS Excluded,-7036.0,,,,,Exclusive,DRAFT
+GJ000390,21/03/2025,EB: Feb 25 BAS,21101,BAS Excluded,23673.0,,,,,Exclusive,DRAFT
+GJ000390,21/03/2025,EB: Feb 25 BAS,21203,BAS Excluded,16554.0,,,,,Exclusive,DRAFT
+GJ000390,21/03/2025,EB: Feb 25 BAS,21103,BAS Excluded,-33191.0,,,,,Exclusive,DRAFT
+GJ000404,24/03/2025,EB: ATO General Interest Charge,60032,BAS Excluded,298.39,,,,,Exclusive,DRAFT
+GJ000404,24/03/2025,EB: ATO General Interest Charge,21103,BAS Excluded,-298.39,,,,,Exclusive,DRAFT
+GJ000405,01/04/2025,EB: ATO General Interest Charge,60032,BAS Excluded,174.23,,,,,Exclusive,DRAFT
+GJ000405,01/04/2025,EB: ATO General Interest Charge,21103,BAS Excluded,-174.23,,,,,Exclusive,DRAFT
+GJ000412,01/04/2025,EB: Amended general interest charge,60032,BAS Excluded,-1.57,,,,,Exclusive,DRAFT
+GJ000412,01/04/2025,EB: Amended general interest charge,21103,BAS Excluded,1.57,,,,,Exclusive,DRAFT
+GJ000381,15/04/2025,Reclassification Elliot Benson deduction $88 for accommodation in CQLD,21201,BAS Excluded,88.0,,,,,Exclusive,DRAFT
+GJ000381,15/04/2025,Reclassification Elliot Benson deduction $88 for accommodation in CQLD,61504,BAS Excluded,-88.0,,,,,Exclusive,DRAFT
+GJ000391,22/04/2025,EB: March 25 BAS,21102,BAS Excluded,-5622.0,,,,,Exclusive,DRAFT
+GJ000391,22/04/2025,EB: March 25 BAS,21101,BAS Excluded,14451.0,,,,,Exclusive,DRAFT
+GJ000391,22/04/2025,EB: March 25 BAS,21203,BAS Excluded,16391.0,,,,,Exclusive,DRAFT
+GJ000391,22/04/2025,EB: March 25 BAS,21106,BAS Excluded,5032.0,,,,,Exclusive,DRAFT
+GJ000391,22/04/2025,EB: March 25 BAS,60029,BAS Excluded,2849.0,,,,,Exclusive,DRAFT
+GJ000391,22/04/2025,EB: March 25 BAS,21103,BAS Excluded,-33101.0,,,,,Exclusive,DRAFT
+GJ000406,22/04/2025,EB: ATO General Interest Charge,60032,BAS Excluded,337.81,,,,,Exclusive,DRAFT
+GJ000406,22/04/2025,EB: ATO General Interest Charge,21103,BAS Excluded,-337.81,,,,,Exclusive,DRAFT
+GJ000413,23/04/2025,New Toyota Altitude registration Number: 750 MO6,11402,BAS Excluded,81727.34,,,,,Exclusive,DRAFT
+GJ000413,23/04/2025,New Toyota Altitude registration Number: 750 MO6,11402,BAS Excluded,472.02,,,,,Exclusive,DRAFT
+GJ000413,23/04/2025,New Toyota Altitude registration Number: 750 MO6,11402,BAS Excluded,699.3,,,,,Exclusive,DRAFT
+GJ000413,23/04/2025,New Toyota Altitude registration Number: 750 MO6,11402,BAS Excluded,129.49,,,,,Exclusive,DRAFT
+GJ000413,23/04/2025,New Toyota Altitude registration Number: 750 MO6,11401,BAS Excluded,904.55,,,,,Exclusive,DRAFT
+GJ000413,23/04/2025,New Toyota Altitude registration Number: 750 MO6,62013,BAS Excluded,3527.69,,,,,Exclusive,DRAFT
+GJ000413,23/04/2025,New Toyota Altitude registration Number: 750 MO6,62015,BAS Excluded,432.4,,,,,Exclusive,DRAFT
+GJ000413,23/04/2025,New Toyota Altitude registration Number: 750 MO6,62004,BAS Excluded,401.55,,,,,Exclusive,DRAFT
+GJ000413,23/04/2025,New Toyota Altitude registration Number: 750 MO6,11401,BAS Excluded,2838.0,,,,,Exclusive,DRAFT
+GJ000413,23/04/2025,New Toyota Altitude registration Number: 750 MO6,11304,BAS Excluded,-5000.0,,,,,Exclusive,DRAFT
+GJ000413,23/04/2025,New Toyota Altitude registration Number: 750 MO6,11114,BAS Excluded,-50000.0,,,,,Exclusive,DRAFT
+GJ000413,23/04/2025,New Toyota Altitude registration Number: 750 MO6,21308,BAS Excluded,-44525.61,,,,,Exclusive,DRAFT
+GJ000413,23/04/2025,New Toyota Altitude registration Number: 750 MO6,21102,BAS Excluded,8393.27,,,,,Exclusive,DRAFT
+GJ000407,01/05/2025,EB: ATO General Interest Charge,60032,BAS Excluded,215.48,,,,,Exclusive,DRAFT
+GJ000407,01/05/2025,EB: ATO General Interest Charge,21103,BAS Excluded,-215.48,,,,,Exclusive,DRAFT
+GJ000414,28/05/2025,Adjusting account's balance new pendulum was transferred to be part of the plant and equipment. WL012 (WM007) ,13330,BAS Excluded,3850.0,,,,,Exclusive,DRAFT
+GJ000414,28/05/2025,Adjusting account's balance new pendulum was transferred to be part of the plant and equipment. WL012 (WM007) ,61708,BAS Excluded,-3850.0,,,,,Exclusive,DRAFT
+,28/05/2025,.,nan,BAS Excluded,0.0,,,,,Exclusive,DRAFT
+* YearEnd Adjustments,28/05/2025,.,nan,BAS Excluded,0.0,,,,,Exclusive,DRAFT

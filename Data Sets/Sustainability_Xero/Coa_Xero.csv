@@ -1,0 +1,1017 @@
+*Code,*Name,*Type,*Tax Code,Description,Dashboard,Expense Claims,Enable Payments
+10000,Assets,Current Asset,BAS Excluded,,No,No,No
+11000,Current Assets_IA,Bank,BAS Excluded,,Yes,No,No
+11100,Cash on Hand,Current Asset,BAS Excluded,,No,No,No
+11110,St George Bank Acct 482219565_IA,Bank,BAS Excluded,,Yes,No,No
+11111,ANZ CHQ -016334 263556959,Bank,BAS Excluded,,Yes,No,No
+11112,ANZ Saving 016334-263556983,Bank,BAS Excluded,,Yes,No,No
+11120,Bankwest Acct 057244-9 IA,Bank,BAS Excluded,,Yes,No,No
+11125,ANZ USD account 403725-00001,Bank,BAS Excluded,,Yes,No,No
+11130,Payroll Clearing Account,Bank,BAS Excluded,,Yes,No,No
+11135,Inventory,Current Asset,BAS Excluded,,No,No,No
+11140,Petty Cash,Bank,BAS Excluded,,Yes,No,No
+11145,ANZ Travel Card:Colin Davies,Bank,BAS Excluded,,Yes,No,No
+11150,Cash - Indonesian Rupiah,Bank,BAS Excluded,,Yes,No,No
+11151,Cash-Kazakhstan Tenge,Bank,BAS Excluded,,Yes,No,No
+11152,Cash- United States Dollar,Bank,BAS Excluded,,Yes,No,No
+11153,Cash-Romania Lei (RON),Bank,BAS Excluded,,Yes,No,No
+11160,Electronic Clearing Account,Bank,BAS Excluded,,Yes,No,No
+11170,Undeposited Funds,Bank,BAS Excluded,,Yes,No,No
+11950,Withholding Credits,Current Asset,BAS Excluded,,No,No,No
+11960,Voluntary Withholding Credits,Current Asset,BAS Excluded,,No,No,No
+11970,ABN Withholding Credits,Current Asset,BAS Excluded,,No,No,No
+12100,Accounts Receivable,Current Asset,BAS Excluded,,No,No,No
+12110,Trade Debtors,Accounts Receivable,BAS Excluded,,No,No,No
+12115,Accounts Receivable Other,Bank,BAS Excluded,,Yes,No,No
+12139,Less Prov for Doubtful Debts,Current Asset,BAS Excluded,,No,No,No
+12140,Advances to Consultants,Accounts Receivable,BAS Excluded,,No,No,No
+12145,Sundry Debtors-AMEX,Current Asset,BAS Excluded,,No,No,No
+12146,Loan -David Hunt (2013),Current Asset,BAS Excluded,,No,No,No
+12147,Director's Loan-JM,Current Asset,BAS Excluded,,No,No,No
+12148,David Hunt (2014),Current Asset,BAS Excluded,,No,No,No
+12149,John Miragliotta(2014),Current Asset,BAS Excluded,,No,No,No
+12150,Sundry Debtors,Accounts Receivable,BAS Excluded,,No,No,No
+12151,Loan - David Hunt (2015),Current Asset,BAS Excluded,,No,No,No
+12152,Loan - David Hunt (2016),Current Asset,BAS Excluded,,No,No,No
+12153,Loan - David Hunt (2017),Current Asset,BAS Excluded,,No,No,No
+12154,Loan - David Hunt (2018),Current Asset,BAS Excluded,,No,No,No
+12155,Loan - David Hunt (2019),Current Asset,BAS Excluded,,No,No,No
+12156,Loan - David Hunt (2020),Current Asset,BAS Excluded,,No,No,No
+12157,Loan - David Hunt (2021),Current Asset,BAS Excluded,,No,No,No
+12158,Loan - David Hunt (2022),Current Asset,BAS Excluded,,No,No,No
+12160,John Miragliotta AMEX,Bank,BAS Excluded,,Yes,No,No
+12165,Loan - Heath Thorpe,Current Asset,BAS Excluded,,No,No,No
+12166,Loan - Tony Webster-Smith,Bank,BAS Excluded,,Yes,No,No
+12167,Loans to Sustainability At Home Pty Ltd ,Current Asset,BAS Excluded,,No,No,No
+12199,Short Term Loan Staff,Current Asset,BAS Excluded,,No,No,No
+12200,Inventory on Hand,Current Asset,BAS Excluded,,No,No,No
+12201,Work in Progress,Current Asset,BAS Excluded,,No,No,No
+12300,WIP Intercompany,Current Asset,BAS Excluded,,No,No,No
+12320,WIP SEA prior to 1 Jan 2015,Current Asset,BAS Excluded,,No,No,No
+12321,WIP SEA 1/1/15 to 30/9/19,Current Asset,BAS Excluded,,No,No,No
+12322,WIP SEA from 1 Oct 2019,Current Asset,BAS Excluded,,No,No,No
+12350,WIP Sustainability Internation,Current Asset,BAS Excluded,,No,No,No
+12370,WIP North America,Bank,BAS Excluded,,Yes,No,No
+12380,WIP iSustainabilityPL,Current Asset,BAS Excluded,,No,No,No
+12385,WIP Sustainability Training PL,Current Asset,BAS Excluded,,No,No,No
+12390,WIP-Sustainability Africa,Bank,BAS Excluded,,Yes,No,No
+13100,Current Assets Other,Current Asset,BAS Excluded,,No,No,No
+13110,Prepayments,Current Asset,BAS Excluded,,No,No,No
+13120,Prepayments Insurance,Current Asset,BAS Excluded,,No,No,No
+13130,Deposit on Water Bottles (Refresh),Current Asset,BAS Excluded,,No,No,No
+13135,Deposit Storage Unit B032 ,Current Asset,BAS Excluded,,No,No,No
+13136,Deposit: 24 Geddes St. Office IA,Bank,BAS Excluded,,Yes,No,No
+13140,Staff Advances,Bank,BAS Excluded,,Yes,No,No
+13150,Prepaid Borrowing Costs,Current Asset,BAS Excluded,,No,No,No
+13160,TANAP Retention Receivable USD,Bank,BAS Excluded,,Yes,No,No
+13170,Loan to Gambier Operations Pty Ltd,Current Asset,BAS Excluded,,No,No,No
+14100,Loans to Associated Companies,Current Asset,BAS Excluded,,No,No,No
+14110,Loan Sustainability Indonesia,Current Asset,BAS Excluded,,No,No,No
+14120,Sustainability East Asia-Cash,Current Asset,BAS Excluded,,No,No,No
+14130,Loan Sustain Central Asia,Bank,BAS Excluded,,Yes,No,No
+14140,Loan Sustainability Assurance,Bank,BAS Excluded,,Yes,No,No
+14150,Sustainability International,Current Asset,BAS Excluded,,No,No,No
+14160,Investment Indonesia,Current Asset,BAS Excluded,,No,No,No
+14170,Sustainability North America,Current Asset,BAS Excluded,,No,No,No
+14180,Loan- MRSG,Current Asset,BAS Excluded,,No,No,No
+15000,Fixed Assets,Current Asset,BAS Excluded,,No,No,No
+15100,Plant & Equipment,Fixed Asset,GST on Capital,,No,No,No
+15110,P & E Accumulated Depreciation,Current Asset,BAS Excluded,,No,No,No
+15120,Motor Vehicles,Fixed Asset,GST on Capital,,No,No,No
+15130,M/V Accumulated Depreciation,Fixed Asset,BAS Excluded,,No,No,No
+15140,Office Furniture & Equipment,Fixed Asset,GST on Capital,,No,No,No
+15150,Office F&E Accum Depreciation,Fixed Asset,BAS Excluded,,No,No,No
+15160,Computer Equipment,Fixed Asset,GST on Capital,,No,No,No
+15170,Comp Equip Accum Depreciation,Fixed Asset,BAS Excluded,,No,No,No
+15180,Library,Fixed Asset,GST on Capital,,No,No,No
+15190,Library Accum Depreciation,Current Asset,BAS Excluded,,No,No,No
+15195,Low Value Asset Pool,Fixed Asset,GST on Capital,,No,No,No
+15196,Low Value Pool Accum Deprec,Current Asset,BAS Excluded,,No,No,No
+16000,Non-Current Assets,Current Asset,BAS Excluded,,No,No,No
+16100,Loans Other,Current Asset,BAS Excluded,,No,No,No
+16200,Bond on Premises,Current Asset,BAS Excluded,,No,No,No
+16250,Bank Guarantee for premises,Current Asset,BAS Excluded,,No,No,No
+16300,Investment - Sustainability Assurance Services Pty Ltd,Current Asset,BAS Excluded,,No,No,No
+16310,Investment - Sustainability Insuranace Pty Ltd,Current Asset,BAS Excluded,,No,No,No
+16320,Investment - ISustainability Pty Ltd,Current Asset,BAS Excluded,,No,No,No
+16330,Investment - Sustainability International  Pte Ltd,Current Asset,BAS Excluded,,No,No,No
+16500,Unsecured Loan - Heath Thorpe,Current Asset,BAS Excluded,,No,No,No
+17000,Intangible Assets,Current Asset,BAS Excluded,,No,No,No
+17100,Share Allotment,Current Asset,BAS Excluded,,No,No,No
+17110,Intellectual Property,Current Asset,GST on Capital,,No,No,No
+18100,Prov for Debtor Recon,Current Asset,BAS Excluded,,No,No,No
+19998,Suspense for Balance Sheet Adj,Current Asset,BAS Excluded,Account set up 14/5/14 as a clearing account to fix incorrect balance sheet values,No,No,No
+19999,Suspense Account,Current Asset,BAS Excluded,,No,No,No
+20000,Liabilities,Liability,BAS Excluded,,No,No,No
+21000,Current Liabilities,Liability,BAS Excluded,,No,No,No
+21010,Trade Creditors,Accounts Payable,BAS Excluded,,No,No,No
+21040,AMEX Platinum,Bank,BAS Excluded,,Yes,No,No
+21050,AMEX Gold,Bank,BAS Excluded,,Yes,No,No
+21055,Diners Club International,Bank,BAS Excluded,,Yes,No,No
+21060,St George VISA TWS IA,Bank,BAS Excluded,,Yes,No,No
+21070,St George VISA DH IA,Bank,BAS Excluded,,Yes,No,No
+21080,Bankwest Visa TWS 9212 IA,Bank,BAS Excluded,,Yes,No,No
+21081,Bankwest Visa JM 2402 IA,Bank,BAS Excluded,,Yes,No,No
+21082,Bankwest Visa DH - 0785 IA,Bank,BAS Excluded,,Yes,No,No
+21083,Bankwest Visa NM - 2410 IA,Bank,BAS Excluded,,Yes,No,No
+21084,Bankwest Visa PdS - 2468 IA,Bank,BAS Excluded,,Yes,No,No
+21085,ANZ Visa - JM 2104/5036 IA,Bank,BAS Excluded,,Yes,No,No
+21086,ANZ Visa -TWS 9956,Bank,BAS Excluded,,Yes,No,No
+21087,ANZ Visa - DH 2153/7051,Bank,BAS Excluded,,Yes,No,No
+21088,ANZ Visa - Pds 2179 IA,Bank,BAS Excluded,,Yes,No,No
+21089,ANZ Visa - NM 3086/7098,Bank,BAS Excluded,,Yes,No,No
+21090,ANZ Visa- MM 0404 IA,Bank,BAS Excluded,,Yes,No,No
+21091,ANZ Visa- CE 0396 IA,Bank,BAS Excluded,,Yes,No,No
+21092,ANZ Visa -TB 6923 IA,Bank,BAS Excluded,,Yes,No,No
+21093,ANZ Visa - TO 8704 IA,Bank,BAS Excluded,,Yes,No,No
+21094,Import Duty Payable,Accounts Payable,BAS Excluded,,No,No,No
+21095,Voluntary Withholding Credits,Accounts Payable,BAS Excluded,,No,No,No
+21096,Voluntary Withholdings Payable,Accounts Payable,BAS Excluded,,No,No,No
+21097,ANZ Visa -TB 1326 IA,Bank,BAS Excluded,,Yes,No,No
+21098,ANZ Visa - DK 2489,Bank,BAS Excluded,,Yes,No,No
+21099,ANZ Visa -MK 1634,Bank,BAS Excluded,,Yes,No,No
+21100,Scottish Pacific,Bank,BAS Excluded,,Yes,No,No
+22000,Payroll Liabilities,Liability,BAS Excluded,,No,No,No
+22010,PAYG Tax Payable,Current Liability,BAS Excluded,,No,No,No
+22020,Payroll Tax WA,Current Liability,BAS Excluded,,No,No,No
+22025,Payroll Tax QLD,Current Liability,BAS Excluded,,No,No,No
+22026,Payroll Tax  NSW,Current Liability,BAS Excluded,,No,No,No
+22030,Salary Sacrifice Deductions,Current Liability,BAS Excluded,,No,No,No
+22040,Superannuation Payable,Current Liability,BAS Excluded,,No,No,No
+22050,Child Support Payments,Current Liability,BAS Excluded,,No,No,No
+23000,Payables Other,Liability,BAS Excluded,,No,No,No
+23010,Customer Advance,Current Liability,BAS Excluded,,No,No,No
+23015,Advance tax ( WHT),Bank,BAS Excluded,,Yes,No,No
+23020,Accrued Expenses,Current Liability,BAS Excluded,,No,No,No
+23030,Sundry Creditors,Current Liability,BAS Excluded,,No,No,No
+23040,GST Collected,Current Liability,BAS Excluded,,No,No,No
+23050,GST Paid,Current Liability,BAS Excluded,,No,No,No
+23051,BAS Adjustments ,Current Liability,BAS Excluded,,No,No,No
+23055,GST Consolidated,Current Liability,BAS Excluded,,No,No,No
+23060,GST Net Balance,Current Liability,BAS Excluded,,No,No,No
+23070,Insurance Premium Funding,Bank,BAS Excluded,,Yes,No,No
+23071,Unexpired Interest on Premium,Current Liability,BAS Excluded,,No,No,No
+23080,ABN Withholding Payable,Current Liability,BAS Excluded,,No,No,No
+23090,Luxury Car Tax Payable,Current Liability,BAS Excluded,,No,No,No
+23925,Accrued Superannuation,Current Liability,BAS Excluded,,No,No,No
+24000,Current Liabilities Other,Liability,BAS Excluded,,No,No,No
+24010,HP Liability Microsoft,Current Liability,BAS Excluded,,No,No,No
+24011,Less Unexpired Chg-Microsoft,Current Liability,BAS Excluded,,No,No,No
+24015,HP Liabilities MV-Volvo,Current Liability,BAS Excluded,,No,No,No
+24016,Less Unexpired Chg-Volvo,Current Liability,BAS Excluded,,No,No,No
+24017,HP Liabilities MV-Landcruiser,Current Liability,BAS Excluded,,No,No,No
+24018,Less Unexpired Chg-Landcruiser,Current Liability,BAS Excluded,,No,No,No
+24020,Income Tax Payable,Current Liability,BAS Excluded,,No,No,No
+24030,Short Term loan,Current Liability,BAS Excluded,,No,No,No
+24040,Deferred Revenue,Current Liability,BAS Excluded,,No,No,No
+24050,Director Fees Payable,Current Liability,BAS Excluded,,No,No,No
+24060,ATO Integrated Account,Current Liability,BAS Excluded,,No,No,No
+24061,Adj for 2012 ATO account,Current Liability,BAS Excluded,,No,No,No
+25000,Loans Associated Companies,Liability,BAS Excluded,,No,No,No
+25010,Loan Sustainability East Asia,Current Liability,BAS Excluded,,No,No,No
+25020,Loan Sustainability Assurance,Current Liability,BAS Excluded,,No,No,No
+25030,PICS Auditing Pty Ltd,Current Liability,BAS Excluded,,No,No,No
+25040,"SIA Loan SGD626,501.42",Current Liability,BAS Excluded,,No,No,No
+25041,"SIA Loan MNT240,000,000",Current Liability,BAS Excluded,,No,No,No
+25042,"SIA Due SGD200,000",Current Liability,BAS Excluded,,No,No,No
+25043,"Int on SIA Loan MNT240,000,000",Current Liability,BAS Excluded,,No,No,No
+25044,"SIA Loan for SGD626,501 adjust",Current Liability,BAS Excluded,Account for balancing to SIA AUD value each month,No,No,No
+25045,SIA Loan for MNT240ml adjust,Current Liability,BAS Excluded,Account for balancing to SIA AUD value each month,No,No,No
+25047,SIA Short Term Loan,Current Liability,BAS Excluded,,No,No,No
+25050,Sustainability Central Asia,Current Liability,BAS Excluded,,No,No,No
+25051,Loan Sustainability Training Pty Ltd ,Current Liability,BAS Excluded,,No,No,No
+25052,Loan  iSustainability Pty Ltd,Current Liability,BAS Excluded,,No,No,No
+26000,Provisions,Liability,BAS Excluded,,No,No,No
+26010,Annual Leave Provision,Current Liability,BAS Excluded,,No,No,No
+26015,Sick Leave Provision,Current Liability,BAS Excluded,,No,No,No
+26020,Provision for Tax,Current Liability,BAS Excluded,,No,No,No
+26030,Long Service Leave Provision,Current Liability,BAS Excluded,,No,No,No
+26040,Doubtful Debts Provision,Current Liability,BAS Excluded,,No,No,No
+26050,Provision for Redundancy,Current Liability,BAS Excluded,,No,No,No
+27000,Non-Current Liabilities,Liability,BAS Excluded,,No,No,No
+27010,TWS loan,Bank,BAS Excluded,,Yes,No,No
+27020,Unsecured Loan - Webster Family Trust,Bank,BAS Excluded,,Yes,No,No
+27030,Unsecured Loan - PWS,Bank,BAS Excluded,,Yes,No,No
+27100,Loan - Tony Webster,Current Liability,BAS Excluded,,No,No,No
+27200,Loan - Keith Counihan,Current Liability,BAS Excluded,,No,No,No
+29761,HP Liability Microsoft,Current Liability,BAS Excluded,,No,No,No
+30000,Equity,Equity,BAS Excluded,,No,No,No
+31001,Shareholder Loan J Miragliotta,Equity,BAS Excluded,,No,No,No
+33050,Prior Year Adjustments,Equity,BAS Excluded,,No,No,No
+33051,Insurance Paid previous Year's Financials,Equity,BAS Excluded,,No,No,No
+34050,Income Tax Expenses,Equity,BAS Excluded,,No,No,No
+37000,Shares Fully Paid @ $1,Equity,BAS Excluded,,No,No,No
+37010,E Class Shares @ $1,Equity,BAS Excluded,,No,No,No
+37020,F Class Shares @ $1,Equity,BAS Excluded,,No,No,No
+37500,Dividend Paid,Equity,BAS Excluded,,No,No,No
+38000,Retained Earnings,Equity,BAS Excluded,,No,No,No
+39000,Current Earnings,Equity,BAS Excluded,,No,No,No
+39050,SIA Balancing,Equity,BAS Excluded,,No,No,No
+39060,Under(over) Prov of Income/Tax,Equity,BAS Excluded,,No,No,No
+39070,Abnormal Items,Equity,BAS Excluded,,No,No,No
+39999,Historical Balancing Account,Equity,BAS Excluded,,No,No,No
+40000,Income,Revenue,BAS Excluded,,No,No,No
+40100,Dividend Income,Revenue,BAS Excluded,,No,No,No
+41000,Income Other,Revenue,BAS Excluded,,No,No,No
+41010,InsuranceRecoveries,Revenue,BAS Excluded,,No,No,No
+41015,JOBKEEPER SUSBSIDY(NO GST),Revenue,BAS Excluded,COVID 19 relief Govt subsidy through Jobkeeper Scheme,No,No,No
+41016,Economic Cash Boost Stimulus,Revenue,BAS Excluded,,No,No,No
+41020,Credit Interest Received,Revenue,GST Free Income,,No,No,No
+41030,Other Income,Revenue,GST on Income,,No,No,No
+41040,Sundry Income,Revenue,GST on Income,,No,No,No
+41050,Software Income,Revenue,GST on Income,,No,No,No
+41055,Unrealised Foreign Exch Gain,Revenue,BAS Excluded,,No,No,No
+41060,Employee Contributions,Revenue,BAS Excluded,,No,No,No
+41999,Currency Gain/Loss,Revenue,BAS Excluded,,No,No,No
+42000,Income Environment,Revenue,BAS Excluded,,No,No,No
+42010,Environment Employees,Revenue,BAS Excluded,,No,No,No
+42012,Environment Employees - INV,Revenue,GST on Income,,No,No,No
+42014,Environment Employees WIP,Revenue,BAS Excluded,,No,No,No
+42020,Environmental Consultants,Revenue,BAS Excluded,,No,No,No
+42022,Environment Consultants - INV,Revenue,GST on Income,,No,No,No
+42024,Environment Consultants WIP,Revenue,BAS Excluded,,No,No,No
+42030,Environment Outsourcing,Revenue,GST on Income,,No,No,No
+42100,Reimbursements Environment,Revenue,BAS Excluded,,No,No,No
+42110,Km Reimbursement ENV,Revenue,GST on Income,,No,No,No
+42120,Domestic Reimbursements ENV,Revenue,GST on Income,,No,No,No
+42130,Overseas Reimbursements ENV,Revenue,BAS Excluded,,No,No,No
+42140,Admin/Project Mgmnt/Site ENV,Revenue,GST on Income,,No,No,No
+42999,Environment Currency Gain/Loss,Revenue,BAS Excluded,,No,No,No
+43000,Income Safety,Revenue,BAS Excluded,,No,No,No
+43010,Safety Employees,Revenue,BAS Excluded,,No,No,No
+43012,Safety Employees INV,Revenue,GST on Income,,No,No,No
+43014,Safety Employees WIP,Revenue,BAS Excluded,,No,No,No
+43020,Safety Consultants,Revenue,BAS Excluded,,No,No,No
+43022,Safety Consultants INV,Revenue,GST on Income,,No,No,No
+43024,Safety Consultants WIP,Revenue,BAS Excluded,,No,No,No
+43030,Safety product Outsourcing,Revenue,GST on Income,,No,No,No
+43040,Other Income,Revenue,GST on Income,,No,No,No
+43050,Safety Currency Gain/Loss,Revenue,BAS Excluded,,No,No,No
+43100,Reimbursements Safety,Revenue,BAS Excluded,,No,No,No
+43110,Km Reimbursements Safety,Revenue,GST on Income,,No,No,No
+43120,Domestic Reimbursements Safety,Revenue,GST on Income,,No,No,No
+43130,Overseas Reimbursements Safety,Revenue,BAS Excluded,,No,No,No
+43140,Admin/Project Mngmnt/Site SAF,Revenue,GST on Income,,No,No,No
+44000,Income Training,Revenue,BAS Excluded,,No,No,No
+44010,Income NEBOSH Training,Revenue,GST on Income,,No,No,No
+44020,Income Lead Auditor Training,Revenue,GST on Income,,No,No,No
+44025,Certificate Courses,Revenue,GST on Income,,No,No,No
+44030,Income Advance Diploma TRA,Revenue,GST on Income,,No,No,No
+44040,Income Traineeship,Revenue,GST on Income,,No,No,No
+44050,Income Consulting Training,Revenue,BAS Excluded,,No,No,No
+44052,Income  Consulting Traing INV,Revenue,GST on Income,,No,No,No
+44054,Income Consulting Traing WIP,Revenue,BAS Excluded,,No,No,No
+44060,Income RABQSA Training,Revenue,GST on Income,,No,No,No
+44070,Income RPL Training,Revenue,GST on Income,,No,No,No
+44080,Income Project Training,Revenue,GST on Income,,No,No,No
+44090,Income Other Training,Revenue,GST on Income,,No,No,No
+44092,Income-Verif of competance,Revenue,GST on Income,,No,No,No
+44095,Income Face to Face Courses,Revenue,GST on Income,,No,No,No
+44110,KM Reimbursements TRA,Revenue,GST on Income,,No,No,No
+44120,Domestic Reimbursement TRA,Revenue,GST on Income,,No,No,No
+44130,Overseas Reimbursements TRA,Revenue,BAS Excluded,,No,No,No
+44140,Training Currency Gain/Loss,Revenue,BAS Excluded,,No,No,No
+45000,Income North America,Revenue,BAS Excluded,,No,No,No
+45010,North America Employees,Revenue,BAS Excluded,,No,No,No
+45020,North America Consultants,Revenue,BAS Excluded,,No,No,No
+45030,North Amer Currency Gain/Loss,Revenue,BAS Excluded,,No,No,No
+45100,Reimbursements North America,Revenue,BAS Excluded,,No,No,No
+45110,Km Reimbursement North America,Revenue,BAS Excluded,,No,No,No
+45120,Domestic Reimbursement NA,Revenue,BAS Excluded,,No,No,No
+45130,Overseas Reimbursement NA,Revenue,BAS Excluded,,No,No,No
+45140,Admin/Project Mgmnt/Site NA,Revenue,BAS Excluded,,No,No,No
+46000,Income East Asia,Revenue,BAS Excluded,,No,No,No
+46010,East Asia Employees,Revenue,BAS Excluded,,No,No,No
+46020,East Asia Consultants,Revenue,BAS Excluded,,No,No,No
+46030,East Asia Currency Gain/Loss,Revenue,BAS Excluded,,No,No,No
+46100,Reimbursements East Asia,Revenue,BAS Excluded,,No,No,No
+46110,Km Reimbursement East Asia,Revenue,BAS Excluded,,No,No,No
+46120,Domestic Reimbursement EA,Revenue,BAS Excluded,,No,No,No
+46130,Overseas Reimbursement EA,Revenue,BAS Excluded,,No,No,No
+46140,Admin/Project Mgmnt/Site EA,Revenue,BAS Excluded,,No,No,No
+47000,Income Central Asia,Revenue,BAS Excluded,,No,No,No
+47010,Central Asia Employees,Revenue,BAS Excluded,,No,No,No
+47020,Central Asia Consultants,Revenue,BAS Excluded,,No,No,No
+47030,Central Asia Currency GainLoss,Revenue,BAS Excluded,,No,No,No
+47100,Reimbursements Central Asia,Revenue,BAS Excluded,,No,No,No
+47110,Km Reimbursement Central Asia,Revenue,BAS Excluded,,No,No,No
+47120,Domestic Reimbursement CA,Revenue,BAS Excluded,,No,No,No
+47130,Overseas Reimbursement CA,Revenue,BAS Excluded,,No,No,No
+47140,Admin/Project Mgmnt/Site CA,Revenue,BAS Excluded,,No,No,No
+48000,Income Assurance,Revenue,BAS Excluded,,No,No,No
+48010,Assurance Employees,Revenue,BAS Excluded,,No,No,No
+48020,Assurance Consultants,Revenue,BAS Excluded,,No,No,No
+48030,Assurance Currency Gain/Loss,Revenue,BAS Excluded,,No,No,No
+48100,Reimbursements Assurance,Revenue,BAS Excluded,,No,No,No
+48110,Km Reimbursements Assurance,Revenue,BAS Excluded,,No,No,No
+48120,Domestic Reimbursements ASS,Revenue,BAS Excluded,,No,No,No
+48130,Overseas Reimbursements ASS,Revenue,BAS Excluded,,No,No,No
+48140,Admin/Project Mgmnt/Site ASS,Revenue,BAS Excluded,,No,No,No
+49000,Income Contracting,Revenue,BAS Excluded,,No,No,No
+49010,Contracting Employees,Revenue,BAS Excluded,,No,No,No
+49012,Contracting Employees INV,Revenue,BAS Excluded,,No,No,No
+49014,Contracting Employees WIP,Revenue,BAS Excluded,,No,No,No
+49020,Contracting Consultants,Revenue,BAS Excluded,,No,No,No
+49022,Contracting Consultants INV,Revenue,BAS Excluded,,No,No,No
+49024,Contracting Consultants WIP,Revenue,BAS Excluded,,No,No,No
+49030,Contracting Outsourcing,Revenue,BAS Excluded,,No,No,No
+49100,Reimbursements Contracting,Revenue,BAS Excluded,,No,No,No
+49110,Km Reimbursement Contracting,Revenue,BAS Excluded,,No,No,No
+49120,Domestic Reimbursements Contr,Revenue,BAS Excluded,,No,No,No
+49130,Overseas Reimbursements Contr,Revenue,BAS Excluded,,No,No,No
+49140,Admin/Project Mgmt/Site Contr,Revenue,BAS Excluded,,No,No,No
+49199,Contracting Currency Gain/Loss,Revenue,BAS Excluded,,No,No,No
+50000,Cost Of Sales,Direct Costs,BAS Excluded,,No,No,No
+50100,Opening WIP,Direct Costs,BAS Excluded,,No,No,No
+50200,Closing WIP,Direct Costs,BAS Excluded,,No,No,No
+51000,Corporate Services,Direct Costs,BAS Excluded,,No,No,No
+51005,Wages Admin,Direct Costs,BAS Excluded,,No,No,No
+51010,Superannuation Admin,Direct Costs,BAS Excluded,,No,No,No
+51015,Consultants Admin,Direct Costs,BAS Excluded,,No,No,No
+52000,COST OF SALES ENVIRONMENT,Direct Costs,BAS Excluded,,No,No,No
+52005,Wages Environment,Direct Costs,BAS Excluded,,No,No,No
+52010,Allowances Environment,Direct Costs,BAS Excluded,,No,No,No
+52011,LAFHA Environment,Direct Costs,BAS Excluded,,No,No,No
+52012,Long Service Leave Accural-ENV,Direct Costs,BAS Excluded,,No,No,No
+52015,Superannuation Environment,Direct Costs,BAS Excluded,,No,No,No
+52016,Workers' Compensation,Direct Costs,BAS Excluded,,No,No,No
+52017,Payroll Tax,Direct Costs,BAS Excluded,,No,No,No
+52018,Accrued Annual Leave,Direct Costs,BAS Excluded,,No,No,No
+52019,Accrued Sick Leave Environment,Direct Costs,BAS Excluded,,No,No,No
+52020,Consultants Environment,Direct Costs,BAS Excluded,,No,No,No
+52021,Sub-contracting Environment,Direct Costs,BAS Excluded,,No,No,No
+52025,Direct On-Costs Chargeable ENV,Direct Costs,BAS Excluded,,No,No,No
+52030,COS Chargeable Environment,Direct Costs,BAS Excluded,,No,No,No
+52031,Discount allowed Environment,Direct Costs,BAS Excluded,,No,No,No
+52035,Km Environment,Direct Costs,BAS Excluded,,No,No,No
+52040,Domestic Travel Environment,Direct Costs,BAS Excluded,,No,No,No
+52045,International Travel ENV,Direct Costs,BAS Excluded,,No,No,No
+52050,Direct On-Costs Non-Chargeable,Direct Costs,BAS Excluded,,No,No,No
+52055,COS Environment N-C,Direct Costs,BAS Excluded,,No,No,No
+52060,Contract Establishment ENV N-C,Direct Costs,BAS Excluded,,No,No,No
+52065,Sundry Environment N-C,Direct Costs,BAS Excluded,,No,No,No
+53000,COST OF SALES SAFETY,Direct Costs,BAS Excluded,,No,No,No
+53005,Wages Safety,Direct Costs,BAS Excluded,,No,No,No
+53010,Allowances Safety,Direct Costs,BAS Excluded,,No,No,No
+53011,LAFHA Safety,Direct Costs,BAS Excluded,,No,No,No
+53012,Long Service Leave Acc-Safety,Direct Costs,BAS Excluded,,No,No,No
+53015,Superannuation Safety,Direct Costs,BAS Excluded,,No,No,No
+53016,Workers' Compensation,Direct Costs,BAS Excluded,,No,No,No
+53017,Payroll Tax,Direct Costs,BAS Excluded,,No,No,No
+53018,Accrued Annual Leave,Direct Costs,BAS Excluded,,No,No,No
+53019,Accrued Sick Leave Safety,Direct Costs,BAS Excluded,,No,No,No
+53020,Consultants Safety,Direct Costs,BAS Excluded,,No,No,No
+53021,Safety product outsourcing,Direct Costs,BAS Excluded,,No,No,No
+53025,Direct On-Costs Chargeable SAF,Direct Costs,BAS Excluded,,No,No,No
+53030,COS Chargeable Safety,Direct Costs,BAS Excluded,,No,No,No
+53031,Discount Allowed Safety,Direct Costs,BAS Excluded,Customer attracted discount,No,No,No
+53035,Km Safety,Direct Costs,BAS Excluded,,No,No,No
+53040,Domestic Travel Safety,Direct Costs,BAS Excluded,,No,No,No
+53045,International Travel Safety,Direct Costs,BAS Excluded,,No,No,No
+53048,Site Allowance Safety,Direct Costs,BAS Excluded,,No,No,No
+53050,Direct On-Costs Non-Charge SAF,Direct Costs,BAS Excluded,,No,No,No
+53055,COS Safety N-C,Direct Costs,BAS Excluded,,No,No,No
+53060,Contract Establishment N-C SAF,Direct Costs,BAS Excluded,,No,No,No
+53065,Sundry Safety N-C,Direct Costs,BAS Excluded,,No,No,No
+54000,COST OF SALES TRAINING,Direct Costs,BAS Excluded,,No,No,No
+54005,Wages Training,Direct Costs,BAS Excluded,,No,No,No
+54010,Allowances Training,Direct Costs,BAS Excluded,,No,No,No
+54011,LAFHA Training,Direct Costs,BAS Excluded,,No,No,No
+54012,Long Service Leave Acc-TRA,Direct Costs,BAS Excluded,,No,No,No
+54015,Superannuation Training,Direct Costs,BAS Excluded,,No,No,No
+54016,Workers' Compensation,Direct Costs,BAS Excluded,,No,No,No
+54017,Payroll Tax,Direct Costs,BAS Excluded,,No,No,No
+54018,Accrued Annual Leave,Direct Costs,BAS Excluded,,No,No,No
+54019,Accrued Sick Leave TRA,Direct Costs,BAS Excluded,,No,No,No
+54020,Consultants Training,Direct Costs,BAS Excluded,,No,No,No
+54025,Direct On-Costs Chargeable TRA,Direct Costs,BAS Excluded,,No,No,No
+54030,COS Chargeable Training,Direct Costs,BAS Excluded,,No,No,No
+54035,Km Training,Direct Costs,BAS Excluded,,No,No,No
+54040,Domestic Travel Training,Direct Costs,BAS Excluded,,No,No,No
+54045,International Travel Training,Direct Costs,BAS Excluded,,No,No,No
+54050,Direct On-Costs NC Training,Direct Costs,BAS Excluded,,No,No,No
+54055,COS Training N-C,Direct Costs,BAS Excluded,,No,No,No
+54060,Subscriptions/Licences TRA,Direct Costs,BAS Excluded,,No,No,No
+54065,Sundry N-C Training,Direct Costs,BAS Excluded,,No,No,No
+54070,Material/Venue Hire Training,Direct Costs,BAS Excluded,,No,No,No
+54075,Sundry Km/Postage/Lunches TRA,Direct Costs,BAS Excluded,,No,No,No
+55000,COST OF SALES NORTH AMERICA,Direct Costs,BAS Excluded,,No,No,No
+55005,Wages North America,Direct Costs,BAS Excluded,,No,No,No
+55010,Allowances North America,Direct Costs,BAS Excluded,,No,No,No
+55015,Superannuation North America,Direct Costs,BAS Excluded,,No,No,No
+55020,Consultants North America,Direct Costs,BAS Excluded,,No,No,No
+55025,Direct On-Costs Chargeable NA,Direct Costs,BAS Excluded,,No,No,No
+55030,COS Chargeable North America,Direct Costs,BAS Excluded,,No,No,No
+55035,Km North America,Direct Costs,BAS Excluded,,No,No,No
+55040,Domestic Travel North America,Direct Costs,BAS Excluded,,No,No,No
+55045,Int Travel North America,Direct Costs,BAS Excluded,,No,No,No
+55050,Direct On-Costs Non-Charge NA,Direct Costs,BAS Excluded,,No,No,No
+55055,COS N-C North America,Direct Costs,BAS Excluded,,No,No,No
+55060,Contract Establishment N-C NA,Direct Costs,BAS Excluded,,No,No,No
+55065,Sundry N-C North America,Direct Costs,BAS Excluded,,No,No,No
+56000,COST OF SALES EAST ASIA,Direct Costs,BAS Excluded,,No,No,No
+56005,Wages East Asia,Direct Costs,BAS Excluded,,No,No,No
+56010,Allowances East Asia,Direct Costs,BAS Excluded,,No,No,No
+56020,Consultants East Asia,Direct Costs,BAS Excluded,,No,No,No
+56025,Direct On-Costs Chargeable EA,Direct Costs,BAS Excluded,,No,No,No
+56030,COS Chargeable East Asia,Direct Costs,BAS Excluded,,No,No,No
+56035,Km East Asia,Direct Costs,BAS Excluded,,No,No,No
+56040,Domestic Travel East Asia,Direct Costs,BAS Excluded,,No,No,No
+56045,International Travel East Asia,Direct Costs,BAS Excluded,,No,No,No
+56050,Direct On-Costs N-C East Asia,Direct Costs,BAS Excluded,,No,No,No
+56055,COS Non-Chargeable East Asia,Direct Costs,BAS Excluded,,No,No,No
+56060,Contract Estab N-C East Asia,Direct Costs,BAS Excluded,,No,No,No
+56065,Sundry NonChargeable East Asia,Direct Costs,BAS Excluded,,No,No,No
+57000,COST OF SALES CENTRAL ASIA,Direct Costs,BAS Excluded,,No,No,No
+57005,Wages Central Asia,Direct Costs,BAS Excluded,,No,No,No
+57010,Allowances Central Asia,Direct Costs,BAS Excluded,,No,No,No
+57015,Superannuation Central Asia,Direct Costs,BAS Excluded,,No,No,No
+57020,Consultants Central Asia,Direct Costs,BAS Excluded,,No,No,No
+57025,Direct On-Costs Chargeable CA,Direct Costs,BAS Excluded,,No,No,No
+57030,COS Chargeable Central Asia,Direct Costs,BAS Excluded,,No,No,No
+57035,Km Central Asia,Direct Costs,BAS Excluded,,No,No,No
+57040,Domestic Travel Central Asia,Direct Costs,BAS Excluded,,No,No,No
+57045,International Travel CA,Direct Costs,BAS Excluded,,No,No,No
+57050,Direct On-Costs N-C CA,Direct Costs,BAS Excluded,,No,No,No
+57055,COS NonChargeable Central Asia,Direct Costs,BAS Excluded,,No,No,No
+57060,Contract Estabment N-C CA,Direct Costs,BAS Excluded,,No,No,No
+57065,Sundry N-C Central Asia,Direct Costs,BAS Excluded,,No,No,No
+58000,COS ASSURANCE SERVICES,Direct Costs,BAS Excluded,,No,No,No
+58005,Wages Assurance Services,Direct Costs,BAS Excluded,,No,No,No
+58010,Allowances Assurance Services,Direct Costs,BAS Excluded,,No,No,No
+58015,Superannuation Assurance Svcs,Direct Costs,BAS Excluded,,No,No,No
+58020,Consultants Assurance Services,Direct Costs,BAS Excluded,,No,No,No
+58025,Direct On-Costs Chargeable ASS,Direct Costs,BAS Excluded,,No,No,No
+58030,COS Chargeable Assurance Svcs,Direct Costs,BAS Excluded,,No,No,No
+58035,Km Assurance Services,Direct Costs,BAS Excluded,,No,No,No
+58040,Domestic Travel Assurance Svcs,Direct Costs,BAS Excluded,,No,No,No
+58045,International Travel Assurance,Direct Costs,BAS Excluded,,No,No,No
+58050,Direct On-Costs N-C Assurance,Direct Costs,BAS Excluded,,No,No,No
+58055,COS N-C Assurance Services,Direct Costs,BAS Excluded,,No,No,No
+58060,Contract Estab N-C Assurance,Direct Costs,BAS Excluded,,No,No,No
+58065,Sundry N-C Assurance Services,Direct Costs,BAS Excluded,,No,No,No
+59000,COST OF SALES CONTRACTING,Direct Costs,BAS Excluded,,No,No,No
+59005,Wages Contracting,Direct Costs,BAS Excluded,,No,No,No
+59010,Allowances Contracting,Direct Costs,BAS Excluded,,No,No,No
+59011,LAFHA Contracting,Direct Costs,BAS Excluded,,No,No,No
+59012,Long Service Leave acc-Contr,Direct Costs,BAS Excluded,,No,No,No
+59015,Superannuation Contracting,Direct Costs,BAS Excluded,,No,No,No
+59016,Workers Comp Contracting,Direct Costs,BAS Excluded,,No,No,No
+59017,Payroll Tax Contracting,Direct Costs,BAS Excluded,,No,No,No
+59018,Accrued Annual Leave Contr,Direct Costs,BAS Excluded,,No,No,No
+59019,Accrued Sick Leave Contracting,Direct Costs,BAS Excluded,,No,No,No
+59020,Consultants Contracting,Direct Costs,BAS Excluded,,No,No,No
+59021,Sub-Contracting Contracting,Direct Costs,BAS Excluded,,No,No,No
+59025,Direct OnCosts Chargable Contr,Direct Costs,BAS Excluded,,No,No,No
+59030,COS Charegeable Contracting,Direct Costs,BAS Excluded,,No,No,No
+59035,Km Contracting,Direct Costs,BAS Excluded,,No,No,No
+59040,Domestic Travel Contracting,Direct Costs,BAS Excluded,,No,No,No
+59045,International Travel Contr,Direct Costs,BAS Excluded,,No,No,No
+59050,Direct OnCosts NonCharge Contr,Direct Costs,BAS Excluded,,No,No,No
+59055,COS Contracting N-C,Direct Costs,BAS Excluded,,No,No,No
+59060,Contract Establishmnt Contr NC,Direct Costs,BAS Excluded,,No,No,No
+59065,Sundry N-C Contracting,Direct Costs,BAS Excluded,,No,No,No
+60000,Expenses,Expense,BAS Excluded,,No,No,No
+61000,CORPORATE SERVICES,Expense,BAS Excluded,,No,No,No
+61001,Admin Staff Expenses,Expense,BAS Excluded,,No,No,No
+61005,Wages,Expense,BAS Excluded,,No,No,No
+61006,Wages:JOBKEEPER-TOPUP,Expense,BAS Excluded,,No,No,No
+61007,Wages Admin recovery,Expense,BAS Excluded,,No,No,No
+61010,Consultants,Expense,BAS Excluded,,No,No,No
+61015,Superannuation,Expense,BAS Excluded,,No,No,No
+61020,Workers' Compensation,Expense,BAS Excluded,,No,No,No
+61025,Payroll tax,Expense,BAS Excluded,,No,No,No
+61027,Non Refundable Foreign Tax Cre,Expense,BAS Excluded,,No,No,No
+61100,Admin Motor Vehicles,Expense,BAS Excluded,,No,No,No
+61110,Fuel,Expense,GST on Expenses,,No,No,No
+61120,Motor Vehicle Insurance,Expense,GST on Expenses,,No,No,No
+61130,Lease,Expense,GST on Expenses,,No,No,No
+61140,Licensing,Expense,GST on Expenses,,No,No,No
+61150,Repairs & Maintenance,Expense,GST on Expenses,,No,No,No
+61200,Admininstration Travel,Expense,BAS Excluded,,No,No,No
+61210,Airfares Domestic,Expense,GST on Expenses,,No,No,No
+61220,Airfares International,Expense,BAS Excluded,,No,No,No
+61230,Accommodation,Expense,GST on Expenses,,No,No,No
+61240,Kilometrage,Expense,BAS Excluded,,No,No,No
+61250,Meals etc,Expense,GST on Expenses,,No,No,No
+61260,Sundry Travel Expenses,Expense,GST on Expenses,,No,No,No
+61300,Company Expenses,Expense,BAS Excluded,,No,No,No
+61305,Accounting fees,Expense,GST on Expenses,,No,No,No
+61310,Consultants - External,Expense,GST on Expenses,,No,No,No
+61315,Doubtful Debts,Expense,BAS Excluded,,No,No,No
+61316,WIP & Debtor Tidy up,Expense,BAS Excluded,,No,No,No
+61320,Bank Charges,Expense,Input Taxed,,No,No,No
+61325,Borrowing Costs,Expense,BAS Excluded,,No,No,No
+61327,Business Insurance Costs,Expense,BAS Excluded,,No,No,No
+61330,Credit Card Charges,Expense,BAS Excluded,,No,No,No
+61331,Foreign Tax paid,Expense,BAS Excluded,,No,No,No
+61335,Depreciation - Plant & Equip,Expense,BAS Excluded,,No,No,No
+61336,Depreciation Office F&E,Expense,BAS Excluded,,No,No,No
+61337,Depreciation-Computer equipmen,Expense,BAS Excluded,,No,No,No
+61340,Depreciation - Motor Vehicles,Expense,BAS Excluded,,No,No,No
+61345,Donations,Expense,GST on Expenses,,No,No,No
+61346,Division 7a Loan Cleared (Prior Period),Expense,BAS Excluded,,No,No,No
+61350,Certification Audit Fees,Expense,GST Free Expenses,,No,No,No
+61351,ASIC Filing Fees,Expense,BAS Excluded,,No,No,No
+61355,Fines & Penalties,Expense,BAS Excluded,,No,No,No
+61360,Interest,Expense,BAS Excluded,,No,No,No
+61361,"Int SIA Loan MNT 240,000,000",Expense,BAS Excluded,,No,No,No
+61362,Interest on SIA short term loan,Expense,BAS Excluded,,No,No,No
+61365,Legal expenses,Expense,GST on Expenses,,No,No,No
+61370,Merchant Fees,Expense,GST on Expenses,,No,No,No
+61372,Payroll Tax,Expense,BAS Excluded,,No,No,No
+61375,Time Pro Hosting - Replicon,Expense,BAS Excluded,,No,No,No
+61379,Scottish Pacific Interest,Expense,BAS Excluded,Interest charged on funds drawn,No,No,No
+61380,Scottish Pacific Fees,Expense,GST on Expenses,Administration fee charged at 0.4% on invoices uploaded,No,No,No
+61381,Small Amounts Written Off,Expense,BAS Excluded,,No,No,No
+61390,Hire Purchase Charges,Expense,BAS Excluded,,No,No,No
+61392,Hire of Motor Vehicle,Expense,BAS Excluded,,No,No,No
+61400,Company Staff Expenses,Expense,BAS Excluded,,No,No,No
+61401,Employee Share Scheme,Expense,BAS Excluded,,No,No,No
+61405,Accrued Annual Leave,Expense,BAS Excluded,,No,No,No
+61406,Accrued Long Service Leave,Expense,BAS Excluded,,No,No,No
+61407,Accrued Sick Leave,Expense,BAS Excluded,,No,No,No
+61410,Agency Staff Costs,Expense,GST on Expenses,,No,No,No
+61415,Employment Expenses,Expense,GST on Expenses,,No,No,No
+61420,LAFHA,Expense,BAS Excluded,,No,No,No
+61425,Medical Expenses,Expense,GST on Expenses,,No,No,No
+61430,Staff Amenities,Expense,GST on Expenses,,No,No,No
+61445,Staff Entertainment,Expense,GST on Expenses,,No,No,No
+61450,Staff Gifts,Expense,GST on Expenses,,No,No,No
+61455,Staff Training,Expense,GST on Expenses,,No,No,No
+61460,Traineeship Costs,Expense,GST on Expenses,,No,No,No
+61465,Uniforms,Expense,GST on Expenses,,No,No,No
+61470,Director / Board Fees,Expense,BAS Excluded,,No,No,No
+61471,Redundancy - Edward Wilson,Expense,BAS Excluded,,No,No,No
+61500,Company General Expenses,Expense,BAS Excluded,,No,No,No
+61505,Advertising,Expense,GST on Expenses,,No,No,No
+61510,Archiving,Expense,GST on Expenses,,No,No,No
+61515,Courier,Expense,GST on Expenses,,No,No,No
+61516,Division 7a Loans Cleared (Prior Period),Expense,BAS Excluded,,No,No,No
+61520,Entertainment - Clients,Expense,GST Free Expenses,,No,No,No
+61525,Gifts - Clients,Expense,GST on Expenses,,No,No,No
+61530,Internet/Email,Expense,GST on Expenses,,No,No,No
+61532,Computer Software/Licencing,Expense,GST on Expenses,,No,No,No
+61533,Computer H/Ware Accessories,Expense,BAS Excluded,,No,No,No
+61534,Computer IT Support,Expense,GST on Expenses,,No,No,No
+61535,Magazines & Periodicals,Expense,GST on Expenses,,No,No,No
+61540,Parking,Expense,GST on Expenses,,No,No,No
+61545,Printing,Expense,GST on Expenses,,No,No,No
+61550,Postage,Expense,GST on Expenses,,No,No,No
+61555,Research & Development,Expense,GST on Expenses,,No,No,No
+61560,Stationery & Consumables,Expense,GST on Expenses,,No,No,No
+61565,Subscriptions & Memberships,Expense,GST on Expenses,,No,No,No
+61570,Taxis,Expense,GST on Expenses,,No,No,No
+61575,Telephones,Expense,GST on Expenses,,No,No,No
+61580,Website,Expense,GST on Expenses,,No,No,No
+61590,Loss on Sale of Assets,Expense,BAS Excluded,,No,No,No
+61600,Premises,Expense,BAS Excluded,,No,No,No
+61605,Rent & Outgoings,Expense,GST on Expenses,,No,No,No
+61606,Sub lease PICS,Expense,BAS Excluded,,No,No,No
+61610,Cleaning,Expense,GST on Expenses,,No,No,No
+61615,Electricity,Expense,GST on Expenses,,No,No,No
+61620,Gas,Expense,GST on Expenses,,No,No,No
+61625,Insurance,Expense,GST on Expenses,,No,No,No
+61630,Rates & Taxes,Expense,GST Free Expenses,,No,No,No
+61635,Repairs & Maintenance,Expense,GST on Expenses,,No,No,No
+61640,Venue Hire,Expense,GST on Expenses,,No,No,No
+61645,Virtual Offices,Expense,GST on Expenses,,No,No,No
+61650,Water,Expense,BAS Excluded,,No,No,No
+61700,Company Marketing/Development,Expense,BAS Excluded,,No,No,No
+61705,Advertising,Expense,GST on Expenses,,No,No,No
+61710,Airfares,Expense,GST on Expenses,,No,No,No
+61715,Accommodation,Expense,GST on Expenses,,No,No,No
+61720,Entertainment - Client,Expense,GST Free Expenses,,No,No,No
+61725,Gifts - Clients,Expense,GST on Expenses,,No,No,No
+61730,Legal Expenses,Expense,GST on Expenses,,No,No,No
+61735,Meals,Expense,GST on Expenses,,No,No,No
+61740,Parking,Expense,GST on Expenses,,No,No,No
+61745,Printing,Expense,GST on Expenses,,No,No,No
+61748,Public Relations / Promotion,Expense,GST on Expenses,,No,No,No
+61750,Research & Development,Expense,BAS Excluded,,No,No,No
+61755,Stationery & Consumables,Expense,GST on Expenses,,No,No,No
+61760,Taxis,Expense,GST on Expenses,,No,No,No
+61765,Wages,Expense,BAS Excluded,,No,No,No
+61770,Website,Expense,GST on Expenses,,No,No,No
+61800,Plant & Equipment,Expense,BAS Excluded,,No,No,No
+61810,Equipment Hire/Lease,Expense,GST on Expenses,,No,No,No
+61820,Equip Repairs & Maintenance,Expense,GST on Expenses,,No,No,No
+61900,Sustainability Intl,Expense,BAS Excluded,,No,No,No
+61905,Wages -SIA,Expense,BAS Excluded,,No,No,No
+61911,Accrued Annual Leave SIA,Expense,BAS Excluded,,No,No,No
+61912,Accrued Long Service Leave,Expense,BAS Excluded,,No,No,No
+61915,Superannuation-SIA,Expense,BAS Excluded,,No,No,No
+62000,ENVIRONMENT,Expense,BAS Excluded,,No,No,No
+62010,Employment Expenses - ENV,Expense,BAS Excluded,,No,No,No
+62150,Repair&Mtce MV - ENV,Expense,BAS Excluded,,No,No,No
+62160,Bank Charges- ENV,Expense,BAS Excluded,,No,No,No
+62300,General Expenses Environment,Expense,BAS Excluded,,No,No,No
+62305,Advertising Environment,Expense,GST on Expenses,,No,No,No
+62310,Archiving Environment,Expense,GST on Expenses,,No,No,No
+62311,Computer Software-ENV,Expense,BAS Excluded,,No,No,No
+62312,Computer H/Ware AccessoriesENV,Expense,BAS Excluded,,No,No,No
+62315,Couriers Environment,Expense,GST on Expenses,,No,No,No
+62316,Credit Card Charges-ENV,Expense,BAS Excluded,,No,No,No
+62317,Donation - ENV,Expense,BAS Excluded,,No,No,No
+62320,Entertainment Client ENV,Expense,GST on Expenses,,No,No,No
+62323,Fuel,Expense,GST on Expenses,,No,No,No
+62324,Fines & Penalties -ENV,Expense,BAS Excluded,,No,No,No
+62325,Gifts Clients Environment,Expense,GST on Expenses,,No,No,No
+62327,Insurances,Expense,BAS Excluded,,No,No,No
+62330,Internet Email Environment,Expense,GST on Expenses,,No,No,No
+62335,Magazines & Periodicals ENV,Expense,GST on Expenses,,No,No,No
+62336,Office Rent - ENV,Expense,BAS Excluded,,No,No,No
+62340,Parking Environment,Expense,GST on Expenses,,No,No,No
+62345,Printing Environment,Expense,GST on Expenses,,No,No,No
+62350,Postage Environment,Expense,GST on Expenses,,No,No,No
+62355,Research & Development ENV,Expense,GST on Expenses,,No,No,No
+62360,Stationery & Consumables ENV,Expense,GST on Expenses,,No,No,No
+62365,Subscriptions & Membership ENV,Expense,GST on Expenses,,No,No,No
+62367,Staff Amenities-ENV,Expense,BAS Excluded,,No,No,No
+62370,Taxis Environment,Expense,GST on Expenses,,No,No,No
+62375,Telephone Environment,Expense,GST on Expenses,,No,No,No
+62377,Staff Training ENV,Expense,BAS Excluded,,No,No,No
+62380,Website Environment,Expense,GST on Expenses,,No,No,No
+62465,Uniform -ENV,Expense,BAS Excluded,,No,No,No
+62600,Travel Expenses Environment,Expense,BAS Excluded,,No,No,No
+62610,Airfares Domestic Environment,Expense,GST on Expenses,,No,No,No
+62620,Airfares International ENV,Expense,BAS Excluded,,No,No,No
+62630,Accommodation Environment,Expense,GST on Expenses,,No,No,No
+62640,Kilometres Environment,Expense,BAS Excluded,,No,No,No
+62650,Meals etc Environment,Expense,GST on Expenses,,No,No,No
+62660,Sundry Travel Expenses ENV,Expense,GST on Expenses,,No,No,No
+62700,Marketing & Development ENV,Expense,BAS Excluded,,No,No,No
+62705,Advertising Environment,Expense,GST on Expenses,,No,No,No
+62710,Airfares Environment,Expense,BAS Excluded,,No,No,No
+62715,Accommodation Environment,Expense,GST on Expenses,,No,No,No
+62720,Entertainment Client ENV,Expense,GST on Expenses,,No,No,No
+62725,Gifts Client Environment,Expense,GST on Expenses,,No,No,No
+62730,Legal Expenses Environment,Expense,GST on Expenses,,No,No,No
+62735,Meals Environment,Expense,GST on Expenses,,No,No,No
+62740,Parking Environment,Expense,GST on Expenses,,No,No,No
+62745,Printing Environment,Expense,GST on Expenses,,No,No,No
+62750,Research & Development ENV,Expense,BAS Excluded,,No,No,No
+62755,Stationery & Consumables ENV,Expense,GST on Expenses,,No,No,No
+62760,Taxis Environment,Expense,GST on Expenses,,No,No,No
+62765,Wages Environment,Expense,BAS Excluded,,No,No,No
+62770,Website Environment,Expense,GST on Expenses,,No,No,No
+63000,SAFETY,Expense,BAS Excluded,,No,No,No
+63010,Employment Expenses- Safety,Expense,BAS Excluded,,No,No,No
+63150,Repair&Mtce MV- Safety,Expense,BAS Excluded,,No,No,No
+63160,Bank Charges- Safety,Expense,BAS Excluded,,No,No,No
+63300,General Expenses Safety,Expense,BAS Excluded,,No,No,No
+63305,Advertising Safety,Expense,GST on Expenses,,No,No,No
+63310,Archiving Safety,Expense,GST on Expenses,,No,No,No
+63311,Computer Software-Safety,Expense,BAS Excluded,,No,No,No
+63312,Computer HWare Access: Safety,Expense,BAS Excluded,,No,No,No
+63315,Couriers Safety,Expense,GST on Expenses,,No,No,No
+63316,Credit Card charges-Safety,Expense,BAS Excluded,,No,No,No
+63317,Donation - Safety,Expense,BAS Excluded,,No,No,No
+63320,Entertainment Clients Safety,Expense,GST Free Expenses,,No,No,No
+63323,Fuel -Safety,Expense,BAS Excluded,,No,No,No
+63324,Fines & Penalties - Safety,Expense,BAS Excluded,,No,No,No
+63325,Gifts Clients Safety,Expense,GST on Expenses,,No,No,No
+63327,Insurances,Expense,BAS Excluded,,No,No,No
+63328,Depreciation P&E Safety,Expense,BAS Excluded,,No,No,No
+63330,Internet/Email Safety,Expense,GST on Expenses,,No,No,No
+63335,Magazines & Periodicals Safety,Expense,GST on Expenses,,No,No,No
+63340,Parking Safety,Expense,GST on Expenses,,No,No,No
+63345,Printing Safety,Expense,GST on Expenses,,No,No,No
+63350,Postage Safety,Expense,GST on Expenses,,No,No,No
+63355,Research & Development Safety,Expense,GST on Expenses,,No,No,No
+63360,Stationery & Consumable Safety,Expense,GST on Expenses,,No,No,No
+63365,Subscript'n & Memb'ship Safety,Expense,GST on Expenses,,No,No,No
+63367,Staff Amenities- Safety,Expense,BAS Excluded,,No,No,No
+63370,Taxis Safety,Expense,GST on Expenses,,No,No,No
+63375,Telephone Safety,Expense,GST on Expenses,,No,No,No
+63377,Staff Training OHS,Expense,BAS Excluded,,No,No,No
+63380,Website Safety,Expense,GST on Expenses,,No,No,No
+63465,Uniform - Safety,Expense,BAS Excluded,,No,No,No
+63600,Travel Expenses Safety,Expense,BAS Excluded,,No,No,No
+63610,Airfares Domestic Safety,Expense,GST on Expenses,,No,No,No
+63620,Airfares International Safety,Expense,BAS Excluded,,No,No,No
+63630,Accommodation Safety,Expense,GST on Expenses,,No,No,No
+63640,Kilometres Safety,Expense,BAS Excluded,,No,No,No
+63650,Meals etc Safety,Expense,GST on Expenses,,No,No,No
+63660,Sundry Travel Expenses Safety,Expense,GST on Expenses,,No,No,No
+63700,Marketing & Development Safety,Expense,BAS Excluded,,No,No,No
+63705,Advertising Safety,Expense,GST on Expenses,,No,No,No
+63710,Airfares Safety,Expense,GST on Expenses,,No,No,No
+63715,Accommodation Safety,Expense,GST on Expenses,,No,No,No
+63720,Entertainment Client Safety,Expense,GST on Expenses,,No,No,No
+63725,Gifts Client Safety,Expense,GST on Expenses,,No,No,No
+63730,Legal Expenses Safety,Expense,GST on Expenses,,No,No,No
+63735,Meals Safety,Expense,GST on Expenses,,No,No,No
+63740,Parking Safety,Expense,GST on Expenses,,No,No,No
+63745,Printing Safety,Expense,GST on Expenses,,No,No,No
+63750,Research & Development Safety,Expense,BAS Excluded,,No,No,No
+63755,Stationery & Consumable Safety,Expense,BAS Excluded,,No,No,No
+63760,Taxis Safety,Expense,GST on Expenses,,No,No,No
+63765,Wages Safety,Expense,BAS Excluded,,No,No,No
+63770,Website Safety,Expense,GST on Expenses,,No,No,No
+64000,TRAINING,Expense,BAS Excluded,,No,No,No
+64140,Employment Expenses-TRA,Expense,BAS Excluded,,No,No,No
+64150,Repair&Mtce MV- TRA,Expense,BAS Excluded,,No,No,No
+64160,Bank Charges- TRA,Expense,BAS Excluded,,No,No,No
+64300,General Expenses Training,Expense,BAS Excluded,,No,No,No
+64305,Advertising Training,Expense,GST on Expenses,,No,No,No
+64310,Archiving Training,Expense,GST on Expenses,,No,No,No
+64311,Computer Software-TRA,Expense,BAS Excluded,,No,No,No
+64312,Computer HWare Access:-TRA,Expense,BAS Excluded,,No,No,No
+64315,Couriers Training,Expense,GST on Expenses,,No,No,No
+64316,Credit Card charges-TRA,Expense,BAS Excluded,,No,No,No
+64317,Donation- TRA,Expense,BAS Excluded,,No,No,No
+64320,Entertainment Client Training,Expense,GST on Expenses,,No,No,No
+64323,Fuel - Training,Expense,GST on Expenses,,No,No,No
+64324,Fines & Panelties- TRA,Expense,BAS Excluded,,No,No,No
+64325,Gifts Clients Training,Expense,GST on Expenses,,No,No,No
+64327,Insurances,Expense,BAS Excluded,,No,No,No
+64330,Internet/Email Training,Expense,GST on Expenses,,No,No,No
+64335,Magazines & Periodicals TRA,Expense,GST on Expenses,,No,No,No
+64340,Parking Training,Expense,GST on Expenses,,No,No,No
+64345,Printing Training,Expense,GST on Expenses,,No,No,No
+64350,Postage Training,Expense,GST on Expenses,,No,No,No
+64352,Programs - Training,Expense,BAS Excluded,,No,No,No
+64355,Research & Development TRA,Expense,GST on Expenses,,No,No,No
+64360,Stationery & Consumables TRA,Expense,GST on Expenses,,No,No,No
+64365,Subscriptions & Membership TRA,Expense,GST on Expenses,,No,No,No
+64367,Staff Amenities-TRA,Expense,BAS Excluded,,No,No,No
+64370,Taxis Training,Expense,GST on Expenses,,No,No,No
+64375,Telephone Training,Expense,GST on Expenses,,No,No,No
+64377,Staff Training TRA,Expense,BAS Excluded,,No,No,No
+64380,Website Training,Expense,GST on Expenses,,No,No,No
+64600,Travel Expenses Training,Expense,BAS Excluded,,No,No,No
+64610,Airfares Domestic Training,Expense,GST on Expenses,,No,No,No
+64620,Airfares International TRA,Expense,BAS Excluded,,No,No,No
+64630,Accommodation Training,Expense,GST on Expenses,,No,No,No
+64640,Kilometres Training,Expense,BAS Excluded,,No,No,No
+64650,Meals etc Training,Expense,GST on Expenses,,No,No,No
+64660,Sundry Travel Expenses,Expense,GST on Expenses,,No,No,No
+64700,Marketing & Development TRA,Expense,BAS Excluded,,No,No,No
+64705,Advertising Training,Expense,GST on Expenses,,No,No,No
+64710,Airfares Training,Expense,GST on Expenses,,No,No,No
+64715,Accommodation Training,Expense,GST on Expenses,,No,No,No
+64720,Entertainment Client Training,Expense,GST on Expenses,,No,No,No
+64725,Gifts Client Training,Expense,GST on Expenses,,No,No,No
+64730,Legal Expenses Training,Expense,GST on Expenses,,No,No,No
+64735,Meals Training,Expense,GST on Expenses,,No,No,No
+64740,Parking Training,Expense,GST on Expenses,,No,No,No
+64745,Printing Training,Expense,GST on Expenses,,No,No,No
+64750,Research & Development TRA,Expense,BAS Excluded,,No,No,No
+64755,Stationery & Consumables TRA,Expense,GST on Expenses,,No,No,No
+64760,Taxis Training,Expense,GST on Expenses,,No,No,No
+64765,Wages Training,Expense,BAS Excluded,,No,No,No
+64770,Website Training,Expense,GST on Expenses,,No,No,No
+65000,NORTH AMERICA,Expense,BAS Excluded,,No,No,No
+65120,Workers Compensation SNA,Expense,BAS Excluded,,No,No,No
+65300,General Expenses North America,Expense,BAS Excluded,,No,No,No
+65304,Accounting fee North America,Expense,GST on Expenses,,No,No,No
+65305,Advertising North America,Expense,GST on Expenses,,No,No,No
+65310,Archiving North America,Expense,GST on Expenses,,No,No,No
+65315,Couriers North America,Expense,GST on Expenses,,No,No,No
+65317,Deprecitaton-Cap Assets SNA,Expense,GST on Expenses,,No,No,No
+65325,Gifts Client North America,Expense,GST on Expenses,,No,No,No
+65330,Internet/Email North America,Expense,GST on Expenses,,No,No,No
+65335,Magazines & Periodicals NA,Expense,GST on Expenses,,No,No,No
+65337,Office Expenses North America,Expense,BAS Excluded,,No,No,No
+65338,Office Rent North America,Expense,GST on Expenses,,No,No,No
+65340,Parking North America,Expense,GST on Expenses,,No,No,No
+65345,Printing North America,Expense,GST on Expenses,,No,No,No
+65350,Postage North America,Expense,GST on Expenses,,No,No,No
+65355,Research & Development NA,Expense,GST on Expenses,,No,No,No
+65360,Stationery & Consumables NA,Expense,GST on Expenses,,No,No,No
+65365,Subscriptions & Membership NA,Expense,GST on Expenses,,No,No,No
+65370,Taxis North America,Expense,GST on Expenses,,No,No,No
+65375,Telephone North America,Expense,GST on Expenses,,No,No,No
+65380,Website North America,Expense,GST on Expenses,,No,No,No
+65600,Travel Expenses North America,Expense,BAS Excluded,,No,No,No
+65610,Airfare Domestic North America,Expense,GST on Expenses,,No,No,No
+65620,Airfares International NA,Expense,BAS Excluded,,No,No,No
+65630,Accommodation North America,Expense,GST on Expenses,,No,No,No
+65640,Kilometres North America,Expense,BAS Excluded,,No,No,No
+65650,Meals etc North America,Expense,GST on Expenses,,No,No,No
+65660,Sundry Travel Expenses,Expense,GST on Expenses,,No,No,No
+65700,Marketing & Development NA,Expense,BAS Excluded,,No,No,No
+65705,Advertising North America,Expense,GST on Expenses,,No,No,No
+65710,Airfares North America,Expense,GST on Expenses,,No,No,No
+65715,Accommodation North America,Expense,GST on Expenses,,No,No,No
+65720,Entertainment Client NA,Expense,GST on Expenses,,No,No,No
+65725,Gifts Client North America,Expense,GST on Expenses,,No,No,No
+65730,Legal Expenses North America,Expense,GST on Expenses,,No,No,No
+65735,Meals North America,Expense,GST on Expenses,,No,No,No
+65740,Parking North America,Expense,GST on Expenses,,No,No,No
+65745,Printing North America,Expense,GST on Expenses,,No,No,No
+65750,Research & Development NA,Expense,BAS Excluded,,No,No,No
+65755,Stationery & Consumables NA,Expense,GST on Expenses,,No,No,No
+65760,Taxis North America,Expense,GST on Expenses,,No,No,No
+65765,Wages North America,Expense,BAS Excluded,,No,No,No
+65770,Website North America,Expense,GST on Expenses,,No,No,No
+66000,EAST ASIA,Expense,BAS Excluded,,No,No,No
+66005,Accounting Fees SEA,Expense,BAS Excluded,,No,No,No
+66015,Bank Charges SEA,Expense,BAS Excluded,,No,No,No
+66105,Wages SEA,Expense,BAS Excluded,,No,No,No
+66155,Staff Amenities SEA,Expense,BAS Excluded,,No,No,No
+66210,Rent & Outgoings SEA,Expense,BAS Excluded,,No,No,No
+66300,General Expenses East Asia,Expense,BAS Excluded,,No,No,No
+66305,Advertising East Asia,Expense,GST on Expenses,,No,No,No
+66310,Archiving East Asia,Expense,GST on Expenses,,No,No,No
+66315,Couriers East Asia,Expense,GST on Expenses,,No,No,No
+66320,Entertainment Client East Asia,Expense,GST on Expenses,,No,No,No
+66325,Gifts Client East Asia,Expense,GST on Expenses,,No,No,No
+66330,Internet/Email East Asia,Expense,GST on Expenses,,No,No,No
+66335,Magazines & Periodicals EA,Expense,GST on Expenses,,No,No,No
+66340,Parking East Asia,Expense,GST on Expenses,,No,No,No
+66345,Printing East Asia,Expense,GST on Expenses,,No,No,No
+66350,Postage East Asia,Expense,GST on Expenses,,No,No,No
+66355,Research & Development EA,Expense,GST on Expenses,,No,No,No
+66360,Stationery & Consumables EA,Expense,GST on Expenses,,No,No,No
+66365,Subscriptions & Memberships EA,Expense,GST on Expenses,,No,No,No
+66370,Taxis East Asia,Expense,GST on Expenses,,No,No,No
+66375,Telephone East Asia,Expense,GST on Expenses,,No,No,No
+66376,Training North America,Expense,BAS Excluded,,No,No,No
+66380,Website East Asia,Expense,GST on Expenses,,No,No,No
+66446,Uniform - TRA,Expense,BAS Excluded,,No,No,No
+66600,Travel Expenses East Asia,Expense,BAS Excluded,,No,No,No
+66610,Airfares Domestic East Asia,Expense,GST on Expenses,,No,No,No
+66620,Airfares International EA,Expense,BAS Excluded,,No,No,No
+66630,Accommodation East Asia,Expense,GST on Expenses,,No,No,No
+66640,Kilometres East Asia,Expense,BAS Excluded,,No,No,No
+66650,Meals etc East Asia,Expense,GST on Expenses,,No,No,No
+66660,Sundry Travel Expenses EA,Expense,GST on Expenses,,No,No,No
+66700,Marketing & Development EA,Expense,BAS Excluded,,No,No,No
+66705,Advertising East Asia,Expense,GST on Expenses,,No,No,No
+66710,Airfares East Asia,Expense,GST on Expenses,,No,No,No
+66715,Accommodation East Asia,Expense,GST on Expenses,,No,No,No
+66720,Entertainment Client East Asia,Expense,GST on Expenses,,No,No,No
+66725,Gifts Client East Asia,Expense,GST on Expenses,,No,No,No
+66730,Legal Expenses East Asia,Expense,GST on Expenses,,No,No,No
+66735,Meals East Asia,Expense,GST on Expenses,,No,No,No
+66740,Parking East Asia,Expense,GST on Expenses,,No,No,No
+66745,Printing East Asia,Expense,GST on Expenses,,No,No,No
+66750,Research & Development EA,Expense,BAS Excluded,,No,No,No
+66755,Stationery & Consumables EA,Expense,GST on Expenses,,No,No,No
+66760,Taxis East Asia,Expense,GST on Expenses,,No,No,No
+66765,Wages East Asia,Expense,BAS Excluded,,No,No,No
+66770,Website East Asia,Expense,GST on Expenses,,No,No,No
+67000,CENTRAL ASIA,Expense,BAS Excluded,,No,No,No
+67300,General Expenses Central Asia,Expense,BAS Excluded,,No,No,No
+67305,Advertising Central Asia,Expense,GST on Expenses,,No,No,No
+67310,Archiving Central Asia,Expense,GST on Expenses,,No,No,No
+67315,Couriers Central Asia,Expense,GST on Expenses,,No,No,No
+67320,Entertainment Clients CA,Expense,GST on Expenses,,No,No,No
+67325,Gifts Client Central Asia,Expense,GST on Expenses,,No,No,No
+67330,Internet/Email Central Asia,Expense,GST on Expenses,,No,No,No
+67335,Magazines & Periodicals CA,Expense,GST on Expenses,,No,No,No
+67340,Parking Central Asia,Expense,GST on Expenses,,No,No,No
+67345,Printing Central Asia,Expense,GST on Expenses,,No,No,No
+67350,Postage Central Asia,Expense,GST on Expenses,,No,No,No
+67355,Research & Development CA,Expense,GST on Expenses,,No,No,No
+67360,Stationery & Consumables CA,Expense,GST on Expenses,,No,No,No
+67365,Subscriptions & Memberships CA,Expense,GST on Expenses,,No,No,No
+67370,Taxis Central Asia,Expense,GST on Expenses,,No,No,No
+67375,Telephone Central Asia,Expense,GST on Expenses,,No,No,No
+67380,Website Central Asia,Expense,GST on Expenses,,No,No,No
+67600,Travel Expenses Central Asia,Expense,BAS Excluded,,No,No,No
+67610,Airfares Domestic Central Asia,Expense,GST on Expenses,,No,No,No
+67620,Airfares International CA,Expense,BAS Excluded,,No,No,No
+67630,Accommodation Central Asia,Expense,GST on Expenses,,No,No,No
+67640,Kilometres Central Asia,Expense,BAS Excluded,,No,No,No
+67650,Meals etc Central Asia,Expense,GST on Expenses,,No,No,No
+67660,Sundry Travel Expenses CA,Expense,GST on Expenses,,No,No,No
+67700,Marketing & Development CA,Expense,BAS Excluded,,No,No,No
+67705,Advertising Central Asia,Expense,GST on Expenses,,No,No,No
+67710,Airfares Central Asia,Expense,GST on Expenses,,No,No,No
+67715,Accommodation Central Asia,Expense,GST on Expenses,,No,No,No
+67720,Entertainment Client CA,Expense,GST on Expenses,,No,No,No
+67725,Gifts Client Central Asia,Expense,GST on Expenses,,No,No,No
+67730,Legal Expenses Central Asia,Expense,GST on Expenses,,No,No,No
+67735,Meals Central Asia,Expense,GST on Expenses,,No,No,No
+67740,Parking Central Asia,Expense,GST on Expenses,,No,No,No
+67745,Printing Central Asia,Expense,GST on Expenses,,No,No,No
+67750,Research & Development CA,Expense,BAS Excluded,,No,No,No
+67755,Stationery & Consumables CA,Expense,GST on Expenses,,No,No,No
+67760,Taxis Central Asia,Expense,GST on Expenses,,No,No,No
+67765,Wages Central Asia,Expense,BAS Excluded,,No,No,No
+67770,Website Central Asia,Expense,GST on Expenses,,No,No,No
+68000,ASSURANCE SERVICES,Expense,BAS Excluded,,No,No,No
+68300,General Expenses Assurance,Expense,BAS Excluded,,No,No,No
+68305,Advertising Assurance,Expense,GST on Expenses,,No,No,No
+68310,Archiving Assurance,Expense,GST on Expenses,,No,No,No
+68315,Couriers Assurance,Expense,GST on Expenses,,No,No,No
+68320,Entertainment Client Assurance,Expense,GST on Expenses,,No,No,No
+68325,Gifts Clients Assurance,Expense,GST on Expenses,,No,No,No
+68330,Internet/Email Assurance,Expense,BAS Excluded,,No,No,No
+68335,Magazines & Periodicals ASS,Expense,BAS Excluded,,No,No,No
+68340,Parking Assurance,Expense,BAS Excluded,,No,No,No
+68345,Printing Assurance,Expense,BAS Excluded,,No,No,No
+68350,Postage Assurance,Expense,GST on Expenses,,No,No,No
+68355,Research & Development ASS,Expense,BAS Excluded,,No,No,No
+68360,Stationery & Consumables ASS,Expense,GST on Expenses,,No,No,No
+68365,Subscriptions & Membership ASS,Expense,GST on Expenses,,No,No,No
+68370,Taxis Assurance,Expense,GST on Expenses,,No,No,No
+68375,Telephone Assurance,Expense,GST on Expenses,,No,No,No
+68380,Website Assurance,Expense,GST on Expenses,,No,No,No
+68600,Travel Expenses Assurance,Expense,BAS Excluded,,No,No,No
+68610,Airfares Domestic Assurance,Expense,GST on Expenses,,No,No,No
+68620,Airfares International ASS,Expense,BAS Excluded,,No,No,No
+68630,Accommodation Assurance,Expense,GST on Expenses,,No,No,No
+68640,Kilometres Assurance,Expense,BAS Excluded,,No,No,No
+68650,Meals etc Assurance,Expense,GST on Expenses,,No,No,No
+68660,Sundry Travel Expenses ASS,Expense,GST on Expenses,,No,No,No
+68700,Marketing & Development ASS,Expense,BAS Excluded,,No,No,No
+68705,Advertising Assurance,Expense,GST on Expenses,,No,No,No
+68710,Airfares Assurance,Expense,GST on Expenses,,No,No,No
+68715,Accommodation Assurance,Expense,GST on Expenses,,No,No,No
+68720,Entertainment Client Assurance,Expense,GST on Expenses,,No,No,No
+68725,Gifts Client Assurance,Expense,GST on Expenses,,No,No,No
+68730,Legal Expenses Assurance,Expense,GST on Expenses,,No,No,No
+68735,Meals Assurance,Expense,GST on Expenses,,No,No,No
+68740,Parking Assurance,Expense,GST on Expenses,,No,No,No
+68745,Printing Assurance,Expense,GST on Expenses,,No,No,No
+68750,Research & Development ASS,Expense,GST on Expenses,,No,No,No
+68755,Stationery & Consumables ASS,Expense,GST on Expenses,,No,No,No
+68760,Taxis Assurance,Expense,GST on Expenses,,No,No,No
+68765,Wages Assurance,Expense,BAS Excluded,,No,No,No
+68770,Website Assurance,Expense,GST on Expenses,,No,No,No
+68900,Other Expenses,Expense,BAS Excluded,,No,No,No
+68960,Income Tax Expenses,Expense,BAS Excluded,,No,No,No
+69000,CONTRACTING,Expense,BAS Excluded,,No,No,No
+69010,Employment Exp-Contracting,Expense,BAS Excluded,,No,No,No
+69150,Repairs&Mtce MV-Contracting,Expense,BAS Excluded,,No,No,No
+69160,Bank Charges-Contracting,Expense,BAS Excluded,,No,No,No
+69300,General Expenses Contracting,Expense,BAS Excluded,,No,No,No
+69305,Advertising Contracting,Expense,BAS Excluded,,No,No,No
+69310,Archiving Contracting,Expense,BAS Excluded,,No,No,No
+69311,Computer Software-Contracting,Expense,BAS Excluded,,No,No,No
+69312,Computer HWare Access: Contr,Expense,BAS Excluded,,No,No,No
+69315,Courier Contracting,Expense,BAS Excluded,,No,No,No
+69316,Credit Card Charge-Contracting,Expense,BAS Excluded,,No,No,No
+69317,Donation- Contracting,Expense,BAS Excluded,,No,No,No
+69320,Entertainment Clients Contr,Expense,BAS Excluded,,No,No,No
+69323,Fuel Contracting,Expense,BAS Excluded,,No,No,No
+69324,Fines & Panelties-Contr,Expense,BAS Excluded,,No,No,No
+69325,Gifts Client Contracting,Expense,BAS Excluded,,No,No,No
+69327,Insurance Contracting,Expense,BAS Excluded,,No,No,No
+69330,Internet/Email Contracting,Expense,BAS Excluded,,No,No,No
+69335,Magazines & Periodicals Contr,Expense,BAS Excluded,,No,No,No
+69340,Parking Contr,Expense,BAS Excluded,,No,No,No
+69345,Printing Contracting,Expense,BAS Excluded,,No,No,No
+69350,Postage Contracting,Expense,BAS Excluded,,No,No,No
+69355,Research & Development Contr,Expense,BAS Excluded,,No,No,No
+69360,Stationery & Consumables Contr,Expense,BAS Excluded,,No,No,No
+69365,Subscriptn & Memberships Contr,Expense,BAS Excluded,,No,No,No
+69367,Staff amenities - Contracting,Expense,BAS Excluded,,No,No,No
+69370,Taxis Contracting,Expense,BAS Excluded,,No,No,No
+69375,Telephone Contracting,Expense,BAS Excluded,,No,No,No
+69377,Staff Training Contracting,Expense,BAS Excluded,,No,No,No
+69380,Website Contracting,Expense,BAS Excluded,,No,No,No
+69465,Uniform - Contracting,Expense,BAS Excluded,,No,No,No
+69600,Travel Expenses Contracting,Expense,BAS Excluded,,No,No,No
+69610,Airfares Domestic Contracting,Expense,BAS Excluded,,No,No,No
+69620,Airfares International Contr,Expense,BAS Excluded,,No,No,No
+69630,Accommodation Contracting,Expense,BAS Excluded,,No,No,No
+69640,Kilometres Contracting,Expense,BAS Excluded,,No,No,No
+69650,Meals etc Contracting,Expense,BAS Excluded,,No,No,No
+69660,Sundry Travel Expenses Contr,Expense,BAS Excluded,,No,No,No
+69700,Marketing & Development Contr,Expense,BAS Excluded,,No,No,No
+69705,Advertising Contracting,Expense,BAS Excluded,,No,No,No
+69710,Airfares Contracting,Expense,BAS Excluded,,No,No,No
+69715,Accommodation Contracting,Expense,BAS Excluded,,No,No,No
+69720,Entertainment Client Contr,Expense,BAS Excluded,,No,No,No
+69725,Gifts Client Contracting,Expense,BAS Excluded,,No,No,No
+69730,Legal Expenses Contracting,Expense,BAS Excluded,,No,No,No
+69735,Meals Contracting,Expense,BAS Excluded,,No,No,No
+69740,Parking Contracting,Expense,BAS Excluded,,No,No,No
+69745,Printing Contracting,Expense,BAS Excluded,,No,No,No
+69750,Research & Development Contr,Expense,BAS Excluded,,No,No,No
+69755,Stationery & Consumables Contr,Expense,BAS Excluded,,No,No,No
+69760,Taxis Contracting,Expense,BAS Excluded,,No,No,No
+69765,Wages Contracting,Expense,BAS Excluded,,No,No,No
+69770,Website Contracting,Expense,BAS Excluded,,No,No,No
+80000,Other Income,Other Income,BAS Excluded,,No,No,No
+80100,R&D tax offset,Other Income,BAS Excluded,,No,No,No
+81100,Employee Contributions,Other Income,BAS Excluded,,No,No,No
+81971,Admin Fee - Australia,Other Income,BAS Excluded,,No,No,No
+81972,Admin Fee - Overseas,Other Income,BAS Excluded,,No,No,No
+81990,Interest Received Bankwest,Other Income,BAS Excluded,,No,No,No
+81991,Interest Received - ATO,Other Income,BAS Excluded,,No,No,No
+81992,Interest Received - St George,Other Income,BAS Excluded,,No,No,No
+81993,Interest Received - Other,Other Income,BAS Excluded,,No,No,No
+81994,Interest Received - ANZ,Other Income,BAS Excluded,,No,No,No
+82020,Reimbursement - M/V Expenses,Other Income,BAS Excluded,,No,No,No
+82030,JobKeeper Subsidy (No GST),Other Income,BAS Excluded,COVID 19 relief Government subsidy through JobKeeper Scheme,No,No,No
+82035,Economic Cash Boost Stimulus,Other Income,BAS Excluded,COVID-19 Cash Flow Stimulus Payments,No,No,No
+82036,COVID 19 Payroll Tax Grant,Other Income,BAS Excluded,COVID -19 PAyroll Tax Grant,No,No,No
+82051,Insurance recoveries,Other Income,BAS Excluded,,No,No,No
+82110,Profit on Sale of Assets,Other Income,BAS Excluded,,No,No,No
+83000,Private surcharge M/V Expenses,Other Income,BAS Excluded,,No,No,No
+84000,Dividend Received - Sustainability International Pte Ltd,Other Income,BAS Excluded,,No,No,No
+84140,Rental Income,Other Income,BAS Excluded,,No,No,No
+85000,Austrade Grant,Other Income,BAS Excluded,,No,No,No
+85001,Enterprise Grant,Other Income,BAS Excluded,,No,No,No
+86000,Overseas Staff Development,Other Income,BAS Excluded,,No,No,No
+90000,Other Expenses,Expense,BAS Excluded,,No,No,No
+92110,Loss on Sale of Assets,Expense,BAS Excluded,,No,No,No
+92111,Unrealised Foreighn Exchange,Expense,BAS Excluded,,No,No,No
+92112,Division 7A Loans Cleared,Expense,BAS Excluded,,No,No,No
+92115,Bad Debts Written Off,Expense,BAS Excluded,,No,No,No

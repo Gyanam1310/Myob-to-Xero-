@@ -1,0 +1,699 @@
+*ItemCode,ItemName,PurchasesDescription,PurchasesUnitPrice,PurchasesAccount,PurchasesTaxRate,SalesDescription,SalesUnitPrice,SalesAccount,SalesTaxRate
+ZZZ0001,WanmaLab Pendulum,.,"£6,990.00",50001.0,N-T,.,"£10,550.00",43003.0,BAS Excluded
+ZZZ319,Flat Bed Trolley,.,£46.00,50001.0,GST,.,£65.00,43003.0,BAS Excluded
+ZZZ0003,Wessex Tortus 3,.,"£7,570.00",50001.0,N-T,.,"£9,950.00",43003.0,BAS Excluded
+ZZZ104,Wessex Release Plunger Spring,.,£1.50,50001.0,GST,.,£2.00,43003.0,BAS Excluded
+ZZZ114,Pendulum Release Catch,.,£105.62,50001.0,GST,.,£148.00,43003.0,BAS Excluded
+ZZZ136,Pendulum Locking Knob,.,£87.96,50001.0,GST,.,£123.00,43003.0,BAS Excluded
+ZZZ105,Wessex Release Plunger,.,£42.93,50001.0,GST,.,£61.00,43003.0,BAS Excluded
+ZZZ132,Pendulum Arm,.,£70.10,50001.0,GST,.,£78.00,43003.0,BAS Excluded
+ZZZ133,Pointer Counter Balance,.,£106.10,50001.0,GST,.,£245.00,43003.0,BAS Excluded
+ZZZ138,Pendulum Clamping Nut,.,£123.90,50001.0,GST,.,£174.00,43003.0,BAS Excluded
+ZZZ100,Wessex Verification Tile Jig,Wessex Verification Testing Jig,£420.00,50001.0,N-T,Wessex Verification Testing Jig,£495.00,43003.0,BAS Excluded
+ZZZ2001,4S (96) Rubber Slider,.,£61.50,50001.0,N-T,.,£95.00,43003.0,BAS Excluded
+ZZZ2004,TRS Float Glass,.,£115.00,50001.0,GST,.,£185.00,43003.0,BAS Excluded
+ZZZ0005,WessexPendulum Calibration Rig,.,"£2,585.00",50001.0,GST,.,"£3,300.00",43003.0,BAS Excluded
+ZZZ2005,Pavigres Tile,.,£155.00,50001.0,GST,.,£185.00,43003.0,BAS Excluded
+ZZZ101,Wessex Slider Humpback Pin,.,£0.44,50001.0,GST,.,£2.00,43003.0,BAS Excluded
+ZZZ102,Wessex Slider Spring,Wessex Pendulum Slider Spring,£19.60,50001.0,N-T,Wessex Pendulum Slider Spring,£28.00,43003.0,BAS Excluded
+ZZZ103,Wessex Slider Washer,.,£0.36,50001.0,GST,.,£1.00,43003.0,BAS Excluded
+ZZZ2002,TRL (55) Rubber Slider,.,£61.50,50001.0,GST,.,£95.00,43003.0,BAS Excluded
+ZZZ107,Socket Head Screw (M4x10mm SS),.,£3.00,50001.0,GST,.,£4.00,43003.0,BAS Excluded
+ZZZ108,Socket Head Screw (M4x5mm SS),.,£3.00,50001.0,GST,.,£4.00,43003.0,BAS Excluded
+ZZZ106,Wessex Bullseye Level,.,£43.90,50001.0,GST,.,£46.00,43003.0,BAS Excluded
+ZZZ109,M5x10mm Socket Head Grub Screw,.,£1.33,50001.0,GST,.,£2.00,43003.0,BAS Excluded
+ZZZ110,Nylon Screw (M5x10mm),.,£0.75,50001.0,GST,.,£2.00,43003.0,BAS Excluded
+ZZZ113,Pendulum Pointer Tip (Small),.,£4.00,50001.0,GST,.,£5.00,43003.0,BAS Excluded
+ZZZ111,Nylon Screw M6x25mm,.,£17.00,50001.0,GST,.,£1.50,43003.0,BAS Excluded
+ZZZ112,Pointer Tip (Large Gauge),.,£4.00,50001.0,GST,.,£5.00,43003.0,BAS Excluded
+ZZZ2003,Slider Backing Plate,.,£25.00,50001.0,GST,.,£45.00,43003.0,BAS Excluded
+ZZZ226,Knurled Thumb Screw M4 25mm,.,£12.68,50001.0,GST,.,£10.00,43003.0,BAS Excluded
+ZZZ116,Knurled Nut and Screw,.,£22.10,50001.0,GST,.,£31.00,43003.0,BAS Excluded
+ZZZ117,Nut M10x30mm,Pendulum Nut (Zenith M10 Stainless Steel Hex Nut M10x30mm),£0.48,50001.0,GST,Pendulum Nut (Zenith M10 Stainless Steel Hex Nut M10x30mm),£1.00,43003.0,BAS Excluded
+ZZZ125,Pendulum C Spanner,.,£49.99,50001.0,GST,.,£70.00,43003.0,BAS Excluded
+ZZZ118,Flat Washer M10x20mm,.,£0.90,50001.0,GST,.,£2.00,43003.0,BAS Excluded
+ZZZ119,Nylon Nut M6,.,£16.71,50001.0,GST,.,£21.00,43003.0,BAS Excluded
+ZZZ121,Levelling Feet Nylon Flange,.,£40.00,50001.0,GST,.,£56.00,43003.0,BAS Excluded
+ZZZ122,Pendulum Felt Friction Ring,.,£131.95,50001.0,N-T,.,£45.00,43003.0,BAS Excluded
+ZZZ115,Pointer Adjustment Striker,.,£84.57,50001.0,GST,.,£119.00,43003.0,BAS Excluded
+ZZZ800,Calibration Microfibre Cloth,Blue,£4.00,50001.0,GST,Blue,£6.00,43003.0,BAS Excluded
+ZZZ134,Pendulum Levelling Feet,.,£84.82,50001.0,GST,.,£119.00,43003.0,BAS Excluded
+ZZZ137,Pendulum Release Button,.,£78.97,50001.0,GST,.,£111.00,43003.0,BAS Excluded
+ZZZ131,Pendulum Pointer Arm (MK2),.,£10.95,50001.0,GST,.,£16.00,43003.0,BAS Excluded
+ZZZ130,Pendulum Pointer Arm (MK1),Pendulum Pointer Arm (MK1) - For new Wessex Model Pendulum ,£131.95,50001.0,N-T,Pendulum Pointer Arm (MK1) - For new Wessex Model Pendulum ,£245.00,43003.0,BAS Excluded
+ZZZ126,Pendulum Slider Lifting Arm,.,£249.60,50001.0,GST,.,£349.00,43003.0,BAS Excluded
+ZZZ230,Tortus 3 Battery Pack,.,£89.85,50001.0,GST,.,£0.00,43003.0,BAS Excluded
+ZZZ501,Cal Plate (AU) - Pendulum ,.,£8.50,50001.0,GST,.,£15.00,43003.0,BAS Excluded
+ZZZ128,Pendulum Slider Support Rod,.,£88.00,50001.0,GST,.,£142.00,43003.0,BAS Excluded
+ZZZ202,Tortus Slider Plunger,.,£15.41,50001.0,GST,.,£15.00,43003.0,BAS Excluded
+ZZZ203,Grub Screw M3x6mm,.,£0.86,50001.0,GST,.,£10.00,43003.0,BAS Excluded
+ZZZ204,Grub Screw M3x3mm,.,£0.95,50001.0,GST,.,£9.00,43003.0,BAS Excluded
+ZZZ205,Nyloc Nut M4,.,£3.25,50001.0,GST,.,£3.00,43003.0,BAS Excluded
+ZZZ206,Pan Head Screw M4x10mm,.,£0.95,50001.0,GST,.,£1.00,43003.0,BAS Excluded
+ZZZ207,Pan Head Screw M3x8mm,.,£0.95,50001.0,GST,.,£1.00,43003.0,BAS Excluded
+ZZZ1101,Munro Felt Friction Ring,.,£11.75,50001.0,GST,.,£20.00,43003.0,BAS Excluded
+ZZZ1102,Munro Pendulum Bullseye Level,.,£64.30,50001.0,GST,.,£90.00,43003.0,BAS Excluded
+ZZZ1121,Munro Pointer,.,£52.85,50001.0,GST,.,£73.00,43003.0,BAS Excluded
+ZZZ227,Tortus Printer Spindle,.,£38.90,50001.0,GST,.,£40.00,43003.0,BAS Excluded
+ZZZ239,Tortus Drive Motor,.,£218.54,50001.0,GST,.,£420.00,43003.0,BAS Excluded
+ZZZ201,Tortus Load Cell,.,"£1,093.00",50001.0,GST,.,"£1,367.00",43003.0,BAS Excluded
+ZZZ212,Tortus Load Cell Bracket Screw,.,£3.00,50001.0,GST,.,£4.00,43003.0,BAS Excluded
+ZZZ213,Tortus Slider Post,.,£65.55,50001.0,GST,.,£59.85,43003.0,BAS Excluded
+ZZZ214,Tortus Slider Foot,.,£68.39,50001.0,GST,.,£95.00,43003.0,BAS Excluded
+ZZZ215,Tortus Linear Ball Bearings,.,£35.00,50001.0,GST,.,£50.00,43003.0,BAS Excluded
+ZZZ228,Tortus USB Stick,.,£39.90,50001.0,GST,.,£56.00,43003.0,BAS Excluded
+ZZZ238,Tortus 2 Printer,.,£57.00,50001.0,GST,.,£120.00,43003.0,BAS Excluded
+ZZZ209,Tortus Printer Bracket Screw,.,£1.50,50001.0,GST,.,£1.50,43003.0,BAS Excluded
+ZZZ813,,.,,,,.,,,BAS Excluded
+ZZZ241,Tortus 3 Charge Unit,.,£90.00,50001.0,GST,.,£130.00,43003.0,BAS Excluded
+ZZZ225,Tortus 2 Optek IR Sensor,.,£2.20,50001.0,GST,.,£10.00,43003.0,BAS Excluded
+ZZZ229,Tortus 3 USB Board,.,£178.57,50001.0,GST,.,£65.00,43003.0,BAS Excluded
+ZZZ218,Tortus Control Buttons,.,£1.45,50001.0,GST,.,£5.00,43003.0,BAS Excluded
+ZZZ243,Tortus Paper Rolls,.,£4.00,50001.0,GST,.,£6.00,43003.0,BAS Excluded
+ZZZ242,Tortus Carry Bag,.,£300.00,50001.0,GST,.,£400.00,43003.0,BAS Excluded
+ZZZ223,Tortus Fuse 2.5amp,.,£1.45,50001.0,GST,.,£5.00,43003.0,BAS Excluded
+ZZZ224,Tortus Fuse 6.5amp,.,£0.40,50001.0,GST,.,£10.00,43003.0,BAS Excluded
+ZZZ2006,3M Lapping Film (pack 10),.,£2.09,50001.0,N-T,.,£50.00,43003.0,BAS Excluded
+ZZZ2007,P400 Paper (Pack 10),.,£1.06,50001.0,GST,.,£20.00,43003.0,BAS Excluded
+ZZZ324,Conditioning Board Feet,.,£1.40,50001.0,GST,.,£2.50,43003.0,BAS Excluded
+ZZZ325,Conditioning Board Plates,.,£10.00,50001.0,GST,.,£60.00,43003.0,BAS Excluded
+ZZZ326,Dry Control Testing BoardPlate,.,£20.00,50001.0,GST,.,£19.80,43003.0,BAS Excluded
+ZZZ304,Digital Site Thermometer,.,£10.35,50001.0,GST,.,£30.00,43003.0,BAS Excluded
+ZZZ307,Digital Site Level,.,£144.54,50001.0,GST,.,£185.00,43003.0,BAS Excluded
+ZZZ306,Spray Bottle,.,£3.20,50001.0,GST,.,£5.00,43003.0,BAS Excluded
+ZZZ313,Wet Floor Sign,.,£7.60,50001.0,GST,.,£20.00,43003.0,BAS Excluded
+ZZZ311,Blue Mop Head,.,£17.41,50001.0,GST,.,£22.00,43003.0,BAS Excluded
+ZZZ312,Telescopic Mop Handle,.,£11.00,50001.0,GST,.,£20.00,43003.0,BAS Excluded
+ZZZ301,Clipboard A4 (Dry),.,£3.84,50001.0,GST,.,£10.00,43003.0,BAS Excluded
+ZZZ302,Clipboard A4 (Wet),.,£4.50,50001.0,GST,.,£8.00,43003.0,BAS Excluded
+ZZZ303,Microfibre Dry Testing Cloth,.,£8.50,50001.0,GST,.,£12.00,43003.0,BAS Excluded
+ZZZ316,Step Testing Jack,.,£70.00,50001.0,GST,.,£100.00,43003.0,BAS Excluded
+ZZZ305,Testing Stool,.,£19.99,50001.0,GST,.,£35.00,43003.0,BAS Excluded
+ZZZ315,Traffic Cone,.,£13.13,50001.0,GST,.,£20.00,43003.0,BAS Excluded
+ZZZ314,Traffic Cone 'Keep Out' Collar,.,£9.63,50001.0,GST,.,£6.00,43003.0,BAS Excluded
+ZZZ809,Digital Inclinometer,.,£45.00,50001.0,GST,.,£63.00,43003.0,BAS Excluded
+ZZZ308,Doorstop,.,£1.55,50001.0,GST,.,£2.00,43003.0,BAS Excluded
+ZZZ502,Cal Temp Label - Pendulum,.,£1.50,50001.0,GST,.,£2.00,43003.0,BAS Excluded
+ZZZ504,Sticker - GPC Sample Label,.,£2.50,50001.0,GST,.,£3.50,43003.0,BAS Excluded
+ZZZ507,Sticker - General Equipment,.,£1.50,50001.0,GST,.,£2.00,43003.0,BAS Excluded
+ZZZ506,Sticker - Trolley Box,.,£15.00,50001.0,GST,.,£15.00,43003.0,BAS Excluded
+ZZZ803,Wet Floor Sign Sticker,.,£8.00,50001.0,GST,.,£15.00,43003.0,BAS Excluded
+ZZZ310,Trolley Storage Box,.,£150.00,50001.0,GST,.,£200.00,43003.0,BAS Excluded
+ZZZ320,Trolley Base Cups (Small),.,£1.40,50001.0,GST,.,£5.00,43003.0,BAS Excluded
+ZZZ321,Trolley Base Cups (Large),.,£3.25,50001.0,GST,.,£5.00,43003.0,BAS Excluded
+ZZZ322,Trolley Cup Bolt M8x40mm,.,£0.45,50001.0,GST,.,£1.00,43003.0,BAS Excluded
+ZZZ323,Trolley Cup Lock Nut M8,.,£0.13,50001.0,GST,.,£3.00,43003.0,BAS Excluded
+ZZZ327,Wet Ancillary Kit Hard Case,.,£389.00,50001.0,GST,.,£550.00,43003.0,BAS Excluded
+ZZZ318,Dry Ancillary Kit Strap,.,£9.90,50001.0,GST,.,£15.00,43003.0,BAS Excluded
+ZZZ807,Packaging Bag (Lapping),.,£1.60,50001.0,GST,.,£2.50,43003.0,BAS Excluded
+ZZZ815,Packaging Bag (Slider),.,£2.50,50001.0,GST,.,£3.50,43003.0,BAS Excluded
+ZZZ806,Packaging Bag (Post Pack),.,£3.00,50001.0,GST,.,£4.00,43003.0,BAS Excluded
+ZZZ328,Cotton Calibration Gloves,.,£11.18,50001.0,GST,.,£16.00,43003.0,BAS Excluded
+ZZZ309,Digital Inclinometer,.,£42.70,50001.0,GST,.,£65.00,43003.0,BAS Excluded
+ZZZ211,Tortus 3 Charge Connector,.,£1.45,50001.0,GST,.,£5.00,43003.0,BAS Excluded
+ZZZ701,Pendulum Trolley,.,£70.00,50001.0,GST,.,£120.00,43003.0,BAS Excluded
+ZZZZ810,Calibration Temporary Label,Calibration Temporary Label - Pendulum,£1.00,50001.0,GST,Calibration Temporary Label - Pendulum,£0.00,43003.0,BAS Excluded
+ZZZ503,Cal Temp Label - Tortus,Calibration Temporary Label - Tortus,£1.50,50001.0,GST,Calibration Temporary Label - Tortus,£0.00,43003.0,BAS Excluded
+ZZZ804,Sticker - GPC Sample Label,.,£2.50,50001.0,GST,.,£0.00,43003.0,BAS Excluded
+ZZZ505,Sticker - Wet Floor Sign,.,£14.36,50001.0,GST,.,£20.00,43003.0,BAS Excluded
+ZZZ210,Tortus Bag Zipper,.,£1.65,50001.0,GST,.,£4.00,43003.0,BAS Excluded
+ZZZ401,WD40 (275g),.,£7.45,50001.0,GST,.,£11.00,43003.0,BAS Excluded
+ZZZ402,Mentholated Spirits (1 Liter),.,£3.70,50001.0,GST,.,£0.00,43003.0,BAS Excluded
+ZZZ403,Turpentine (1 Litre),.,£7.70,50001.0,GST,.,£0.00,43003.0,BAS Excluded
+ZZZ404,Black Spray Paint,.,£8.30,50001.0,GST,.,£0.00,43003.0,BAS Excluded
+ZZZ139,Pendulum Case Bracket (Top),.,£10.00,50001.0,GST,.,£14.00,43003.0,BAS Excluded
+ZZZ140,Pendulum Case Bracket (Bottom),.,£10.00,50001.0,GST,.,£14.00,43003.0,BAS Excluded
+ZZZ208,Tortus Foot M4 Ballspring Plun,.,£2.20,50001.0,GST,.,£2.66,43003.0,BAS Excluded
+ZZZ4001,Training - Pendulum (AS4663),.,,,,.,"£1,995.00",43003.0,BAS Excluded
+ZZZ120,M4x6mm Socket Head Grub Screw,.,£0.25,50001.0,GST,.,£1.00,43003.0,BAS Excluded
+ZZZ124,Pendulum M6 Foot Block Bolts,.,£0.47,50001.0,GST,.,£1.00,43003.0,BAS Excluded
+ZZZ127,Pendulum Arm Spring Assembly,.,£124.10,50001.0,GST,.,£174.00,43003.0,BAS Excluded
+ZZZ123,Arm Spring Tension Clip,.,£88.10,50001.0,GST,.,£124.00,43003.0,BAS Excluded
+ZZZ129,Pendulum Foot Assembly Cover,.,£306.03,50001.0,GST,.,£429.00,43003.0,BAS Excluded
+ZZZ135,Levelling Feet Screw Knob,.,£23.73,50001.0,GST,.,£34.00,43003.0,BAS Excluded
+ZZZ237,Tortus 2 Front Wheel Assembly,.,£160.00,50001.0,GST,.,£200.00,43003.0,BAS Excluded
+ZZZ236,Tortus 2 Wheel Screws,.,£0.90,50001.0,GST,.,£1.50,43003.0,BAS Excluded
+ZZZ235,Tortus 2 Battery Door Screws,.,£0.90,50001.0,GST,.,£1.40,43003.0,BAS Excluded
+ZZZ234,Tortus 2 Case Fasteners,.,£0.90,50001.0,GST,.,£1.40,43003.0,BAS Excluded
+ZZZ233,Tortus 2 Printer Screws,.,£0.90,50001.0,GST,.,£1.40,43003.0,BAS Excluded
+ZZZ232,Tortus 2 Battery,.,£106.10,50001.0,GST,.,£120.00,43003.0,BAS Excluded
+ZZZ231,Tortus Power Buttons,.,£46.10,50001.0,GST,.,£36.00,43003.0,BAS Excluded
+ZZZ222,Tortus 2 Drive Motor Gears,.,£111.10,50001.0,GST,.,£125.00,43003.0,BAS Excluded
+ZZZ221,Tortus 2 Sensor Chip,.,£36.10,50001.0,GST,.,£25.00,43003.0,BAS Excluded
+ZZZ220,Tortus 2 Display Connector,.,£36.10,50001.0,GST,.,£25.00,43003.0,BAS Excluded
+ZZZ219,Tortus 2 Number Display Connec,.,£36.10,50001.0,GST,.,£25.00,43003.0,BAS Excluded
+ZZZ217,Tortus 2 Charge Connector,.,£30.00,50001.0,GST,.,£36.00,43003.0,BAS Excluded
+ZZZ216,Tortus 2 Rear Wheel,.,£90.00,50001.0,GST,.,£110.00,43003.0,BAS Excluded
+ZZZ4011,Training - Tortus (AS4663),.,,,,.,£995.00,43003.0,BAS Excluded
+ZZZ3001,Calibration- Pendulum,.,,,,.,"£1,100.00",43003.0,BAS Excluded
+ZZZ3004,Control Testing- Tortus,.,,,,.,£500.00,43003.0,BAS Excluded
+ZZZ3003,Control Testing- Pendulum,.,,,,.,£500.00,43003.0,BAS Excluded
+ZZZ317,Calibration Microfibre Cloth,.,£16.00,,GST,.,,,BAS Excluded
+ZZZ340,Safety - ISTS Hi-Viz vest,.,£6.95,50001.0,GST,.,£10.00,43003.0,BAS Excluded
+ZZZ341,Safety - Hard Hat,.,£10.95,50001.0,GST,.,£10.00,43003.0,BAS Excluded
+ZZZ3005,Equipment Repair- Labour charg,.,,,,.,£130.00,43003.0,BAS Excluded
+ZZZ152,Pendulum M6x30mm Hex-Head Bolt,.,£1.77,50001.0,GST,.,£3.00,43003.0,BAS Excluded
+ZZZ342,Safety - Gloves,.,£19.98,50001.0,GST,.,£28.00,43003.0,BAS Excluded
+ZZZ244,Tortus 3 Battery Connectors,.,£3.00,50001.0,GST,.,£5.00,43003.0,BAS Excluded
+ZZZ145,Pendulum 6 BA Screws,.,£0.50,50001.0,GST,.,£1.00,43003.0,BAS Excluded
+ZZZ343,Safety - Glasses,.,£9.98,50001.0,GST,.,£14.00,43003.0,BAS Excluded
+ZZZ3002,Calibration- Tortus,.,,,,.,£600.00,43003.0,BAS Excluded
+ZZZ1122,Munro Handle SA,.,£82.66,50001.0,N-T,.,£115.70,43003.0,BAS Excluded
+ZZZ151,Slider Measuring Tool Backing ,.,£0.00,50001.0,GST,.,£39.00,43003.0,BAS Excluded
+ZZZ146,Pendulum Foot Bearing,.,£0.00,50001.0,GST,.,£1.00,43003.0,BAS Excluded
+ZZZ147,Pendulum Head Pivot,.,£0.00,50001.0,GST,.,£0.00,43003.0,BAS Excluded
+ZZZ148,Pendulum High Friction Feet,.,£0.00,50001.0,GST,.,£100.00,43003.0,BAS Excluded
+ZZZ149,Pendulum Knurled Nut (M5x30mm),.,£12.68,50001.0,GST,.,£18.00,43003.0,BAS Excluded
+ZZZ150,Pendulum Arm Attachment Clamp,.,£0.00,50001.0,GST,.,£50.00,43003.0,BAS Excluded
+ZZZ2008,#60 Grit Paper,.,£1.29,50001.0,GST,.,£2.00,43003.0,BAS Excluded
+ZZZ814,Tortus Knurled Screw (M5x30mm),.,£12.68,50001.0,GST,.,£18.00,43003.0,BAS Excluded
+ZZZ329,Safety- Gear Bag,.,£15.98,50001.0,GST,.,£1.00,43003.0,BAS Excluded
+ZZZ405,Brass Polish,.,£30.94,50001.0,GST,.,£0.00,43003.0,BAS Excluded
+ZZZ406,Admin Archive Box,.,£10.00,50001.0,GST,.,£0.00,43003.0,BAS Excluded
+ZZZ407,Super Glue - Powerflex Gel,.,£9.30,50001.0,GST,.,£14.00,43003.0,BAS Excluded
+ZZZ408,Lock-Tite,.,£14.95,50001.0,GST,.,£0.00,43003.0,BAS Excluded
+ZZZ409,Spray Glue,.,£20.99,50001.0,GST,.,£0.00,43003.0,BAS Excluded
+ZZZ410,Packaging - Clear Wrap (roll),.,£19.99,50001.0,GST,.,£0.00,43003.0,BAS Excluded
+ZZZ411,Packaging - Scotch Tape,.,£4.98,50001.0,GST,.,£9.00,43003.0,BAS Excluded
+ZZZ412,Packaging - Large (A4),.,£0.10,,GST,.,,,BAS Excluded
+ZZZ413,Packaging - Medium Snaplock,.,£0.10,,GST,.,,,BAS Excluded
+ZZZ414,Packaging - Small Snaplock bag,.,£0.10,,GST,.,,,BAS Excluded
+ZZZ415,Packaging - Large Padded Satch,.,£1.46,,GST,.,,,BAS Excluded
+ZZZ416,Packaging - Small Padded Satch,.,£0.46,,GST,.,,,BAS Excluded
+ZZZ417,Microfibre Cleaning Cloths,Every pack has 20 clothes. ,£0.58,,GST,Every pack has 20 clothes. ,,,BAS Excluded
+ZZZ418,Packaging - Cardboard (roll),.,£54.95,,GST,.,,,BAS Excluded
+ZZZ508,Sticker - GES (Small),.,£0.50,,GST,.,,,BAS Excluded
+ZZZ702,Pendulum Conditioning Board,.,£19.00,50001.0,GST,.,£95.00,43003.0,BAS Excluded
+ZZZ703,Pendulum Onsite Testing Pack,.,£882.08,50001.0,GST,.,"£1,250.00",43003.0,BAS Excluded
+ZZZ704,Tortus Onsite Testing Pack,.,£47.00,50001.0,GST,.,£250.00,43003.0,BAS Excluded
+ZZZ705,Wessex P Verification Kit,.,£954.80,50001.0,GST,.,"£1,250.00",43003.0,BAS Excluded
+ZZZ706,Tortus Verification Kit,.,£115.50,50001.0,GST,.,£200.00,43003.0,BAS Excluded
+ZZZ707,ISTS Wet Floor Sign,.,£0.00,50001.0,GST,.,£0.00,43003.0,BAS Excluded
+601,ISTS Male Uniforms,.,£49.95,61803.0,GST,.,,,BAS Excluded
+602,ISTS Female Uniforms,.,£45.00,61803.0,GST,.,,,BAS Excluded
+603,ISTS Male Sweater,.,£62.00,61803.0,GST,.,,,BAS Excluded
+604,ISTS Female Sweater,.,£62.00,61803.0,GST,.,,,BAS Excluded
+605,ISTS Jacket,.,£81.00,61803.0,GST,.,,,BAS Excluded
+ZZZ153,Pendulum Foot Cover Bracket,Bracket sit on top of foot assembly,£18.00,50001.0,GST,Bracket sit on top of foot assembly,£0.00,43003.0,BAS Excluded
+ZZZ154,Pendulum Catch/ Release Block,.,£215.00,50001.0,GST,.,£0.00,43003.0,BAS Excluded
+ZZZ155,Pendulum Handle Cover Bracket,Pendulum carry handle screw bracket,£3.50,50001.0,GST,Pendulum carry handle screw bracket,£0.00,43003.0,BAS Excluded
+ZZZ1103,Munro Slider Spring,.,£18.50,50001.0,GST,.,£0.00,43003.0,BAS Excluded
+ZZZ1104,Munro Slider Pin,.,£4.30,50001.0,GST,.,£0.00,43003.0,BAS Excluded
+ZZZ1105,Munro Pointer Striker,.,£92.02,50001.0,GST,.,£0.00,43003.0,BAS Excluded
+ZZZ1106,Munro Slider Washer,.,£4.30,50001.0,GST,.,£0.00,43003.0,BAS Excluded
+ZZZ1107,Munro Nylon Screw,Munro Pointer Striker adjustment,£4.30,50001.0,N-T,Munro Pointer Striker adjustment,£0.00,43003.0,BAS Excluded
+ZZZ1108,Munro Nylon Nut,Munro Pointer Striker adjustment,£4.30,50001.0,N-T,Munro Pointer Striker adjustment,£0.00,43003.0,BAS Excluded
+ZZZ1125,Munro Spring Tension Assembly,Munro Tension Rod Assembly,£206.56,50001.0,GST,Munro Tension Rod Assembly,£0.00,43003.0,BAS Excluded
+ZZZ1109,Munro Tension Spring Assembly,.,£53.36,50001.0,N-T,.,£0.00,43003.0,BAS Excluded
+ZZZ344,Stainless Steel Ruler 15cm,.,£2.58,,GST,.,,,BAS Excluded
+ZZZ164,Pendulum Foot Post Bracket,.,£100.00,50001.0,GST,.,£140.00,43003.0,BAS Excluded
+ZZZ1120,M5 X25 Socket Head Cap Screw,.,£0.36,50001.0,GST,.,£1.80,43003.0,BAS Excluded
+ZZZ812,Trolley Cup Washer,.,£0.07,50001.0,GST,.,£1.00,43003.0,BAS Excluded
+ZZZ345,Trolley Cup Washers,.,£0.00,50001.0,GST,.,£0.00,43003.0,BAS Excluded
+ZZZ1126,Munro Wire Assembly,.,£0.00,50001.0,N-T,.,£0.00,43003.0,BAS Excluded
+ZZZ1123,Munro Levelling Screw,.,£0.00,50001.0,N-T,.,£0.00,43003.0,BAS Excluded
+ZZZ1124,Munro Pointer Stop Br,.,£0.00,50001.0,N-T,.,£0.00,43003.0,BAS Excluded
+ZZZ1110,Munro Levelling 'Screw' Screw,.,£0.50,50001.0,N-T,.,£1.00,43003.0,BAS Excluded
+ZZZ170,Pendulum Slider Rod Post,.,£0.00,50001.0,N-T,.,£0.00,43003.0,BAS Excluded
+ZZZ1111,Pointer Bearing Sub Assembly,.,£159.41,50001.0,N-T,.,£250.00,43003.0,BAS Excluded
+ZZZ1112,Munro Friction Ring Adjuster,.,£23.08,50001.0,N-T,.,£32.31,43003.0,BAS Excluded
+ZZZ1113,Munro Screw 10BA,.,£1.55,50001.0,N-T,.,£2.17,43003.0,BAS Excluded
+ZZZ0002,Wessex Pendulum (Used),.,"£3,850.00",50001.0,GST,.,"£5,950.00",43003.0,BAS Excluded
+ZZZ1127,Munro Pendulum Tool Kit,Tool Kit for Pendulum Tester \r\nStock: SX1704\r\n,£99.99,50001.0,N-T,Tool Kit for Pendulum Tester \r\nStock: SX1704\r\n,£158.00,43003.0,BAS Excluded
+ZZZ1114,Munro 6BA x 5/32,6BA X 5/32 CH/HD ST/ST\r\nSOTCK CODE: 101884A,£1.36,50001.0,N-T,6BA X 5/32 CH/HD ST/ST\r\nSOTCK CODE: 101884A,£20.00,43003.0,BAS Excluded
+ZZZ1115,Munro 6BA X 1/4,6BA X1/4 CH/HD ST/ST\r\nSTOCK CODE: 101884,£1.36,50001.0,N-T,6BA X1/4 CH/HD ST/ST\r\nSTOCK CODE: 101884,£20.00,43003.0,BAS Excluded
+ZZZ1128,Munro Pendulum Loading Spring ,Stock Code: 303172\r\n,£27.11,50001.0,N-T,Stock Code: 303172\r\n,£57.00,43003.0,BAS Excluded
+ZZZ1116,Munro Swinging Arm Adaptor,"Stock Code: 303202, ",£1.09,50001.0,N-T,"Stock Code: 303202, ",£20.00,43003.0,BAS Excluded
+ZZZ1117,Munro Pendulum Foot Weight ,Stock Code: 881144,£68.18,50001.0,N-T,Stock Code: 881144,£114.00,43003.0,BAS Excluded
+ZZZ1129,Munro Pendulum Swinging Arm ,Stock Code: 303200,£77.38,50001.0,N-T,Stock Code: 303200,£127.00,43003.0,BAS Excluded
+ZZZ1118,Munro Pendulum Bearing,Stock Code: 101596,£11.09,50001.0,N-T,Stock Code: 101596,£34.00,43003.0,BAS Excluded
+ZZZ509,Cal Plate (NZ) - Pendulum,.,£8.50,50001.0,GST,.,£15.00,43003.0,BAS Excluded
+ZZZ0004,Wessex Tortus 3 (Used),.,£0.00,50001.0,GST,.,£0.00,43003.0,BAS Excluded
+ZZZ00001,Munro Pendulum,.,"£7,191.31",50001.0,N-T,.,"£13,550.00",43003.0,BAS Excluded
+ZZZ00002,Munro Pendulum (Digital),.,£0.00,50001.0,N-T,.,£0.00,43003.0,BAS Excluded
+ZZZ00003,Munro Pendulum (Used),.,£0.00,50001.0,N-T,.,£0.00,43003.0,BAS Excluded
+ZZZ5012,Shipping Fee S12,.,,,,.,£300.00,42400.0,BAS Excluded
+ZZZ419,Packaging - Bubble Wrap,.,£11.47,,GST,.,,,BAS Excluded
+ZZZ2009,Tortus sliders (pack of 6),.,,50001.0,,.,£100.00,43003.0,BAS Excluded
+ZZZ1130,Munro Slider Measuring Tool,.,£21.57,50001.0,N-T,.,£39.00,43003.0,BAS Excluded
+ZZZ1119,Munro 6BA Bolt,.,£0.00,50001.0,N-T,.,£69.00,43003.0,BAS Excluded
+ZZZ708,Munro Verification Kit,.,£0.00,50001.0,N-T,.,"£1,250.00",43003.0,BAS Excluded
+ZZZ4002,Training - Pendulum AS/NZ4663,.,,,,.,£0.00,43003.0,BAS Excluded
+ZZZ4003,Training - Pendulum SS485,Introductory Training - Pendulum (SS 485),,,,Introductory Training - Pendulum (SS 485),£0.00,43003.0,BAS Excluded
+ZZZ4004,Training - Pendulum BS7976,Introductory Training - Pendulum (BS 7976),,,,Introductory Training - Pendulum (BS 7976),£0.00,43003.0,BAS Excluded
+ZZZ4005,Training -Pendulum CEN/TS16165,Introductory Training - Pendulum (CEN/TS 16165),,,,Introductory Training - Pendulum (CEN/TS 16165),£0.00,43003.0,BAS Excluded
+ZZZ4006,Training - Pendulum ASTM E303,Introductory Training - Pendulum (ASTM E303),,,,Introductory Training - Pendulum (ASTM E303),£0.00,43003.0,BAS Excluded
+ZZZ4007,Training - Pendulum GB/T35153,Introductory Training - Pendulum (GB/T 35153),,,,Introductory Training - Pendulum (GB/T 35153),£0.00,43003.0,BAS Excluded
+ZZZ4008,Training Pendulum Verification,Introductory Training - Pendulum Verification ,,,,Introductory Training - Pendulum Verification ,£0.00,43003.0,BAS Excluded
+ZZZ4012,Training - Tortus AS/NZ4663,Introductory Training - Tortus (AS/NZ 4663),,,,Introductory Training - Tortus (AS/NZ 4663),£0.00,43003.0,BAS Excluded
+ZZZ4013,Training Tortus Verification,Introductory Training - Tortus Verification ,,,,Introductory Training - Tortus Verification ,£0.00,43003.0,BAS Excluded
+ZZZ5001,Shipping Fee S1,.,,,,.,£25.00,43003.0,BAS Excluded
+ZZZ5002,Shipping Fee S2,.,,,,.,£50.00,43003.0,BAS Excluded
+ZZZ5003,Shipping Fee S3,.,,,,.,£75.00,43003.0,BAS Excluded
+ZZZ5004,Shipping Fee S4,.,,,,.,£100.00,43003.0,BAS Excluded
+ZZZ5005,Shipping Fee S5,.,,,,.,£125.00,43003.0,BAS Excluded
+ZZZ5011,Shipping Fee S11,.,,,,.,£275.00,43003.0,BAS Excluded
+ZZZ5013,Shipping Fee S13,.,,,,.,£325.00,43003.0,BAS Excluded
+ZZZ5014,Shipping Fee S14,.,,,,.,£350.00,43003.0,BAS Excluded
+ZZZ5015,Shipping Fee S15,.,,,,.,£375.00,43003.0,BAS Excluded
+ZZZ5016,Shipping Fee S16,.,,,,.,£400.00,43003.0,BAS Excluded
+ZZZ5101,Training Travel Fee T1 ,.,,,,.,£500.00,43003.0,BAS Excluded
+ZZZ5102,Training Travel Fee T2 ,.,,,,.,£750.00,43003.0,BAS Excluded
+ZZZ5103,Training Travel Fee T3,.,,,,.,"£1,000.00",43003.0,BAS Excluded
+ZZZ5104,Training Travel Fee T4,.,,,,.,"£1,250.00",43003.0,BAS Excluded
+ZZZ5105,Training Travel Fee T5,.,,,,.,"£1,500.00",43003.0,BAS Excluded
+ZZZ5111,Training Travel Fee T11,Training Travel Fee A (International),,,,Training Travel Fee A (International),"£3,000.00",43003.0,BAS Excluded
+ZZZ5112,Training Travel Fee T12,Training Travel Fee B (International),,,,Training Travel Fee B (International),"£3,250.00",43003.0,BAS Excluded
+ZZZ5113,Training Travel Fee T13,Training Travel Fee C (International),,,,Training Travel Fee C (International),"£3,500.00",43003.0,BAS Excluded
+ZZZ5114,Training Travel Fee T14,Training Travel Fee D (International),,,,Training Travel Fee D (International),"£3,750.00",43003.0,BAS Excluded
+ZZZ5115,Training Travel Fee T15,Training Travel Fee E (International),,,,Training Travel Fee E (International),"£4,000.00",43003.0,BAS Excluded
+ZZZ171,Wessex Head Pivot Lock Nut,.,£0.00,50001.0,N-T,.,£0.00,43003.0,BAS Excluded
+ZZZ172,Wessex Rear Frame Brass Nut,.,£0.00,50001.0,N-T,.,£0.00,43003.0,BAS Excluded
+ZZZ173,Wessex Arm Assemby Cover weigh,.,£0.00,50001.0,N-T,.,£0.00,43003.0,BAS Excluded
+ZZZ174,Wessex Rear Frame Foot Bot,.,£0.00,50001.0,N-T,.,£0.00,43003.0,BAS Excluded
+ZZZ175,Wessex Base Block,.,£0.00,50001.0,N-T,.,£0.00,43003.0,BAS Excluded
+ZZZ176,Wessex Rear Frame Block,.,£0.00,50001.0,N-T,.,£0.00,43003.0,BAS Excluded
+ZZZ177,Wessex Head Locking Bracket ,.,£0.00,50001.0,N-T,.,£0.00,43003.0,BAS Excluded
+ZZZ5006,Shipping Fee S6,.,,,,.,£150.00,43003.0,BAS Excluded
+ZZZ5007,Shipping Fee S7,.,,,,.,£175.00,43003.0,BAS Excluded
+ZZZ5008,Global Product Classification ,.,,,,.,£200.00,43003.0,BAS Excluded
+ZZZ5000,GES- Pick up from ISTS HQ,.,,,,.,£0.00,43003.0,BAS Excluded
+ZZZ5009,Shipping Fee S9,.,,,,.,£225.00,43003.0,BAS Excluded
+ZZZ5010,Shipping Fee S10,.,,,,.,£250.00,43003.0,BAS Excluded
+ZZZ5017,Shipping Fee S17,.,,,,.,£425.00,43003.0,BAS Excluded
+ZZZ5018,Shipping Fee S18,.,,,,.,£450.00,43003.0,BAS Excluded
+ZZZ5019,Shipping Fee S19,.,,,,.,£475.00,43003.0,BAS Excluded
+ZZZ5020,Shipping Fee S20,.,,,,.,£500.00,43003.0,BAS Excluded
+ZZZ5021,Shipping Fee S21,.,,,,.,£550.00,43003.0,BAS Excluded
+ZZZ5022,Shipping Fee S22,.,,,,.,£600.00,43003.0,BAS Excluded
+ZZZ5023,Shipping Fee S23,.,,,,.,£650.00,43003.0,BAS Excluded
+ZZZ5024,Shipping Fee S24,.,,,,.,£700.00,43003.0,BAS Excluded
+ZZZ5025,Shipping Fee S25,.,,,,.,£750.00,43003.0,BAS Excluded
+ZZZ5100,Training Performed at ISTS HQ,.,,,,.,£0.00,43003.0,BAS Excluded
+ZZZ5106,Training Travel Fee T6,.,,,,.,"£1,750.00",43003.0,BAS Excluded
+ZZZ5107,Training Travel Fee T7,.,,,,.,"£2,000.00",43003.0,BAS Excluded
+ZZZ5108,Training Travel Fee T8,.,,,,.,"£2,250.00",43003.0,BAS Excluded
+ZZZ5109,Training Travel Fee T9,.,,,,.,"£2,500.00",43003.0,BAS Excluded
+ZZZ5110,Training Travel Fee T10,.,,,,.,"£2,750.00",43003.0,BAS Excluded
+ZZZ5116,Training Travel Fee T16,.,,,,.,"£4,250.00",43003.0,BAS Excluded
+ZZZ5117,Training Travel Fee T17,.,,,,.,"£4,500.00",43003.0,BAS Excluded
+ZZZ5118,Training Travel Fee T18,.,,,,.,"£4,750.00",43003.0,BAS Excluded
+ZZZ5119,Training Travel Fee T19,.,,,,.,"£5,000.00",43003.0,BAS Excluded
+ZZZ5120,Training Travel Fee T20,.,,,,.,"£5,250.00",43003.0,BAS Excluded
+ZZZ5121,Training Travel Fee T21,.,,,,.,"£5,500.00",43003.0,BAS Excluded
+ZZZ5122,Training Travel Fee T22,.,,,,.,"£5,750.00",43003.0,BAS Excluded
+ZZZ5123,Training Travel Fee T23,.,,,,.,"£6,000.00",43003.0,BAS Excluded
+ZZZ5124,Training Travel Fee T24,.,,,,.,"£6,250.00",43003.0,BAS Excluded
+ZZZ5125,Training Travel Fee T25,.,,,,.,"£6,500.00",43003.0,BAS Excluded
+ZZZ2010,Munro Float Glass,.,£96.17,50001.0,N-T,.,£173.00,43003.0,BAS Excluded
+ZZZ2011,Munro Pavigres Tiles,.,£107.87,50001.0,N-T,.,£191.00,43003.0,BAS Excluded
+ZZZ246,Tortus Slider Conditioning Jig,.,£0.00,50001.0,GST,.,£55.00,43003.0,BAS Excluded
+ZZZ1131,Munro Beaing Spindle,.,£0.00,50001.0,N-T,.,£0.00,43003.0,BAS Excluded
+ZZZ178,Wessex Pendulum Pivot Bearing,Wessex Pendulum Head Pivot Bearing,£10.14,50001.0,GST,Wessex Pendulum Head Pivot Bearing,£15.00,43003.0,BAS Excluded
+ZZZ179,Wessex Pendulum Foot Strap,Wessex Pendulum Foot Strap,,50001.0,,Wessex Pendulum Foot Strap,£14.00,43003.0,BAS Excluded
+ZZZ180,Wessex Pendulum M8 Lock Nut,Wessex Pendulum M8 Locking Nut,£0.54,50001.0,GST,Wessex Pendulum M8 Locking Nut,£1.00,43003.0,BAS Excluded
+ZZZ181,Wessex MK1 Pointer Counter Bal,Wessex Pendulum MK1 Pointer Counter Balance - For new Wessex Pendulum Model.,£141.78,50001.0,N-T,Wessex Pendulum MK1 Pointer Counter Balance - For new Wessex Pendulum Model.,£199.00,43003.0,BAS Excluded
+ZZZ182,Wessex Base (Loose),.,£245.99,50001.0,N-T,.,£345.00,43003.0,BAS Excluded
+ZZZ183,Wessex Base (Fixed),.,£132.99,50001.0,N-T,.,£187.00,43003.0,BAS Excluded
+ZZZ184,Wessex Main Spindle,.,£91.28,50001.0,N-T,.,£128.00,43003.0,BAS Excluded
+ZZZ185,Wessex Intermediate Spindle,.,£130.99,50001.0,N-T,.,£184.00,43003.0,BAS Excluded
+ZZZ186,Wessex Split Cotter,.,£49.24,50001.0,N-T,.,£69.00,43003.0,BAS Excluded
+ZZZ187,Wessex Jacking Screw & Nut ,.,£161.51,50001.0,N-T,.,£227.00,43003.0,BAS Excluded
+ZZZ188,Wessex Pendulum Pointer (ES),.,£130.00,50001.0,N-T,.,£245.00,43003.0,BAS Excluded
+ZZZ189,Wessex Pendulum Point Ring (ES,.,£130.00,50001.0,N-T,.,£245.00,43003.0,BAS Excluded
+ZZZ1132,Munro Pendulum Grub Screw,.,£0.00,50001.0,GST,.,£1.00,43003.0,BAS Excluded
+ZZZ247,Tortus USB Stick (Lexar),.,£0.00,,GST,.,,,BAS Excluded
+ZZZ190,Wessex Pendulum Head Large,.,£0.00,50001.0,GST,.,£1.00,43003.0,BAS Excluded
+ZZZ1133,Encoder Sensor C/W Magnet,.,£101.44,50001.0,N-T,.,£0.00,43003.0,BAS Excluded
+ZZZ1134,Munro Pendulum Flight Case,.,£0.00,50001.0,N-T,.,"£2,895.00",43003.0,BAS Excluded
+ZZZ4009,Pendulum Calibration Procedure,.,,,,.,£0.00,43003.0,BAS Excluded
+ZZZ5126,Labour Diagnostic on USB Board,.,,,,.,£0.00,43003.0,BAS Excluded
+ZZZ1135,Munro Pendulum Levelling Screw,.,£0.00,50001.0,N-T,.,£168.00,43003.0,BAS Excluded
+ZZZ1136,Munro Rack,.,£0.00,50001.0,N-T,.,£200.00,43003.0,BAS Excluded
+ZZZ1137,Munro Pendulum Foot Plate,.,£0.00,50001.0,GST,.,£15.00,43003.0,BAS Excluded
+ZZZ191,Sample Holder in Aluminium,.,£485.64,50001.0,N-T,.,£0.00,43003.0,BAS Excluded
+ZZZ3006,Equipment Repair- Tortus (Othe,.,,,,.,£0.00,43003.0,BAS Excluded
+M001,Munro Pendulum (Analogue),.,£0.00,50001.0,N-T,.,£0.00,43003.0,BAS Excluded
+M002,Munro Pendulum (Digital),.,£0.00,50001.0,N-T,.,£0.00,43003.0,BAS Excluded
+M003,Munro Pendulum (Used),.,£0.00,50001.0,N-T,.,£0.00,43003.0,BAS Excluded
+WL001,WammaLab Pendulum,.,"£5,567.34",50001.0,N-T,.,"£11,575.00",43003.0,BAS Excluded
+WL002,WammaLab Pendulum (Used),.,£0.00,50001.0,N-T,.,"£8,750.00",43003.0,BAS Excluded
+WL003,WammaLab Pen Calibration Rig,.,£0.00,50001.0,N-T,.,"£3,800.00",43003.0,BAS Excluded
+WSX001,Wessex Tortus3,.,£0.00,50001.0,N-T,.,£0.00,43003.0,BAS Excluded
+WSX002,Wessex Tortus3 (Used),.,£0.00,50001.0,N-T,.,£0.00,43003.0,BAS Excluded
+WS003,Wessex Pendulum,.,£0.00,50001.0,N-T,.,£0.00,43003.0,BAS Excluded
+WS004,Wessex Pendulum (Used),.,£0.00,50001.0,N-T,.,£0.00,43003.0,BAS Excluded
+M004,Munro Levelling Feet Asse-Rubb,.,£0.00,50001.0,N-T,.,£180.00,43003.0,BAS Excluded
+M005,Munro Levelling Feet Asse-Scre,.,£0.00,50001.0,N-T,.,£150.00,43003.0,BAS Excluded
+M006,Munro Pendulum Base,.,£0.00,50001.0,N-T,.,£0.00,43003.0,BAS Excluded
+M007,Munro Pendulum Rear Leg,.,£0.00,50001.0,N-T,.,£0.00,43003.0,BAS Excluded
+M008,Munro Pendulum Face Plate,.,£0.00,50001.0,N-T,.,£0.00,43003.0,BAS Excluded
+M009,Munro Pendulum Arm,.,£0.00,50001.0,N-T,.,£145.00,43003.0,BAS Excluded
+M010,Munro Pend Spring Tension Ass,.,£0.00,50001.0,N-T,.,£288.00,43003.0,BAS Excluded
+M011,Munro Pend Spring Tension Bras,.,£0.00,50001.0,N-T,.,£75.00,43003.0,BAS Excluded
+M012,Munro Pendulum Tension Spring,.,£0.00,50001.0,N-T,.,£60.00,43003.0,BAS Excluded
+M013,Munro Friction Adjustment Ring,.,£0.00,50001.0,N-T,.,£80.00,43003.0,BAS Excluded
+M014,Munro Bearing Hub Brass Housi ,.,£0.00,50001.0,N-T,.,£250.00,43003.0,BAS Excluded
+M015,Munro Bearing Hub Fixing Plate,.,£0.00,50001.0,N-T,.,£185.00,43003.0,BAS Excluded
+M016,Munro Bearing Hub Main Housing,.,£0.00,50001.0,N-T,.,£0.00,43003.0,BAS Excluded
+M017,Munro Bearing Hub Spindle,.,£0.00,50001.0,N-T,.,£245.00,43003.0,BAS Excluded
+M018,Munro Head Locking Knob,.,£0.00,50001.0,N-T,.,£50.00,43003.0,BAS Excluded
+M019,Munro Pendulum Bullseye Level,.,£0.00,50001.0,N-T,.,£50.00,43003.0,BAS Excluded
+M020,Munro Height Adjustment Rack,.,£0.00,50001.0,N-T,.,£155.00,43003.0,BAS Excluded
+M021,Munro Height Adj Rack Spindle,.,£0.00,50001.0,N-T,.,£120.00,43003.0,BAS Excluded
+M022,Munro Bearing Hub Nut Cover,.,£0.00,50001.0,N-T,.,£50.00,43003.0,BAS Excluded
+M023,Munro Pendulum Felt Friction R,.,£0.00,50001.0,N-T,.,£40.00,43003.0,BAS Excluded
+M024,Munro Pointer Counter Bal Ring,.,£0.00,50001.0,N-T,.,£150.00,43003.0,BAS Excluded
+M025,Munro Pendulum Pointer,.,£0.00,50001.0,N-T,.,£100.00,43003.0,BAS Excluded
+M026,Pointer Adjustment Strike,.,£0.00,50001.0,N-T,.,£130.00,43003.0,BAS Excluded
+M027,Arm Catch/Release Block,.,£0.00,50001.0,N-T,.,£0.00,43003.0,BAS Excluded
+M028,Pendulum Carry Handle,.,£0.00,50001.0,N-T,.,£140.00,43003.0,BAS Excluded
+M029,Munro Pendulum Bearing,.,£0.00,50001.0,N-T,.,£18.00,43003.0,BAS Excluded
+M030,Munro Pendulum Foot Base Plate,.,£0.00,50001.0,N-T,.,£40.00,43003.0,BAS Excluded
+M031,Munro Foot Pivot Assembly,.,£0.00,50001.0,N-T,.,£225.00,43003.0,BAS Excluded
+M032,Munro Pendulum Foot Counterwgt,.,£0.00,50001.0,N-T,.,£115.00,43003.0,BAS Excluded
+M033,Munro Pendulum Slider Pin,.,£0.00,50001.0,N-T,.,£10.00,43003.0,BAS Excluded
+M034,Munro Pendulum Slider Spring,.,£0.00,50001.0,N-T,.,£28.00,43003.0,BAS Excluded
+M035,Munro Slider Lifting Arm,.,£0.00,50001.0,N-T,.,£180.00,43003.0,BAS Excluded
+M036,Munro Slider Measuring Tool,.,£0.00,50001.0,N-T,.,£55.00,43003.0,BAS Excluded
+M037,Munro Pendulum Tool Kit,.,£0.00,50001.0,N-T,.,£180.00,43003.0,BAS Excluded
+M038,Munro Pendulum Wiring Loom,.,£0.00,50001.0,N-T,.,£160.00,43003.0,BAS Excluded
+M039,Munro Pendulum Digital Sensor,.,£0.00,50001.0,N-T,.,£150.00,43003.0,BAS Excluded
+M040,Munro Verification Plat Holder,.,£0.00,50001.0,N-T,.,£930.00,43003.0,BAS Excluded
+M041,Munro Pendulum Flight Case,.,£0.00,50001.0,N-T,.,"£3,360.00",43003.0,BAS Excluded
+WL004,WammaLab Pendulum Hgh Fric Pad,.,£0.00,50001.0,N-T,.,£40.00,43003.0,BAS Excluded
+WL005,WammaLab Pendulum Base (refurb,.,£0.00,50001.0,N-T,.,£575.00,43003.0,BAS Excluded
+WL006,WammaLab Pendulum Rear Leg,.,£0.00,50001.0,N-T,.,£0.00,43003.0,BAS Excluded
+WL007,WammaLab Pendulum Base Block,.,£0.00,50001.0,N-T,.,£190.00,43003.0,BAS Excluded
+WL008,WammaLab Levelling Feet Knob,.,£4.17,50001.0,N-T,.,£10.00,43003.0,BAS Excluded
+WL009,WammaLab Pendu level Feet Base,.,£4.64,50001.0,N-T,.,£45.00,43003.0,BAS Excluded
+WL010,WammaLab Level Feet Base V2,.,£21.68,50001.0,N-T,.,£45.00,43003.0,BAS Excluded
+WL011,WammaLab Pendulum Bullseye Lvl,.,£0.00,50001.0,N-T,.,£60.00,43003.0,BAS Excluded
+WL012,WammaLab Levelling Feet Flange,.,£0.00,50001.0,N-T,.,£60.00,43003.0,BAS Excluded
+WL013,WammaLab Lvl Feet Lock Nut,.,£3.97,50001.0,N-T,.,£12.00,43003.0,BAS Excluded
+WL014,WammaLab Pendulum Fixing Block,.,£86.87,50001.0,N-T,.,£0.00,43003.0,BAS Excluded
+WL015,WammaLab Pendulum Hd Lkng Plat,.,£0.00,50001.0,N-T,.,£0.00,43003.0,BAS Excluded
+WL016,WammaLab Pendulum Hd Lkng Knob,.,£0.00,50001.0,N-T,.,£125.00,43003.0,BAS Excluded
+WL017,WamaLab Felt Frictn Rings (x2),.,£103.19,50001.0,N-T,.,£40.00,43003.0,BAS Excluded
+WL018,WammaLab Pointer Counter B Rng,.,£89.92,50001.0,N-T,.,£245.00,43003.0,BAS Excluded
+WL019,WammaLab Pendulum Head Pivot,.,£456.92,50001.0,N-T,.,£400.00,43003.0,BAS Excluded
+WL020,WammaLab Pointer Adj Strkr Pla,.,£0.00,50001.0,N-T,.,£120.00,43003.0,BAS Excluded
+WL021,WammaLab Pendulum Pointer,.,£83.50,50001.0,N-T,.,£245.00,43003.0,BAS Excluded
+WL022,WammaLab Pendulum Release Ctch,.,£0.00,50001.0,N-T,.,£95.00,43003.0,BAS Excluded
+WL023,WammaLab Pend Arm Attach Clamp,.,£0.00,50001.0,N-T,.,£55.00,43003.0,BAS Excluded
+WL024,WammaLab Pendulum Arm Attch Nu,.,£0.00,50001.0,N-T,.,£175.00,43003.0,BAS Excluded
+WL025,WammaLab Pendulum Rel Plgr Spg,.,£0.00,50001.0,N-T,.,£16.00,43003.0,BAS Excluded
+WL026,WammaLab Pendulum Release Plgr,.,£0.00,50001.0,N-T,.,£110.00,43003.0,BAS Excluded
+WL027,WammaLab Pendulum Release Butt,.,£0.00,50001.0,N-T,.,£110.00,43003.0,BAS Excluded
+WL028,WammaLab Pendulum Release Bloc,.,£0.00,50001.0,N-T,.,£300.00,43003.0,BAS Excluded
+WL029,WammaLab Penulum Arm,.,£41.32,50001.0,N-T,.,£100.00,43003.0,BAS Excluded
+WL030,WammaLab Sprng Tension Assmbly,.,£379.78,50001.0,N-T,.,£225.00,43003.0,BAS Excluded
+WL031,WammaLab Pend Lift Arm Adj Scr,.,£0.00,50001.0,N-T,.,£20.00,43003.0,BAS Excluded
+WL032,WammaLab Pendulum Lifting Arm,.,£0.00,50001.0,N-T,.,£350.00,43003.0,BAS Excluded
+WL033,WammaLab Pend Slid Support Rod,.,£0.00,50001.0,N-T,.,£175.00,43003.0,BAS Excluded
+WL034,WammaLab Pend Head Bearing (Sm,.,£0.00,50001.0,N-T,.,£22.00,43003.0,BAS Excluded
+WL035,WammaLab Pendulum Foot Bearin ,.,£0.00,50001.0,N-T,.,£10.00,43003.0,BAS Excluded
+WL036,WammaLab Pend Head Bearing (Lg,.,£0.00,50001.0,N-T,.,£30.00,43003.0,BAS Excluded
+WL037,WammaLab Pend Arm Base Block,.,£0.00,50001.0,N-T,.,£160.00,43003.0,BAS Excluded
+WL038,WammaLab Pendulum Foot Weight,.,£0.00,50001.0,N-T,.,£80.00,43003.0,BAS Excluded
+WL039,WammaLab Pendulum Foot,.,£0.00,50001.0,N-T,.,£430.00,43003.0,BAS Excluded
+WL040,WammaLab Pendulum Slider Washe,.,£0.00,50001.0,N-T,.,£2.00,43003.0,BAS Excluded
+WL041,WammaLab Pend Slider Humpb Pin,.,£0.00,50001.0,N-T,.,£3.00,43003.0,BAS Excluded
+WL042,WammaLab Pendulum Slider Sprin,.,£0.00,50001.0,N-T,.,£10.00,43003.0,BAS Excluded
+WL043,WammaLab Pendulum Packing Stra,.,£0.00,50001.0,N-T,.,£15.00,43003.0,BAS Excluded
+WL044,WammaLab Pen Slder Msure Tool ,.,£50.38,50001.0,N-T,.,£95.00,43003.0,BAS Excluded
+WL045,(Spare) WammaLab Pendulum,.,£0.00,50001.0,N-T,.,£0.00,43003.0,BAS Excluded
+WL046,WammaLab Pendulum C Spaner,.,£0.00,50001.0,N-T,.,£70.00,43003.0,BAS Excluded
+WL047,WammaLab Pend Case Brckt (Top),.,£0.00,50001.0,N-T,.,£20.00,43003.0,BAS Excluded
+WL048,WammaLab Pend Case Brckt (Bot),.,£0.00,50001.0,N-T,.,£20.00,43003.0,BAS Excluded
+WL049,WammaLab Pendulum Sample Holde,.,£450.69,50001.0,N-T,.,£850.00,43003.0,BAS Excluded
+WL050,WammaLab Pendulum Flight case,.,£16.92,50001.0,N-T,.,"£1,800.00",43003.0,BAS Excluded
+WSX009,Wessex Tortus Charger Unit,.,£125.20,50001.0,N-T,.,£295.00,43003.0,BAS Excluded
+WSX010,Wessex Tortus Battery Pack,.,£0.00,50001.0,N-T,.,£225.00,43003.0,BAS Excluded
+WS007,Wessex Tortus Drive Motor Brac,.,£0.00,50001.0,N-T,.,£42.00,43003.0,BAS Excluded
+WS008,Wessex Tortus Drive Motor Gear,.,£0.00,50001.0,N-T,.,£155.00,43003.0,BAS Excluded
+WSX008,Wessex Tortus Drive Motor,.,£0.00,50001.0,N-T,.,£355.00,43003.0,BAS Excluded
+WS010,Wessex Tortus 2 Printer,.,£0.00,50001.0,N-T,.,£80.00,43003.0,BAS Excluded
+WS011,Wessex Tortus Paper Rolls,.,£0.00,50001.0,N-T,.,£6.00,43003.0,BAS Excluded
+WS012,Wessex Tortus Paper Roll Spind,.,£0.00,50001.0,N-T,.,£55.00,43003.0,BAS Excluded
+WSX005,Wessex Tortus Slider Foot,.,£0.00,50001.0,N-T,.,£180.00,43003.0,BAS Excluded
+WSX004,Wessex Tortus Slider Post,.,£0.00,50001.0,N-T,.,£115.00,43003.0,BAS Excluded
+WS015,Wessex Tortus Linear Ball Bear,.,£0.00,50001.0,N-T,.,£50.00,43003.0,BAS Excluded
+WS016,Wessex Tortus 2 Optek IR Senso,.,£0.00,50001.0,N-T,.,£3.50,43003.0,BAS Excluded
+WS017,Wessex Tortus 3 Battery Connec,.,£0.00,50001.0,N-T,.,£4.50,43003.0,BAS Excluded
+WS018,Wessex Tortus USB Stick,.,£0.00,50001.0,N-T,.,£55.00,43003.0,BAS Excluded
+WS019,Wes Tor 3 Lexar USB Stick 2.0,.,£0.00,50001.0,N-T,.,£9.50,43003.0,BAS Excluded
+WS020,Wessex Tortus 2 Sensor,.,£0.00,50001.0,N-T,.,£50.00,43003.0,BAS Excluded
+WSX007,Wessex Tortus USB Board,.,£0.00,50001.0,N-T,.,£255.00,43003.0,BAS Excluded
+WS022,Wessex Tortus 2 Fuse 2.5amp,.,£0.00,50001.0,N-T,.,£2.00,43003.0,BAS Excluded
+WS023,Wessex Tortus 2 Fuse 6.5amp,.,£0.00,50001.0,N-T,.,£2.00,43003.0,BAS Excluded
+WS024,Tort Slider Conditioning Jig,.,£0.00,50001.0,N-T,.,£45.00,43003.0,BAS Excluded
+WSX003,Wessex Tortus Load Cell (Reco),.,£0.00,50001.0,N-T,.,"£1,595.00",43003.0,BAS Excluded
+WS026,Wessex Tortus 3 Flight Case,.,£0.00,50001.0,N-T,.,£840.00,43003.0,BAS Excluded
+WS027,Pendulum Pointer Arm-MK1,.,£0.00,50001.0,N-T,.,£15.00,43003.0,BAS Excluded
+WS028,Pendulum Pointer Arm-MK2,.,£0.00,50001.0,N-T,.,£185.00,43003.0,BAS Excluded
+WS029,TBC,.,£0.00,50001.0,N-T,.,£5.50,43003.0,BAS Excluded
+WS030,Pendulum Pointer Tip - Small,.,£0.00,50001.0,N-T,.,£5.00,43003.0,BAS Excluded
+WS031,Pendulum Carry Handle Screw Co,.,£0.00,50001.0,N-T,.,£5.00,43003.0,BAS Excluded
+WS032,Pend Pointer Counterwright Rin,.,£0.00,50001.0,N-T,.,£200.00,43003.0,BAS Excluded
+WS033,Wessex Tortus Carry Bag,.,£0.00,50001.0,N-T,.,£475.00,43003.0,BAS Excluded
+WS034,Wessex Tortus Carry Bag Strap,.,£0.00,50001.0,N-T,.,£85.00,43003.0,BAS Excluded
+F001,Mun Pen  Rear Foot Nut,.,£0.00,50001.0,N-T,.,£4.00,43003.0,BAS Excluded
+F002,Mun Pen Slider Lifting Arm Nut,.,£0.00,50001.0,N-T,.,£4.00,43003.0,BAS Excluded
+F003,Mun Pen Slider Washer,.,£0.00,50001.0,N-T,.,£1.50,43003.0,BAS Excluded
+F004,Mun Pen Height Adj Rack Grub S,.,£0.00,50001.0,N-T,.,£1.20,43003.0,BAS Excluded
+F005,M Pen Nylon Nut/Screw Combo-La,.,£0.00,50001.0,N-T,.,£6.00,43003.0,BAS Excluded
+F006,M Pen Nylon Nut/Screw Combo Sm,.,£0.00,50001.0,N-T,.,£6.00,43003.0,BAS Excluded
+F007,M Pendulum Adaptos Dowel F6,.,£0.00,50001.0,N-T,.,£20.00,43003.0,BAS Excluded
+F008,M P Point Bearing Sub-Asse Bol,.,£0.00,50001.0,N-T,.,£0.15,43003.0,BAS Excluded
+F009,M P Foot Under Plate Screws,.,£0.00,50001.0,N-T,.,£1.05,43003.0,BAS Excluded
+F010,M P Slider Lifting Arm Cover S,.,£0.00,50001.0,N-T,.,£1.50,43003.0,BAS Excluded
+F011,M Pen Frame Locking Bolt,.,£0.00,50001.0,N-T,.,£1.50,43003.0,BAS Excluded
+F012,M Pen Frame Locking Nut,.,£0.00,50001.0,N-T,.,£1.50,43003.0,BAS Excluded
+F013,M P Cup Head Screw 16mm,.,£0.00,50001.0,N-T,.,£1.50,43003.0,BAS Excluded
+F014,M P Cup Head Screw 20mm,.,£0.00,50001.0,N-T,.,£1.50,43003.0,BAS Excluded
+F015,M P Cup Head Screw 25mm,.,£0.00,50001.0,N-T,.,£1.50,43003.0,BAS Excluded
+F016,M P Cup Head Screw 30mm,.,£0.00,50001.0,N-T,.,£1.50,43003.0,BAS Excluded
+F017,WL Pen Sock Head Gr Sc M4x6mm,.,£0.00,50001.0,N-T,.,£0.35,43003.0,BAS Excluded
+F018,WL Pen Sock Head Gr Sc M5x10mm,.,£0.00,50001.0,N-T,.,£1.85,43003.0,BAS Excluded
+F019,WL Pendulum 6BA Bolt,.,£0.00,50001.0,N-T,.,£0.70,43003.0,BAS Excluded
+F020,WL Pen Nylon Screw M6x25mm,.,£0.00,50001.0,N-T,.,£1.50,43003.0,BAS Excluded
+F021,WL Pen Soc Head Scr M4x10mm SS,.,£0.00,50001.0,N-T,.,£4.20,43003.0,BAS Excluded
+F022,WL Pen Soc Head Scr M4x5mm SS,.,£0.00,50001.0,N-T,.,£4.20,43003.0,BAS Excluded
+F023,WL Pen Soc Head Scr M6x15mm,.,£0.00,50001.0,N-T,.,£4.20,43003.0,BAS Excluded
+F024,WL Pen Soc Head Scr M6x30mm,.,£0.00,50001.0,N-T,.,£4.20,43003.0,BAS Excluded
+F025,WL Pen Nut M10x30mm,.,£0.00,50001.0,N-T,.,£0.70,43003.0,BAS Excluded
+F026,WL Pen Flat Washer M10x20mm,.,£0.00,50001.0,N-T,.,£0.20,43003.0,BAS Excluded
+F027,WL Pen Rear Frame Foot Stud Bo,.,£0.00,50001.0,N-T,.,£1.50,43003.0,BAS Excluded
+F028,WL Pen Locking Nut M8,.,£0.00,50001.0,N-T,.,£5.50,43003.0,BAS Excluded
+F029,WL Pen Centre Spindle Locki Nu,.,£0.00,50001.0,N-T,.,£4.20,43003.0,BAS Excluded
+F030,WL Pen Bullseye Level Screw,.,£0.00,50001.0,N-T,.,£1.50,43003.0,BAS Excluded
+F031,WS Tortus Printer Bracket Scre,.,£0.00,50001.0,N-T,.,£2.10,43003.0,BAS Excluded
+F032,WS Tortus Load Cell Bracket Sc,.,£0.00,50001.0,N-T,.,£4.20,43003.0,BAS Excluded
+F033,WS Tortus Case Screw,.,£0.00,50001.0,N-T,.,£1.10,43003.0,BAS Excluded
+F034,WS Tortus Foot Ball Spring Plu,.,£0.00,50001.0,N-T,.,£8.50,43003.0,BAS Excluded
+F035,WS Tortus Grub Screw M3x3mm,.,£0.00,50001.0,N-T,.,£1.35,43003.0,BAS Excluded
+F036,WS Tortus Grub Screw M3x6mm,.,£0.00,50001.0,N-T,.,£1.35,43003.0,BAS Excluded
+F037,WS Tortus Pan Head Sc M3x8mm,.,£0.00,50001.0,N-T,.,£1.35,43003.0,BAS Excluded
+F038,WS Tort Pan Head Screw M4x10mm,.,£0.00,50001.0,N-T,.,£1.35,43003.0,BAS Excluded
+F039,WS Tort Pan Head Screw M4x12mm,.,£0.00,50001.0,N-T,.,£1.35,43003.0,BAS Excluded
+F040,WS Tortus Nylon Nut M4,.,£0.00,50001.0,N-T,.,£4.55,43003.0,BAS Excluded
+F041,Gen Anc Troll Cup Bolt M8x40mm,.,£0.00,50001.0,GST,.,£0.80,43003.0,BAS Excluded
+F042,Gen Anc Troll Cup Nut M8,.,£0.00,50001.0,GST,.,£0.35,43003.0,BAS Excluded
+F043,Gen Anc Troll Cup Washer M8,.,£0.00,50001.0,GST,.,£1.25,43003.0,BAS Excluded
+GA001,Clipboard A4-Dry,.,£0.00,50001.0,GST,.,£4.95,43003.0,BAS Excluded
+GA002,Clipboard -Wet,.,£0.00,50001.0,GST,.,£4.95,43003.0,BAS Excluded
+GA003,Dry Testing Microfibre Cloth,.,£0.00,50001.0,GST,.,£4.20,43003.0,BAS Excluded
+GA004,Doorstop,.,£0.00,50001.0,GST,.,£1.60,43003.0,BAS Excluded
+GA006,Onsite Testing Ruler 15cm SS,.,£4.27,50001.0,GST,.,£6.00,43003.0,BAS Excluded
+GA007,Trolly Base Cups-Small,.,£0.00,50001.0,GST,.,£2.80,43003.0,BAS Excluded
+GA008,Trolly Base Cups - Large,.,£0.00,50001.0,GST,.,£3.80,43003.0,BAS Excluded
+GA009,Safety - Gear Bag,.,£0.00,50001.0,GST,.,£20.00,43003.0,BAS Excluded
+GA010,Safety - Hard Hat,.,£0.00,50001.0,GST,.,£15.00,43003.0,BAS Excluded
+GA012,Safety - Glove Keeper,.,£0.00,50001.0,GST,.,£4.20,43003.0,BAS Excluded
+GA011,Safety- Hi Vist Vest ,.,£0.00,50001.0,GST,.,£10.00,43003.0,BAS Excluded
+GA013,Safety - Gloves,.,£0.00,50001.0,GST,.,£6.95,43003.0,BAS Excluded
+GA014,Safety- Glasses,.,£0.00,50001.0,GST,.,£4.00,43003.0,BAS Excluded
+GA015,Safety- Traffic Cones,.,£0.00,50001.0,GST,.,£20.00,43003.0,BAS Excluded
+GA016,"Safety-Traffic Cones ""Keep Ou ",.,£0.00,50001.0,GST,.,£13.50,43003.0,BAS Excluded
+GA017,Dry Testing Ancillary Kit Stra,.,£0.00,50001.0,GST,.,£13.85,43003.0,BAS Excluded
+GA005,Digital Site Thermometer,.,£9.46,50001.0,GST,.,£15.00,43003.0,BAS Excluded
+GA018,Conditioning Board Plate,.,£0.00,50001.0,GST,.,£15.00,43003.0,BAS Excluded
+GA019,Conditioning Board Feet,.,£0.00,50001.0,GST,.,£2.30,43003.0,BAS Excluded
+GA020,Flat Bed Trolley,.,£0.00,50001.0,GST,.,£65.00,43003.0,BAS Excluded
+GA021,Wet Ancillary Hard Case,.,£199.55,50001.0,GST,.,£265.00,43003.0,BAS Excluded
+GA022,Wet Floor Sign,.,£0.00,50001.0,GST,.,£16.65,43003.0,BAS Excluded
+GA023,Digital Site Level,.,£0.00,50001.0,GST,.,£250.00,43003.0,BAS Excluded
+GA024,Telescopic Mop Handle,.,£9.80,50001.0,GST,.,£14.00,43003.0,BAS Excluded
+GA025,Blue Mop Head,.,£16.67,50001.0,GST,.,£22.00,43003.0,BAS Excluded
+GA026,Spray Bottle,.,£0.00,50001.0,GST,.,£4.55,43003.0,BAS Excluded
+GA027,Testing Tool,.,£0.00,50001.0,GST,.,£20.00,43003.0,BAS Excluded
+GA028,Pendulum Step Testing Stand,.,£0.00,50001.0,GST,.,£230.00,43003.0,BAS Excluded
+GA029,Trolley Storage Box,.,£0.00,50001.0,GST,.,£320.00,43003.0,BAS Excluded
+TC001,Slider 96 (4S) Rubber Sliders,.,£63.11,50001.0,N-T,.,£115.00,43003.0,BAS Excluded
+TC002,Slider 55 (TRL) Rubber Slider,.,£63.11,50001.0,N-T,.,£115.00,43003.0,BAS Excluded
+TC003,Tortus Slider (Pack of 6),.,£0.00,50001.0,GST,.,£130.00,43003.0,BAS Excluded
+TC004,Slider Backing Plate,.,£11.81,50001.0,GST,.,£45.00,43003.0,BAS Excluded
+TC005,Verif -P400 Paper(Pack of 10),.,£0.00,50001.0,GST,.,£20.00,43003.0,BAS Excluded
+TC006,Verif- 3M Pink Lap Film (P 10 ,.,£29.17,50001.0,GST,.,£55.00,43003.0,BAS Excluded
+TC007,Verif- #60 Grit Pap (P of 10),.,£0.00,50001.0,GST,.,£20.00,43003.0,BAS Excluded
+TC008,Verif- 3M Green Lap Film (P 10,.,£0.00,50001.0,GST,.,£0.00,43003.0,BAS Excluded
+TC009,Verif-WL Float Glass,.,£23.75,50001.0,N-T,.,£40.00,43003.0,BAS Excluded
+TC010,Verif WL Pavigress Tile,.,£135.47,50001.0,N-T,.,£230.00,43003.0,BAS Excluded
+TC011,Verif- Munro Float Glass,.,£0.00,50001.0,N-T,.,£175.00,43003.0,BAS Excluded
+TC012,Verification- Munto Pavigres T,.,£0.00,50001.0,N-T,.,£190.00,43003.0,BAS Excluded
+B001,Pendulum Trolley,.,£0.00,50001.0,GST,.,£125.00,43003.0,BAS Excluded
+B002,Pendulum Onsite Testing Pack,.,£0.00,50001.0,GST,.,"£1,450.00",43003.0,BAS Excluded
+B003,WL Pendulum Verification Kit,.,£0.00,50001.0,N-T,.,"£1,450.00",43003.0,BAS Excluded
+B004,Munro Pendulum Verification Ki,.,£0.00,50001.0,N-T,.,"£1,250.00",43003.0,BAS Excluded
+B005,Wessex Tortus Verif Kit,.,£0.00,50001.0,N-T,.,£450.00,43003.0,BAS Excluded
+B006,Wessex Tort Onsite Testing Pac,.,£0.00,50001.0,N-T,.,£350.00,43003.0,BAS Excluded
+B007,Pendulum Conditoning Board,.,£0.00,50001.0,GST,.,£95.00,43003.0,BAS Excluded
+B008,Pend Conditioning Board-Inhous,.,£0.00,50001.0,GST,.,£115.00,43003.0,BAS Excluded
+B009,ISTS- Wet Floor Sign,.,£0.00,50001.0,GST,.,£40.00,43003.0,BAS Excluded
+WC001,Superglue- Powerflex Gel Contr,.,£0.00,50001.0,GST,.,£0.00,43003.0,BAS Excluded
+WC002,Packaging- Scotch Tape,.,£0.00,50001.0,GST,.,£0.00,43003.0,BAS Excluded
+WC003,Packaging- Clear Pallet Wrap,.,£0.00,50001.0,GST,.,£0.00,43003.0,BAS Excluded
+WC004,Packaging- Cardboard Roll,.,£0.00,50001.0,GST,.,£0.00,43003.0,BAS Excluded
+WC005,Packaging- Bubble Wrap,.,£0.00,50001.0,GST,.,£0.00,43003.0,BAS Excluded
+WC007,Pack-Med Snap Lock Bag75X100,.,£0.00,50001.0,GST,.,£0.00,43003.0,BAS Excluded
+WC006,Pack-Small Snap Lock Bag40x50M,.,£0.00,50001.0,GST,.,£0.00,43003.0,BAS Excluded
+WC008,Pack-L  Snap Lock Bag100x155mm,.,£0.00,50001.0,GST,.,£0.00,43003.0,BAS Excluded
+WC009,Pack-XL  Snap Lock Bag A4,.,£0.00,50001.0,GST,.,£0.00,43003.0,BAS Excluded
+WC010,Pack-S Padded Satchel125x160mm,.,£0.00,50001.0,GST,.,£0.00,43003.0,BAS Excluded
+WC011,Pack-M Padded Satchel151x229mm,.,£0.00,50001.0,GST,.,£0.00,43003.0,BAS Excluded
+WC012,Pack-L Padded Satchel265x380mm,.,£0.00,50001.0,GST,.,£0.00,43003.0,BAS Excluded
+WC013,Pack-XL Tough Bag 400x659mm,.,£0.00,50001.0,GST,.,£0.00,43003.0,BAS Excluded
+WC014,Microfibre Clean Cloth- Multic,.,£0.00,50001.0,GST,.,£0.00,43003.0,BAS Excluded
+WC015,Microfibre Cleaning Cloth-Blue,.,£0.00,50001.0,GST,.,£0.00,43003.0,BAS Excluded
+WC016,Black Spray Paint,.,£0.00,50001.0,GST,.,£0.00,43003.0,BAS Excluded
+WC017,Loc-Tite,.,£0.00,50001.0,GST,.,£0.00,43003.0,BAS Excluded
+WC018,Graphite Powder,.,£0.00,50001.0,GST,.,£0.00,43003.0,BAS Excluded
+WC019,Methylated Spirits-1L,.,£0.00,50001.0,GST,.,£0.00,43003.0,BAS Excluded
+WC020,Turpentine-1L,.,£0.00,50001.0,GST,.,£0.00,43003.0,BAS Excluded
+WC021,WD10-275G,.,£0.00,50001.0,GST,.,£0.00,43003.0,BAS Excluded
+WC022,Nevr-Dull Wadding Polish,.,£28.41,50001.0,GST,.,£0.00,43003.0,BAS Excluded
+WC023,Ajax Spray & Wipe,.,£0.00,50001.0,GST,.,£0.00,43003.0,BAS Excluded
+WC024,Spray Glue,.,£0.00,50001.0,GST,.,£0.00,43003.0,BAS Excluded
+WC025,Demineralised Water -5L,.,£0.00,50001.0,GST,.,£0.00,43003.0,BAS Excluded
+WC026,Administration Archive Box,.,£11.77,50001.0,GST,.,£0.00,43003.0,BAS Excluded
+P001,Calibration Plate (AU) Pendulu,.,£7.50,50001.0,GST,.,£0.00,43003.0,BAS Excluded
+P002,Calibration Temp Label- Pendul,.,£0.00,50001.0,GST,.,£0.00,43003.0,BAS Excluded
+P003,Calibration Label-Tortus,.,£0.00,50001.0,GST,.,£0.00,43003.0,BAS Excluded
+P004,Calibration Plata (NZ)-Pendulu,.,£0.00,50001.0,GST,.,£0.00,43003.0,BAS Excluded
+P005,Sticker-GES (Small),.,£0.20,50001.0,GST,.,£0.00,43003.0,BAS Excluded
+P006,Sticker-Instr Calib (Small),.,£0.21,50001.0,GST,.,£0.00,43003.0,BAS Excluded
+P007,Sticker-General Equpiment,.,£1.10,50001.0,GST,.,£0.00,43003.0,BAS Excluded
+P008,Sticker-Oval (ISTS),.,£0.00,50001.0,GST,.,£0.00,43003.0,BAS Excluded
+P009,Sticker- Wet Floor Sign,.,£12.31,50001.0,GST,.,£0.00,43003.0,BAS Excluded
+P010,Sticker - Trolley Box,.,£22.95,50001.0,GST,.,£0.00,43003.0,BAS Excluded
+P011,Sticker-GPC Sample,.,£0.00,50001.0,GST,.,£0.00,43003.0,BAS Excluded
+P012,"GES-""With Compliments""Card",.,£0.00,50001.0,GST,.,£0.00,43003.0,BAS Excluded
+IC001,Calibration Pendulum,.,,,,.,"£1,475.00",43003.0,BAS Excluded
+IC002,Control testing-Pendulum,.,,,,.,£500.00,43003.0,BAS Excluded
+IC003,Equipment Repair- Labour (1hr),.,,,,.,£125.00,43003.0,BAS Excluded
+IC004,Calibration-Tortus,.,,,,.,£650.00,43003.0,BAS Excluded
+IC005,Control Testing-Tortus,.,,,,.,£500.00,43003.0,BAS Excluded
+IT001,Int Train- Pendulum (AS 4663),.,,,,.,"£1,995.00",43003.0,BAS Excluded
+IT002,Int Train-Pendulum(AS/NZ 4663),.,,,,.,"£1,995.00",43003.0,BAS Excluded
+IT003,Int Train-Pendulum(SS 485),.,,,,.,"£1,995.00",43003.0,BAS Excluded
+IT004,Int Train-Pendulum(BS 7976),.,,,,.,"£1,995.00",43003.0,BAS Excluded
+IT005,Int Train-Pend(CEN/TS 16165),.,,,,.,"£1,995.00",43003.0,BAS Excluded
+IT006,Int Train-Pend (ASTM E303),.,,,,.,"£1,995.00",43003.0,BAS Excluded
+IT007,Int Train-Pend (GB/T 31153),.,,,,.,"£1,995.00",43003.0,BAS Excluded
+IT008,Int Train Pend Verificat/Maint,.,,,,.,£995.00,43003.0,BAS Excluded
+IT009,Pend Calib Procedure (Doc Only,.,,,,.,"£4,995.00",43003.0,BAS Excluded
+IT010,Int Train-Pend Calib (BS 7976),.,,,,.,"£4,995.00",43003.0,BAS Excluded
+IT011,Int Train- Tortus (AS4663),.,,,,.,£995.00,43003.0,BAS Excluded
+IT012,Int Train-Tortus (AS/NZ 4663),.,,,,.,£995.00,43003.0,BAS Excluded
+IT013,Int Train- Tortus (SS 485),.,,,,.,£995.00,43003.0,BAS Excluded
+IT014,Tortus Verification/Maintenanc,.,,,,.,£995.00,43003.0,BAS Excluded
+SF001,Pick Up from ISTS HQ,.,,,,.,£0.00,43003.0,BAS Excluded
+SF002,Shipping Fee S1,.,,,,.,£25.00,43003.0,BAS Excluded
+SF003,Shipping Fee S2,.,,,,.,£50.00,43003.0,BAS Excluded
+SF004,Shipping Fee S3,.,,,,.,£75.00,43003.0,BAS Excluded
+SF005,Shipping Fee S4,.,,,,.,£100.00,43003.0,BAS Excluded
+SF006,Shipping Fee S5,.,,,,.,£125.00,43003.0,BAS Excluded
+SF007,Shipping Fee S6,.,,,,.,£150.00,43003.0,BAS Excluded
+SF008,Shipping Fee S7,.,,,,.,£175.00,43003.0,BAS Excluded
+SF009,Shipping Fee S8,.,,,,.,£200.00,43003.0,BAS Excluded
+SF010,Shipping Fee S9,.,,,,.,£225.00,43003.0,BAS Excluded
+SF011,Shipping Fee S10,.,,,,.,£250.00,43003.0,BAS Excluded
+SF012,Shipping Fee S11,.,,,,.,£275.00,43003.0,BAS Excluded
+SF013,Shipping Fee S12,.,,,,.,£300.00,43003.0,BAS Excluded
+SF014,Shipping Fee S13,.,,,,.,£325.00,43003.0,BAS Excluded
+SF015,Shipping Fee S14,.,,,,.,£350.00,43003.0,BAS Excluded
+SF016,Shipping Fee S15,.,,,,.,£375.00,43003.0,BAS Excluded
+SF017,Shipping Fee S16,.,,,,.,£400.00,43003.0,BAS Excluded
+SF018,Shipping Fee S17,.,,,,.,£425.00,43003.0,BAS Excluded
+SF019,Shipping Fee S18,.,,,,.,£450.00,43003.0,BAS Excluded
+SF020,Shipping Fee S19,.,,,,.,£475.00,43003.0,BAS Excluded
+SF021,Shipping Fee S20,.,,,,.,£500.00,43003.0,BAS Excluded
+SF022,Shipping Fee S21,.,,,,.,£550.00,43003.0,BAS Excluded
+SF023,Shipping Fee S22,.,,,,.,£600.00,43003.0,BAS Excluded
+SF024,Shipping Fee S23,.,,,,.,£650.00,43003.0,BAS Excluded
+SF025,Shipping Fee S24,.,,,,.,£700.00,43003.0,BAS Excluded
+SF026,Shipping Fee S25,.,,,,.,£750.00,43003.0,BAS Excluded
+SF027,Shipping Fee S26,.,,,,.,£800.00,43003.0,BAS Excluded
+SF028,Shipping Fee S27,.,,,,.,£850.00,43003.0,BAS Excluded
+SF029,Shipping Fee S28,.,,,,.,£900.00,43003.0,BAS Excluded
+SF030,Shipping Fee S29,.,,,,.,£950.00,43003.0,BAS Excluded
+SF031,Shipping Fee S30,.,,,,.,"£1,000.00",43003.0,BAS Excluded
+SF032,Shipping Fee S31,.,,,,.,"£1,050.00",43003.0,BAS Excluded
+SF033,Shipping Fee S32,.,,,,.,"£1,100.00",43003.0,BAS Excluded
+SF034,Shipping Fee S33,.,,,,.,"£1,150.00",43003.0,BAS Excluded
+SF035,Shipping Fee S34,.,,,,.,"£1,200.00",43003.0,BAS Excluded
+SF036,Shipping Fee S35,.,,,,.,"£1,250.00",43003.0,BAS Excluded
+SF037,Shipping Fee S36,.,,,,.,"£1,300.00",43003.0,BAS Excluded
+SF038,Shipping Fee S37,.,,,,.,"£1,350.00",43003.0,BAS Excluded
+SF039,Shipping Fee S38,.,,,,.,"£1,400.00",43003.0,BAS Excluded
+SF040,Shipping Fee S39,.,,,,.,"£1,450.00",43003.0,BAS Excluded
+SF041,Shipping Fee S40,.,,,,.,"£1,500.00",43003.0,BAS Excluded
+SF042,Shipping Fee S41,.,,,,.,"£1,550.00",43003.0,BAS Excluded
+SF043,Shipping Fee S42,.,,,,.,"£1,600.00",43003.0,BAS Excluded
+SF044,Shipping Fee S43,.,,,,.,"£1,650.00",43003.0,BAS Excluded
+TT001,Training Performed ISTS HQ,.,,,,.,£0.00,43003.0,BAS Excluded
+TT002,Training Travel Fee T1,.,,,,.,£500.00,43003.0,BAS Excluded
+TT003,Training Travel Fee T2,.,,,,.,£750.00,43003.0,BAS Excluded
+TT004,Training Travel Fee T3,.,,,,.,"£1,000.00",43003.0,BAS Excluded
+TT005,Training Travel Fee T4,.,,,,.,"£1,250.00",43003.0,BAS Excluded
+TT006,Training Travel Fee T5,.,,,,.,"£1,500.00",43003.0,BAS Excluded
+TT007,Training Travel Fee T6,.,,,,.,"£1,750.00",43003.0,BAS Excluded
+TT008,Training Travel Fee T7,.,,,,.,"£2,000.00",43003.0,BAS Excluded
+TT009,Training Travel Fee T8,.,,,,.,"£2,250.00",43003.0,BAS Excluded
+TT010,Training Travel Fee T9,.,,,,.,"£2,500.00",43003.0,BAS Excluded
+TT011,Training Travel Fee T10,.,,,,.,"£2,750.00",43003.0,BAS Excluded
+TT012,Training Travel Fee T11,.,,,,.,"£3,000.00",43003.0,BAS Excluded
+TT013,Training Travel Fee T12,.,,,,.,"£3,250.00",43003.0,BAS Excluded
+TT014,Training Travel Fee T13,.,,,,.,"£3,500.00",43003.0,BAS Excluded
+TT015,Training Travel Fee T14,.,,,,.,"£3,750.00",43003.0,BAS Excluded
+TT016,Training Travel Fee T15,.,,,,.,"£4,000.00",43003.0,BAS Excluded
+TT017,Training Travel Fee T16,.,,,,.,"£4,250.00",43003.0,BAS Excluded
+T0018,Training Travel Fee T17,.,,,,.,"£4,500.00",43003.0,BAS Excluded
+TT018,Training Travel Fee T17,.,,,,.,"£4,500.00",43003.0,BAS Excluded
+TT019,Training Travel Fee T18,.,,,,.,"£4,750.00",43003.0,BAS Excluded
+TT020,Training Travel Fee T19,.,,,,.,"£5,000.00",43003.0,BAS Excluded
+TT021,Training Travel Fee T20,.,,,,.,"£5,250.00",43003.0,BAS Excluded
+TT022,Training Travel Fee T21,.,,,,.,"£5,500.00",43003.0,BAS Excluded
+TT023,Training Travel Fee T22,.,,,,.,"£5,750.00",43003.0,BAS Excluded
+TT024,Training Travel Fee T23,.,,,,.,"£6,000.00",43003.0,BAS Excluded
+TT025,Training Travel Fee T24,.,,,,.,"£6,250.00",43003.0,BAS Excluded
+TT026,Training Travel Fee T25,.,,,,.,"£6,500.00",43003.0,BAS Excluded
+WL051,WammaLab Pendulum Tool Case,.,£0.00,50001.0,N-T,.,£45.00,43003.0,BAS Excluded
+WL052,WammaLab Pend Flt Case Wheel,.,£15.58,50001.0,N-T,.,£120.00,43003.0,BAS Excluded
+WS035,Wessex Tortus 3 Motherboard,.,£0.00,50001.0,GST,.,£0.00,43003.0,BAS Excluded
+TC013,Double Sided Tape-Control Test,.,£0.00,50001.0,GST,.,£0.00,43003.0,BAS Excluded
+WL053,WammaLab Pend Centre Spindle,.,£153.00,50001.0,N-T,.,£0.00,43003.0,BAS Excluded
+WL054,WammaLab Pen Foot Bearing Wash,.,£0.00,50001.0,N-T,.,£20.00,43003.0,BAS Excluded
+WL055,WammaLab Pend Foot Bearing Nut,.,£0.00,50001.0,N-T,.,£9.00,43003.0,BAS Excluded
+WL056,WammaLab Pendulum Foot Rocker ,.,£7.20,50001.0,N-T,.,£20.00,43003.0,BAS Excluded
+WL057,WammaLab Pendulum Foot Rkr Pin,.,£0.23,50001.0,N-T,.,£4.00,43003.0,BAS Excluded
+WL058,WammaLab Lifting Arm Cover Pla,.,£0.00,50001.0,N-T,.,£64.00,43003.0,BAS Excluded
+WL059,WammaLab Pendulum 17 Spanner,.,£0.00,50001.0,N-T,.,£25.00,43003.0,BAS Excluded
+WL060,WammaLab Pendul Spndle Fnt Nut,.,£0.00,50001.0,N-T,.,£25.00,43003.0,BAS Excluded
+WL061,WammaLab Pendulum Leg Fix Knob,.,£9.80,50001.0,N-T,.,£29.00,43003.0,BAS Excluded
+WSX006,Wessex Tortus USB Stick,.,£0.00,50001.0,N-T,.,£180.00,43003.0,BAS Excluded
+TC014,Tortus Thermal Paper Roll,.,£3.00,50001.0,GST,.,£11.50,43003.0,BAS Excluded
+IC 006,Post Repair Instrument Recalib,.,,,,.,£525.00,43003.0,BAS Excluded
+IC006,Post Repair Instrument Recalib,.,,,,.,£525.00,43003.0,BAS Excluded
+WL062,WanmaLab Pendulum  Swap,.,£0.00,50001.0,N-T,.,£345.00,43003.0,BAS Excluded
