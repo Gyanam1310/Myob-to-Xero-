@@ -1,0 +1,554 @@
+*Code,*Name,*Type,*Tax Code,Description,Dashboard,Expense Claims,Enable Payments
+10000,Assets,Current Asset,BAS Excluded,,No,No,No
+10001,Current Assets,Current Asset,BAS Excluded,,No,No,No
+10002,Accounts Receivable,Current Asset,BAS Excluded,,No,No,No
+11001,Cash On Hand,Current Asset,BAS Excluded,,No,No,No
+11111,ISTS Mackaroo A/c 96242,Bank,BAS Excluded,,Yes,No,No
+11112,ANZ GES Equipment 182359,Bank,BAS Excluded,,Yes,No,No
+11113,Directors Account 205581,Bank,BAS Excluded,Account to transfer money to save for projects. ,Yes,No,No
+11114,BOQ New Project 80942,Bank,BAS Excluded,New Vehicle account it will deduct the instalments fro Toyota Finance,Yes,No,No
+11115,Stripe ,Bank,BAS Excluded,,Yes,No,No
+11130,ING Direct,Bank,BAS Excluded,,Yes,No,No
+11135,E Trade Account 4833,Bank,BAS Excluded,,Yes,No,No
+11140,ANZ Tax Acct 87421,Bank,BAS Excluded,,Yes,No,No
+11190,Electronic Clearing Account,Bank,BAS Excluded,,Yes,No,No
+11200,Fixed Assets,Current Asset,BAS Excluded,,No,No,No
+11201,Inventory,Current Asset,BAS Excluded,,No,No,No
+11202,Tracking account for goods not,Fixed Asset,BAS Excluded,,No,No,No
+11301,Office Equipment,Current Asset,BAS Excluded,,No,No,No
+11302,Office Equipment at Cost,Current Asset,GST on Capital,,No,No,No
+11303,Office Equip Accum Depn,Current Asset,BAS Excluded,,No,No,No
+11304,Deposit Account (RAV4),Current Asset,BAS Excluded,,No,No,No
+11400,Motor Vehicles,Current Asset,BAS Excluded,,No,No,No
+11401,Motor Vehicles at cost,Current Asset,GST on Capital,,No,No,No
+11402,Motor vehicles Accum Depn,Current Asset,BAS Excluded,,No,No,No
+11550,Contra Acct Singapore,Current Asset,BAS Excluded,,No,No,No
+11555,Contra New Zealand 21447,Current Asset,BAS Excluded,,No,No,No
+11560,Contra M Walton,Bank,BAS Excluded,,Yes,No,No
+11715,Holding Acc T&S  578801015,Bank,BAS Excluded,,Yes,No,No
+11803,Client Overpayt Holding Acct,Bank,BAS Excluded,,Yes,No,No
+11810,Cash Drawer,Bank,BAS Excluded,,Yes,No,No
+11815,Payroll Clearing,Bank,BAS Excluded,,Yes,No,No
+11816,Partnership paypal account,Bank,BAS Excluded,,Yes,No,No
+11818,Undeposited Funds,Bank,BAS Excluded,,Yes,No,No
+11825,Trade Debtors NZ,Accounts Receivable,BAS Excluded,,No,No,No
+11826,Trade Debtots NZ Exchange,Current Asset,BAS Excluded,,No,No,No
+11830,Less Prov'n for Doubtful Debts,Current Asset,BAS Excluded,,No,No,No
+11833,Trade Debtors Singapore,Accounts Receivable,BAS Excluded,,No,No,No
+11834,Trade Debtors Sing Exchange,Current Asset,BAS Excluded,,No,No,No
+11850,Credit Note Clearing Account,Bank,BAS Excluded,,Yes,No,No
+11910,Voluntary Withholding Credits,Current Asset,BAS Excluded,,No,No,No
+11920,ABN Withholding Credits,Current Asset,BAS Excluded,,No,No,No
+12001,Other Assets,Current Asset,BAS Excluded,,No,No,No
+12100,Deposits Paid,Current Asset,BAS Excluded,,No,No,No
+12200,Prepaid Insurance,Current Asset,BAS Excluded,,No,No,No
+12300,Prepaid Borrowing Expenses,Fixed Asset,BAS Excluded,,No,No,No
+12500,Formation Costs,Current Asset,BAS Excluded,,No,No,No
+12600,ATO Instalment Paid,Current Asset,BAS Excluded,,No,No,No
+13300,Leasehold Improvements,Current Asset,BAS Excluded,,No,No,No
+13310,L'hold Improvements at Cost,Current Asset,BAS Excluded,,No,No,No
+13320,L'hold Improve Amortisation,Current Asset,BAS Excluded,,No,No,No
+13330,Plant  and Equipment,Fixed Asset,BAS Excluded,,No,No,No
+13340,Accum Dep Plant and Equip,Fixed Asset,BAS Excluded,,No,No,No
+13400,Testing Equipment,Current Asset,BAS Excluded,,No,No,No
+13410,Maastrad Skid Tester,Current Asset,BAS Excluded,,No,No,No
+13411,Tortus 11 Dry Fiction Tester,Current Asset,BAS Excluded,,No,No,No
+13412,Tortus 11 Friction Tester,Current Asset,BAS Excluded,,No,No,No
+13413,Tortus 3,Current Asset,BAS Excluded,,No,No,No
+13414,Roughness Meter,Current Asset,BAS Excluded,,No,No,No
+13415,Tortus 2 - Serial #157,Current Asset,BAS Excluded,,No,No,No
+13416,Pendulum #10,Current Asset,BAS Excluded,,No,No,No
+13417,Tortus 3,Current Asset,BAS Excluded,,No,No,No
+13418,25 x Slider 96's,Current Asset,BAS Excluded,,No,No,No
+13450,Less Accumulated depreciation,Current Asset,BAS Excluded,,No,No,No
+13500,IT Equip & Software,Current Asset,BAS Excluded,,No,No,No
+13510,IT Equipment at cost,Current Asset,BAS Excluded,,No,No,No
+13520,IT Equipment Accum Depn,Current Asset,BAS Excluded,,No,No,No
+13600,Building Improvements Lota,Current Asset,BAS Excluded,,No,No,No
+13610,Building Improvements at cost,Current Asset,BAS Excluded,,No,No,No
+13620,Building Improvemts Accum Depn,Current Asset,BAS Excluded,,No,No,No
+13700,General STS Pool,Current Asset,BAS Excluded,,No,No,No
+14000,Loan to NZ and SNG,Current Asset,BAS Excluded,,No,No,No
+14001,Loan to New Zeland,Current Asset,BAS Excluded,,No,No,No
+14002,Loan to Singapore,Current Asset,BAS Excluded,,No,No,No
+14400,Shares in subsidiary company,Current Asset,BAS Excluded,,No,No,No
+14500,NZ ISTS Contra Acct,Bank,BAS Excluded,,Yes,No,No
+15500,SING ISTS Contra Acct,Bank,BAS Excluded,,Yes,No,No
+17500,UPE Receivable - Walton Global Trust,Current Asset,BAS Excluded,,No,No,No
+18000,Contra ISTS Partnership,Bank,BAS Excluded,,Yes,No,No
+18011,Trade Debtors,Accounts Receivable,BAS Excluded,,No,No,No
+19000,PAYPAL Account Mackaroo,Bank,BAS Excluded,,Yes,No,No
+19001,BOQ Vehicle A/C 2282 BOQ,Bank,BAS Excluded,Account opened in Bank of Queensland. It will receive 1% of the weekly revenue,Yes,No,No
+19999,Suspense,Current Asset,BAS Excluded,,No,No,No
+20000,Liabilities,Liability,BAS Excluded,,No,No,No
+21000,Current Liabilities,Liability,BAS Excluded,,No,No,No
+21001,Credit Cards,Liability,BAS Excluded,,No,No,No
+21002,ANZ (new) CrCard 89489,Bank,BAS Excluded,,Yes,No,No
+21100,GST Liabilities,Liability,BAS Excluded,,No,No,No
+21101,GST Collected,Current Liability,BAS Excluded,,No,No,No
+21102,GST Paid,Current Liability,BAS Excluded,,No,No,No
+21103,ATO Running Balance A/c,Current Liability,BAS Excluded,,No,No,No
+21104,PAYG Income Tax Instalement,Current Liability,BAS Excluded,,No,No,No
+21105,Provision for FBT payable,Current Liability,BAS Excluded,,No,No,No
+21106,Company Income Tax Payable,Current Liability,BAS Excluded,,No,No,No
+21200,Payroll Liabilities,Liability,BAS Excluded,,No,No,No
+21201,Payroll Deductions Payable,Current Liability,BAS Excluded,,No,No,No
+21202,Parental Leave Funds,Current Liability,BAS Excluded,,No,No,No
+21203,PAYG Withholding Payable,Current Liability,BAS Excluded,,No,No,No
+21204,Superannuation Payable,Current Liability,BAS Excluded,,No,No,No
+21300,Long Term Liabilities,Liability,BAS Excluded,,No,No,No
+21301,BMW FINANCE 049DV7,Liability,BAS Excluded,,No,No,No
+21302,RAV4 FINANCE 469HZ3,Liability,BAS Excluded,,No,No,No
+21303,RAV4 FINANCE 204IS2,Liability,BAS Excluded,,No,No,No
+21304,RAV4 FINANCE 480JW9,Liability,BAS Excluded,,No,No,No
+21305,RAV4 FINANCE 483WJ9,Liability,BAS Excluded,,No,No,No
+21306,RAV FINANCE DL34BV,Liability,BAS Excluded,,No,No,No
+21307,RAV4 FINANCE 154KV2,Liability,BAS Excluded,,No,No,No
+21308,ALTITUDE FINANCE 750MO6,Current Liability,BAS Excluded,,No,No,No
+21346,Received Item,Current Liability,BAS Excluded,,No,No,No
+21350,Sales Tax Payable,Current Liability,BAS Excluded,,No,No,No
+21360,Import Duty Payable,Current Liability,BAS Excluded,,No,No,No
+21370,Voluntary Withholdings Payable,Current Liability,BAS Excluded,,No,No,No
+21395,ATO - Suspence,Current Liability,BAS Excluded,,No,No,No
+21400,Mike Walton - Personal Accts,Liability,BAS Excluded,,No,No,No
+21401,Loan - Mick Walton 18752,Current Liability,BAS Excluded,,No,No,No
+21402,Mike Walton 13658,Current Liability,BAS Excluded,,No,No,No
+21500,Intercompany Loaans,Liability,BAS Excluded,,No,No,No
+21501,Loans - Walton Global,Current Liability,BAS Excluded,,No,No,No
+21502,Mackaroo - ISTS Loans,Bank,BAS Excluded,,Yes,No,No
+21503,Loans -  UAE,Current Liability,BAS Excluded,,No,No,No
+21600,Client Deposits,Current Liability,BAS Excluded,,No,No,No
+21700,Other Current Liabilities,Current Liability,BAS Excluded,,No,No,No
+21905,Trade Creditors,Accounts Payable,BAS Excluded,,No,No,No
+21910,Trade Creditors Singapore,Accounts Payable,BAS Excluded,,No,No,No
+21911,Trade Creditors Sing Exchange,Current Liability,BAS Excluded,,No,No,No
+21950,Trade Creditors NZ,Accounts Payable,BAS Excluded,,No,No,No
+21951,Trade Creditors NZ Exchange,Current Liability,BAS Excluded,,No,No,No
+22100,Bank Loans,Current Liability,BAS Excluded,,No,No,No
+22101,Testers Loan,Current Liability,BAS Excluded,,No,No,No
+22102,ANZ ChtlMtge 329RTY,Current Liability,BAS Excluded,,No,No,No
+22103,ANZ Loan int 329RTY,Current Liability,BAS Excluded,,No,No,No
+22107,ANZ ChtlMtge M/V 789RDY,Current Liability,BAS Excluded,,No,No,No
+22108,ANZ Loan Int 789RDY,Current Liability,BAS Excluded,,No,No,No
+22110,ANZ ChtleMtge S691AZK,Liability,BAS Excluded,,No,No,No
+22111,ANZ Loan interest,Current Liability,BAS Excluded,,No,No,No
+22200,Other Long Term Liabilities,Current Liability,BAS Excluded,,No,No,No
+22250,Loan Mick & Steph,Current Liability,BAS Excluded,,No,No,No
+23000,ANZ (old) CrCard 56327,Bank,BAS Excluded,,Yes,No,No
+24100,ANZ Chttl Mtge 599TEG,Liability,BAS Excluded,,No,No,No
+24110,ANZ ChMtge Interest 599TEG,Liability,BAS Excluded,,No,No,No
+25100,ANZ Loan 51126,Liability,BAS Excluded,,No,No,No
+25200,ANZ Chttl Mtge Regn 589SZI,Current Liability,BAS Excluded,,No,No,No
+25201,ANZ Loan Int Regn 589SZI,Current Liability,BAS Excluded,,No,No,No
+25300,ANZ ChtleMtge 288WGI,Current Liability,BAS Excluded,,No,No,No
+25310,ANZ ChMtge Year end adjustment,Current Liability,BAS Excluded,,No,No,No
+25315,ANZ Chattel Mortg 489 WJO,Current Liability,BAS Excluded,,No,No,No
+25320,ANZ Chattel Mortg 728 WLM,Current Liability,BAS Excluded,,No,No,No
+25325,ANZ Chattel Mortg 353 XFU,Current Liability,BAS Excluded,,No,No,No
+25326,Unexpired Interest 353 XFU,Current Liability,BAS Excluded,,No,No,No
+25330,ANZ Chattel Mortage 841XCP,Current Liability,BAS Excluded,,No,No,No
+25335,ANZ Chatttel Mortgage 405 XQC,Current Liability,BAS Excluded,,No,No,No
+25336,Unexpired Interest 405XQC,Current Liability,BAS Excluded,,No,No,No
+25337,ANZ Chattel Mortgage 215 XRP,Liability,BAS Excluded,,No,No,No
+25338,Unexpired Interest 215 XRP,Liability,BAS Excluded,,No,No,No
+25339,ANZ Chatel Mortgage 589 YSF,Current Liability,BAS Excluded,,No,No,No
+25340,Unexpired Interest 589 YSF,Current Liability,BAS Excluded,,No,No,No
+25341,ANZ Chatel Mortgage 559 ZDV,Liability,BAS Excluded,,No,No,No
+25342,BOQ Finance 156 XIB,Current Liability,BAS Excluded,,No,No,No
+25343,BOQ Finance 878ZVZ,Current Liability,BAS Excluded,,No,No,No
+30000,Equity,Equity,BAS Excluded,,No,No,No
+31110,Opening Balance,Equity,BAS Excluded,,No,No,No
+31115,Capital Introduced M Walton,Equity,BAS Excluded,,No,No,No
+31120,Drawings - Walton Holdings,Equity,BAS Excluded,,No,No,No
+31310,Drawings - Mackaroo Pty Ltd,Equity,BAS Excluded,,No,No,No
+32000,Income Tax on Earnings,Equity,BAS Excluded,,No,No,No
+35000,Partners' Equity,Equity,BAS Excluded,,No,No,No
+35100,Partner A,Equity,BAS Excluded,,No,No,No
+35110,Partner A Capital,Equity,BAS Excluded,,No,No,No
+35120,Partner A Drawings,Equity,BAS Excluded,,No,No,No
+37000,Issued Capital,Equity,BAS Excluded,,No,No,No
+38000,Retained Earnings,Equity,BAS Excluded,,No,No,No
+38500,Capitla Profits Reserve,Equity,BAS Excluded,,No,No,No
+38600,Capital Loss Reserve,Equity,BAS Excluded,,No,No,No
+39000,Current Year Earnings,Equity,BAS Excluded,,No,No,No
+39999,Historical Balancing,Equity,BAS Excluded,,No,No,No
+40000,Income,Revenue,BAS Excluded,,No,No,No
+42000,Sales - Mick,Revenue,GST on Income,,No,No,No
+42001,Sales Monica,Revenue,GST on Income,,No,No,No
+42002,Sales - Kelly,Revenue,GST on Income,,No,No,No
+42003,Sales- Jenessa,Revenue,GST on Income,,No,No,No
+42004,Sales- Nikita,Revenue,GST on Income,,No,No,No
+42101,Sales - Courtney,Revenue,GST on Income,,No,No,No
+42102,Sales - Chantelle,Revenue,GST on Income,,No,No,No
+42103,Sales - Belinda,Revenue,GST on Income,,No,No,No
+42104,Sales - Corey,Revenue,GST on Income,,No,No,No
+42106,Sales - Michael Richardson,Revenue,GST on Income,,No,No,No
+42300,Sales New Zealand,Revenue,BAS Excluded,,No,No,No
+42301,Sales Singapore,Revenue,BAS Excluded,,No,No,No
+42400,Sales International,Revenue,BAS Excluded,,No,No,No
+42600,Income from ISTS New Zeland,Revenue,BAS Excluded,,No,No,No
+42601,Income from ISTS Singapore,Revenue,BAS Excluded,,No,No,No
+43000,Program Testing,Revenue,GST on Income,,No,No,No
+43001,Special Request Testing,Revenue,GST on Income,,No,No,No
+43002,GPC Testing,Revenue,GST on Income,,No,No,No
+43003,Equipment sales,Revenue,BAS Excluded,,No,No,No
+43004,International Income,Revenue,BAS Excluded,,No,No,No
+43005,Proceeds on Sale,Revenue,GST on Income,,No,No,No
+43006,Miscellaneous Receipts,Revenue,BAS Excluded,,No,No,No
+43007,Freight,Revenue,BAS Excluded,,No,No,No
+45000,Jobkeeper Subsidy (NO GST),Revenue,BAS Excluded,,No,No,No
+45010,COVID Cashflow Boost,Revenue,BAS Excluded,,No,No,No
+48100,ISTS Disbursements,Revenue,GST on Income,,No,No,No
+48200,Freight Collected,Revenue,GST on Income,,No,No,No
+48400,Equip & Vehicle Rental,Revenue,GST on Income,,No,No,No
+48500,Centrelink Payments,Revenue,BAS Excluded,,No,No,No
+49000,Late Fees Collected,Revenue,BAS Excluded,,No,No,No
+49500,Interest Income,Revenue,BAS Excluded,,No,No,No
+49998,Currency Gain Loss,Revenue,BAS Excluded,,No,No,No
+49999,Currency Gain / loss,Revenue,BAS Excluded,,No,No,No
+50000,Cost of Sales,Direct Costs,BAS Excluded,,No,No,No
+50001,Cost of Sales,Direct Costs,BAS Excluded,,No,No,No
+51000,Freight,Direct Costs,BAS Excluded,,No,No,No
+51001,Control test samples,Direct Costs,BAS Excluded,,No,No,No
+60000,General Expenses,Expense,BAS Excluded,,No,No,No
+60001,Bank Fees,Expense,GST Free Expenses,,No,No,No
+60002,Bank Interest Charged,Expense,BAS Excluded,,No,No,No
+60003,Paypal collection fees,Expense,BAS Excluded,,No,No,No
+60004,Bank Charges Capital Acct,Expense,BAS Excluded,,No,No,No
+60005,Borrowing Costs,Expense,BAS Excluded,,No,No,No
+60006,Debt Collection,Expense,GST on Expenses,,No,No,No
+60007,Bad Debts,Expense,BAS Excluded,,No,No,No
+60008,Accountancy Fees,Expense,GST on Expenses,,No,No,No
+60009,MYOB Fees,Expense,GST on Expenses,,No,No,No
+60010,Late Fees Paid,Expense,BAS Excluded,,No,No,No
+60011,Legal Fees,Expense,GST on Expenses,,No,No,No
+60012,Fees & Licences,Expense,GST on Expenses,,No,No,No
+60013,Assets < $1000,Expense,GST on Expenses,,No,No,No
+60014,Office equipment,Expense,GST on Expenses,,No,No,No
+60015,Depreciation Expense,Expense,BAS Excluded,,No,No,No
+60016,Books ,Expense,GST on Expenses,,No,No,No
+60017,MYOB,Expense,GST on Expenses,,No,No,No
+60018,Advertising,Expense,GST on Expenses,,No,No,No
+60019,Client Business Meeting,Expense,GST on Expenses,,No,No,No
+60020,Company Registration,Expense,BAS Excluded,,No,No,No
+60022,Contractor Services,Expense,GST on Expenses,,No,No,No
+60023,Sponsorships,Expense,GST on Expenses,,No,No,No
+60024,Donations,Expense,BAS Excluded,,No,No,No
+60025,Dump,Expense,GST on Expenses,,No,No,No
+60026,Import Duty,Expense,BAS Excluded,,No,No,No
+60027,Shipping ,Expense,BAS Excluded,,No,No,No
+60029,Fringe Benefits Tax,Expense,BAS Excluded,,No,No,No
+60031,Standards,Expense,BAS Excluded,,No,No,No
+60032,Interest Expense,Expense,BAS Excluded,,No,No,No
+60033,China Standards,Expense,BAS Excluded,,No,No,No
+60034,Customs Australia,Expense,GST on Expenses,,No,No,No
+60035,Fraudulent Expenses Credit Card,Expense,GST on Expenses,,No,No,No
+60036,Stripe Collection Fees,Expense,BAS Excluded,,No,No,No
+60100,WH&S,Expense,BAS Excluded,Work Health and Safety Expenses,No,No,No
+60101,Inductions,Expense,GST on Expenses,,No,No,No
+60102,First Aid Kit,Expense,GST on Expenses,,No,No,No
+60103,Works Health and Safety Audit,Expense,GST on Expenses,,No,No,No
+60104,ASIC (Airport),Expense,GST on Expenses,,No,No,No
+60105,Evacuation Diagram,Expense,GST on Expenses,,No,No,No
+60106,Clothing Onsite,Expense,GST on Expenses,Special pants or shirts  that technicians need o wear to perform slip test different from normal uniform,No,No,No
+60107,Smoke and Fire Alarm,Expense,GST on Expenses,,No,No,No
+60108,Fire Extinghuisher,Expense,GST on Expenses,,No,No,No
+61000,IT & COMMUNICATIONS,Expense,BAS Excluded,,No,No,No
+61001,Computer/ IT Services,Expense,GST on Expenses,,No,No,No
+61002,Computer Backup Service,Expense,GST on Expenses,,No,No,No
+61003,Website Maintenance,Expense,GST on Expenses,,No,No,No
+61004,Telephone & Internet,Expense,GST on Expenses,,No,No,No
+61005,Computer programs,Expense,GST on Expenses,,No,No,No
+61006,IT Security,Expense,BAS Excluded,,No,No,No
+61007,IT  Accesories and Products,Expense,GST on Expenses,,No,No,No
+61008,ISTS App Expenses,Expense,GST on Expenses,,No,No,No
+61009,Webstore,Expense,GST on Expenses,,No,No,No
+61010,Microsoft monthly Subscription,Expense,GST on Expenses,,No,No,No
+61100,Property Expenses,Expense,BAS Excluded,,No,No,No
+61101,Office Maintenance & Repairs,Expense,GST on Expenses,,No,No,No
+61102,Office rent,Expense,GNR,,No,No,No
+61103,Office Electricity,Expense,GST on Expenses,,No,No,No
+61104,Office Rates,Expense,BAS Excluded,,No,No,No
+61105,Office water & sewerage,Expense,BAS Excluded,,No,No,No
+61106,Administration Fees,Expense,BAS Excluded,,No,No,No
+61107,Cleaning and Gardening,Expense,GST on Expenses,,No,No,No
+61108,Air Conditoner,Expense,GST on Expenses,,No,No,No
+61109,Miscellaneous Expenses,Expense,GST on Expenses,,No,No,No
+61200,Property Renovations,Expense,BAS Excluded,,No,No,No
+61201,Whites Rd Office Reno,Expense,GST on Expenses,,No,No,No
+61202,Office Renovations,Expense,GST on Expenses,,No,No,No
+61203,Hire Equipment,Expense,GST on Expenses,,No,No,No
+61300,Admin Expenses,Expense,BAS Excluded,,No,No,No
+61301,Printing Stationery & Postage,Expense,GST on Expenses,,No,No,No
+61302,Freight Charges,Expense,BAS Excluded,,No,No,No
+61303,Post Box Fees,Expense,GST on Expenses,,No,No,No
+61304,Office Supplies,Expense,GST on Expenses,,No,No,No
+61305,Art Desing Report,Expense,GST on Expenses,,No,No,No
+61306,Kitchen Items,Expense,GST on Expenses,,No,No,No
+61400,Insurance,Expense,BAS Excluded,,No,No,No
+61401,Insurance,Expense,GST on Expenses,,No,No,No
+61402,Workcover,Expense,GST on Expenses,,No,No,No
+61403,Insurance Stamp Duty,Expense,BAS Excluded,,No,No,No
+61404,Underwriter Fee,Expense,BAS Excluded,,No,No,No
+61405,Broker Fee,Expense,BAS Excluded,,No,No,No
+61406,Emargency Services Levy ESL,Expense,BAS Excluded,,No,No,No
+61500,Travel,Expense,BAS Excluded,,No,No,No
+61501,Air travel,Expense,GST on Expenses,,No,No,No
+61502,Excess Baggage Fee,Expense,GST on Expenses,,No,No,No
+61503,Airport Trolleys,Expense,GST on Expenses,,No,No,No
+61504,Accomodation,Expense,GST on Expenses,,No,No,No
+61505,Public Transport-Taxis,Expense,GST on Expenses,,No,No,No
+61506,Car Rentals,Expense,GST on Expenses,,No,No,No
+61507,Travel allowances,Expense,BAS Excluded,,No,No,No
+61508,Qantas Club Membership,Expense,GST on Expenses,,No,No,No
+61509,Visa to Travel,Expense,GST on Expenses,,No,No,No
+61510,Travel Insurance,Expense,GST on Expenses,,No,No,No
+61511,Hotel Membership,Expense,GST on Expenses,,No,No,No
+61512,Baggage and Accesories Trips,Expense,GST on Expenses,,No,No,No
+61513,Passport,Expense,GST on Expenses,,No,No,No
+61514,Ferries,Expense,GST on Expenses,,No,No,No
+61515,Covid Test and Vaccines,Expense,GST on Expenses,,No,No,No
+61516,International Driver License,Expense,GST on Expenses,,No,No,No
+61520,Driving Courses,Expense,GST on Expenses,,No,No,No
+61600,Storage,Expense,BAS Excluded,,No,No,No
+61601,BNE Storage,Expense,GST on Expenses,,No,No,No
+61602,SA Storage The Barton,Expense,GST on Expenses,,No,No,No
+61603,VIC Storage Essendon,Expense,GST on Expenses,,No,No,No
+61604,SYD Storage Artarmon,Expense,GST on Expenses,,No,No,No
+61605,ACT Storage Fyschwick,Expense,GST on Expenses,,No,No,No
+61606,Big Blue Self Storage Cairns,Expense,GST on Expenses,,No,No,No
+61607,NT Storage Space Base,Expense,GST on Expenses,,No,No,No
+61608,TAS Storage Hobart,Expense,GST on Expenses,,No,No,No
+61609,WA Storage Western Australia,Expense,GST on Expenses,,No,No,No
+61610,GCT Storage Southport,Expense,GST on Expenses,,No,No,No
+61611,Kennards Storage Moore Park SY,Expense,GST on Expenses,,No,No,No
+61612,CENTRALQLD Storage Garbutt,Expense,GST on Expenses,,No,No,No
+61613,NT Storage Coconut Grove,Expense,GST on Expenses,,No,No,No
+61614,National Storage- Cannon Hill,Expense,GST on Expenses,,No,No,No
+61615,Townsville National Storage,Expense,GST on Expenses,National Storage - Bohle,No,No,No
+61616,Expenses for storages,Expense,GST on Expenses,,No,No,No
+61617,SYD Storage Kennards Waterloo,Expense,GST on Expenses,,No,No,No
+61618,Mackay Storage,Expense,GST on Expenses,,No,No,No
+61619,National Storage- Bohle,Expense,GST on Expenses,Storage Mount St John,No,No,No
+61700,OPERATIONS TESTING EQUIPMENT,Expense,BAS Excluded,,No,No,No
+61701,Tortus or Pendulum  Repairs,Expense,GST on Expenses,,No,No,No
+61702,Pendulum Calibration Expense,Expense,GST on Expenses,,No,No,No
+61703,Calibration Engraving and others,Expense,GST on Expenses,,No,No,No
+61704,Testing Equipment Requisites,Expense,GST on Expenses,,No,No,No
+61705,Testing Equipment Purchases,Expense,GST on Expenses,,No,No,No
+61706,Testing Equip Spare Parts,Expense,GST on Expenses,,No,No,No
+61707,Testing Equip Import Expense,Expense,BAS Excluded,,No,No,No
+61708,Expense Inventory,Expense,BAS Excluded,,No,No,No
+61709,Consulting Services Equipment,Expense,GST on Expenses,,No,No,No
+61710,Ancillary Equipment,Expense,BAS Excluded,,No,No,No
+61711,Calibration Equipment,Expense,GST on Expenses,,No,No,No
+61712,Testing Equipment for Resale,Expense,BAS Excluded,,No,No,No
+61713,Equipment Repairs,Expense,GST on Expenses,,No,No,No
+61800,Staff & Training Incentives,Expense,BAS Excluded,,No,No,No
+61801,Staff Incentives,Expense,GST on Expenses,,No,No,No
+61802,Staff Rehabilitation Expenses,Expense,BAS Excluded,,No,No,No
+61803,Uniforms,Expense,GST on Expenses,,No,No,No
+61804,Training,Expense,GST on Expenses,,No,No,No
+61805,Staff Amenities,Expense,GST on Expenses,,No,No,No
+61806,Consulting Services,Expense,BAS Excluded,,No,No,No
+61807,Superannuation Mick,Expense,BAS Excluded,,No,No,No
+61808,Uniforms Dry Cleaning,Expense,GST on Expenses,,No,No,No
+61809,Vounchers,Expense,GST on Expenses,Gift vounchers for job performance,No,No,No
+61900,Wages & Salaries,Expense,BAS Excluded,,No,No,No
+61901,Wages & Salaries,Expense,BAS Excluded,,No,No,No
+61902,Superannuation,Expense,BAS Excluded,,No,No,No
+61903,Paid Parental Leave,Expense,BAS Excluded,,No,No,No
+61904,Travel Allowance ,Expense,BAS Excluded,,No,No,No
+61905,Travel Allowance (Training),Expense,BAS Excluded,,No,No,No
+62000,Motor Vehicle Expenses,Expense,BAS Excluded,,No,No,No
+62001,M/V Fuel,Expense,GST on Expenses,,No,No,No
+62002,M/V Parking & tolls,Expense,GST on Expenses,,No,No,No
+62003,M/V Fines,Expense,BAS Excluded,,No,No,No
+62004,M/V Registration,Expense,BAS Excluded,,No,No,No
+62005,M/V Repairs & Maintenance,Expense,GST on Expenses,,No,No,No
+62006,Stamp Duty,Expense,BAS Excluded,,No,No,No
+62007,Car Accesories,Expense,GST on Expenses,,No,No,No
+62008,Driver License,Expense,BAS Excluded,,No,No,No
+62009,M/V Leasing Car,Expense,GST on Expenses,,No,No,No
+62010,Car Transportation,Expense,GST on Expenses,Car transported by a truck or another vehicle,No,No,No
+62011,Car Admin Fees,Expense,GST on Expenses,,No,No,No
+62012,Repairs (Cars Different ISTS),Expense,GST on Expenses,,No,No,No
+62013,LCT-Luxury car tax,Expense,BAS Excluded,,No,No,No
+62014,Vehicle Discount,Expense,BAS Excluded,,No,No,No
+62015,M/V Insurance,Expense,GST on Expenses,,No,No,No
+62100,New Zealand Expenses,Expense,BAS Excluded,,No,No,No
+62101,NZ Telephone,Expense,BAS Excluded,,No,No,No
+62102,NZ Internet,Expense,BAS Excluded,,No,No,No
+62103,NZ Trolley,Expense,BAS Excluded,,No,No,No
+62104,NZ Car hire,Expense,BAS Excluded,,No,No,No
+62105,NZ Fuel,Expense,BAS Excluded,,No,No,No
+62106,NZ Parking,Expense,BAS Excluded,,No,No,No
+62107,NZ Website,Expense,BAS Excluded,,No,No,No
+62108,NZ Testing Requisites,Expense,BAS Excluded,,No,No,No
+62109,NZ Testing Equipment,Expense,BAS Excluded,,No,No,No
+62110,NZ PO Box Rental,Expense,BAS Excluded,,No,No,No
+62111,NZ Storage,Expense,BAS Excluded,,No,No,No
+62112,NZ Accomodation,Expense,BAS Excluded,,No,No,No
+62113,NZ Staff Incentives,Expense,BAS Excluded,,No,No,No
+62114,NZ General Expenses,Expense,BAS Excluded,,No,No,No
+62115,NZ Accounting Fees,Expense,BAS Excluded,,No,No,No
+62116,NZ Licenses,Expense,BAS Excluded,,No,No,No
+62117,NZ Travel Expenses,Expense,BAS Excluded,,No,No,No
+62118,NZ Advertisement,Expense,BAS Excluded,,No,No,No
+62119,NZ Public Transport/Taxi,Expense,BAS Excluded,,No,No,No
+62120,NZ Calibration Equipment,Expense,BAS Excluded,,No,No,No
+62121,NZ Excess Bag,Expense,BAS Excluded,,No,No,No
+62122,NZ Stationary,Expense,BAS Excluded,,No,No,No
+62123,NZ TNT,Expense,BAS Excluded,,No,No,No
+62124,NZ Training,Expense,BAS Excluded,,No,No,No
+62125,NZ Airfare,Expense,BAS Excluded,,No,No,No
+62126,NZ Office Equipment,Expense,BAS Excluded,,No,No,No
+62127,NZ Taxi,Expense,BAS Excluded,,No,No,No
+62128,Busiiness Meeting,Expense,BAS Excluded,,No,No,No
+62129,Dumping,Expense,BAS Excluded,,No,No,No
+62200,Singapore Expenses,Expense,BAS Excluded,,No,No,No
+62201,SG Telephone,Expense,BAS Excluded,,No,No,No
+62202,SG Internet,Expense,BAS Excluded,,No,No,No
+62203,SG Trolley,Expense,BAS Excluded,,No,No,No
+62204,SG Car Hire,Expense,BAS Excluded,,No,No,No
+62205,SG Fuel,Expense,BAS Excluded,,No,No,No
+62206,SG Parking,Expense,BAS Excluded,,No,No,No
+62207,SG Website,Expense,BAS Excluded,,No,No,No
+62208,SG Testing Requisites,Expense,BAS Excluded,,No,No,No
+62209,SG Testing Equipment,Expense,BAS Excluded,,No,No,No
+62210,SG PO Box Rental,Expense,BAS Excluded,,No,No,No
+62211,SG Storage,Expense,BAS Excluded,,No,No,No
+62212,SG Accomodation,Expense,BAS Excluded,,No,No,No
+62213,SG Business Food and Beverage,Expense,BAS Excluded,,No,No,No
+62214,SG General Expenses,Expense,BAS Excluded,,No,No,No
+62215,SG  Accountanting Fees,Expense,BAS Excluded,,No,No,No
+62216,SG Licenses and Fees,Expense,BAS Excluded,,No,No,No
+62217,SG Travel Expenses,Expense,BAS Excluded,,No,No,No
+62218,SG Advertisement,Expense,BAS Excluded,,No,No,No
+62219,SG Public Transport/Taxi,Expense,BAS Excluded,,No,No,No
+62220,SG Calibration  Equipment,Expense,BAS Excluded,,No,No,No
+62221,SG Excess Bag,Expense,BAS Excluded,,No,No,No
+62222,SG Stationary,Expense,BAS Excluded,,No,No,No
+62223,SG Customs Singapore Imports,Expense,BAS Excluded,,No,No,No
+62224,SG Training,Expense,BAS Excluded,,No,No,No
+62225,SNG Motor Vehicle Fines,Expense,BAS Excluded,,No,No,No
+62300,China Expenses,Expense,BAS Excluded,,No,No,No
+62301,CN Internet,Expense,BAS Excluded,,No,No,No
+62302,CN Parking,Expense,BAS Excluded,,No,No,No
+62303,CN Accomodation,Expense,BAS Excluded,,No,No,No
+62304,CN Travel Expenses,Expense,BAS Excluded,,No,No,No
+62310,Insurance for Workers,Expense,BAS Excluded,,No,No,No
+62313,CN Staff Incentives,Expense,BAS Excluded,,No,No,No
+62319,CN Public Transport/Taxi,Expense,BAS Excluded,,No,No,No
+62400,Malaysia Expenses,Expense,BAS Excluded,,No,No,No
+62406,MLY Parking,Expense,BAS Excluded,,No,No,No
+62412,MLY Accommodation,Expense,BAS Excluded,,No,No,No
+62500,International Expenses,Expense,BAS Excluded,,No,No,No
+62501,Mobile  phone,Expense,BAS Excluded,,No,No,No
+62503,Accommodation,Expense,BAS Excluded,,No,No,No
+62504,Car Hire,Expense,BAS Excluded,,No,No,No
+62505,Fuel,Expense,BAS Excluded,,No,No,No
+62506,Parking,Expense,BAS Excluded,,No,No,No
+62507,Public Transport Fares,Expense,BAS Excluded,,No,No,No
+62508,Toll,Expense,BAS Excluded,,No,No,No
+62509,Internet Ingflight,Expense,BAS Excluded,,No,No,No
+62510,Business Meeting (meals),Expense,BAS Excluded,,No,No,No
+62511,Airfares International,Expense,BAS Excluded,,No,No,No
+62600,Walton Global,Expense,BAS Excluded,,No,No,No
+62601,Rent,Expense,BAS Excluded,,No,No,No
+62602,Fitting Outs,Expense,GST on Expenses,,No,No,No
+62603,Maintenance and Repairs,Expense,GST on Expenses,,No,No,No
+62604,Settlement of Property,Expense,GST on Expenses,,No,No,No
+62605,Renovations ,Expense,GST on Expenses,,No,No,No
+62606,Miscellaneous Purchases,Expense,GST on Expenses,,No,No,No
+62607,Asset < 1000,Expense,GST on Expenses,,No,No,No
+62608,Insurances GTCC,Expense,GST on Expenses,,No,No,No
+62609,Office Furniture,Expense,GST on Expenses,,No,No,No
+62610,Body Corporate Fees,Expense,BAS Excluded,,No,No,No
+62611,Equipment Hire,Expense,GST on Expenses,,No,No,No
+62612,Office Supplies,Expense,GST on Expenses,,No,No,No
+62613,Office Equipment,Expense,GST on Expenses,,No,No,No
+62614,Internet NBN,Expense,GST on Expenses,,No,No,No
+62615,Tools for Maintenance,Expense,GST on Expenses,,No,No,No
+62616,Crockery and Cutlery,Expense,GST on Expenses,,No,No,No
+62617,GTCC Rates,Expense,BAS Excluded,,No,No,No
+62618,Stationary,Expense,GST on Expenses,,No,No,No
+62619,Water and Sewerage,Expense,BAS Excluded,,No,No,No
+62620,Testing Equipment,Expense,GST on Expenses,,No,No,No
+62621,IT Services,Expense,GST on Expenses,,No,No,No
+62622,Cleaning,Expense,GST on Expenses,,No,No,No
+62623,Xero Australia,Expense,GST on Expenses,,No,No,No
+62624,Consulting Investors,Expense,GST on Expenses,,No,No,No
+62625,Electricity,Expense,GST on Expenses,,No,No,No
+62626,Accounting Fees,Expense,GST on Expenses,,No,No,No
+62627,First Aid Kit,Expense,GST on Expenses,,No,No,No
+62628,Work and Health Safety Audits,Expense,GST on Expenses,,No,No,No
+62629,Advertisement,Expense,GST on Expenses,,No,No,No
+62630,Fire Alarm,Expense,GST on Expenses,,No,No,No
+62631,ASIC WALTON GLOBAL,Expense,BAS Excluded,Australian Securities & Investments Commisiion,No,No,No
+62700,Sydney Apartment,Expense,BAS Excluded,,No,No,No
+62701,Furniture,Expense,GST on Expenses,,No,No,No
+62702,Kitchen Ware,Expense,GST on Expenses,,No,No,No
+62703,Coffee Machine,Expense,GST on Expenses,,No,No,No
+62704,Bedding and Linen,Expense,GST on Expenses,,No,No,No
+62705,Electrodomestics,Expense,GST on Expenses,,No,No,No
+62706,Rent Sydney Apartment,Expense,BAS Excluded,,No,No,No
+62707,Body Corporate,Expense,GST on Expenses,,No,No,No
+62708,Electricty ,Expense,GST on Expenses,,No,No,No
+62709,Miscellaneous,Expense,GST on Expenses,,No,No,No
+62710,Tools for Storage,Expense,GST on Expenses,Not slip testing tools,No,No,No
+62711,Gas,Expense,GST on Expenses,,No,No,No
+62712,Stationary,Expense,GST on Expenses,,No,No,No
+62713,Electrical Accesories,Expense,GST on Expenses,,No,No,No
+62714,Signane,Expense,GST on Expenses,,No,No,No
+62715,Cleaning,Expense,GST on Expenses,,No,No,No
+62716,Water and Sewerage,Expense,GST Free Expenses,,No,No,No
+62717,Rates,Expense,BAS Excluded,,No,No,No
+62718,Apartment Supplies,Expense,GST on Expenses,,No,No,No
+62719,Maintenance and Repairs,Expense,GST on Expenses,,No,No,No
+62720,Land Tax NSW,Expense,BAS Excluded,,No,No,No
+62721,Internet,Expense,GST on Expenses,,No,No,No
+62800,United Arab Emirates,Expense,BAS Excluded,,No,No,No
+62801,Accounting Fess,Expense,BAS Excluded,,No,No,No
+62802,Stationary,Expense,BAS Excluded,,No,No,No
+62803,IT Website,Expense,BAS Excluded,,No,No,No
+62804,IT Accessories ,Expense,BAS Excluded,,No,No,No
+62805,Telephone,Expense,BAS Excluded,,No,No,No
+62806,Accommodation,Expense,BAS Excluded,,No,No,No
+62807,Rental Car,Expense,BAS Excluded,,No,No,No
+62808,Fuel,Expense,BAS Excluded,,No,No,No
+62809,Parking and Tolls,Expense,BAS Excluded,,No,No,No
+62810,Health Insurance for Workers,Expense,BAS Excluded,,No,No,No
+62811,Office Rental ,Expense,BAS Excluded,Office rent in Dubai,No,No,No
+62812,Public Transport/Taxi,Expense,BAS Excluded,,No,No,No
+62813,Business Food and Beverage,Expense,BAS Excluded,,No,No,No
+62814,Traffic Fines,Expense,BAS Excluded,Traffic Fines Dubai,No,No,No
+62815,Office Equipment,Expense,BAS Excluded,Office equipment in Dubai,No,No,No
+62816,Office Supplies,Expense,BAS Excluded,,No,No,No
+62817,Medical Expenses,Expense,BAS Excluded,,No,No,No
+62818,Testing Equipment,Expense,BAS Excluded,,No,No,No
+62819,Xero UAE,Expense,BAS Excluded,,No,No,No
+62820,Special Clothing,Expense,BAS Excluded,,No,No,No
+62821,Images,Expense,BAS Excluded,,No,No,No
+62822,Licenses and Fees,Expense,BAS Excluded,,No,No,No
+62823,Po Box Fees UAE,Expense,BAS Excluded,,No,No,No
+62824,Business Insurance,Expense,BAS Excluded,,No,No,No
+62825,UAE Airfares,Expense,BAS Excluded,,No,No,No
+66201,Admin  Fees,Expense,GST on Expenses,,No,No,No
+68000,to be deleted,Expense,BAS Excluded,,No,No,No
+68001,Water cooler office,Expense,GST on Expenses,,No,No,No
+68002,Discounts Given,Expense,BAS Excluded,,No,No,No
+80000,Other Income,Other Income,BAS Excluded,,No,No,No
+81000,Interest Income,Other Income,BAS Excluded,,No,No,No
+82000,Income from Shares,Other Income,BAS Excluded,,No,No,No
+83000,Parental Leave Funds,Other Income,BAS Excluded,,No,No,No
+84000,QLD State Goverment Grat,Other Income,BAS Excluded,$10.000 received from government help Covid,No,No,No
+85000,Trust Distributions Received,Other Income,BAS Excluded,,No,No,No
+86000,Other Income,Other Income,BAS Excluded,,No,No,No
+90000,Other Expenses,Expense,BAS Excluded,,No,No,No
+91000,Suspense,Expense,BAS Excluded,,No,No,No
+91500,Accountants Adjustment account,Expense,BAS Excluded,,No,No,No
+92000,Mike Walton - Tax Payments,Expense,BAS Excluded,,No,No,No
+92500,Dividends,Expense,BAS Excluded,,No,No,No
+93000,Income Tax Expense,Expense,BAS Excluded,,No,No,No
+94000,Withhold Tax from the Bank,Expense,GST Free Expenses,,No,No,No

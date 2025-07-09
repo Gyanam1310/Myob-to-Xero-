@@ -1,0 +1,247 @@
+Deposit Account,ID No.,Date,Co./Last Name,First Name,Memo,Inclusive,Allocation Account No.,Amount,Job No.,Tax Code,Tax Amount,Payment Method,Drawer/Account Name,BSB,Account Number,Cheque Number,Card Number,Name On Card,Authorisation Code,Notes,Allocation Memo,Category,Card ID,Record ID
+11110,CR002180,15/02/2022,,,TRANSFER FROM CCT ACF TIDSWELL PC070222-164482394,,,$636.36 ,,,,EFTPOS,,,,,,,,,,,,
+,CR002180,15/02/2022,,,TRANSFER FROM CCT ACF TIDSWELL PC070222-164482394,,11190,$636.36 ,,N-T,$0.00 ,EFTPOS,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+11110,CR002635,13/04/2023,Automatic Data Processing Limited,,TRANSFER FROM AUTOMATIC DATA P ADP202304139079125,X,,$388.80 ,,,,EFTPOS,,,,,,,,,,,*None,2658
+,CR002635,13/04/2023,Automatic Data Processing Limited,,TRANSFER FROM AUTOMATIC DATA P ADP202304139079125,X,21410,$388.80 ,,N-T,$0.00 ,EFTPOS,,,,,,,,,Nina's super paid in March refund\r\n,,*None,2658
+,,,,,,,,,,,,,,,,,,,,,,,,
+11110,CR003149,15/08/2024,Automatic Data Processing Limited,,TRANSFER FROM AUTOMATIC DATA P ADP202408159097205,X,,$876.68 ,,,,EFTPOS,,,,,,,,,,,*None,2658
+,CR003149,15/08/2024,Automatic Data Processing Limited,,TRANSFER FROM AUTOMATIC DATA P ADP202408159097205,X,21410,$876.68 ,,N-T,$0.00 ,EFTPOS,,,,,,,,,RR July 24,,*None,2658
+,,,,,,,,,,,,,,,,,,,,,,,,
+11110,CR001720,11/8/2020,Commercial Mine Recyclers,,PAYMENT FROM CMR Inv No 55736,X,,$66.70 ,,,,EFTPOS,,,,,,,,,,,C2141,2457
+,CR001720,11/8/2020,Commercial Mine Recyclers,,PAYMENT FROM CMR Inv No 55736,X,42000,$60.64 ,,GST,$6.06 ,EFTPOS,,,,,,,,,,,C2141,2457
+,,,,,,,,,,,,,,,,,,,,,,,,
+11136,CR001684,22/07/2020,ANZ,,ANZ credit from ANZ to close account (fees charged in error),X,,$93.71 ,,,,EFTPOS,,,,,,,,,,,5022,46
+,CR001684,22/07/2020,ANZ,,ANZ credit from ANZ to close account (fees charged in error),X,61020,$93.71 ,,N-T,$0.00 ,EFTPOS,,,,,,,,,,,5022,46
+,,,,,,,,,,,,,,,,,,,,,,,,
+11110,CR001860,1/3/2021,ANZ,,ANZ REFUND RID2008 CIM000000001406847,X,,$1.43 ,,,,EFTPOS,,,,,,,,,,,5022,46
+,CR001860,1/3/2021,ANZ,,ANZ REFUND RID2008 CIM000000001406847,X,61020,$1.43 ,,N-T,$0.00 ,EFTPOS,,,,,,,,,,,5022,46
+,,,,,,,,,,,,,,,,,,,,,,,,
+11110,CR001971,19/07/2021,ANZ,,ANZ REFUND - RID1807 BUSINESS SELECT CIM000000001784253,X,,"$4,564.24 ",,,,,,,,,,,,,,,5022,46
+,CR001971,19/07/2021,ANZ,,ANZ REFUND - RID1807 BUSINESS SELECT CIM000000001784253,X,61020,"$4,564.24 ",,N-T,$0.00 ,,,,,,,,,,,,5022,46
+,,,,,,,,,,,,,,,,,,,,,,,,
+21150,Acct 3548,28/06/2021,,,RID2037 ANZ Remediation Credit,X,,$7.46 ,,,,EFTPOS,,,,,,,,,,,,
+,Acct 3548,28/06/2021,,,RID2037 ANZ Remediation Credit,X,61020,$7.46 ,,N-T,$0.00 ,EFTPOS,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+11110,CR002082,16/11/2021,ANZ,,ANZ REFUND ANZ REFUND RID2023,X,,$0.23 ,,,,EFTPOS,,,,,,,,,,,5022,46
+,CR002082,16/11/2021,ANZ,,ANZ REFUND ANZ REFUND RID2023,X,61020,$0.23 ,,N-T,$0.00 ,EFTPOS,,,,,,,,,,,5022,46
+,,,,,,,,,,,,,,,,,,,,,,,,
+11110,CR003012,12/4/2024,ANZ,,ANZ REFUND BNDL007 REFER ANZ.COM/RID,X,,$0.05 ,,,,EFTPOS,,,,,,,,,,,5022,46
+,CR003012,12/4/2024,ANZ,,ANZ REFUND BNDL007 REFER ANZ.COM/RID,X,61020,$0.05 ,,N-T,$0.00 ,EFTPOS,,,,,,,,,,,5022,46
+,,,,,,,,,,,,,,,,,,,,,,,,
+11110,CR003017,18/04/2024,ANZ,,ANZ REFUND BNDL007 REFER ANZ.COM/RID,X,,$0.08 ,,,,EFTPOS,,,,,,,,,,,5022,46
+,CR003017,18/04/2024,ANZ,,ANZ REFUND BNDL007 REFER ANZ.COM/RID,X,61020,$0.08 ,,N-T,$0.00 ,EFTPOS,,,,,,,,,,,5022,46
+,,,,,,,,,,,,,,,,,,,,,,,,
+11110,CR003141,8/8/2024,Diana Soliman Expenses,,PAYMENT FROM DIANA SOLIMAN repayment for  accomodation for 1 night,X,,$317.00 ,,,,EFTPOS,,,,,,,,,,,2002,2368
+,CR003141,8/8/2024,Diana Soliman Expenses,,PAYMENT FROM DIANA SOLIMAN repayment for  accomodation for 1 night,X,61030,$288.18 ,,GST,$28.82 ,EFTPOS,,,,,,,,,,,2002,2368
+,,,,,,,,,,,,,,,,,,,,,,,,
+11110,CR002639,18/04/2023,Centrelink,,PENSION/SUPERANNUATION FROM CTRLINK PPLFUNDS D00J4126408994773B,X,,"$9,749.40 ",,,,,,,,,,,,,,,*None,1465
+,CR002639,18/04/2023,Centrelink,,PENSION/SUPERANNUATION FROM CTRLINK PPLFUNDS D00J4126408994773B,X,65130,"$9,749.40 ",,N-T,$0.00 ,,,,,,,,,,,,*None,1465
+,,,,,,,,,,,,,,,,,,,,,,,,
+11110,CR002447,19/10/2022,icare Workers Insurance NSW,,ANZ ATM OAKLEIGH BRANCH #1 OAKLEIGH VI ATM 3792,X,,$76.20 ,,,,Cheque,,,,,,,,,,,1684,2182
+,CR002447,19/10/2022,icare Workers Insurance NSW,,ANZ ATM OAKLEIGH BRANCH #1 OAKLEIGH VI ATM 3792,X,65140,$69.27 ,,GST,$6.93 ,Cheque,,,,,,,,,,,1684,2182
+,,,,,,,,,,,,,,,,,,,,,,,,
+11110,CR001779,5/11/2020,icare Workers Insurance NSW,,Refund rec'd for perid 31/8/20 - 31/8/2021 Variation for actual wages ,X,,$83.94 ,,,,Cheque,,,,,,,,,,,1684,2182
+,CR001779,5/11/2020,icare Workers Insurance NSW,,Refund rec'd for perid 31/8/20 - 31/8/2021 Variation for actual wages ,X,65140,$76.31 ,,GST,$7.63 ,Cheque,,,,,,,,,,,1684,2182
+,,,,,,,,,,,,,,,,,,,,,,,,
+11110,CR002562,30/01/2023,Covermore Insurance,,TRANSFER FROM COVERMORE TRAVEL 484750002,X,,"$15,364.29 ",,,,EFTPOS,,,,,,,,,,,5102,527
+,CR002562,30/01/2023,Covermore Insurance,,TRANSFER FROM COVERMORE TRAVEL 484750002,X,65150,"$15,364.29 ",,N-T,$0.00 ,EFTPOS,,,,,,,,,,,5102,527
+,,,,,,,,,,,,,,,,,,,,,,,,
+11110,CR002549,12/1/2023,Evangelische Elisabeth Klinik,,INTL PAYMENT FROM EVANGELISCHE EL REF:AZNA301102680600 EUR5630.09 Fee 5.00,X,,"$8,499.67 ",,,,EFTPOS,,,,,,,,,,,*None,2684
+,CR002549,12/1/2023,Evangelische Elisabeth Klinik,,INTL PAYMENT FROM EVANGELISCHE EL REF:AZNA301102680600 EUR5630.09 Fee 5.00,X,65150,"$8,499.67 ",,FRE,$0.00 ,EFTPOS,,,,,,,,,,,*None,2684
+,,,,,,,,,,,,,,,,,,,,,,,,
+11110,CR002432,29/09/2022,Ian Godson Superannuation Fund,,REVERSAL OF DEBIT ENTRY 0,X,,"$10,366.68 ",,,,EFTPOS,,,,,,,,,,,5157,200
+,CR002432,29/09/2022,Ian Godson Superannuation Fund,,REVERSAL OF DEBIT ENTRY 0,X,66010,"$9,424.25 ",,GST,$942.43 ,EFTPOS,,,,,,,,,,,5157,200
+,,,,,,,,,,,,,,,,,,,,,,,,
+11135,IE080722,8/7/2022,ANZ,,Credit Interest Paid,X,,"$1,005.56 ",,,,EFTPOS,,,,,,,,,,,5022,46
+,IE080722,8/7/2022,ANZ,,Credit Interest Paid,X,81000,"$1,005.56 ",,N-T,$0.00 ,EFTPOS,,,,,,,,,,,5022,46
+,,,,,,,,,,,,,,,,,,,,,,,,
+11135,CR001786,6/11/2020,ANZ,,ANZ Credit Interest Paid,X,,$127.59 ,,,,EFTPOS,,,,,,,,,,,5022,46
+,CR001786,6/11/2020,ANZ,,ANZ Credit Interest Paid,X,81000,$127.59 ,,N-T,$0.00 ,EFTPOS,,,,,,,,,,,5022,46
+,,,,,,,,,,,,,,,,,,,,,,,,
+21150,CR001898,30/03/2021,ANZ,,ANZ RID1915 REMEDIATION CREDIT,X,,$10.34 ,,,,,,,,,,,,,,,5022,46
+,CR001898,30/03/2021,ANZ,,ANZ RID1915 REMEDIATION CREDIT,X,81000,$10.34 ,,N-T,$0.00 ,,,,,,,,,,,,5022,46
+,,,,,,,,,,,,,,,,,,,,,,,,
+11135,CR001703,7/8/2020,ANZ,,ANZ,X,,$84.53 ,,,,EFTPOS,,,,,,,,,,,5022,46
+,CR001703,7/8/2020,ANZ,,ANZ,X,81000,$84.53 ,,N-T,$0.00 ,EFTPOS,,,,,,,,,,,5022,46
+,,,,,,,,,,,,,,,,,,,,,,,,
+11135,CR001666,8/7/2020,ANZ,,ANZ,X,,$91.89 ,,,,Other,,,,,,,,,,,5022,46
+,CR001666,8/7/2020,ANZ,,ANZ,X,81000,$91.89 ,,N-T,$0.00 ,Other,,,,,,,,,,,5022,46
+,,,,,,,,,,,,,,,,,,,,,,,,
+11135,CR001737,8/9/2020,ANZ,,ANZ Credit Interest Paid ,X,,$100.83 ,,,,,,,,,,,,,,,5022,46
+,CR001737,8/9/2020,ANZ,,ANZ Credit Interest Paid ,X,81000,$100.83 ,,N-T,$0.00 ,,,,,,,,,,,,5022,46
+,,,,,,,,,,,,,,,,,,,,,,,,
+11135,CR001753,8/10/2020,ANZ,,ANZ,X,,$101.95 ,,,,EFTPOS,,,,,,,,,,,5022,46
+,CR001753,8/10/2020,ANZ,,ANZ,X,81000,$101.95 ,,N-T,$0.00 ,EFTPOS,,,,,,,,,,,5022,46
+,,,,,,,,,,,,,,,,,,,,,,,,
+11135,CR002253,6/5/2022,ANZ,,ANZ,X,,$21.24 ,,,,EFTPOS,,,,,,,,,,,5022,46
+,CR002253,6/5/2022,ANZ,,ANZ,X,81000,$21.24 ,,N-T,$0.00 ,EFTPOS,,,,,,,,,,,5022,46
+,,,,,,,,,,,,,,,,,,,,,,,,
+11135,IE080622,8/6/2022,,,Credit Interest Paid,X,,$339.23 ,,,,,,,,,,,,,,,,
+,IE080622,8/6/2022,,,Credit Interest Paid,X,81000,$339.23 ,,N-T,$0.00 ,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+11110,CR002052,13/10/2021,,,TRANSFER FROM LOGMEIN AUS PTY REFUND LOGMEIN,X,,"$1,706.10 ",,,,EFTPOS,,,,,,,,,,,,
+,CR002052,13/10/2021,,,TRANSFER FROM LOGMEIN AUS PTY REFUND LOGMEIN,X,61150,"$1,551.00 ",,GST,$155.10 ,EFTPOS,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+11110,CR001930,10/6/2021,Hugh Matthey AMEX,,PAYMENT FROM MR HUGH MICHAEL MATTHEY Reimbursement uber credit CC-202,X,,$50.44 ,,,,EFTPOS,,,,,,,,,,,71012,2115
+,CR001930,10/6/2021,Hugh Matthey AMEX,,PAYMENT FROM MR HUGH MICHAEL MATTHEY Reimbursement uber credit CC-202,X,61400,$45.85 ,,GST,$4.59 ,EFTPOS,,,,,,,,,,,71012,2115
+,,,,,,,,,,,,,,,,,,,,,,,,
+11110,CR001931,14/06/2021,ATO,,TRANSFER FROM ATO ATO61107906678I001 Company Tax Refund,X,,"$43,229.35 ",,,,EFTPOS,,,,,,,,,,,5026,136
+,CR001931,14/06/2021,ATO,,TRANSFER FROM ATO ATO61107906678I001 Company Tax Refund,X,21250,"$43,229.35 ",,N-T,$0.00 ,EFTPOS,,,,,,,,,,,5026,136
+,,,,,,,,,,,,,,,,,,,,,,,,
+11110,CR002657,1/5/2023,ATO,,TRANSFER FROM ATO ATO001100017379612,X,,$143.98 ,,,,EFTPOS,,,,,,,,,,,5026,136
+,CR002657,1/5/2023,ATO,,TRANSFER FROM ATO ATO001100017379612,X,21250,$143.98 ,,N-T,$0.00 ,EFTPOS,,,,,,,,,General Interest charge refund,,5026,136
+,,,,,,,,,,,,,,,,,,,,,,,,
+11110,CR002968,26/02/2024,ATO,,TRANSFER FROM ATO ATO005000019207802,X,,"$134,857.50 ",,,,,,,,,,,,,,,5026,136
+,CR002968,26/02/2024,ATO,,TRANSFER FROM ATO ATO005000019207802,X,21250,"$134,857.50 ",,N-T,$0.00 ,,,,,,,,,,,,5026,136
+,,,,,,,,,,,,,,,,,,,,,,,,
+21150,CR001941,4/6/2021,Nina Gaitz (nee IGEL) VISA,,Nina Gaitz (nee IGEL) VISA Repayment to c/c ,X,,$38.00 ,,,,EFTPOS,,,,,,,,,,,5653,2468
+,CR001941,4/6/2021,Nina Gaitz (nee IGEL) VISA,,Nina Gaitz (nee IGEL) VISA Repayment to c/c ,X,61215,$34.55 ,,GST,$3.45 ,EFTPOS,,,,,,,,,,,5653,2468
+,,,,,,,,,,,,,,,,,,,,,,,,
+11110,CR002573,3/2/2023,Cameron Wynford Expenses,,PAYMENT FROM 125962 Cam's expenses payment returnd due tobe paid into the  wrong account,X,,$389.98 ,,,,EFTPOS,,,,,,,,,,,2511,2689
+,CR002573,3/2/2023,Cameron Wynford Expenses,,PAYMENT FROM 125962 Cam's expenses payment returnd due tobe paid into the  wrong account,X,51000,$354.53 ,,GST,$35.45 ,EFTPOS,,,,,,,,,,,2511,2689
+,,,,,,,,,,,,,,,,,,,,,,,,
+11110,CR002079,12/11/2021,ACA (The Australasian Corrosion Association),,PAYMENT FROM THE AUSTRALASIAN CORROSION ACA course refunds Refund for course,X,,"$14,900.00 ",,,,EFTPOS,,,,,,,,,,,5005,431
+,CR002079,12/11/2021,ACA (The Australasian Corrosion Association),,PAYMENT FROM THE AUSTRALASIAN CORROSION ACA course refunds Refund for course,X,61310,"$13,545.45 ",,GST,"$1,354.55 ",EFTPOS,,,,,,,,,Refund of courses - did not go ahead due to Covid-19  Nace CP2 for NW & CH and BG & KW for SSPC Concrete Coating Inspection,,5005,431
+,,,,,,,,,,,,,,,,,,,,,,,,
+11110,CR002793,6/9/2023,Jessica Lyndon Visa Card,,PAYMENT FROM JESSICA LYNDON Refund for credit,X,,$41.08 ,,,,EFTPOS,,,,,,,,,,,2089,2697
+,CR002793,6/9/2023,Jessica Lyndon Visa Card,,PAYMENT FROM JESSICA LYNDON Refund for credit,X,11201,$41.08 ,,N-T,$0.00 ,EFTPOS,,,,,,,,,,,2089,2697
+,,,,,,,,,,,,,,,,,,,,,,,,
+11110,CR001834,18/01/2021,Dean Ferguson Expenses,,TRANSFER FROM VMA FERGUSON EXPENSES Funds transferred from Dean Ferguson,X,,"$2,100.00 ",,,,EFTPOS,,,,,,,,,,,5469,1496
+,CR001834,18/01/2021,Dean Ferguson Expenses,,TRANSFER FROM VMA FERGUSON EXPENSES Funds transferred from Dean Ferguson,X,11251,"$2,100.00 ",,N-T,$0.00 ,EFTPOS,,,,,,,,,,,5469,1496
+,,,,,,,,,,,,,,,,,,,,,,,,
+11110,CR002328,11/7/2022,Andrew Czerwinski Expenses,,PAYMENT FROM ANDREW CZERWINSKI claim reimbursemen,X,,$800.00 ,,,,EFTPOS,,,,,,,,,,,5546,2091
+,CR002328,11/7/2022,Andrew Czerwinski Expenses,,PAYMENT FROM ANDREW CZERWINSKI claim reimbursemen,X,54500,$727.27 ,,GST,$72.73 ,EFTPOS,,,,,,,,,Paid on EC incorrectly. Should have been paid through salary,,5546,2091
+,,,,,,,,,,,,,,,,,,,,,,,,
+11110,CR002759,7/8/2023,Hertz Australia,,PAYMENT FROM BENAEE PTY LTD HERTZ REFUND ,X,,$200.00 ,,,,EFTPOS,,,,,,,,,,,5167,270
+,CR002759,7/8/2023,Hertz Australia,,PAYMENT FROM BENAEE PTY LTD HERTZ REFUND ,X,54500,$181.82 ,2023.j057,GST,$18.18 ,EFTPOS,,,,,,,,,Site work Julia,,5167,270
+,,,,,,,,,,,,,,,,,,,,,,,,
+11110,CR003176,29/08/2024,Budget Rent A Car,,TRANSFER FROM WHEELTON INVESTM BUDGET/WHEELTON 03,X,,"$7,741.80 ",,,,EFTPOS,,,,,,,,,,,5060,491
+,CR003176,29/08/2024,Budget Rent A Car,,TRANSFER FROM WHEELTON INVESTM BUDGET/WHEELTON 03,X,54500,"$6,800.00 ",,GST,$680.00 ,EFTPOS,,,,,,,,,Cost of damage car refund,,5060,491
+,CR003176,29/08/2024,Budget Rent A Car,,TRANSFER FROM WHEELTON INVESTM BUDGET/WHEELTON 03,X,54500,$238.00 ,,GST,$23.80 ,EFTPOS,,,,,,,,,Admin fee relating to the damage refund,,5060,491
+,,,,,,,,,,,,,,,,,,,,,,,,
+11110,CR002491,17/11/2022,Ian Godson Expenses,,TFR 367647 FROM 498013019,X,,"$12,834.84 ",,,,,,,,,,,,,,,5178,524
+,CR002491,17/11/2022,Ian Godson Expenses,,TFR 367647 FROM 498013019,X,61295,"$12,834.84 ",,FRE,$0.00 ,,,,,,,,,,,,5178,524
+,,,,,,,,,,,,,,,,,,,,,,,,
+11110,CR002805,18/09/2023,Razana Razak VISA ,,PAYMENT FROM MS RAZANA AQILA ABDUL RAZAKRR uber expense,X,,$25.12 ,,,,EFTPOS,,,,,,,,,,,3643,2330
+,CR002805,18/09/2023,Razana Razak VISA ,,PAYMENT FROM MS RAZANA AQILA ABDUL RAZAKRR uber expense,X,61295,$25.12 ,,N-T,$0.00 ,EFTPOS,,,,,,,,,Personal expenses mistakenly paid by corporate credit card,,3643,2330
+,,,,,,,,,,,,,,,,,,,,,,,,
+11110,CR002816,27/09/2023,Karl Wootton Visa,,PAYMENT FROM KARL WOOTTON,X,,$24.26 ,,,,EFTPOS,,,,,,,,,,,9246,2388
+,CR002816,27/09/2023,Karl Wootton Visa,,PAYMENT FROM KARL WOOTTON,X,61295,$24.26 ,,N-T,$0.00 ,EFTPOS,,,,,,,,,,,9246,2388
+,,,,,,,,,,,,,,,,,,,,,,,,
+11110,CR002471,15/11/2022,Andrew Czerwinski VISA,,PAYMENT FROM ANDREW CZERWINSKI double pay AC,X,,"$8,599.37 ",,,,EFTPOS,,,,,,,,,,,13794,2157
+,CR002471,15/11/2022,Andrew Czerwinski VISA,,PAYMENT FROM ANDREW CZERWINSKI double pay AC,X,61295,"$8,599.37 ",,N-T,$0.00 ,EFTPOS,,,,,,,,,,,13794,2157
+,,,,,,,,,,,,,,,,,,,,,,,,
+11110,CR002472,15/11/2022,Dimitri Ross Expenses,,"PAYMENT FROM DIMITRI ROSS Dimi Ross, Nov 202",X,,"$7,496.41 ",,,,EFTPOS,,,,,,,,,,,*None,2585
+,CR002472,15/11/2022,Dimitri Ross Expenses,,"PAYMENT FROM DIMITRI ROSS Dimi Ross, Nov 202",X,61295,"$7,496.41 ",,N-T,$0.00 ,EFTPOS,,,,,,,,,,,*None,2585
+,,,,,,,,,,,,,,,,,,,,,,,,
+11110,CR002473,15/11/2022,Razana Razak Expenses,,PAYMENT FROM MS RAZANA AQILA ABDUL RAZAK RR repayment,X,,"$5,186.92 ",,,,EFTPOS,,,,,,,,,,,1816,2284
+,CR002473,15/11/2022,Razana Razak Expenses,,PAYMENT FROM MS RAZANA AQILA ABDUL RAZAK RR repayment,X,61295,"$5,186.92 ",,N-T,$0.00 ,EFTPOS,,,,,,,,,,,1816,2284
+,,,,,,,,,,,,,,,,,,,,,,,,
+11110,CR002474,15/11/2022,Paul Godson Expenses,,PAYMENT FROM Paul Godson,X,,"$5,335.16 ",,,,EFTPOS,,,,,,,,,,,5264,127
+,CR002474,15/11/2022,Paul Godson Expenses,,PAYMENT FROM Paul Godson,X,61295,"$5,335.16 ",,N-T,$0.00 ,EFTPOS,,,,,,,,,,,5264,127
+,,,,,,,,,,,,,,,,,,,,,,,,
+11110,CR002475,15/11/2022,Ross Armstrong Expenses,,PAYMENT FROM ROSS ARMSTRONG,X,,"$8,599.37 ",,,,EFTPOS,,,,,,,,,,,2347,2586
+,CR002475,15/11/2022,Ross Armstrong Expenses,,PAYMENT FROM ROSS ARMSTRONG,X,61295,"$8,599.37 ",,N-T,$0.00 ,EFTPOS,,,,,,,,,,,2347,2586
+,,,,,,,,,,,,,,,,,,,,,,,,
+11110,CR002476,15/11/2022,Brendon Grey Expenses,,TRANSFER FROM ANGELA MADDISON INFRACORR ERROR,X,,"$3,000.00 ",,,,EFTPOS,,,,,,,,,,,5467,1494
+,CR002476,15/11/2022,Brendon Grey Expenses,,TRANSFER FROM ANGELA MADDISON INFRACORR ERROR,X,61295,"$3,000.00 ",,N-T,$0.00 ,EFTPOS,,,,,,,,,,,5467,1494
+,,,,,,,,,,,,,,,,,,,,,,,,
+11110,CR002477,15/11/2022,Dean Ferguson Expenses,,TRANSFER FROM DEAN FERGUSON INFRACORR REPAY,X,,"$10,302.72 ",,,,EFTPOS,,,,,,,,,,,5469,1496
+,CR002477,15/11/2022,Dean Ferguson Expenses,,TRANSFER FROM DEAN FERGUSON INFRACORR REPAY,X,61295,"$10,302.72 ",,N-T,$0.00 ,EFTPOS,,,,,,,,,,,5469,1496
+,,,,,,,,,,,,,,,,,,,,,,,,
+11110,CR002478,15/11/2022,George Farah Expenses,,TRANSFER FROM GEORGE FARAH G FARAH REFUND DOU,X,,"$7,082.07 ",,,,EFTPOS,,,,,,,,,,,1824,2289
+,CR002478,15/11/2022,George Farah Expenses,,TRANSFER FROM GEORGE FARAH G FARAH REFUND DOU,X,61295,"$7,082.07 ",,N-T,$0.00 ,EFTPOS,,,,,,,,,,,1824,2289
+,,,,,,,,,,,,,,,,,,,,,,,,
+11110,CR002479,15/11/2022,Karl Wootton Expenses,,TRANSFER FROM JENIFER WOOTTON KW PAYBACK,X,,"$7,380.87 ",,,,EFTPOS,,,,,,,,,,,2065,2408
+,CR002479,15/11/2022,Karl Wootton Expenses,,TRANSFER FROM JENIFER WOOTTON KW PAYBACK,X,61295,"$7,380.87 ",,N-T,$0.00 ,EFTPOS,,,,,,,,,,,2065,2408
+,,,,,,,,,,,,,,,,,,,,,,,,
+11110,CR002480,15/11/2022,Joel Heath Expenses,,TRANSFER FROM JOEL HEATH SALARY REFUND JOEL,X,,"$8,599.37 ",,,,EFTPOS,,,,,,,,,,,5195,183
+,CR002480,15/11/2022,Joel Heath Expenses,,TRANSFER FROM JOEL HEATH SALARY REFUND JOEL,X,61295,"$8,599.37 ",,N-T,$0.00 ,EFTPOS,,,,,,,,,,,5195,183
+,,,,,,,,,,,,,,,,,,,,,,,,
+11110,CR002481,15/11/2022,Julia Zhang Expenses,,TRANSFER FROM JULIA ZHANG,X,,"$4,703.25 ",,,,EFTPOS,,,,,,,,,,,2014,2376
+,CR002481,15/11/2022,Julia Zhang Expenses,,TRANSFER FROM JULIA ZHANG,X,61295,"$4,703.25 ",,N-T,$0.00 ,EFTPOS,,,,,,,,,,,2014,2376
+,,,,,,,,,,,,,,,,,,,,,,,,
+11110,CR002482,15/11/2022,Nathan Way Expenses,,TRANSFER FROM NATHAN WAY NOV22 ERROR,X,,"$5,203.94 ",,,,EFTPOS,,,,,,,,,,,1699,2197
+,CR002482,15/11/2022,Nathan Way Expenses,,TRANSFER FROM NATHAN WAY NOV22 ERROR,X,61295,"$5,203.94 ",,N-T,$0.00 ,EFTPOS,,,,,,,,,,,1699,2197
+,,,,,,,,,,,,,,,,,,,,,,,,
+11110,CR002483,16/11/2022,Daniel Tosch Expenses,,PAYMENT FROM DANIEL TOSCH Daniel Tosch payroll double Pay,X,,"$4,548.60 ",,,,EFTPOS,,,,,,,,,,,2379,2609
+,CR002483,16/11/2022,Daniel Tosch Expenses,,PAYMENT FROM DANIEL TOSCH Daniel Tosch payroll double Pay,X,61295,"$4,548.60 ",,N-T,$0.00 ,EFTPOS,,,,,,,,,,,2379,2609
+,,,,,,,,,,,,,,,,,,,,,,,,
+11110,CR002484,16/11/2022,Diana Soliman Expenses,,PAYMENT FROM DIANA SOLIMAN Diana repay payrol,X,,"$8,599.37 ",,,,EFTPOS,,,,,,,,,,,2002,2368
+,CR002484,16/11/2022,Diana Soliman Expenses,,PAYMENT FROM DIANA SOLIMAN Diana repay payrol,X,61295,"$8,599.37 ",,N-T,$0.00 ,EFTPOS,,,,,,,,,,,2002,2368
+,,,,,,,,,,,,,,,,,,,,,,,,
+11110,CR002485,16/11/2022,Jessica Lyndon Expenses,,PAYMENT FROM JESSICA LYNDON Jess repayment,X,,"$2,737.00 ",,,,EFTPOS,,,,,,,,,,,S2213,2496
+,CR002485,16/11/2022,Jessica Lyndon Expenses,,PAYMENT FROM JESSICA LYNDON Jess repayment,X,61295,"$2,737.00 ",,N-T,$0.00 ,EFTPOS,,,,,,,,,,,S2213,2496
+,,,,,,,,,,,,,,,,,,,,,,,,
+11110,CR002486,16/11/2022,Nina Gaitz Expenses,,PAYMENT FROM NINA IGEL Payroll repay,X,,"$5,285.74 ",,,,EFTPOS,,,,,,,,,,,2146,2460
+,CR002486,16/11/2022,Nina Gaitz Expenses,,PAYMENT FROM NINA IGEL Payroll repay,X,61295,"$5,285.74 ",,N-T,$0.00 ,EFTPOS,,,,,,,,,,,2146,2460
+,,,,,,,,,,,,,,,,,,,,,,,,
+11110,CR002487,16/11/2022,Rumaysa Goolam Expenses,,PAYMENT FROM RUMAYSA GOOLAM return salary,X,,"$3,821.86 ",,,,EFTPOS,,,,,,,,,,,2346,2587
+,CR002487,16/11/2022,Rumaysa Goolam Expenses,,PAYMENT FROM RUMAYSA GOOLAM return salary,X,61295,"$3,821.86 ",,N-T,$0.00 ,EFTPOS,,,,,,,,,,,2346,2587
+,,,,,,,,,,,,,,,,,,,,,,,,
+11110,CR002488,16/11/2022,Shamir Bhuiyan Expenses,,PAYMENT FROM SHAMIR BHUIYAN Return of Bonus (s,X,,"$3,478.67 ",,,,EFTPOS,,,,,,,,,,,2263,2526
+,CR002488,16/11/2022,Shamir Bhuiyan Expenses,,PAYMENT FROM SHAMIR BHUIYAN Return of Bonus (s,X,61295,"$3,478.67 ",,N-T,$0.00 ,EFTPOS,,,,,,,,,,,2263,2526
+,,,,,,,,,,,,,,,,,,,,,,,,
+11110,CR002489,16/11/2022,Brendon Grey Expenses,,TRANSFER FROM ANGELA MADDISON INFRACORR ERROR,X,,"$2,708.75 ",,,,EFTPOS,,,,,,,,,,,5467,1494
+,CR002489,16/11/2022,Brendon Grey Expenses,,TRANSFER FROM ANGELA MADDISON INFRACORR ERROR,X,61295,"$2,708.75 ",,N-T,$0.00 ,EFTPOS,,,,,,,,,,,5467,1494
+,,,,,,,,,,,,,,,,,,,,,,,,
+11110,CR001964,30/06/2021,,,FUNDS RETURNED FOR 251867 PAYMENT TO Hugh Matthey Bonus Payment returned from HM's bank,X,,"$1,708.00 ",,,,,,,,,,,,,,,,
+,CR001964,30/06/2021,,,FUNDS RETURNED FOR 251867 PAYMENT TO Hugh Matthey Bonus Payment returned from HM's bank,X,61295,"$1,708.00 ",,N-T,$0.00 ,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+11110,CR001727,11/9/2020,ATO,,TRANSFER FROM ATO ATO805865704 255,X,,$801.08 ,,,,,,,,,,,,,,,5026,136
+,CR001727,11/9/2020,ATO,,TRANSFER FROM ATO ATO805865704 255,X,44000,$801.08 ,,N-T,$0.00 ,,,,,,,,,,,,5026,136
+,,,,,,,,,,,,,,,,,,,,,,,,
+11110,CR003154,20/08/2024,Justin Ashwell Visa Card,,PAYMENT FROM MR JUSTIN PATRICK ASHWELL Justin Ashwell payment to Infracorr,X,,$209.19 ,,,,EFTPOS,,,,,,,,,,,5319,2822
+,CR003154,20/08/2024,Justin Ashwell Visa Card,,PAYMENT FROM MR JUSTIN PATRICK ASHWELL Justin Ashwell payment to Infracorr,X,11261,$190.17 ,,GST,$19.02 ,EFTPOS,,,,,,,,,,,5319,2822
+,,,,,,,,,,,,,,,,,,,,,,,,
+11110,CR003151,19/08/2024,Diana Soliman Visa Card from Feb 24,,Diana Soliman Visa Card from Feb 24,X,,$33.50 ,,,,EFTPOS,,,,,,,,,,,4309,2855
+,CR003151,19/08/2024,Diana Soliman Visa Card from Feb 24,,Diana Soliman Visa Card from Feb 24,X,11261,$30.45 ,,GST,$3.05 ,EFTPOS,,,,,,,,,,,4309,2855
+,,,,,,,,,,,,,,,,,,,,,,,,
+11110,CR003153,20/08/2024,Diana Soliman Visa Card from Feb 24,,PAYMENT FROM DIANA SOLIMAN Diana S credit car,X,,$3.35 ,,,,EFTPOS,,,,,,,,,,,4309,2855
+,CR003153,20/08/2024,Diana Soliman Visa Card from Feb 24,,PAYMENT FROM DIANA SOLIMAN Diana S credit car,X,11261,$3.05 ,,GST,$0.30 ,EFTPOS,,,,,,,,,,,4309,2855
+,,,,,,,,,,,,,,,,,,,,,,,,
+11110,CR003258,20/11/2024,Diana Soliman Visa Card from Feb 24,,Diana Soliman Visa Card from Feb 24,X,,$47.19 ,,,,EFTPOS,,,,,,,,,,,4309,2855
+,CR003258,20/11/2024,Diana Soliman Visa Card from Feb 24,,Diana Soliman Visa Card from Feb 24,X,11261,$42.90 ,,GST,$4.29 ,EFTPOS,,,,,,,,,,,4309,2855
+,,,,,,,,,,,,,,,,,,,,,,,,
+11110,CR002368,8/8/2022,State Revenue Office,,TRANSFER FROM SRO VICTORIA 984682 annual refund,X,,"$20,466.31 ",,,,EFTPOS,,,,,,,,,,,*None,2169
+,CR002368,8/8/2022,State Revenue Office,,TRANSFER FROM SRO VICTORIA 984682 annual refund,X,21205,"$20,466.31 ",,N-T,$0.00 ,EFTPOS,,,,,,,,,,,*None,2169
+,,,,,,,,,,,,,,,,,,,,,,,,
+11110,CR002573,3/2/2023,Cameron Wynford Expenses,,PAYMENT FROM 125962 Cam's expenses payment returnd due tobe paid into the  wrong account,X,,$214.67 ,,,,EFTPOS,,,,,,,,,,,2511,2689
+,CR002573,3/2/2023,Cameron Wynford Expenses,,PAYMENT FROM 125962 Cam's expenses payment returnd due tobe paid into the  wrong account,X,65145,$195.15 ,,GST,$19.52 ,EFTPOS,,,,,,,,,,,2511,2689
+,,,,,,,,,,,,,,,,,,,,,,,,
+21150,CR001802,10/11/2020,Nina Gaitz (nee IGEL) VISA,,Nina Gaitz (nee IGEL) VISA reimbusement of funds for incorrect card used for purchases on 4/11/20,X,,$15.40 ,,,,,,,,,,,,,,,5653,2468
+,CR001802,10/11/2020,Nina Gaitz (nee IGEL) VISA,,Nina Gaitz (nee IGEL) VISA reimbusement of funds for incorrect card used for purchases on 4/11/20,X,65145,$14.00 ,,GST,$1.40 ,,,,,,,,,,,,5653,2468
+,,,,,,,,,,,,,,,,,,,,,,,,
+11110,CR001812,22/12/2020,George Farah VISA,,George Farah VISA Purchase on business card but was a personal expense. GF Reimbursed bank acct,X,,$70.75 ,,,,EFTPOS,,,,,,,,,,,3635,2331
+,CR001812,22/12/2020,George Farah VISA,,George Farah VISA Purchase on business card but was a personal expense. GF Reimbursed bank acct,X,65145,$64.32 ,,GST,$6.43 ,EFTPOS,,,,,,,,,,,3635,2331
+,,,,,,,,,,,,,,,,,,,,,,,,
+11110,CR002733,14/07/2023,506/11 Chandos St (Rental),,TRANSFER FROM RENTALBONDBOARD T167970-7 506 /,X,,"$2,160.00 ",,,,EFTPOS,,,,,,,,,,,*None,2592
+,CR002733,14/07/2023,506/11 Chandos St (Rental),,TRANSFER FROM RENTALBONDBOARD T167970-7 506 /,X,12810,"$2,160.00 ",,N-T,$0.00 ,EFTPOS,,,,,,,,,,,*None,2592
+,,,,,,,,,,,,,,,,,,,,,,,,
+11110,CR003118,10/7/2024,Rents101 Pty Ltd ATF Stone Real Estate Wollongong,,TRANSFER FROM RENTALBONDBOARD T222437-2 52 WO,X,,"$3,381.21 ",,,,EFTPOS,,,,,,,,,,,*None,2600
+,CR003118,10/7/2024,Rents101 Pty Ltd ATF Stone Real Estate Wollongong,,TRANSFER FROM RENTALBONDBOARD T222437-2 52 WO,X,12810,"$3,381.21 ",,N-T,$0.00 ,EFTPOS,,,,,,,,,,,*None,2600
+,,,,,,,,,,,,,,,,,,,,,,,,
+11110,CR003437,2/5/2025,Joel Heath Expenses,,"TRANSFER FROM HEATH, JOEL MICH JOEL HEATH ESSLOAN",X,,"$27,808.83 ",,,,,,,,,,,,,,,5195,183
+,CR003437,2/5/2025,Joel Heath Expenses,,"TRANSFER FROM HEATH, JOEL MICH JOEL HEATH ESSLOAN",X,11302,"$27,808.83 ",,N-T,$0.00 ,,,,,,,,,,,,5195,183
+,,,,,,,,,,,,,,,,,,,,,,,,
+11110,CR002501,22/11/2022,Department of  Human Services,,Department of  Human Services,X,,$633.08 ,,,,EFTPOS,,,,,,,,,,,*None,2557
+,CR002501,22/11/2022,Department of  Human Services,,Department of  Human Services,X,21560,$633.08 ,,N-T,$0.00 ,EFTPOS,,,,,,,,,,,*None,2557
+,,,,,,,,,,,,,,,,,,,,,,,,
+11110,CR002295,24/06/2022,Dean Ferguson Expenses,,TRANSFER FROM DEAN FERGUSON DPF LOAN REPAY,X,,"$20,000.00 ",,,,EFTPOS,,,,,,,,,,,5469,1496
+,CR002295,24/06/2022,Dean Ferguson Expenses,,TRANSFER FROM DEAN FERGUSON DPF LOAN REPAY,X,11206,"$20,000.00 ",,N-T,$0.00 ,EFTPOS,,,,,,,,,,,5469,1496
+,,,,,,,,,,,,,,,,,,,,,,,,
+11110,CR002296,27/06/2022,Dean Ferguson Expenses,,TRANSFER FROM DEAN FERGUSON DPF REPAY,X,,"$20,000.00 ",,,,EFTPOS,,,,,,,,,,,5469,1496
+,CR002296,27/06/2022,Dean Ferguson Expenses,,TRANSFER FROM DEAN FERGUSON DPF REPAY,X,11206,"$20,000.00 ",,N-T,$0.00 ,EFTPOS,,,,,,,,,,,5469,1496
+,,,,,,,,,,,,,,,,,,,,,,,,
+11110,CR002300,28/06/2022,Dean Ferguson Expenses,,TRANSFER FROM DEAN FERGUSON DPF REPAY,X,,"$20,000.00 ",,,,EFTPOS,,,,,,,,,,,5469,1496
+,CR002300,28/06/2022,Dean Ferguson Expenses,,TRANSFER FROM DEAN FERGUSON DPF REPAY,X,11206,"$20,000.00 ",,N-T,$0.00 ,EFTPOS,,,,,,,,,,,5469,1496
+,,,,,,,,,,,,,,,,,,,,,,,,
+11110,CR002304,29/06/2022,Dean Ferguson Expenses,,TRANSFER FROM DEAN FERGUSON DPF REPAY,X,,"$20,000.00 ",,,,EFTPOS,,,,,,,,,,,5469,1496
+,CR002304,29/06/2022,Dean Ferguson Expenses,,TRANSFER FROM DEAN FERGUSON DPF REPAY,X,11206,"$20,000.00 ",,N-T,$0.00 ,EFTPOS,,,,,,,,,,,5469,1496
+,,,,,,,,,,,,,,,,,,,,,,,,
+11110,CR002311,30/06/2022,Dean Ferguson Expenses,,TRANSFER FROM DEAN FERGUSON DPF REPAY,X,,"$11,511.76 ",,,,EFTPOS,,,,,,,,,,,5469,1496
+,CR002311,30/06/2022,Dean Ferguson Expenses,,TRANSFER FROM DEAN FERGUSON DPF REPAY,X,11206,"$11,511.76 ",,N-T,$0.00 ,EFTPOS,,,,,,,,,,,5469,1496
+,,,,,,,,,,,,,,,,,,,,,,,,
+11110,CR002753,3/8/2023,Kyoko Mede Expenses,,PAYMENT FROM MISS KYOKO MEDE Kyoko CA membershp fee refund,X,,$837.00 ,,,,EFTPOS,,,,,,,,,,,2485,2673
+,CR002753,3/8/2023,Kyoko Mede Expenses,,PAYMENT FROM MISS KYOKO MEDE Kyoko CA membershp fee refund,X,65170,$760.91 ,,GST,$76.09 ,EFTPOS,,,,,,,,,,,2485,2673

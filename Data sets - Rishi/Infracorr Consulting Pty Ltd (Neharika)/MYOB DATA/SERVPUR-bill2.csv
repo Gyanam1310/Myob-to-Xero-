@@ -1,0 +1,847 @@
+Co./Last Name,First Name,Addr 1 - Line 1,Addr 1 - Line 2,Addr 1 - Line 3,Addr 1 - Line 4,Inclusive,Purchase No.,Date,Supplier Invoice No.,Ship Via,Delivery Status,Description,Account No.,Amount,Job,Comment,Journal Memo,Shipping Date,Tax Code,Tax Amount,Freight Amount,Freight Tax Code,Freight Tax Amount,Purchase Status,Terms - Payment is Due,           - Discount Days,           - Balance Due Days,           - % Discount,Amount Paid,Category,Card ID,Record ID
+Momentum Energy,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,X,153187,8/9/2020,10660212,,A,Momentum Energy ,66060,$407.05 ,,,Purchase; Momentum Energy,,GST,$42.37 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$449.42 ,,5423,875
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Spidertech Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153317,18/12/2020,4165,,E,Spidertech Reference No 2810,54300,"$31,069.45 ",,,Purchase; Spidertech Pty Ltd (showing in APMS as Irata International),,GST,"$3,106.95 ",$0.00 ,GST,$0.00 ,B,2,0,30,0,"$34,176.40 ",,5492,1738
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Telstra Corp,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153523,21/06/2021,100621,,A,Telstra Mobile Phone Bill,61300,$993.31 ,,,Purchase; Telstra Corp,,GST,$88.04 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$1,081.35 ",,5330,89
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MYOB Australia,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,X,153708,3/12/2021,1-79920339050,,P,Monthly Payment for MYOB yrly subscription pro rata payment for 11/12 - 31/12/2021,61290,$35.86 ,,,Purchase; MYOB Australia,,GST,$3.59 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$39.45 ,,5509,1209
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Australia Wide Taxation ,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153719,13/12/2021,377543,,P,Payroll Training for NG,61310,$359.09 ,,,Purchase; Australia Wide Taxation ,,GST,$35.91 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$395 ,,1717,2214
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Cosentino Builders Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153720,8/12/2021,148.04,,P,Cosentino Builders P/L Progress Claim No 4,61250,"$234,490.88 ",,,Purchase; Cosentino Builders Pty Ltd,,GST,"$23,449.12 ",$0.00 ,GST,$0.00 ,B,2,0,30,0,"$257,940 ",,2280,2536
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Telstra Corp,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153721,10/12/2021,101221,,P,Telstra Corp Mobile Phone bill,61300,$931.11 ,,,Purchase; Telstra Corp,,GST,$36.36 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$967.47 ,,5330,89
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Toshiba Australia Pty Limited,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153722,16/12/2021,10788011,,P,Toshiba (Australia) Pty Ltd - BLK & Colour Meter reading,61215,$12.63 ,,,Purchase; Toshiba Australia Pty Limited,,GST,$1.27 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$13.90 ,,1842,2302
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MYOB Australia,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153735,1/1/2022,2-10001893229,,P,MYOB AccountRight Live Plus monthly subscription 1/1/22 - 31/1/22,61290,$109.09 ,,,Purchase; MYOB Australia,,GST,$10.91 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$120 ,,5509,1209
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Australian Tile Council Inc,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153743,20/01/2022,M0000832,,P,Australian Waterproofing Consultants Tile Council inc Membership,59100,$350 ,,,Purchase; Australian Tile Council Inc,,FRE,$0.00 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$350 ,,2008,2371
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Corinella Pty LTd - Jim's mowing,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153744,27/01/2022,16991,,A,Lawn Mowing and Gardening on 25/1/22,61250,$90 ,,,Purchase; Jims Mowing,,GST,$9 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$99 ,,1693,2191
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Toshiba Australia Pty Limited,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153745,27/01/2022,10819142,,A,Black & White 7 Colour Meterage for office photo copier,61215,$31.55 ,,,Purchase; Toshiba Australia Pty Limited,,GST,$3.16 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$34.71 ,,1842,2302
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MYOB Australia,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153760,3/2/2022,2-10002079387,,P,MYOB AccountRight Live Plus Recurring Subscription\r\n(01/02/2022 - 28/02/2022),61290,$109.09 ,,,Purchase; MYOB Australia,,GST,$10.91 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$120 ,,5509,1209
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Cosentino Builders Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,X,153780,27/01/2022,148.05,,P,Cosentio Builders P/L Progress Claim No 5,61250,"$56,844.41 ",,,Purchase; Cosentino Builders Pty Ltd,,GST,"$5,684.44 ",$0.00 ,GST,$0.00 ,B,2,0,30,0,"$62,528.85 ",,2280,2536
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Cosentino Builders Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,X,153781,16/02/2022,148.06,,P,Cosentino Builders Pty Ltd Progress Claim No 6,61250,"$57,828.63 ",,,Purchase; Cosentino Builders Pty Ltd,,GST,"$5,782.86 ",$0.00 ,GST,$0.00 ,B,2,0,30,0,"$63,611.49 ",,2280,2536
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Nickless Miller Meehans  Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153789,28/02/2022,398,,A,2021 Annual Tax Compliance completion,61015,"$7,900 ",,,Purchase; Nickless Miller Meehans  Pty Ltd,,GST,$790 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$8,690 ",,5251,29
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MYOB Australia,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153792,1/3/2022,2-10002289211,,P,MYOB monthly subscription 1/3/2022 - 31/3/2022,61290,$109.09 ,,,Purchase; MYOB Australia,,GST,$10.91 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$120 ,,5509,1209
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HR Consulting Melbourne,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153793,28/02/2022,332122,,A,HR Consulting Pty Ltd,61035,$450 ,,,Purchase; HR Consulting Melbourne,,GST,$45 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$495 ,,2097,2428
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Hightalk Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153794,4/3/2022,2623,,A,Hightalk Pty Ltd Monthly Account,61300,$362.73 ,,,Purchase; Hightalk Pty Ltd,,GST,$36.27 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$399 ,,2099,2429
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+COGL Sydney 11 Pty Ltd T/A Compass Offices,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153795,3/3/2022,AU07-00001559,,A,Compass Offices Monthly Rent for Sydney OFFice,66010,"$4,271.52 ",,,Purchase; COGL Sydney 11 Pty Ltd T/A Compass Offices,,GST,$427.15 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$4,698.67 ",,2336,2575
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+St John Ambulance Australia,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153797,3/3/2022,6232130,,A,St John Ambulance - HeartStart Adult Defibrillator Pad (gst on postage only),61215,$127.59 ,,,Purchase; St John Ambulance Australia,,GST,$1.36 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$128.95 ,,5479,1605
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Visy Recycling,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153798,28/02/2022,142265998,,A,Visy Recycling Monthly rent & 4 lifts,61215,$48.08 ,,,Purchase; Visy Recycling,,GST,$4.81 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$52.89 ,,5510,1903
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DDK Commercial Interiors Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153803,25/02/2022,421225,,P,DDK Commercial Interiors Pty Ltd (Supply Office Furniture for new fitout),61250,"$53,778 ",,,Purchase; DDK Commercial Interiors Pty Ltd,,GST,"$5,377.80 ",$0.00 ,GST,$0.00 ,B,2,0,30,0,"$59,155.80 ",,*None,2605
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Corinella Pty LTd - Jim's mowing,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153805,8/3/2022,17637,,A,Jims Mowing (monthly lawn mowing and gardening maintenance),61250,$90 ,,,Purchase; Jims Mowing,,GST,$9 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$99 ,,1693,2191
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AGL,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153806,8/3/2022,8032022,,A,AGL Gas Bill - bill period 30/12/21 - 26/2/2022,66030,$61.62 ,,,Purchase; AGL,,GST,$6.16 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$67.78 ,,5458,1336
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mattioli Bros Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153810,28/02/2022,4510204,,P,Supply labour and materials to carry out external painting works at site 1/19 Kett St Nunawading Dean Ferguson,11206,"$12,571.90 ",,,Purchase; Mattioli Bros Pty Ltd,,GST,"$1,257.19 ",$0.00 ,GST,$0.00 ,B,2,0,30,0,"$13,829.09 ",,5216,320
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TPG Telecom / AAPT,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153811,1/3/2022,17489503,,A,Recurring monthly charges for internet services,61150,$913.14 ,,,Purchase; TPG Telecom / AAPT,,GST,$91.31 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$1,004.45 ",,1672,2178
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Alan Wainwright J. Okno,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153813,16/03/2022,VI 21-234,,P,Set up Loan Agreement with Dean Ferguson ,61035,$641.60 ,,,Purchase; Alan Wainwright J. Okno,,GST,$64.16 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$705.76 ,,5013,174
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Cosentino Group Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153821,22/03/2022,3352,,P,Cosentino Group Pty Ltd ,61250,"$7,550 ",,,Purchase; Cosentino Group Pty Ltd,,GST,$755 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$8,305 ",,2279,2534
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Cosentino Builders Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153822,16/03/2022,148.07,,A,Cosentino Builders Pty Ltd,61250,"$39,246.97 ",,,Purchase; Cosentino Builders Pty Ltd,,GST,"$3,924.70 ",$0.00 ,GST,$0.00 ,B,2,0,30,0,"$43,171.67 ",,2280,2536
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Auto Door Tech Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153823,21/03/2022,17992,,A,Auto Door Tech Pty Ltd - Front main door full service,61250,$295 ,,,Purchase; Auto Door Tech Pty Ltd,,GST,$29.50 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$324.50 ,,*None,2616
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MYOB Australia,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153849,1/4/2022,2-100024998844,,A,MYOB AccountRight Live Plus Recurring Subscription\r\n(01/04/2022 - 30/04/2022),61290,$109.09 ,,,Purchase; MYOB Australia,,GST,$10.91 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$120 ,,5509,1209
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DDK Commercial Interiors Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153850,19/04/2022,421514,,A,DDK Commercial Interiors P/L Additional Furniture as per invoice,61250,"$3,886 ",,,Purchase; DDK Commercial Interiors Pty Ltd,,GST,$388.60 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$4,274.60 ",,*None,2605
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Quest Apartments Notting Hill,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153859,22/03/2022,79059,,A,Quest Mackay on Gordon this invoice has been enter twice - refund is due,61120,"$1,072.73 ",,,Purchase; Quest Apartments Notting Hill,,GST,$107.27 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$1,180 ",,1991,2365
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Quest Apartments Notting Hill,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153860,22/03/2022,79059 2,,A,Quest Mackay on Gordon inv no 79059 has been paid twice,61120,"($1,072.73)",,,Purchase; Quest Apartments Notting Hill,,GST,($107.27),$0.00 ,GST,$0.00 ,B,2,0,30,0,"($1,180)",,1991,2365
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TPG Telecom / AAPT,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153868,26/04/2022,17598579,,P,Monthly account billing period 1 Mar -31 Mar 22,61150,$799 ,,,Purchase; TPG Telecom / AAPT,,GST,$79.90 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$878.90 ,,1672,2178
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+VBCS Plus Victoria Body Corporate Services Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153869,27/04/2022,M00060002,,A,VBCS Plus Fee Quarterly Membership April - June 2022,51100,$75 ,,,Purchase; VBCS Plus Victoria Body Corporate Services Pty Ltd,,GST,$7.50 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$82.50 ,,2116,2438
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Value Office Furniture Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153871,28/04/2022,V15771,,A,Value office furniture 3 x office chairs,61215,"$1,067.27 ",,,Purchase; Value Office Furniture Pty Ltd,,GST,$106.73 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$1,174 ",,5536,2026
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Waveform Acoustics,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153881,29/04/2022,13193,,A,Waveform Acoustics (inspection / testing of office),61250,$592 ,,,Purchase; Waveform Acoustics,,GST,$59.20 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$651.20 ,,*None,2625
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Cosentino Builders Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153882,29/04/2022,148.08,,A,Progress Invoice #8 Office Refurbishment,61250,"$6,241.23 ",,,Purchase; Cosentino Builders Pty Ltd,,GST,$624.12 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$6,865.35 ",,2280,2536
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TPG Telecom / AAPT,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153895,1/5/2022,17725333,,A,TPG Telecom/AAPT monthly billing period 1/4/22 - 30/4/22,61150,$799 ,,,Purchase; TPG Telecom / AAPT,,GST,$79.90 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$878.90 ,,1672,2178
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Corrosion Control Engineering P/L,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153896,2/5/2022,VSO000381,,A,Corrosion Control Engineering,51050,$690 ,,,Purchase; Corrosion Control Engineering P/L,,GST,$69 ,$0.00 ,GST,$0.00 ,B,5,1,30,0,$759 ,,5100,2
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Premier Technology Solutions,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153903,1/5/2022,89267,,P,Premier Technology Solutions Invoice from 30 March 2022,61150,"$1,441.32 ",,,Purchase; Premier Technology Solutions,,GST,$144.13 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$1,585.45 ",,5501,1863
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Corinella Pty LTd - Jim's mowing,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153907,9/5/2022,18448,,A,Jims Mowing - garden maintenance done 9/5/22,61250,$90 ,,,Purchase; Jims Mowing,,GST,$9 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$99 ,,1693,2191
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Stephen David Vaughan,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153909,27/04/2022,270422,,A,Stephen D Vaughan - Research current building laws,59130,"$2,500 ",,,Purchase; Stephen David Vaughan,,FRE,$0.00 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$2,500 ",,*None,2629
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MYOB Australia,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153925,1/6/2022,2-10002937936,,A,MYOB Monthly subscription 1/6 - 30/6/22 ,61290,$109.09 ,,,Purchase; MYOB Australia,,GST,$10.91 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$120 ,,5509,1209
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HR Consulting Melbourne,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153946,21/06/2022,612122,,A,HR Consultanting melbourne ,61035,$450 ,,,Purchase; HR Consulting Melbourne,,GST,$45 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$495 ,,2097,2428
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Monash Self Storage Centre,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153947,20/06/2022,1002583,,A,Monash Self Storage Period from 26/6/22 to 25/7/22,61250,$518.18 ,,,Purchase; Monash Self Storage Centre,,GST,$51.82 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$570 ,,2292,2542
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Premier Technology Solutions,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153948,31/05/2022,90165,,A,Premier Technology Solutions,61150,"$2,089.33 ",,,Purchase; Premier Technology Solutions,,GST,$208.95 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$2,298.28 ",,5501,1863
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Corinella Pty LTd - Jim's mowing,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153949,22/06/2022,18951,,A,Jims Mowing - gardening maintenance 22/06/2022,61250,$90 ,,,Purchase; Jims Mowing,,GST,$9 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$99 ,,1693,2191
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Chartered Accounts Australia & NZ,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153958,30/06/2022,AU62013508,,P,Chartered Accountant - Annual subscription fee for Nina Gaitz,51100,$704.55 ,,,Purchase; Chartered Accounts Australia & NZ,,GST,$70.45 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$775 ,,*None,2535
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MYOB Australia,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153959,1/7/2022,2-10003362359,,A,MYOB monthly subscription 01/07 - 31/07/22,61290,$109.09 ,,,Purchase; MYOB Australia,,GST,$10.91 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$120 ,,5509,1209
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TPG Telecom / AAPT,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153960,1/7/2022,17945073,,A,TPG Telecom monthly invoice 01 June 22 to 30 June 2022,61150,$799 ,,,Purchase; TPG Telecom / AAPT,,GST,$79.90 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$878.90 ,,1672,2178
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Suk Kyun Shin,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153961,1/7/2022,495569,,A,Suk Kyun Shin Office Cleaning for month of June 2022,61215,$680 ,,,Purchase; Suk Kyun Shin,,GST,$68 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$748 ,,2238,2508
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AGL,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153962,1/7/2022,1072022,,A,AGL Gas Account,66030,$61.62 ,,,Purchase; AGL,,GST,$6.16 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$67.78 ,,5458,1336
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Nickless Miller Meehans  Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153963,29/06/2022,1368,,A,Nickless Miller Meehans Pty Ltd,61015,"$2,340 ",,,Purchase; Nickless Miller Meehans  Pty Ltd,,GST,$234 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$2,574 ",,5251,29
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Hightalk Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153964,1/7/2022,2835,,A,Hightalk Pty Ltd,61300,$362.73 ,,,Purchase; Hightalk Pty Ltd,,GST,$36.27 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$399 ,,2099,2429
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+VicRoads,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153965,1/7/2022,1072022,,A,VicRoads registration for Ford Sedan ZEN746,61200,$818.76 ,,,Purchase; VicRoads,,GST,$45.64 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$864.40 ,,5364,83
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Visy Recycling,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153966,30/06/2022,143279755,,A,Visy Recycling for period 1/6 to 30/6/2022,61215,$59.08 ,,,Purchase; Visy Recycling,,GST,$5.91 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$64.99 ,,5510,1903
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Waveform Acoustics,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153967,5/7/2022,13285,,A,Waveform Acoustics - Consulting & Inspection ,61250,$888 ,,,Purchase; Waveform Acoustics,,GST,$88.80 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$976.80 ,,*None,2625
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Premier Technology Solutions,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153968,30/06/2022,DP-90408,,A,Premier Technology Solutions,61150,"$8,801.52 ",,,Purchase; Premier Technology Solutions,,GST,$880.15 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$9,681.67 ",,5501,1863
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Premier Technology Solutions,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153969,1/7/2022,90620,,P,Premier Technology Solutions ,61150,"$2,166.48 ",,,Purchase; Premier Technology Solutions,,GST,$216.65 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$2,383.13 ",,5501,1863
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Corinella Pty LTd - Jim's mowing,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153973,13/07/2022,19148,,A,Jims Mowing gardening maintenance attended 12/7/22,61250,$90 ,,,Purchase; Jims Mowing,,GST,$9 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$99 ,,1693,2191
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+COGL Sydney 11 Pty Ltd T/A Compass Offices,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153974,6/7/2022,AU-07-00001797,,P,COGL Sydney - Compass Offices June Rent,66010,"$4,190 ",,,Purchase; COGL Sydney 11 Pty Ltd T/A Compass Offices,,GST,$419 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$4,609 ",,2336,2575
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Momentum Energy,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153975,6/7/2022,379127,,P,Momentum Energy,66060,$959.54 ,,,Purchase; Momentum Energy,,GST,$95.95 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$1,055.49 ",,5423,875
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Telstra Corp,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153976,10/7/2022,100722,,P,Tolstoy Corp Mobile phones,61300,"$1,447.29 ",,,Purchase; Tolstoy Corp,,GST,$103.61 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$1,550.90 ",,5330,89
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+NTZ Group Pty Ltd T/A Party Hire Group,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153977,11/7/2022,5054,,A,Party Hire Group ( End of financial Year function for staff),61030,$326.36 ,,,Purchase; NTZ Group Pty Ltd T/A Party Hire Group,,GST,$32.64 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$359 ,,*None,2643
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Officeworks,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153983,20/07/2022,601922527,,A,Officeworks - office stationery supplies,61215,$50 ,,,Purchase; Officeworks,,GST,$5 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$55 ,,5255,40
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Officeworks,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153984,20/07/2022,601923071,,A,Officeworks Office Stationery supplies,61215,$114.90 ,,,Purchase; Officeworks,,GST,$11.49 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$126.39 ,,5255,40
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Premier Technology Solutions,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153985,20/07/2022,88016,,P,Premier Technology Solutions ,61150,"$2,160 ",,,Purchase; Premier Technology Solutions,,GST,$216 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$2,376 ",,5501,1863
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Toshiba Australia Pty Limited,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153986,20/07/2022,11041535,,A,Toshiba Australia Pty Ltd,61215,$75.96 ,,,Purchase; Toshiba Australia Pty Limited,,GST,$7.60 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$83.56 ,,1842,2302
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Good Hustle Group Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153991,26/07/2022,GHG3465,,A,Good Hustle Group Pty Ltd - Taco Food Van,65145,"$1,227.27 ",,,Purchase; Good Hustle Group Pty Ltd,,GST,$122.73 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$1,350 ",,*None,2649
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+M & R Insurance Brokers Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153992,11/7/2022,73926,,P,M & R Insurance Brokers P L Professional Indemnity Insurance,61140,"$56,644.43 ",,,Purchase; M & R Insurance Brokers Pty Ltd,,GST,"$5,022.79 ",$0.00 ,GST,$0.00 ,B,2,0,30,0,"$61,667.22 ",,5497,1736
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+M & R Insurance Brokers Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153993,13/07/2022,73813,,A,M & R Insurance Brokers Pty Ltd  - Commercial Insurance,61140,"$3,057.03 ",,,Purchase; M & R Insurance Brokers Pty Ltd,,GST,$275.41 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$3,332.44 ",,5497,1736
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+M & R Insurance Brokers Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153994,13/07/2022,73940,,A,M & R Insurance Brokers Pty Ltd - Cyber Liability,61140,"$1,286.85 ",,,Purchase; M & R Insurance Brokers Pty Ltd,,GST,$118.17 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$1,405.02 ",,5497,1736
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+M & R Insurance Brokers Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153995,12/7/2022,73942,,A,M & R Insurance Brokers Pty Ltd,61140,"$3,935.81 ",,,Purchase; M & R Insurance Brokers Pty Ltd,,GST,$354.58 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$4,290.39 ",,5497,1736
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+M & R Insurance Brokers Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153996,12/7/2022,73929,,A,M & R Insurance Brokers Pty Ltd - liability insurance,61140,"$7,286.30 ",,,Purchase; M & R Insurance Brokers Pty Ltd,,GST,$660 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$7,946.30 ",,5497,1736
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+M & R Insurance Brokers Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153997,28/06/2022,73812,,A,M & R Insurance Brokers Pty Ltd - Management Liability Insurance,61140,"$2,284.18 ",,,Purchase; M & R Insurance Brokers Pty Ltd,,GST,$206.10 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$2,490.28 ",,5497,1736
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+M & R Insurance Brokers Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,153998,13/07/2022,73938,,A,M & R Insurance Brokers Pty Ltd - General Property Insurance,61140,"$3,715.60 ",,,Purchase; M & R Insurance Brokers Pty Ltd,,GST,$334.74 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$4,050.34 ",,5497,1736
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Yarra Valley Water,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154004,3/8/2022,5.20E+11,,A,Yarra Valley Water Quarterly Bill,66090,$785.61 ,,,Purchase; Yarra Valley Water,,FRE,$0.00 ,$0.00 ,FRE,$0.00 ,B,2,0,30,0,$785.61 ,,5463,1394
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Engineers Australia,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154005,29/07/2022,10407492,,A,Engineers Australian Professional Membership fee for Ian Godson,51100,$521.82 ,,,Purchase; Engineers Australia,,GST,$52.18 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$574 ,,5126,467
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Suk Kyun Shin,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154006,31/07/2022,495580,,A,Suk Kyun Shin Office Clean for Month of July,61215,$850 ,,,Purchase; Suk Kyun Shin,,GST,$85 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$935 ,,2238,2508
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HR Consulting Melbourne,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154007,31/07/2022,12223,,A,HR Consulting Melbourne,61035,$450 ,,,Purchase; HR Consulting Melbourne,,GST,$45 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$495 ,,2097,2428
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MYOB Australia,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154008,1/8/2022,2-10003587961,,A,MYOB Australian Monthly subscription for Aug 22 ,61290,$109.09 ,,,Purchase; MYOB Australia,,GST,$10.91 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$120 ,,5509,1209
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Dormakaba Australia Pty ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154009,29/07/2022,05VC1001252,,A,Dormakaba Australian Pty Ltd Repairs to front sliding doors,61250,"$5,866.86 ",,,Purchase; Dormakaba Australia Pty ltd,,GST,$586.69 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$6,453.55 ",,1829,2293
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Corinella Pty LTd - Jim's mowing,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154010,2/8/2022,19343,,A,Jims Mowing maintenance completed on 2/8/22,61250,$90 ,,,Purchase; Jims Mowing,,GST,$9 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$99 ,,1693,2191
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Stephen David Vaughan,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154011,27/07/2022,270722,,A,Stephen Vaughan,61035,"$1,400 ",,,Purchase; Stephen David Vaughan,,GNR,$0.00 ,$0.00 ,GNR,$0.00 ,B,2,0,30,0,"$1,400 ",,*None,2629
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Gallagher Bassett Services Workers Compensation Vi,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154013,16/07/2022,160722,,P,WorkSafe Victoria period 2022/2023,65140,"$7,173.69 ",,,Purchase; Gallagher Bassett Services Workers Compensation Vi,,GST,$42.71 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$7,216.40 ",,2297,2544
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Hightalk Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154014,1/8/2022,2883,,A,Hightalk Pty Ltd monthly bill,61300,$362.73 ,,,Purchase; Hightalk Pty Ltd,,GST,$36.27 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$399 ,,2099,2429
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GL Booth,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154030,16/08/2022,2201,,B,Business advisory service ,61035,"$5,250 ",,,Purchase; Graeme Booth,,GNR,$0.00 ,$0.00 ,GNR,$0.00 ,B,4,0,30,0,"$5,250 ",,*None,2714
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TPG Telecom / AAPT,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154040,1/9/2022,18162987,,P,TPG Telecom monthly invoice 1st Aug 22 to 30th Aug 22,61150,$799 ,,,Purchase; TPG Telecom / AAPT,,GST,$79.90 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$878.90 ,,1672,2178
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AGL,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154042,1/9/2022,7013 336 933,,P,AGL,66030,$66.84 ,,,Purchase; AGL,,GST,$6.68 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$73.52 ,,5458,1336
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Hightalk Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154043,1/9/2022,2943,,P,Hightalk Pty Ltd monthly bill,61300,$362.73 ,,,Purchase; Hightalk Pty Ltd,,GST,$36.27 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$399 ,,2099,2429
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MYOB Australia,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154044,1/9/2022,2-10003818060,,P,MYOB monthly subscription Sept 2022,61290,$118.18 ,,,Purchase; MYOB Australia,,GST,$11.82 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$130 ,,5509,1209
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Couriers Please Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154052,14/09/2022,TI3419046,,P,Couriers Please pre paid service,61215,$149 ,,,Purchase; Couriers Please Pty Ltd,,GST,$14.90 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$163.90 ,,5539,2019
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MYOB Australia,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154082,1/10/2022,2-10004080221,,P,Monthly subscription,61290,$118.18 ,,,Purchase; MYOB Australia,,GST,$11.82 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$130 ,,5509,1209
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+StaySafe (SA) Pty Ltd  Securitas,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154085,29/09/2022,AURS-PCN20-5559,,P,credit memo for incorrect charging on invoice AURS-PSI20-85778 ,66080,($158.62),,,Purchase; StaySafe (SA) Pty Ltd  Securitas,,GST,($15.86),$0.00 ,GST,$0.00 ,B,2,0,30,0,($174.48),,2393,832
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TPG Telecom / AAPT,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154100,1/10/2022,18273289,,P,Billing period 01 Sep 22 tp 30 Sep 22,61150,$799 ,,,Purchase; TPG Telecom / AAPT,,GST,$79.90 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$878.90 ,,1672,2178
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MYOB Australia,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154110,1/11/2022,2-10004317572,,P,MYOB AccountRight Live Plus subscription 01/11/2022 -30/11/2022,61290,$118.18 ,,,Purchase; MYOB Australia,,GST,$11.82 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$130 ,,5509,1209
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TPG Telecom / AAPT,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,X,154141,29/11/2022,18390359,,P,Billing Period 01/10/2022 to 31/10/2022,61150,$799 ,,,Purchase; TPG Telecom / AAPT,,GST,$79.90 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$878.90 ,,1672,2178
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MYOB Australia,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,X,154146,1/12/2022,2-100004580804,,P,Period 01/12/2022 to 31/12/2022,61290,$118.18 ,,,Purchase; MYOB Australia,,GST,$11.82 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$130 ,,5509,1209
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TPG Telecom / AAPT,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154149,5/12/2022,18501860,,P,Period 01 Nov 22 to 30 Nov 22,61150,$799 ,,,Purchase; TPG Telecom / AAPT,,GST,$79.90 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$878.90 ,,1672,2178
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TPG Telecom / AAPT,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154179,4/1/2023,18612415,,P,Recurring Charge December 22,61150,$799 ,,,Purchase; TPG Telecom / AAPT,,GST,$79.90 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$878.90 ,,1672,2178
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MYOB Australia,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154180,1/1/2023,2-10004828789,,P,Recurring subscription 01/01/23 -31/01/23,61290,$118.18 ,,,Purchase; MYOB Australia,,GST,$11.82 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$130 ,,5509,1209
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Australian Tile Council Inc,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154200,31/01/2023,,,P,Industry consultant Membership,59100,$350 ,,,Purchase; Australian Tile Council Inc,,FRE,$0.00 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$350 ,,2008,2371
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MYOB Australia,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154206,1/2/2023,2- 10005062407,,P,Recurring Subscription 01/02/23 -28/02/23,61290,$118.18 ,,,Purchase; MYOB Australia,,GST,$11.82 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$130 ,,5509,1209
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TPG Telecom / AAPT,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154220,8/2/2023,18738294,,P,Recurring Charge 01/01/23 to 31/01/23,61150,$799 ,,,Purchase; TPG Telecom / AAPT,,GST,$79.90 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$878.90 ,,1672,2178
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Nickless Miller Meehans  Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154227,10/2/2023,INV-2209,,P,Corporate Secretarial Service,61100,$170 ,,,Purchase; Nickless Miller Meehans  Pty Ltd,,GST,$17 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$187 ,,5251,29
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MYOB Australia,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154255,1/3/2023,2-10005299569,,P,MYOB AccountRight Live Plus 01/03/23 -31/03/23,61290,$118.18 ,,,Purchase; MYOB Australia,,GST,$11.82 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$130 ,,5509,1209
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TPG Telecom / AAPT,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154272,28/03/2023,18837212,,P,Recurring charge 01/02/2023 to 28/02/2023,61150,$799 ,,,Purchase; TPG Telecom / AAPT,,GST,$79.90 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$878.90 ,,1672,2178
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GL Booth,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154273,6/2/2023,2302,,P,Business Advisory Service Aug 2022 - Feb 303\r\n,61035,"$5,950 ",,,Purchase; GL Booth,,FRE,$0.00 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$5,950 ",,*None,2714
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GL Booth,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154274,29/03/2023,2305,,P,Business Advisory Service 7 Feb to 29 Mar 2023,61035,"$2,975 ",,,Purchase; GL Booth,,FRE,$0.00 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$2,975 ",,*None,2714
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MYOB Australia,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154276,3/4/2023,2-10005526800,,P,Period 01/04/23 to 30/04/2023,61290,$123.64 ,,,Purchase; MYOB Australia,,GST,$12.36 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$136 ,,5509,1209
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GIGGEAR AUSTRALIA PTY LTD t/a JP cases,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154297,21/04/2023,JP-82825,,A,Pelican 1755 Air Long Case - Foam,11207,$698.14 ,,,Purchase; JP Cases,,GST,$69.81 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$767.95 ,,2559,2720
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TPG Telecom / AAPT,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154300,28/04/2023,18954336,,P,Recurring charges 01/03/23 - 31/03/23,61150,$799 ,,,Purchase; TPG Telecom / AAPT,,GST,$79.90 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$878.90 ,,1672,2178
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Nickless Miller Meehans  Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154303,21/04/2023,INV-2444,,P,"2022 Annual Tax Compliance, annual financial statements & Tax return",61015,"$7,950 ",,,Purchase; Nickless Miller Meehans  Pty Ltd,,GST,$795 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$8,745 ",,5251,29
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MYOB Australia,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154304,2/5/2023,2-10005770296,,P,Recurring subscription 01/05/23 -31/05/23,61290,$123.64 ,,,Purchase; MYOB Australia,,GST,$12.36 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$136 ,,5509,1209
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TPG Telecom / AAPT,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154311,1/5/2023,19065192,,P,Recurring charges 01/04/23 - 30/04/23,61150,$799 ,,,Purchase; TPG Telecom / AAPT,,GST,$79.90 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$878.90 ,,1672,2178
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Cosentino Builders Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154331,2/5/2023,148.1,,P,Office refurbishment,12710,"$7,573.80 ",,,Purchase; Cosentino Builders Pty Ltd,,GST,$757.38 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$8,331.18 ",,2280,2536
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MYOB Australia,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154341,1/6/2023,2-1006001923,,P,MYOB AccountRight Live Plus Recurring Subscription 01/06/23 to 30/06/23,61290,$123.64 ,,,Purchase; MYOB Australia,,GST,$12.36 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$136 ,,5509,1209
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TPG Telecom / AAPT,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154343,7/6/2023,19177875,,P,Recurring charges 01 May 23 to 31 May 23,61150,$799 ,,,Purchase; TPG Telecom / AAPT,,GST,$79.90 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$878.90 ,,1672,2178
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GL Booth,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154344,7/6/2023,2312,,P,Business Advisory Services\r\nServices:\r\n1. Services re management of M&A approaches and related Executive advices.\r\n2. Coaching and Training services to DF/IG started June 2023,61035,"$6,300 ",,,Purchase; GL Booth,,FRE,$0.00 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$6,300 ",,*None,2714
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Optimatum Pty Ltd T/A Miglic Macleod,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154359,31/05/2023,INV-3079,,P,Fixed component: Detailed design and\r\ndocumentation,54400,"$4,600 ",,,Purchase; Optimatum Pty Ltd T/A Miglic Macleod,,GST,$460 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$7,695.60 ",,1923,2327
+Optimatum Pty Ltd T/A Miglic Macleod,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154359,31/05/2023,INV-3079,,P,Construction Stage Services (RFI's up to 6\r\nhours)\r\n$Construction Stage Services (RFI's up to 6\r\nhours)\r\nConstruction Stage Services (RFI's up to 6\r\nhours)\r\nConstruction Stage Services (RFI's up to 6\r\nhours),54400,"$1,500 ",,,Purchase; Optimatum Pty Ltd T/A Miglic Macleod,,GST,$150 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$7,695.60 ",,1923,2327
+Optimatum Pty Ltd T/A Miglic Macleod,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154359,31/05/2023,INV-3079,,P,Variation (Structural) - Additional time for RFIs and support - Reza,54400,$896 ,,,Purchase; Optimatum Pty Ltd T/A Miglic Macleod,,GST,$89.60 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$7,695.60 ",,1923,2327
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Nickless Miller Meehans  Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154364,16/06/2023,INV-2736,,P,"FBT Return\r\nPreparation of Fringe Benefits Tax (FBT) return for the period ending 31 March 2023, including but not limited to:\r\n- Lodge Fringe Benefits Tax return with the Australian Taxation Office.",61015,$150 ,,,Purchase; Nickless Miller Meehans  Pty Ltd,,GST,$15 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$165 ,,5251,29
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Chartered Accounts Australia & NZ,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154375,29/06/2023,INVAU62122423,,P,Chartered Accountant - Annual Subscription Fee - Income concession Nina Gaitz,65150,$266.36 ,,,Purchase; Chartered Accounts Australia & NZ,,GST,$26.64 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$293 ,,*None,2535
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Engineers Australia,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154376,27/06/2023,11511607,,P,EA Professional memebrship renewal Ian Godson,51100,$540.91 ,,,Purchase; Engineers Australia,,GST,$54.09 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$595 ,,5126,467
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MYOB Australia,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154384,5/7/2023,2-10006208537,,P,MYOB AccountRight Live Plus Recurring Subscription 01/07/23 - 31/07/23,61290,$123.64 ,,,Purchase; MYOB Australia,,GST,$12.36 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$136 ,,5509,1209
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TPG Telecom / AAPT,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154399,18/07/2023,19293780,,P,Recurring charges 01 Jun 23 to 30 Jun 23,61150,$799 ,,,Purchase; TPG Telecom / AAPT,,GST,$79.90 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$878.90 ,,1672,2178
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Officeworks,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154402,20/07/2023,608578416,,P,Andre L mobile phone,61154,"$1,015.45 ",,,Purchase; Officeworks,,GST,$101.55 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$1,176.36 ",,5255,40
+Officeworks,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154402,20/07/2023,608578416,,P,Stationery,61215,$53.97 ,,,Purchase; Officeworks,,GST,$5.39 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$1,176.36 ",,5255,40
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Nickless Miller Meehans  Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154420,19/07/2023,INV-2875,,P,"Professional Support & Advice, provision of support & advice including ATO liaison, bookkeeping support, phone calls and email response through out the year as required",61015,$210 ,,,Purchase; Nickless Miller Meehans  Pty Ltd,,GST,$21 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$231 ,,5251,29
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MYOB Australia,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154422,1/8/2023,2-10006606828,,P,MYOB AccountRight Live Plus Recurring Subscription 01 Aug 2023 to 31 Aug 2023,61290,$123.64 ,,,Purchase; MYOB Australia,,GST,$12.36 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$136 ,,5509,1209
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TPG Telecom / AAPT,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154429,3/8/2023,,,P,Recurring charges 01/07/2023 -31/07/2023,61150,$799 ,,,Purchase; TPG Telecom / AAPT,,GST,$79.90 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$878.90 ,,1672,2178
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GL Booth,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154440,1/7/2023,2315,,P,"Business Advisory services 1. Services re management of M&A approaches and related Executive advices, 2 Coaching Training services to DF/IG started June 2023",61035,"$6,300 ",,,Purchase; GL Booth,,FRE,$0.00 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$6,300 ",,*None,2714
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Gallagher Bassett Services Workers Compensation Vi,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154444,15/08/2023,,,P,Work cover 2023/2024,65140,"$9,256.04 ",,,Purchase; Gallagher Bassett Services Workers Compensation Vi,,GST,$925.61 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$10,181.65 ",,2297,2544
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AGL,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154449,22/08/2023,,,P,GAs charge: 02/05/23 - 27/06/23,66030,$59.84 ,,,Purchase; AGL,,GST,$5.98 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$65.82 ,,5458,1336
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MYOB Australia,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154471,1/9/2023,2-1006932927,,P,MYOB AccountRight Live Plus Recurring Subscription 01 Sep 2023 to 30 Sep 2023,61290,$123.64 ,,,Purchase; MYOB Australia,,GST,$12.36 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$136 ,,5509,1209
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TPG Telecom / AAPT,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154500,27/09/2023,19534705,,P,Billing period 01/08/23 -31/08/23,61150,$799 ,,,Purchase; TPG Telecom / AAPT,,GST,$79.90 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$878.90 ,,1672,2178
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+M & R Insurance Brokers Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154502,10/7/2023,76453,,P,General Property Insurance CC1063288-4,61140,$105.68 ,,,Purchase; M & R Insurance Brokers Pty Ltd,,GST,$10.57 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$127.88 ,,5497,1736
+M & R Insurance Brokers Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154502,10/7/2023,76453,,P,General Property Insurance CC1063288-4 SD,61140,$11.63 ,,,Purchase; M & R Insurance Brokers Pty Ltd,,N-T,$0.00 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$127.88 ,,5497,1736
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+M & R Insurance Brokers Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154503,10/7/2023,76751,,P,Management Liability Insurance 9618063PVE,61140,"$2,094.13 ",,,Purchase; M & R Insurance Brokers Pty Ltd,,GST,$209.42 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$2,529.59 ",,5497,1736
+M & R Insurance Brokers Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154503,10/7/2023,76751,,P,Management Liability Insurance 9618063PVE SD,61140,$226.04 ,,,Purchase; M & R Insurance Brokers Pty Ltd,,N-T,$0.00 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$2,529.59 ",,5497,1736
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+M & R Insurance Brokers Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154504,10/7/2023,76752,,P,Commercial Insurance 15T2098714,61140,"$3,149.51 ",,,Purchase; M & R Insurance Brokers Pty Ltd,,GST,$314.94 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$3,810.89 ",,5497,1736
+M & R Insurance Brokers Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154504,10/7/2023,76752,,P,Commercial Insurance 15T2098714 -SD,61140,$346.44 ,,,Purchase; M & R Insurance Brokers Pty Ltd,,N-T,$0.00 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$3,810.89 ",,5497,1736
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+M & R Insurance Brokers Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154505,10/7/2023,76754,,P,Professional Indemnity Insurance 02PI000432,61140,"$4,395.21 ",,,Purchase; M & R Insurance Brokers Pty Ltd,,GST,$439.52 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$5,250.42 ",,5497,1736
+M & R Insurance Brokers Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154505,10/7/2023,76754,,P,Professional Indemnity Insurance 02PI000432 SD,61140,$415.69 ,,,Purchase; M & R Insurance Brokers Pty Ltd,,N-T,$0.00 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$5,250.42 ",,5497,1736
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+M & R Insurance Brokers Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154506,10/7/2023,76578,,P,General Property Insurance CC1063288-7,61140,"$4,985.28 ",,,Purchase; M & R Insurance Brokers Pty Ltd,,GST,$498.53 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$6,032.20 ",,5497,1736
+M & R Insurance Brokers Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154506,10/7/2023,76578,,P,General Property Insurance CC1063288-7 SD,61140,$548.39 ,,,Purchase; M & R Insurance Brokers Pty Ltd,,N-T,$0.00 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$6,032.20 ",,5497,1736
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+M & R Insurance Brokers Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154507,10/7/2023,76585,,P,Aviation 03 RPS 0068011,61140,"$3,166.20 ",,,Purchase; M & R Insurance Brokers Pty Ltd,,GST,$316.62 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$3,831.11 ",,5497,1736
+M & R Insurance Brokers Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154507,10/7/2023,76585,,P,Aviation 03 RPS 0068011 SD,61140,$348.29 ,,,Purchase; M & R Insurance Brokers Pty Ltd,,N-T,$0.00 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$3,831.11 ",,5497,1736
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+M & R Insurance Brokers Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154508,10/7/2023,76605,,P,Liability Insurance 57A39100PLB,61140,"$7,280.13 ",,,Purchase; M & R Insurance Brokers Pty Ltd,,GST,$728.01 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$8,762.95 ",,5497,1736
+M & R Insurance Brokers Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154508,10/7/2023,76605,,P,Liability Insurance 57A39100PLB SD,61140,$754.81 ,,,Purchase; M & R Insurance Brokers Pty Ltd,,N-T,$0.00 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$8,762.95 ",,5497,1736
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+M & R Insurance Brokers Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154509,10/7/2023,76735,,P,Cyber Liability QCS22004089A/00/01,61140,"$1,234.36 ",,,Purchase; M & R Insurance Brokers Pty Ltd,,GST,$123.43 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$1,468.82 ",,5497,1736
+M & R Insurance Brokers Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154509,10/7/2023,76735,,P,Cyber Liability QCS22004089A/00/01 SD,61140,$111.03 ,,,Purchase; M & R Insurance Brokers Pty Ltd,,N-T,$0.00 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$1,468.82 ",,5497,1736
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+M & R Insurance Brokers Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154510,10/7/2023,76782,,P,Professional Indemnity PL-ME-23-615012,61140,"$78,013.70 ",,,Purchase; M & R Insurance Brokers Pty Ltd,,GST,"$7,801.37 ",$0.00 ,GST,$0.00 ,B,2,0,30,0,"$92,813.29 ",,5497,1736
+M & R Insurance Brokers Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154510,10/7/2023,76782,,P,Professional Indemnity PL-ME-23-615012 Sd,61140,"$6,998.22 ",,,Purchase; M & R Insurance Brokers Pty Ltd,,N-T,$0.00 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$92,813.29 ",,5497,1736
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TPG Telecom / AAPT,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154523,1/10/2023,19648363,,P,Period:01 Sep 23 to 30 Sep 23,61150,$799 ,,,Purchase; TPG Telecom / AAPT,,GST,$79.90 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$878.90 ,,1672,2178
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GL Booth,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154528,9/10/2023,2405a,,P,Coaching and training services to DF/IG from 30/06/23 to 28/08/2023,61035,"$5,477.50 ",,,Purchase; GL Booth,,FRE,$0.00 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$5,477.50 ",,*None,2714
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MYOB Australia,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154529,10/10/2023,,,P,Billing period 01 Oct 2023 to 31 Oct 2023,61290,$123.64 ,,,Purchase; MYOB Australia,,GST,$12.36 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$136 ,,5509,1209
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Trendspek Operations Pty Limited,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154537,12/10/2023,INV-0390,,P,5000 GP Processing Pack ($5.95 per GP),11204,"$29,750 ",,,Purchase; Trendspek Operations Pty Limited,,GST,"$2,975 ",$0.00 ,GST,$0.00 ,B,2,0,30,0,"$32,725 ",,2246,2518
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MYOB Australia,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154560,1/11/2023,,,P,MYOB AccountRight Live Plus Recurring Subscription 01 Nov 2023 to 30 Nov 2023,61290,$123.64 ,,,Purchase; MYOB Australia,,GST,$12.36 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$136 ,,5509,1209
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TPG Telecom / AAPT,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154574,6/11/2023,19753257,,P,Recurring charges 01 Oct 23 to 31 Oct 23,61150,$799 ,,,Purchase; TPG Telecom / AAPT,,GST,$79.90 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$878.90 ,,1672,2178
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MYOB Australia,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154604,1/12/2023,2-10007567330,,P,MYOB Account Right Subscription 01/12/23-31/12/23,61290,$123.64 ,,,Purchase; MYOB Australia,,GST,$12.36 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$136 ,,5509,1209
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Lee Hecht Harrison Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154605,29/11/2023,NSW0028907,,P,CT: 1 month Program for Andre Van Zyl commencing on 20/11/23,65150,"$1,750 ",,,Purchase; Lee Hecht Harrison Pty Ltd,,GST,$175 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$1,925 ",,*None,2797
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TPG Telecom / AAPT,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154612,5/12/2023,19882736,,P,Billing Period 01/11/2023 - 30/11/2023,61150,$799 ,,,Purchase; TPG Telecom / AAPT,,GST,$79.90 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$878.90 ,,1672,2178
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+M & R Insurance Brokers Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154634,20/12/2023,77316,,P,General Property Insurance CC1063288-7,61140,"$3,838.34 ",,,Purchase; M & R Insurance Brokers Pty Ltd,,GST,$383.83 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$4,644.39 ",,5497,1736
+M & R Insurance Brokers Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154634,20/12/2023,77316,,P,General Property Insurance SD CC1063288-7,61140,$422.22 ,,,Purchase; M & R Insurance Brokers Pty Ltd,,N-T,$0.00 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$4,644.39 ",,5497,1736
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GL Booth,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154635,8/12/2023,2409,,P,Coaching and Training services to DF/IG ,61035,"$1,650 ",,,Purchase; GL Booth,,FRE,$0.00 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$1,650 ",,*None,2714
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+St John Ambulance Australia,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154638,9/1/2024,7194295,,P,First Aid kits,61215,$94.23 ,,,Purchase; St John Ambulance Australia,,GST,$8.12 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$102.35 ,,5479,1605
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Silvertail Restrant Pty LTd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154639,29/12/2023,INV-2352,,P,Event Booking on 13/12/2024,61030,$500 ,,,Purchase; Silvertail Restrant Pty LTd,,N-T,$0.00 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$500 ,,*None,2810
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TPG Telecom / AAPT,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154674,30/01/2024,19985143,,P,Period 01/12/2023 -31/12/2023,61150,$799 ,,,Purchase; TPG Telecom / AAPT,,GST,$79.90 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$878.90 ,,1672,2178
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MYOB Australia,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154676,1/2/2024,,,P,MYOB AccountRight Live Plus Recurring Subscription 01 Feb 2024 to 29 Feb 2024,61290,$123.64 ,,,Purchase; MYOB Australia,,GST,$12.36 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$136 ,,5509,1209
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TPG Telecom / AAPT,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154684,1/2/2024,20107908,,P,Internet Period 01/01/2024 -31/01/2024,61150,$799 ,,,Purchase; TPG Telecom / AAPT,,GST,$79.90 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$878.90 ,,1672,2178
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WorkCover Queensland,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154703,21/02/2024,WSM240217738,,P,Work cover premium fir year ending 30/06/2024,65140,$86.58 ,,,Purchase; WorkCover Queensland,,GST,$8.66 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$100 ,,N0002,2821
+WorkCover Queensland,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154703,21/02/2024,WSM240217738,,P,Work cover premium fir year ending 30/06/2024 SD,65140,$4.76 ,,,Purchase; WorkCover Queensland,,N-T,$0.00 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$100 ,,N0002,2821
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Nickless Miller Meehans  Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154707,23/02/2024,INV-3615,,P,"Corporate Secretarial Services: Maintenance of your corporate records and to your corporate secretarial matters, for compliance with Australian\r\nSecurities and Investments Commission (ASIC) requirements, including:\r\n- Collection and Forwarding of your 2024 Annual Company Statement;\r\n- Advice on payment amounts and due dates for ASIC Fees",61015,$180 ,,,Purchase; Nickless Miller Meehans  Pty Ltd,,GST,$18 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$198 ,,5251,29
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Couriers Please Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154711,23/02/2024,TI3487815,,P,Courier Coupon,61215,$321.60 ,,,Purchase; Couriers Please Pty Ltd,,GST,$32.16 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$353.76 ,,5539,2019
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Frosting.melbourne,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154715,27/02/2024,11096,,P,"Frosting windows for Board room, Meeting room 1 & 2 and Gym",61250,"$1,823.73 ",,,Purchase; Frosting.melbourne,,GST,$182.37 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$2,006.10 ",,N0003,2824
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MYOB Australia,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154717,4/3/2024,2-10008278199,,P,MYOB AccountRight Live Plus Recurring Subscription,61290,$123.64 ,,,Purchase; MYOB Australia,,GST,$12.36 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$136 ,,5509,1209
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TPG Telecom / AAPT,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154727,5/3/2024,20229031,,P,Billing period 01/02/24-29/02/24,61150,$799 ,,,Purchase; TPG Telecom / AAPT,,GST,$79.90 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$878.90 ,,1672,2178
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+VicRoads,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154740,7/3/2024,BYD rego 2024,,P,BYD Registration Renewal registration Fee,61205,$224.70 ,,,Purchase; VicRoads,,N-T,$0.00 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$776.90 ,,5364,83
+VicRoads,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154740,7/3/2024,BYD rego 2024,,P,BYD Registration Renewal TAC charge,61205,$456.36 ,,,Purchase; VicRoads,,GST,$45.64 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$776.90 ,,5364,83
+VicRoads,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154740,7/3/2024,BYD rego 2024,,P,BYD Registration Renewal Insurance Duty,61205,$50.20 ,,,Purchase; VicRoads,,N-T,$0.00 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$776.90 ,,5364,83
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Nickless Miller Meehans  Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154741,12/3/2024,,,P,"2023 Annual Tax Compliance, Financial Statements, Tax return,  Corporate Secretarial Service",61015,"$7,950 ",,,Purchase; Nickless Miller Meehans  Pty Ltd,,GST,$795 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$8,745 ",,5251,29
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Toshiba Australia Pty Limited,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154749,21/03/2024,11800752,,P,Colour Meterage,61215,$50.75 ,,,Purchase; Toshiba Australia Pty Limited,,GST,$5.07 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$55.82 ,,1842,2302
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Trendspek Operations Pty Limited,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154754,25/03/2024,,,P,Pro Plan ( 25/02/24-28/02/25),11204,"$24,995 ",,,Purchase; Trendspek Operations Pty Limited,,GST,"$2,499.50 ",$0.00 ,GST,$0.00 ,B,2,0,30,0,"$52,038.25 ",,2246,2518
+Trendspek Operations Pty Limited,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154754,25/03/2024,,,P,Processing Pack Bundled,11204,"$22,312.50 ",,,Purchase; Trendspek Operations Pty Limited,,GST,"$2,231.25 ",$0.00 ,GST,$0.00 ,B,2,0,30,0,"$52,038.25 ",,2246,2518
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MYOB Australia,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154757,1/4/2024,2-100008522112,,P,MYOB AccountRight Live Plus Recurring Subscription: 01 Apr 2024 to 30 Apr 2024,61290,$128.18 ,,,Purchase; MYOB Australia,,GST,$12.82 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$141 ,,5509,1209
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Marco Epifano,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154758,29/03/2024,Jazz Trio 16.05.24,,P, 50% deposit,61030,"$1,050 ",,,Purchase; Marco Epifano,,FRE,$0.00 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$1,050 ",,N0004,2835
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TPG Telecom / AAPT,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154760,1/4/2024,20341740,,P,Recurring charges Billing period: 01 Mar 24 to 31 Mar 24,61150,$799 ,,,Purchase; TPG Telecom / AAPT,,GST,$79.90 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$878.90 ,,1672,2178
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+VicRoads,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154787,22/04/2024,tesla rego 2024,,P,Registration Fee,61200,$224.70 ,,,Purchase; VicRoads,,N-T,$0.00 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$776.90 ,,5364,83
+VicRoads,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154787,22/04/2024,tesla rego 2024,,P,TAC charge,61200,$456.36 ,,,Purchase; VicRoads,,GST,$45.64 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$776.90 ,,5364,83
+VicRoads,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154787,22/04/2024,tesla rego 2024,,P,Insurance Duty,61200,$50.20 ,,,Purchase; VicRoads,,N-T,$0.00 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$776.90 ,,5364,83
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+John Young Consulting Tax Lawyer,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154790,23/04/2024,29-Mar-24,,P,Professional Fees in relation to Tax Advice for Business,61035,"$1,325 ",,,Purchase; John Young Consulting Tax Lawyer,,GST,$132.50 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$1,457.50 ",,N0006,2845
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MYOB Australia,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154795,1/5/2024,2-10008773294,,P,MYOB AccountRight Live Plus Recurring Subscription 01 May 2024 to 31 May 2024,61290,$128.18 ,,,Purchase; MYOB Australia,,GST,$12.82 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$141 ,,5509,1209
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+NOW ACTUALLY GROUP PTY LTD,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154796,30/04/2024,INV-2330,,P,Consulting Services- HR Support 22-30 April,61035,$450 ,,,Purchase; NOW ACTUALLY GROUP PTY LTD,,GST,$45 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$495 ,,N0007,2846
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TPG Telecom / AAPT,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154802,1/5/2024,20478894,,P,Recurring charges 01 Apr 24 to 30 Apr 24,61150,$799 ,,,Purchase; TPG Telecom / AAPT,,GST,$79.90 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$878.90 ,,1672,2178
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+NOW ACTUALLY GROUP PTY LTD,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154803,1/5/2024,,,P,Review and report of employment documents,65150,"$1,687.50 ",,,Purchase; NOW ACTUALLY GROUP PTY LTD,,GST,$168.75 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$1,856.25 ",,N0007,2846
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Marco Epifano,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154806,1/5/2024,Jass Trio balance,,P,Jass Trio for Infracorr 20th anniversary event,61030,"$1,050 ",,,Purchase; Marco Epifano,,FRE,$0.00 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$1,050 ",,N0004,2835
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Darling Hospitality Group,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154807,8/5/2024,34967434,,P,Infracorr 20th anniversary event @ Higher Ground on 16th May 2024,61030,"$12,295.45 ",,,Purchase; Darling Hospitality Group,,GST,"$1,229.55 ",$0.00 ,GST,$0.00 ,B,2,0,30,0,"$13,525 ",,*None,2806
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Nickless Miller Meehans  Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154816,13/05/2024,INV-3890,,P,FBT return preparation and lodge for the period ending 31 March 2024,61015,$150 ,,,Purchase; Nickless Miller Meehans  Pty Ltd,,GST,$15 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$165 ,,5251,29
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Force Technology,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154829,30/04/2024,1634586,,P,"Start-up the case\r\nThe price for one terminal is\r\nThe price for service on the electrode, including\r\nclearing of the zinc ring, cost\r\nNew calibrated reference electrode cost\r\nNew top cap, replacement to a broken one, as\r\nshown at the photo from you\r\nMounting new reference electrode/cap\r\nBattery for terminal (WA3010)\r\nTroubleshooting both batteries for our developer,\r\nnew software\r\nExtend calibration for CorroMap regarding\r\npotential and current-levels with concluding\r\ncertificate",51000,"$7,133.78 ",,,Purchase; Force Technology,,FRE,$0.00 ,$0.00 ,FRE,$0.00 ,B,2,0,30,0,"$7,133.78 ",,5139,114
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Couriers Please Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154833,3/6/2024,TI3339836,,P,Coupon :Ezylink 2 and Ezylink 1 ,61215,$273.35 ,,,Purchase; Couriers Please Pty Ltd,,GST,$27.33 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$300.68 ,,5539,2019
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MYOB Australia,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154844,1/6/2024,2-10009028505,,P,MYOB AccountRight Live Plus Recurring Subscription 01 Jun 2024 to 30 Jun 2024,61290,$128.18 ,,,Purchase; MYOB Australia,,GST,$12.82 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$141 ,,5509,1209
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TPG Telecom / AAPT,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154849,5/6/2024,20599518,,P,Recurring charges 01/05/24 - 31/05/24,61150,$799 ,,,Purchase; TPG Telecom / AAPT,,GST,$79.90 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$878.90 ,,1672,2178
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GL Booth,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154858,7/6/2024,2421,,P,Commission: Board Director 1st April to 30th June 2024,61060,"$6,250 ",,,Purchase; GL Booth,,FRE,$0.00 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$6,250 ",,*None,2714
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GL Booth,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154859,13/06/2024,2423,,P,Coaching- Cameron Wynford 12th Feb  to 1st Jun 2024,61035,"$1,925 ",,,Purchase; GL Booth,,FRE,$0.00 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$1,925 ",,*None,2714
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Level Up Fitness Co.,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154873,26/06/2024,INV-0128,,P,1:1 Coaching & Equipment Safety Instruction,65145,"$3,422.50 ",,,Purchase; Level Up Fitness Co.,,FRE,$0.00 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$3,422.50 ",,N0009,2870
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MYOB Australia,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154886,2/7/2024,2-10009279608,,P,MYOB AccountRight Live Plus Recurring Subscription,61290,$128.18 ,,,Purchase; MYOB Australia,,GST,$12.82 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$141 ,,5509,1209
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TPG Telecom / AAPT,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154896,4/7/2024,20703235,,P,Recurring charges 01 Jun 24 to 30 Jun 24,61155,$799 ,,,Purchase; TPG Telecom / AAPT,,GST,$79.90 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$878.90 ,,1672,2178
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pointon Partners Lawyers,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154900,28/06/2024,36194,,P,"Deed of Indemnity, Employee Share Scheme and D & O Insurance",61165,"$1,864 ",,,Purchase; Pointon Partners Lawyers,,GST,$186.40 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$2,050.40 ",,1733,2230
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ian Godson Superannuation Fund,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154910,25/07/2024,5,,P,Yarra Valley Water Invoice 5912 8722 72804 01/04/24 to 05/07/24,66090,$518.90 ,,,Purchase; Ian Godson Superannuation Fund,,FRE,$0.00 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$518.90 ,,5157,200
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+M & R Insurance Brokers Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154911,2/7/2024,207702,,P,Commercial Insurance 13/07/24 to 13/07/25,11205,"$5,502.78 ",,,Purchase; M & R Insurance Brokers Pty Ltd,,GST,$500.71 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$6,003.49 ",,5497,1736
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+M & R Insurance Brokers Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154912,8/7/2024,207688,,P,Cyber Liability 13/07/24 to 13/07/25,11205,"$3,095.26 ",,,Purchase; M & R Insurance Brokers Pty Ltd,,GST,$281.08 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$3,376.34 ",,5497,1736
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+M & R Insurance Brokers Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154913,8/7/2024,207676,,P,Liability Insurance 13/07/24 to 13/07/25,11205,"$11,702.58 ",,,Purchase; M & R Insurance Brokers Pty Ltd,,GST,"$1,057.70 ",$0.00 ,GST,$0.00 ,B,2,0,30,0,"$12,760.28 ",,5497,1736
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+M & R Insurance Brokers Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154914,5/7/2024,207577,,P,General Property Insurance 13/07/24 to 13/07/24,11205,"$9,434.46 ",,,Purchase; M & R Insurance Brokers Pty Ltd,,GST,$858.46 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$10,292.92 ",,5497,1736
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+M & R Insurance Brokers Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154915,2/7/2024,207333,,P,Commercial Insurance 13/07/24 to 13/07/25,11205,"$3,731.97 ",,,Purchase; M & R Insurance Brokers Pty Ltd,,GST,$339.58 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$4,071.55 ",,5497,1736
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+M & R Insurance Brokers Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154916,2/7/2024,207332,,P,Directors & Officers Insurance 13/07/24 to 13/07/25,11205,"$2,780.68 ",,,Purchase; M & R Insurance Brokers Pty Ltd,,GST,$250.99 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$3,031.67 ",,5497,1736
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+M & R Insurance Brokers Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154917,2/7/2024,207330,,P,Professional Indemnity  Insurance 13/07/24 to 13/07/25,11205,"$92,550.13 ",,,Purchase; M & R Insurance Brokers Pty Ltd,,GST,"$8,415 ",$0.00 ,GST,$0.00 ,B,2,0,30,0,"$100,965.13 ",,5497,1736
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+M & R Insurance Brokers Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154918,4/7/2024,207459,,P,Commercial Insurance 13/07/24 to 13/07/25 ,11205,($353.60),,,Purchase; M & R Insurance Brokers Pty Ltd,,GST,($32.18),$0.00 ,GST,$0.00 ,B,2,0,30,0,($385.78),,5497,1736
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MYOB Australia,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154919,1/8/2024,2-10009539286,,P,MYOB AccountRight Live Plus Recurring Subscription 01 Aug 2024 to 31 Aug 2024,61290,$128.18 ,,,Purchase; MYOB Australia,,GST,$12.82 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$141 ,,5509,1209
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TPG Telecom / AAPT,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154935,5/8/2024,20826232,,P,Billing period 01/07/2024 to 31/07/2024,61155,$799 ,,,Purchase; TPG Telecom / AAPT,,GST,$79.90 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$878.90 ,,1672,2178
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ian Godson Superannuation Fund,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154937,6/8/2024,6,,P,2024/2025 Rate & Valuation for 01/07/24 to 30/06/2025,66020,"$3,976.60 ",,,Purchase; Ian Godson Superannuation Fund,,FRE,$0.00 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$3,976.60 ",,5157,200
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GL Booth,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154938,30/07/2024,2503,,P,Staff Workshop July 2024,61310,"$3,412.50 ",,,Purchase; GL Booth,,FRE,$0.00 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$3,412.50 ",,*None,2714
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Officeworks,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154939,30/07/2024,,,P,Stationery,61215,$117.94 ,,,Purchase; Officeworks,,GST,$11.79 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$129.73 ,,5255,40
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AAMI,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154954,16/08/2024,MPA153015033,,P,Car Comprehensive Cover 17/08/24 -17/08/25,61207,"$1,135.59 ",,,Purchase; AAMI,,GST,$102.31 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$1,237.90 ",,5004,71
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mornington HYUNDAI,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154955,16/08/2024,HM2441,,P,"Vehicle cost including liner, partition, Inspection, admin fee, dealer delivery, stamp duty and discount",12570,"$42,739.37 ",,,Purchase; Mornington HYUNDAI,,GST,"$4,080.93 ",$0.00 ,GST,$0.00 ,B,2,0,30,0,"$47,726.90 ",,N00013,2879
+Mornington HYUNDAI,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154955,16/08/2024,HM2441,,P,Registration,61207,$333.50 ,,,Purchase; Mornington HYUNDAI,,N-T,$0.00 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$47,726.90 ",,N00013,2879
+Mornington HYUNDAI,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154955,16/08/2024,HM2441,,P,Compulsory Thierd Party ,61207,$573.10 ,,,Purchase; Mornington HYUNDAI,,N-T,$0.00 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$47,726.90 ",,N00013,2879
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MYOB Australia,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154972,1/9/2024,2-10009754452,,P,MYOB AccountRight Live Plus Recurring Subscription 01 Sep 2024 to 30 Sep 2024,61290,$128.18 ,,,Purchase; MYOB Australia,,GST,$12.82 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$141 ,,5509,1209
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TPG Telecom / AAPT,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154974,1/9/2024,2000036121,,P,Recurring charges 01 Aug 24 to 31 Aug 24,61155,$799 ,,,Purchase; TPG Telecom / AAPT,,GST,$79.90 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$878.90 ,,1672,2178
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+icare Workers Insurance NSW,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154981,2/9/2024,1025427755,,P,NSW Workcover 2024_24 Adjustment,65140,$858.24 ,,,Purchase; icare Workers Insurance NSW,,GST,$85.82 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$944.06 ,,1684,2182
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+icare Workers Insurance NSW,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154982,2/9/2024,288259064,,P,NSW Workcover 2024_25 Premium,65140,"$3,118.81 ",,,Purchase; icare Workers Insurance NSW,,GST,$311.88 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$3,430.69 ",,1684,2182
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+NOW ACTUALLY GROUP PTY LTD,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154983,3/9/2024,INV-2612,,P,Executive employment agreement and parental leave workplace policy,61038,"$1,850 ",,,Purchase; NOW ACTUALLY GROUP PTY LTD,,GST,$185 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$2,035 ",,N0007,2846
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+NOW ACTUALLY GROUP PTY LTD,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154987,9/9/2024,INV-2616,,P,Work From HOme Policy,61038,$650 ,,,Purchase; NOW ACTUALLY GROUP PTY LTD,,GST,$65 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$715 ,,N0007,2846
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WorkCover Queensland,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154990,13/09/2024,,,P,Premium for year ending 9 September 2024,65140,$43.29 ,,,Purchase; WorkCover Queensland,,GST,$4.33 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$50 ,,N0002,2821
+WorkCover Queensland,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154990,13/09/2024,,,P,Premium for year ending 9 September 2024 SD,65140,$2.38 ,,,Purchase; WorkCover Queensland,,N-T,$0.00 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$50 ,,N0002,2821
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Couriers Please Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,154993,13/09/2024,TI3508353,,P,Metro ( Gold ) coupon,61215,$482.40 ,,,Purchase; Couriers Please Pty Ltd,,GST,$48.24 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$530.64 ,,5539,2019
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ALS Laboratory Services Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,X,154998,18/09/2024,WC574638,,P,Testing of 7 samples from damper tower,54400,$980 ,,,Purchase; ALS Laboratory Services Pty Ltd,,GST,$98 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$1,078 ",,5544,2075
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ACRA,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155003,24/07/2024,INV-0056,,P,Corporate membership 1 July 2024 - 30 June 2025,59140,"$1,925 ",,,Purchase; ACRA,,GST,$192.50 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$2,117.50 ",,5412,742
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Marine & Civil Maintenance Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155004,31/08/2024,2700,,E,Loy Yang August progress,54300,"$15,905.31 ",,,Purchase; Marine & Civil Maintenance Pty Ltd,,GST,"$1,590.53 ",$0.00 ,GST,$0.00 ,B,2,0,30,0,"$17,495.84 ",,5215,95
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Corinella Pty LTd - Jim's mowing,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155005,24/09/2024,INV-5351,,P,"Lawn mowing, gardening, weeding",61250,$100 ,,,"Purchase; WILDES, JOHNATHAN RONALD t/a Jims Mowing",,GST,$10 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$110 ,,1693,2191
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Revcharge,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155006,23/09/2024,INV-0830,,P,Cable - 3P/5M,61250,$544 ,,,Purchase; Revcharge,,GST,$54.40 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$598.40 ,,2814,2887
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maxsum Solutions Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155007,23/09/2024,47753,,P,HP Warranty Repair Cost,61151,"$2,140.63 ",,,Purchase; Maxsum Solutions Pty Ltd,,GST,$214.06 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$2,354.69 ",,2643,2775
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ALS Laboratory Services Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155008,20/09/2024,1151993097,,P,Lab testing,54400,$710.77 ,,,Purchase; ALS Laboratory Services Pty Ltd,,GST,$71.08 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$781.85 ,,5544,2075
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WORKPLACE SAFETY AUSTRALIA PTY LIMITED,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155009,20/09/2024,JS7041BUS24,,P,OHS Business Service,61035,"$1,490 ",,,Purchase; WORKPLACE SAFETY AUSTRALIA PTY LIMITED,,GST,$149 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$1,639 ",,2660,2785
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MYOB Australia,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155012,1/10/2024,2-10010040040,,P,MYOB AccountRight Live Plus Recurring Subscription 01 Oct 2024 to 31 Oct 2024,61290,$128.18 ,,,Purchase; MYOB Australia,,GST,$12.82 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$141 ,,5509,1209
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GL Booth,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155019,1/10/2024,2506,,P,Director fee 01/07/ 24 - 30/09/24,61060,"$6,250 ",,,Purchase; GL Booth,,FRE,$0.00 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$6,285 ",,*None,2714
+GL Booth,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155019,1/10/2024,2506,,P,Parking ( 22/08/24 Pointon mtg)\r\n,61400,$31.82 ,,,Purchase; GL Booth,,GST,$3.18 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$6,285 ",,*None,2714
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TPG Telecom / AAPT,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155022,3/10/2024,21062340,,P,Billing Period 01 Sep 24 to 30 Sep 24,61155,$799 ,,,Purchase; TPG Telecom / AAPT,,GST,$79.90 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$878.90 ,,1672,2178
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Converge International Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155027,10/10/2024,,,P,Invoice period from 18/10/2024 to 17/10/2025,65150,"$3,774 ",,,Purchase; Converge International Pty Ltd,,GST,$377.40 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$4,151.40 ",,2337,2577
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AAMI,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155032,5/9/2024,MPA07899573 FY25,,P,PAul's car insurance 16/10/24 to 16/10/25,11266,$428.74 ,,,Purchase; AAMI,,GST,$42.87 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$518.77 ,,5004,71
+AAMI,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155032,5/9/2024,MPA07899573 FY25,,P,PAul's car insurance 16/10/24 to 16/10/25 SD,11266,$47.16 ,,,Purchase; AAMI,,N-T,$0.00 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$518.77 ,,5004,71
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Corinella Pty LTd - Jim's mowing,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155037,15/10/2024,INV-5626,,P,"Lawn mowing,gardening,weeding,weed spraying and\r\nblowing of carparks on 15/10/24",61250,$100 ,,,"Purchase; WILDES, JOHNATHAN RONALD t/a Jims Mowing",,GST,$10 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$110 ,,1693,2191
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ian Godson Superannuation Fund,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155038,17/10/2024,7,,P,Yarra Valley water Invoice number: 5913 8869 74805 (attached)\r\nPeriod 05/07/2024 to 09/10/2024\r\n,66090,$540.88 ,,,Purchase; Ian Godson Superannuation Fund,,FRE,$0.00 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$540.88 ,,5157,200
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+EXEL Network Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155040,9/9/2024,182451,,P,Customised Surface Mount Labels,51000,$520 ,,,Purchase; EXEL Network Pty Ltd,,GST,$52 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$572 ,,2779,2872
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Monash Self Storage Centre,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155041,19/10/2024,1014183,,P,Storage rental (Unit 034) from 26/10/24 to 25/11/24,61250,$163.64 ,,,Purchase; Monash Self Storage Centre,,GST,$16.36 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$180 ,,2292,2542
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Telstra Corp,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155042,10/10/2024,T311 Oct 24,,P,Mobile phone usage Oct 24,61153,"$1,782.13 ",,,Purchase; Telstra Corp,,GST,$145.34 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$1,927.47 ",,5330,89
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HR Consulting Melbourne,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155043,22/10/2024,INV-00412425,,P,"Employee Relations Advice, Employee Sentiment Survey, Client Meeting",61038,"$2,625 ",,,Purchase; HR Consulting Melbourne,,GST,$262.50 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$2,887.50 ",,2097,2428
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pointon Partners Lawyers,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155044,31/08/2024,36609,,P,"Queries re Deed of Indemnity, Employee Share Scheme and D & O Insurance",61165,$974.83 ,,,Purchase; Pointon Partners Lawyers,,GST,$96.48 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$1,071.31 ",,1733,2230
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MYOB Australia,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155046,4/11/2024,2-10010274803,,P,MYOB AccountRight Live Plus Recurring Subscription 01 Nov 2024 to 30 Nov 2024,61290,$128.18 ,,,Purchase; MYOB Australia,,GST,$12.82 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$141 ,,5509,1209
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Visy Recycling,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155047,4/11/2024,150190180,,P,Recycling service 01/10/24 -31/10/24,61215,$69.08 ,,,Purchase; Visy Recycling,,GST,$6.91 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$75.99 ,,5510,1903
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Toshiba Australia Pty Limited,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155048,4/11/2024,INV_18452,,P,Photocopier metreage 01/10/24 -31/10/24,61215,$32.92 ,,,Purchase; Toshiba Australia Pty Limited,,GST,$3.30 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$36.22 ,,1842,2302
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+STONE AND CHALK LIMITED,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155049,4/11/2024,INV-24539,,P,Sydney Office Rent 01/11/24 -30/11/24,66010,"$7,950 ",,,Purchase; STONE AND CHALK LIMITED,,GST,$795 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$8,745 ",,2653,2778
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Suk Kyun Shin,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155050,4/11/2024,SKY-000118,,P,VIC office cleaning 01/10/24 -31/10/24,61215,$680 ,,,Purchase; Suk Kyun Shin,,GST,$68 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$748 ,,2238,2508
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AGL,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155053,6/11/2024,425128359,,P,GAs bill 27/08/24 -28/10/24,66030,$69.58 ,,,Purchase; AGL,,GST,$6.96 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$76.54 ,,5458,1336
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TPG Telecom / AAPT,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155054,1/11/2024,21183362,,P,Recurring charges 01/10/24 - 31/10/24,61155,$799 ,,,Purchase; TPG Telecom / AAPT,,GST,$79.90 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$878.90 ,,1672,2178
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maxsum Solutions Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155055,31/10/2024,48083,,P,DNS Hosting Annual billing for 2024-2025,61150,"$1,125 ",,,Purchase; Maxsum Solutions Pty Ltd,,GST,$112.50 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$1,237.50 ",,2643,2775
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maxsum Solutions Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155056,31/10/2024,48088,,P,Microsoft Office 365 for October 2024,61290,"$3,079.80 ",,,Purchase; Maxsum Solutions Pty Ltd,,GST,$307.98 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$3,387.78 ",,2643,2775
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maxsum Solutions Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155057,31/10/2024,48139,,P,MaxGuard Security for October 24,61290,$199.89 ,,,Purchase; Maxsum Solutions Pty Ltd,,GST,$19.99 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$219.88 ,,2643,2775
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maxsum Solutions Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155058,31/10/2024,48144,,P,Datto Backupify for October 24,61290,$157.50 ,,,Purchase; Maxsum Solutions Pty Ltd,,GST,$15.75 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$173.25 ,,2643,2775
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Toshiba Australia Pty Limited,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155059,1/10/2024,11993388,,P,Colour Meterage,61215,$13.95 ,,,Purchase; Toshiba Australia Pty Limited,,GST,$1.40 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$15.35 ,,1842,2302
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Toshiba Australia Pty Limited,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155060,1/10/2024,11995783,,P,Colour Meterage,61215,$86.15 ,,,Purchase; Toshiba Australia Pty Limited,,GST,$8.61 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$94.76 ,,1842,2302
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Toshiba Australia Pty Limited,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155061,1/10/2024,12031536,,P,Colour Meterage,61215,$59.80 ,,,Purchase; Toshiba Australia Pty Limited,,GST,$5.98 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$65.78 ,,1842,2302
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Hightalk Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155062,1/11/2024,4347,,P,"1300 number, Number, SIP line unlimited with support, Wireless Broadband data",61153,$362.73 ,,,Purchase; Hightalk Pty Ltd,,GST,$36.27 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$399 ,,2099,2429
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maxsum Solutions Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155065,7/11/2024,48215,,P,MaxGuard Ultimate for November 2024,61150,"$3,132.50 ",,,Purchase; Maxsum Solutions Pty Ltd,,GST,$313.25 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$3,445.75 ",,2643,2775
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Corinella Pty LTd - Jim's mowing,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155068,11/11/2024,INV-5913,,P,"Lawn mowing, gardening, weeding, weed spaying, and blowing of carparks on 06/11/24",61250,$100 ,,,"Purchase; WILDES, JOHNATHAN RONALD t/a Jims Mowing",,GST,$10 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$110 ,,1693,2191
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Momentum Energy,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155071,19/11/2024,18990435,,P,Office Electricity 01/10/24 - 31/10/24,66060,$747.49 ,,,Purchase; Momentum Energy,,GST,$76.57 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$824.06 ,,5423,875
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Telstra Corp,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155074,10/11/2024,T311 Nov 24,,P,Telephone Nov 24,61153,"$1,452.13 ",,,Purchase; Telstra Corp,,GST,$145.34 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$1,597.47 ",,5330,89
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Craig D. Shields,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155075,18/11/2024,2468,,P,Work for workshop storage/ Van/ Cameras,61250,"$1,003.59 ",,,Purchase; Craig D. Shields,,FRE,$0.00 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$1,003.59 ",,2742,2839
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Monash Self Storage Centre,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155077,19/11/2024,1014764,,P,Rental Fee Unit 034 from 26/11/24 to 25/12/24,61250,$163.64 ,,,Purchase; Monash Self Storage Centre,,GST,$16.36 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$180 ,,2292,2542
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Officeworks,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155078,22/11/2024,617757866,,P,Stationery,61215,$66.42 ,,,Purchase; Officeworks,,GST,$6.64 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$73.06 ,,5255,40
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Corinella Pty LTd - Jim's mowing,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155084,28/11/2024,INV-6175,,P,"Lawn mowing, gardening, weeding, weed spraying and blowing carparks on 27/11/24",61250,$100 ,,,Purchase; Corinella Pty LTd - Jim's mowing,,GST,$10 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$110 ,,1693,2191
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maxsum Solutions Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155085,27/11/2024,48415,,P,Datto Backupify November 24,61290,$157.50 ,,,Purchase; Maxsum Solutions Pty Ltd,,GST,$15.75 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$173.25 ,,2643,2775
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maxsum Solutions Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155086,27/11/2024,48361,,P,Microsoft Office 365 - Monthly November 24,61290,"$3,079.80 ",,,Purchase; Maxsum Solutions Pty Ltd,,GST,$307.98 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$3,387.78 ",,2643,2775
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maxsum Solutions Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155087,27/11/2024,48410,,P,MaxGuard Security Nov 24,61290,$200.96 ,,,Purchase; Maxsum Solutions Pty Ltd,,GST,$20.10 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$221.06 ,,2643,2775
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Nickless Miller Meehans  Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155088,27/11/2024,INV-4663,,P,2024 Annual Tax compliance,61015,"$8,400 ",,,Purchase; Nickless Miller Meehans  Pty Ltd,,GST,$840 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$9,240 ",,5251,29
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MYOB Australia,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155091,1/12/2024,2-10010539353,,P,MYOB AccountRight Live Plus Recurring Subscription 01 Dec 2024 to 31 Dec 2024,61290,$128.18 ,,,Purchase; MYOB Australia,,GST,$12.82 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$141 ,,5509,1209
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Toshiba Australia Pty Limited,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155092,1/12/2024,19480,,P,Printing meterage,61215,$29.66 ,,,Purchase; Toshiba Australia Pty Limited,,GST,$2.97 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$32.63 ,,1842,2302
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Suk Kyun Shin,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155093,1/12/2024,SKY-000133,,P,Office cleaning November 24,61215,$850 ,,,Purchase; Suk Kyun Shin,,GST,$85 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$935 ,,2238,2508
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+STONE AND CHALK LIMITED,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155095,5/12/2024,INV-24815,,P,Sydney office rent 01/12/24 - 31/12/24,66010,"$7,950 ",,,Purchase; STONE AND CHALK LIMITED,,GST,$795 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$8,745 ",,2653,2778
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TPG Telecom / AAPT,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155096,1/12/2024,21304528,,P,Recurring charges 01/11/24 - 30/11/24,61155,$799 ,,,Purchase; TPG Telecom / AAPT,,GST,$79.90 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$878.90 ,,1672,2178
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Visy Recycling,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155097,30/11/2024,150434881,,P,Per Lift fee for services and rent 01/11/24 - 30/11/24,61215,$56.08 ,,,Purchase; Visy Recycling,,GST,$5.61 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$61.69 ,,5510,1903
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+StaySafe (SA) Pty Ltd  Securitas,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155098,3/11/2024,AURS-PSI23-87174,,P,Security Monitoring 01/01/25 -31/03/25,66080,$165.91 ,,,Purchase; StaySafe (SA) Pty Ltd  Securitas,,GST,$16.59 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$182.50 ,,2393,832
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Officeworks,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155099,27/11/2024,617847700,,P,Mobile phone  for AC,61153,"$1,097.23 ",,,Purchase; Officeworks,,GST,$109.72 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$1,206.95 ",,5255,40
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Hightalk Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155100,1/11/2024,4409,,P,"1300 number, Number, SIP line unlimited with support, Wireless Broadband Data",61153,$362.73 ,,,Purchase; Hightalk Pty Ltd,,GST,$36.27 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$399 ,,2099,2429
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maxsum Solutions Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155101,3/12/2024,48595,,P,Implement SharePoint Archiving 50% Quote 1003155,61151,"$3,193.12 ",,,Purchase; Maxsum Solutions Pty Ltd,,GST,$319.31 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$3,512.43 ",,2643,2775
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maxsum Solutions Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155102,2/12/2024,48463,,P,.com.au registration renewal AWC ,61150,$509.08 ,,,Purchase; Maxsum Solutions Pty Ltd,,GST,$50.91 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$559.99 ,,2643,2775
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maxsum Solutions Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155103,2/12/2024,48478,,P,MaxGuard Ultimate December 24,61150,"$3,132.50 ",,,Purchase; Maxsum Solutions Pty Ltd,,GST,$313.25 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$3,445.75 ",,2643,2775
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HR Consulting Melbourne,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155105,9/12/2024,INV-00662425,,P,Employment Contract,61038,$427.50 ,,,Purchase; HR Consulting Melbourne,,GST,$42.75 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$470.25 ,,2097,2428
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Silvertail Restrant Pty LTd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155107,11/12/2024,Friday December 13,,P,VIC Christmas Dinner ,61030,"$3,662.59 ",,,Purchase; Silvertail Restrant Pty LTd,,GST,$366.26 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$4,028.85 ",,*None,2810
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Momentum Energy,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155108,12/12/2024,19129995,,P,Electricity Nov 24,66060,$760.63 ,,,Purchase; Momentum Energy,,GST,$76.52 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$837.15 ,,5423,875
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Corinella Pty LTd - Jim's mowing,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155114,18/12/2024,INV-6487,,P,"Lawn mowing,gardening,weeding,weed spraying and blowing of carparks on 17/12/24",61250,$100 ,,,Purchase; Corinella Pty LTd - Jim's mowing,,GST,$10 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$110 ,,1693,2191
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Telstra Corp,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155115,10/12/2024,T311 Dec 24,,P,Telephone ,61153,"$1,452.13 ",,,Purchase; Telstra Corp,,GST,$145.34 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$1,597.47 ",,5330,89
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Monash Self Storage Centre,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155116,19/12/2024,1015164,,P,Rental fee Unit 034,61250,$163.64 ,,,Purchase; Monash Self Storage Centre,,GST,$16.36 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$180 ,,2292,2542
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AMOG,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155119,31/12/2024,202412CMISC,,P,APMS2 AWS Environment 01/10/2024 -31/12/2024,61150,"$1,500 ",,,Purchase; AMOG,,GST,$150 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$1,650 ",,5017,482
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Suk Kyun Shin,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155120,23/12/2024,SKY-000151,,P,"Office cleaning Dated 7th, 14th and 21st December",61215,$510 ,,,Purchase; Suk Kyun Shin,,GST,$51 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$561 ,,2238,2508
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MYOB Australia,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155126,8/1/2025,2-10010932391,,P,MYOB AccountRight Live Plus Recurring Subscription 01 Jan 2025 to 31 Jan 2025,61290,$128.18 ,,,Purchase; MYOB Australia,,GST,$12.82 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$141 ,,5509,1209
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TPG Telecom / AAPT,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155127,8/1/2025,21427242,,P,Recurring charges 01 Dec 24 to 31 Dec 24,61155,$799 ,,,Purchase; TPG Telecom / AAPT,,GST,$79.90 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$878.90 ,,1672,2178
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maxsum Solutions Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155128,8/1/2025,48650,,P,Microsoft 365 -annual,61150,"$1,616.40 ",,,Purchase; Maxsum Solutions Pty Ltd,,GST,$161.64 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$1,778.04 ",,2643,2775
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maxsum Solutions Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155129,8/1/2025,48682,,P,Datto Backupify December 24,61150,$157.50 ,,,Purchase; Maxsum Solutions Pty Ltd,,GST,$15.75 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$173.25 ,,2643,2775
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maxsum Solutions Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155130,8/1/2025,48739,,P,Microsoft Office 365 -Monthly December 24,61150,"$3,264.12 ",,,Purchase; Maxsum Solutions Pty Ltd,,GST,$326.41 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$3,590.53 ",,2643,2775
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maxsum Solutions Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155131,8/1/2025,48681,,P,MaxGuard Security December 24,61150,$300.10 ,,,Purchase; Maxsum Solutions Pty Ltd,,GST,$30.01 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$330.11 ,,2643,2775
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maxsum Solutions Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155132,8/1/2025,48758,,P,Teams Rooms -Downstairs Meeting Room,61151,"$15,822.07 ",,,Purchase; Maxsum Solutions Pty Ltd,,GST,"$1,582.21 ",$0.00 ,GST,$0.00 ,B,2,0,30,0,"$17,404.28 ",,2643,2775
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maxsum Solutions Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155133,8/1/2025,48813,,P,MaxGuard Ultimate January 25,61150,"$3,401 ",,,Purchase; Maxsum Solutions Pty Ltd,,GST,$340.10 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$3,741.10 ",,2643,2775
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AGL,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155134,8/1/2025,430442776,,P,Gas 29/10/24 to 24/12/24,66030,$62.95 ,,,Purchase; AGL,,GST,$6.30 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$69.25 ,,5458,1336
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maxsum Solutions Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155135,8/1/2025,48909,,P,December 2024 - Out of Scope Works,61152,$828.50 ,,,Purchase; Maxsum Solutions Pty Ltd,,GST,$82.85 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$911.35 ,,2643,2775
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HR Consulting Melbourne,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155136,8/1/2025,INV-00772425,,P,Employee Relations Advice,61038,$90 ,,,Purchase; HR Consulting Melbourne,,GST,$9 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$99 ,,2097,2428
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Hightalk Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155137,8/1/2025,4468,,P,"1300 Number, Number, SIP line unlimited with support, Wireless Broadband Data",61153,$362.73 ,,,Purchase; Hightalk Pty Ltd,,GST,$36.27 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$399 ,,2099,2429
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Visy Recycling,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155138,8/1/2025,150678929,,P,"Recycling Per lift fee for Service, Rent Equipment",61215,$43.08 ,,,Purchase; Visy Recycling,,GST,$4.31 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$47.39 ,,5510,1903
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Toshiba Australia Pty Limited,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155139,8/1/2025,23087,,P,Photocopier meterage,61215,$42.95 ,,,Purchase; Toshiba Australia Pty Limited,,GST,$4.30 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$47.25 ,,1842,2302
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Corinella Pty LTd - Jim's mowing,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155147,16/01/2025,INV-6789,,P,"Lawn mowing,gardening,weeding,weed spraying and\r\nblowing of carparks on 14/1/25",61250,$100 ,,,Purchase; Corinella Pty LTd - Jim's mowing,,GST,$10 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$110 ,,1693,2191
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maxsum Solutions Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155148,16/01/2025,48920,,P,Microsoft 365 - Annual,61290,"$2,155.20 ",,,Purchase; Maxsum Solutions Pty Ltd,,GST,$215.52 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$2,370.72 ",,2643,2775
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+STONE AND CHALK LIMITED,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155149,16/01/2025,INV-25170,,P,Sydney Office Rent 01/01/25 -31/01/25,66010,"$7,950 ",,,Purchase; STONE AND CHALK LIMITED,,GST,$795 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$8,745 ",,2653,2778
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GL Booth,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155150,17/01/2025,2509,,P,Board Director 01/10/24 to 31/12/24,61060,"$6,250 ",,,Purchase; GL Booth,,FRE,$0.00 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$6,250 ",,*None,2714
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Monash Self Storage Centre,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155151,20/01/2025,,,P,Rental Fee Unit 034 26/01/25 -25/02/25,61250,$163.64 ,,,Purchase; Monash Self Storage Centre,,GST,$16.36 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$180 ,,2292,2542
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Telstra Corp,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155152,10/1/2025,T311 Jan 25,,P,Telephone Jan 2025,61153,"$1,462.43 ",,,Purchase; Telstra Corp,,GST,$145.04 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$1,607.47 ",,5330,89
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ian Godson Superannuation Fund,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155153,22/01/2025,8,,P,Water bill (5910 3249 1271,66090,$516.33 ,,,Purchase; Ian Godson Superannuation Fund,,FRE,$0.00 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$516.33 ,,5157,200
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Momentum Energy,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155154,22/01/2025,19274882,,P,electricity bill 01/12/2024 - 31/12/2024,66060,"$1,218.04 ",,,Purchase; Momentum Energy,,GST,$122.53 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$1,340.57 ",,5423,875
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Arma Shutter Trading Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155155,21/01/2025,AS203480,,P,The front door shutter replacement,61250,"$2,600 ",,,Purchase; Arma Shutter Trading Pty Ltd,,GST,$260 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$2,860 ",,2668,2789
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Suk Kyun Shin,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155156,31/01/2025,SKY-000162,,P,Office Cleaning  January,61215,$510 ,,,Purchase; Suk Kyun Shin,,GST,$51 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$561 ,,2238,2508
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Officeworks,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155157,31/01/2025,619648333,,P,Stationery ( for Sydney Office),61215,$69.34 ,,,Purchase; Officeworks,,GST,$6.93 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$76.27 ,,5255,40
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MYOB Australia,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155158,3/2/2025,2-10011187038,,P,MYOB AccountRight Live Plus Recurring Subscription 01 Feb 2025 to 28 Feb 2025,61290,$128.18 ,,,Purchase; MYOB Australia,,GST,$12.82 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$141 ,,5509,1209
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Toshiba Australia Pty Limited,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155159,3/2/2025,26120,,P,Photocopier ,61215,$20.12 ,,,Purchase; Toshiba Australia Pty Limited,,GST,$2.01 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$22.13 ,,1842,2302
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Visy Recycling,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155160,6/2/2025,150940121,,P,Per Lift Fee for Service and equipment rent,61215,$43.08 ,,,Purchase; Visy Recycling,,GST,$4.31 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$47.39 ,,5510,1903
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Corinella Pty LTd - Jim's mowing,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155161,4/2/2025,INV-7031,,P,"Lawn mowing, gardening, weeding, weed spraying and blowing of carpark on 04/02/25",61250,$100 ,,,Purchase; Corinella Pty LTd - Jim's mowing,,GST,$10 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$110 ,,1693,2191
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TPG Telecom / AAPT,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155162,1/2/2025,21546739,,P,Recurring charges 01/01/2025 to 31/01/2025,61290,$799 ,,,Purchase; TPG Telecom / AAPT,,GST,$79.90 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$878.90 ,,1672,2178
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Momentum Energy,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155163,11/2/2025,19416677,,P,Electricity 01/01/2025 -31/01/2025,66060,"$1,145.43 ",,,Purchase; Momentum Energy,,GST,$115.25 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$1,260.68 ",,5423,875
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HR Consulting Melbourne,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155164,11/2/2025,INV-0091245,,P,Employee relations advice,61038,$135 ,,,Purchase; HR Consulting Melbourne,,GST,$13.50 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$148.50 ,,2097,2428
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Hightalk Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155165,1/2/2025,4529,,P,"1300 Number, Number, SIP line unlimited with support, Wireless Broadband data",61153,$362.73 ,,,Purchase; Hightalk Pty Ltd,,GST,$36.27 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$399 ,,2099,2429
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maxsum Solutions Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155166,10/2/2025,49179,,P,"HP EliteBook 830 G10 13.3"" Touch Screen note book",61151,"$2,039.99 ",,,Purchase; Maxsum Solutions Pty Ltd,,GST,$204 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$2,243.99 ",,2643,2775
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maxsum Solutions Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155167,3/2/2025,49109,,P,MaxGuard Ultimate,61150,"$3,401 ",,,Purchase; Maxsum Solutions Pty Ltd,,GST,$340.10 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$3,741.10 ",,2643,2775
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maxsum Solutions Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155168,30/01/2025,48983,,P,Datto Backupify,61290,$157.50 ,,,Purchase; Maxsum Solutions Pty Ltd,,GST,$15.75 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$173.25 ,,2643,2775
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Elevate Talent Solutions,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155170,11/2/2025,INV-000030,,P,Placement of Reuben Bugaring ,65150,"$5,219.76 ",,,Purchase; Elevate Talent Solutions,,FRE,$0.00 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$5,237.76 ",,N0005,2841
+Elevate Talent Solutions,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155170,11/2/2025,INV-000030,,P,International transfer,61020,$18 ,,,Purchase; Elevate Talent Solutions,,N-T,$0.00 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$5,237.76 ",,N0005,2841
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maxsum Solutions Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155171,30/01/2025,48928,,P,Microsoft Office 365-  January 2025,61290,"$3,264.12 ",,,Purchase; Maxsum Solutions Pty Ltd,,GST,$326.41 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$3,590.53 ",,2643,2775
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maxsum Solutions Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155172,4/1/2025,49157,,P,January 2025 - Out of Scope Works,61152,$219.90 ,,,Purchase; Maxsum Solutions Pty Ltd,,GST,$21.99 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$241.89 ,,2643,2775
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Nickless Miller Meehans  Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155173,14/02/2025,INV-4952,,P,"Corporate Secretarial Service\r\nMaintenance of your corporate records and to your corporate secretarial matters, for compliance with Australian\r\nSecurities and Investments Commission (ASIC) requirements, including:\r\n- Collection and Forwarding of your 2025 Annual Company Statement;\r\n- Advice on payment amounts and due dates for ASIC Fees",61015,$190 ,,,Purchase; Nickless Miller Meehans  Pty Ltd,,GST,$19 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$209 ,,5251,29
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ASIC,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155174,9/2/2025,4X8785069480B A,,P,ASIC Annual Review,61100,$321 ,,,Purchase; ASIC,,FRE,$0.00 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$321 ,,5024,60
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Officeworks,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155175,13/02/2025,620037122,,P,Stationery,61215,$85.07 ,,,Purchase; Officeworks,,GST,$8.51 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$93.58 ,,5255,40
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Officeworks,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155176,13/02/2025,620043117,,P,Stationery,61215,$59.56 ,,,Purchase; Officeworks,,GST,$5.96 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$65.52 ,,5255,40
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+STONE AND CHALK LIMITED,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155177,3/2/2025,INV-25481,,P,Sydney Secure Office 01/02/2025-28/02/2025,66010,"$7,950 ",,,Purchase; STONE AND CHALK LIMITED,,GST,$795 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$8,745 ",,2653,2778
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maxsum Solutions Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155178,30/01/2025,48977,,P,Max Guard Security,61290,$195.64 ,,,Purchase; Maxsum Solutions Pty Ltd,,GST,$19.56 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$215.20 ,,2643,2775
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Covermore Insurance,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155179,18/02/2025,34049,,P,Travel Insurance 19/02/25-18/02/26 SD,61140,$88.49 ,,,Purchase; Covermore Insurance,,N-T,$0.00 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$1,490.19 ",,5102,527
+Covermore Insurance,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155179,18/02/2025,34049,,P,Travel Insurance 19/02/25-18/02/26 SD,61140,"$1,326.99 ",,,Purchase; Covermore Insurance,,GST,$74.71 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$1,490.19 ",,5102,527
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Telstra Corp,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155180,10/2/2025,T311 Feb 25,,P,Mobile phones Feb 25,61153,"$1,452.13 ",,,Purchase; Telstra Corp,,GST,$145.34 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$1,597.47 ",,5330,89
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Monash Self Storage Centre,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155181,19/02/2025,1015954,,P,Rental fee Unit 034 from 26/02/2025 - 25/03/2025,61250,$163.64 ,,,Purchase; Monash Self Storage Centre,,GST,$16.36 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$180 ,,2292,2542
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Officeworks,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155184,21/02/2025,620200109,,P,Samsung Galaxy S25+ + 512 GB Silver,61154,"$1,531.82 ",,,Purchase; Officeworks,,GST,$153.18 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$1,685 ",,5255,40
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Corinella Pty LTd - Jim's mowing,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155185,25/02/2025,INV-7292,,P,"Lawn Mowing. gardening, weeding, weed spraying and blowing of carparks ",61250,$100 ,,,Purchase; Corinella Pty LTd - Jim's mowing,,GST,$10 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$110 ,,1693,2191
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PCTE (Papworths Construction Testing Equipment),,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155188,23/01/2025,,,P,Calibration per certificate,51000,$295 ,,,Purchase; PCTE (Papworths Construction Testing Equipment),,GST,$29.50 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$324.50 ,,5265,133
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maxsum Solutions Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155189,24/02/2025,,,P,Project #1438 Chart YOur Course,61152,"$5,000 ",,,Purchase; Maxsum Solutions Pty Ltd,,GST,$500 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$5,500 ",,2643,2775
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Suk Kyun Shin,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155192,28/02/2025,SKY-000178,,P,Office cleaning Feb 25,61215,$680 ,,,Purchase; Suk Kyun Shin,,GST,$68 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$748 ,,2238,2508
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AGL,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155193,3/3/2025,437027866,,P,GAS 25/12/24 - 27/02/25,66030,$71.79 ,,,Purchase; AGL,,GST,$7.18 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$78.97 ,,5458,1336
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TPG Telecom / AAPT,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155194,1/3/2025,21686847,,P,Recurring charges 01 Feb 25 to 28 Feb 25,61155,$799 ,,,Purchase; TPG Telecom / AAPT,,GST,$79.90 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$878.90 ,,1672,2178
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+STONE AND CHALK LIMITED,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155196,3/3/2025,INV-25695,,P,Sydney office rent 01/03/25 - 31/03/25,66010,"$7,950 ",,,Purchase; STONE AND CHALK LIMITED,,GST,$795 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$8,745 ",,2653,2778
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Visy Recycling,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155197,28/02/2025,151173127,,P,Recycle bin oer lift fee for service and rent (bin),61215,$56.08 ,,,Purchase; Visy Recycling,,GST,$5.61 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$61.69 ,,5510,1903
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Toshiba Australia Pty Limited,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155198,28/02/2025,30559,,P,Photocopier meterage,61215,$45.34 ,,,Purchase; Toshiba Australia Pty Limited,,GST,$4.53 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$49.87 ,,1842,2302
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pointon Partners Lawyers,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155200,28/02/2025,37652,,P,"Deed of Indemnity, Employee Share Scheme and D & O Insurance",61165,$407.40 ,,,Purchase; Pointon Partners Lawyers,,GST,$40.74 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$448.14 ,,1733,2230
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Trendspek Operations Pty Limited,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155201,12/1/2025,INV-0648,,P,Pro Plan (28/02/25 -27/02/26),11204,"$26,495 ",,,Purchase; Trendspek Operations Pty Limited,,GST,"$2,649.50 ",$0.00 ,GST,$0.00 ,B,2,0,30,0,"$53,688.25 ",,2246,2518
+Trendspek Operations Pty Limited,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155201,12/1/2025,INV-0648,,P,Processing Pack Bundled - 5000GP,11204,"$22,312.50 ",,,Purchase; Trendspek Operations Pty Limited,,GST,"$2,231.25 ",$0.00 ,GST,$0.00 ,B,2,0,30,0,"$53,688.25 ",,2246,2518
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maxsum Solutions Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155202,27/02/2025,49249,,P,Datto Backupify,61150,$157.50 ,,,Purchase; Maxsum Solutions Pty Ltd,,GST,$15.75 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$173.25 ,,2643,2775
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maxsum Solutions Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155203,27/02/2025,49242,,P,MaxGuard Security,61150,$209.40 ,,,Purchase; Maxsum Solutions Pty Ltd,,GST,$20.94 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$230.34 ,,2643,2775
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maxsum Solutions Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155204,27/02/2025,49194,,P,Microsoft Office 365,61290,"$3,336.12 ",,,Purchase; Maxsum Solutions Pty Ltd,,GST,$333.61 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$3,669.73 ",,2643,2775
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maxsum Solutions Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155207,3/3/2025,49431,,P,"HP Elite x360 1040 G10 14"" Touch screen Convertible 2 in 1 notebook for BG",61151,"$1,721.11 ",,,Purchase; Maxsum Solutions Pty Ltd,,GST,$172.11 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$1,893.22 ",,2643,2775
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maxsum Solutions Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155208,3/3/2025,49329,,P,MaxGuard Ultimate,61150,"$3,580 ",,,Purchase; Maxsum Solutions Pty Ltd,,GST,$358 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$3,938 ",,2643,2775
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MYOB Australia,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155209,11/3/2025,,,P,MYOB AccountRight Live Plus Recurring Subscription 01 Mar 2025 to 31 Mar 2025,61290,$136.36 ,,,Purchase; MYOB Australia,,GST,$13.64 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$150 ,,5509,1209
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+StaySafe (SA) Pty Ltd  Securitas,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155211,7/3/2025,AURS-PSI23-97164,,P,Security monitoring 01/04/25 -30/06/25,66080,$165.91 ,,,Purchase; StaySafe (SA) Pty Ltd  Securitas,,GST,$16.59 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$182.50 ,,2393,832
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Hightalk Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155213,1/3/2025,4591,,P,"1300 number, Number, SIP Line unlimited with support, wireless Broad band",61153,$362.73 ,,,Purchase; Hightalk Pty Ltd,,GST,$36.27 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$399 ,,2099,2429
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Corinella Pty LTd - Jim's mowing,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155215,18/03/2025,INV-7526,,P,"Lawn mowing, gardening, weeding, weed spraying and blowing of carpark",61250,$100 ,,,Purchase; Corinella Pty LTd - Jim's mowing,,GST,$10 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$110 ,,1693,2191
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Monash Self Storage Centre,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155216,19/03/2025,1016420,,P,Rental Fee Unit 034 26/03/2025 - 25/04/2025,61250,$163.64 ,,,Purchase; Monash Self Storage Centre,,GST,$16.36 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$180 ,,2292,2542
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Kraft Refrigeration & Air Conditioning Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155217,24/03/2025,6480,,A,Services and cleaned all filters in the building.,61250,$400 ,,,Purchase; Kraft Refrigeration & Air Conditioning Pty Ltd,,GST,$40 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$440 ,,N00015,2929
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ian Godson Superannuation Fund,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155218,1/12/2024,9,,P,Office Rent December 2024,66010,"$11,051.04 ",,,Purchase; Ian Godson Superannuation Fund,,GST,"$1,105.11 ",$0.00 ,GST,$0.00 ,B,2,0,30,0,"$12,156.15 ",,5157,200
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ian Godson Superannuation Fund,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155219,1/2/2025,10,,P,Office Rent February 2025,66010,"$11,051.04 ",,,Purchase; Ian Godson Superannuation Fund,,GST,"$1,105.11 ",$0.00 ,GST,$0.00 ,B,2,0,30,0,"$12,156.15 ",,5157,200
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ian Godson Superannuation Fund,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155220,1/3/2025,11,,P,Office rent March 2025,66010,"$11,051.04 ",,,Purchase; Ian Godson Superannuation Fund,,GST,"$1,105.11 ",$0.00 ,GST,$0.00 ,B,2,0,30,0,"$12,156.15 ",,5157,200
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ian Godson Superannuation Fund,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155221,1/4/2025,12,,P,Office Rent April 2025,66010,"$11,051.04 ",,,Purchase; Ian Godson Superannuation Fund,,GST,"$1,105.11 ",$0.00 ,GST,$0.00 ,B,2,0,30,0,"$12,156.15 ",,5157,200
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maxsum Solutions Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155222,14/03/2025,49469,,P,"HP EliteBook 830 G10 13.3"" Touchscreen Notebook - WUXGA - Intel\r\nCore i5 13th Gen i5-1335U - 16 GB - 512 GB SSD",61151,"$2,482.65 ",,,Purchase; Maxsum Solutions Pty Ltd,,GST,$248.27 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$2,730.92 ",,2643,2775
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Momentum Energy,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155225,7/3/2025,19558830,,P,electricity 01/02/25 -28/02/25,66060,"$1,580.65 ",,,Purchase; Momentum Energy,,GST,$158.34 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$1,738.99 ",,5423,875
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ASG EXCAL Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155226,28/03/2025,20250282,,P,"Job #18233\r\n1 x Calibration - PosiTest AT-A Automatic Adhesion Tester (S/N: AT15100, Asset #IEQ-000058)\r\n2 x Collection & Return Freight @ $40.00 + gst each way",51000,$335 ,,,Purchase; ASG EXCAL Pty Ltd,,GST,$33.50 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$368.50 ,,N00016,2931
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Suk Kyun Shin,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155228,31/03/2025,SKY-000194,,P,Office Cleaning March 25,61215,$850 ,,,Purchase; Suk Kyun Shin,,GST,$85 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$935 ,,2238,2508
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+VicRoads,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155229,31/03/2025,1XS7VG,,P,BYD registration 2025,61205,$233.50 ,,,Purchase; VicRoads,,FRE,$0.00 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$806.60 ,,5364,83
+VicRoads,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155229,31/03/2025,1XS7VG,,P,BYD registration TAC,61205,$473.64 ,,,Purchase; VicRoads,,GST,$47.36 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$806.60 ,,5364,83
+VicRoads,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155229,31/03/2025,1XS7VG,,P,BYD registration Insurance duty,61205,$52.10 ,,,Purchase; VicRoads,,FRE,$0.00 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$806.60 ,,5364,83
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Telstra Corp,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155230,10/3/2025,T311 Mar 25,,P,Mobile phone March 25,61153,"$1,601.45 ",,,Purchase; Telstra Corp,,GST,$160.28 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$1,761.73 ",,5330,89
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GL Booth,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155231,31/03/2025,2512,,P,Director Fee 01/01/25 - 31/03/25,61060,"$6,250 ",,,Purchase; GL Booth,,FRE,$0.00 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$6,250 ",,*None,2714
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MYOB Australia,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155232,1/3/2025,2-10011758999,,P,MYOB AccountRight Live Plus Recurring Subscription 01 Apr 2025 to 30 Apr 2025,61290,$136.36 ,,,Purchase; MYOB Australia,,GST,$13.64 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$150 ,,5509,1209
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+STONE AND CHALK LIMITED,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155233,1/4/2025,INV-26121,,P,Sydney Office rent 01/04/2025-30/04/2025,66010,"$7,950 ",,,Purchase; STONE AND CHALK LIMITED,,GST,$795 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$8,745 ",,2653,2778
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE INVESTMENTS PTY LTD,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155234,1/4/2025,19414,,P,Service Life jackets,51000,$266 ,,,Purchase; CASE INVESTMENTS PTY LTD,,GST,$23.60 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$289.60 ,,2730,2830
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Visy Recycling,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155235,31/03/2025,151421459,,P,Per Lift fee for service & Rent per month  01/03/2025-31/03/2025,61215,$56.08 ,,,Purchase; Visy Recycling,,GST,$5.61 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$61.69 ,,5510,1903
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Toshiba Australia Pty Limited,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155236,31/03/2025,24757,,P,Photocopier Meterlage,61215,$39.54 ,,,Purchase; Toshiba Australia Pty Limited,,GST,$3.96 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$43.50 ,,1842,2302
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Hightalk Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155237,1/4/2025,4652,,P,"1300 number, Number, SIP Line unlimited with support, Wireless Broadband Data",61153,$362.73 ,,,Purchase; Hightalk Pty Ltd,,GST,$36.27 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$399 ,,2099,2429
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maxsum Solutions Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155238,31/03/2025,49501,,P,Microsoft Office 365 March 2025,61290,"$3,408.12 ",,,Purchase; Maxsum Solutions Pty Ltd,,GST,$340.81 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$3,748.93 ",,2643,2775
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maxsum Solutions Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155239,31/03/2025,49556,,P,Datto Backupify for March 2025,61290,$157.50 ,,,Purchase; Maxsum Solutions Pty Ltd,,GST,$15.75 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$173.25 ,,2643,2775
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AMOG,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155240,31/03/2025,202503ICMISC,,P,APMS 2 AWS Environment 01/01/2025 - 31/03/2025,61150,"$1,500 ",,,Purchase; AMOG,,GST,$150 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$1,650 ",,5017,482
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maxsum Solutions Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155241,31/03/2025,49644,,P,MaxGuard Ultimate for April 2025,61150,"$3,490.50 ",,,Purchase; Maxsum Solutions Pty Ltd,,GST,$349.05 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$3,839.55 ",,2643,2775
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maxsum Solutions Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155242,31/03/2025,49550,,P,MaxGuard Security for March 2025,61150,$213.62 ,,,Purchase; Maxsum Solutions Pty Ltd,,GST,$21.36 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$234.98 ,,2643,2775
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Dormakaba Australia Pty ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155246,27/03/2025,05VC1322114,,P,Front door maintenance,61250,$495 ,,,Purchase; Dormakaba Australia Pty ltd,,GST,$49.50 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$544.50 ,,1829,2293
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+VicRoads,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155248,17/03/2025,Tesla 2025,,P,Tesla 2025 Registration SD,61200,$52.10 ,,,Purchase; VicRoads,,FRE,$0.00 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$806.60 ,,5364,83
+VicRoads,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155248,17/03/2025,Tesla 2025,,P,Tesla 2025 Registration ,61200,$233.50 ,,,Purchase; VicRoads,,FRE,$0.00 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$806.60 ,,5364,83
+VicRoads,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155248,17/03/2025,Tesla 2025,,P,Tesla 2025 Registration,61200,$473.64 ,,,Purchase; VicRoads,,GST,$47.36 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$806.60 ,,5364,83
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Redrawn Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155249,9/4/2025,INV-0371,,P,"Initial Coordination, Drafting Manual Review, Title blovk Review, Electrical mock up, Drafting",54400,"$4,500 ",,,Purchase; Redrawn Pty Ltd,,GST,$450 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$4,950 ",,N00017,2935
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ian Godson Superannuation Fund,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155252,14/04/2025,13,,P,Water bill from 13/01/2025 to 08/04/2025,66090,$536.06 ,,,Purchase; Ian Godson Superannuation Fund,,FRE,$0.00 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$536.06 ,,5157,200
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Monash Self Storage Centre,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155253,19/04/2025,1016779,,P,Rental fee Unit 034 from 26/04/25 to 25/05/25,61250,$163.64 ,,,Purchase; Monash Self Storage Centre,,GST,$16.36 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$180 ,,2292,2542
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Momentum Energy,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155254,8/4/2025,19714763,,P,Electricity 01/03/25 - 31/03/25,66060,"$1,407 ",,,Purchase; Momentum Energy,,GST,$140.93 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$1,547.93 ",,5423,875
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ian Godson Superannuation Fund,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155255,1/5/2025,14,,P,Office Rent May 2025,66010,"$11,051.04 ",,,Purchase; Ian Godson Superannuation Fund,,GST,"$1,105.11 ",$0.00 ,GST,$0.00 ,B,2,0,30,0,"$12,156.15 ",,5157,200
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Telstra Corp,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155257,10/4/2025,T311 Apr 25,,P,Mobile phone ,61153,"$1,573.03 ",,,Purchase; Telstra Corp,,GST,$154.44 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$1,727.47 ",,5330,89
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TPG Telecom / AAPT,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155258,1/4/2025,21792565,,P,Billing period 01 Mar 25 to 31 Mar 25,61155,$799 ,,,Purchase; TPG Telecom / AAPT,,GST,$79.90 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$878.90 ,,1672,2178
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Suk Kyun Shin,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155259,30/04/2025,SKY-000209,,P,"Office Cleaning April 25  Dated 5th, 12th 19th and 26th",61215,$680 ,,,Purchase; Suk Kyun Shin,,GST,$68 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$748 ,,2238,2508
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Chillidonut,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155260,28/04/2025,web0048,,P,Custom Application Development,51500,"$2,000 ",,,Purchase; Chillidonut,,GNR,$0.00 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$2,000 ",,5394,661
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MYOB Australia,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155261,1/5/2025,2-10012008697,,P,MYOB AccountRight Live Plus Recurring Subscription 01 May 2025 to 31 May 2025,61290,$136.36 ,,,Purchase; MYOB Australia,,GST,$13.64 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$150 ,,5509,1209
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Hightalk Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155262,1/5/2025,4712,,P,"1300 number, Number, SIP line unlimited with support, Wireless Broadband Data",61153,$362.73 ,,,Purchase; Hightalk Pty Ltd,,GST,$36.27 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$399 ,,2099,2429
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Corinella Pty LTd - Jim's mowing,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155263,29/04/2025,INV-8092,,P,"Lawn mowing, gardening, weeding, weed spraying and blowing of car parks on 29/04/2025",61250,$100 ,,,Purchase; Corinella Pty LTd - Jim's mowing,,GST,$10 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$110 ,,1693,2191
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Officeworks,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155264,30/04/2025,621388999,,P,Stationery,61215,$165.71 ,,,Purchase; Officeworks,,GST,$16.57 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$0.00 ,,5255,40
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AGL,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155271,2/5/2025,443523086,,P,GAS Pariod 28/02/25 to 30/04/25,66030,$68.47 ,,,Purchase; AGL,,GST,$6.85 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$0.00 ,,5458,1336
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TPG Telecom / AAPT,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155272,1/5/2025,21937206,,P,Recurring charges 01/04/2025 -30/04/2025,61155,$799 ,,,Purchase; TPG Telecom / AAPT,,GST,$79.90 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$0.00 ,,1672,2178
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+STONE AND CHALK LIMITED,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155273,1/5/2025,INV-26452,,P,Sydney Office Rent from 01/05/2025 -31/05/2025,66010,"$7,950 ",,,Purchase; STONE AND CHALK LIMITED,,GST,$795 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$8,745 ",,2653,2778
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maxsum Solutions Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155276,29/04/2025,49863,,P,Microsoft Office 365 for April 2025,61150,"$3,415.32 ",,,Purchase; Maxsum Solutions Pty Ltd,,GST,$341.53 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$3,756.85 ",,2643,2775
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maxsum Solutions Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155277,29/04/2025,49822,,P,Microsoft 365 Annual 2024-2025,61150,$702.65 ,,,Purchase; Maxsum Solutions Pty Ltd,,GST,$70.27 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$772.92 ,,2643,2775
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maxsum Solutions Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155278,29/04/2025,49864,,P,Datto Backupify,61150,$180 ,,,Purchase; Maxsum Solutions Pty Ltd,,GST,$18 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$198 ,,2643,2775
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maxsum Solutions Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155279,29/04/2025,49862,,P,MaxGuard Security,61150,$205.15 ,,,Purchase; Maxsum Solutions Pty Ltd,,GST,$20.52 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$225.67 ,,2643,2775
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maxsum Solutions Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,X,155280,5/5/2025,50077,,P,Implement SharePoint Archving,61152,"$1,915.88 ",,,Purchase; Maxsum Solutions Pty Ltd,,GST,$191.59 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$2,107.47 ",,2643,2775
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Momentum Energy,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,X,155282,8/5/2025,19864945,,P,electricity 01/04/25 - 30/04/25,66060,"$1,004.88 ",,,Purchase; Momentum Energy,,GST,$100.65 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$0.00 ,,5423,875
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Officeworks,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,X,155283,9/5/2025,621557706,,P,Stationery,61215,$81.82 ,,,Purchase; Officeworks,,GST,$8.18 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$0.00 ,,5255,40
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Officeworks,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,X,155284,13/05/2025,621602631,,P,Sit-Stand Desk,61215,$286.37 ,,,Purchase; Officeworks,,GST,$28.64 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$0.00 ,,5255,40
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maxsum Solutions Pty Ltd,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155285,2/5/2025,49949,,P,MaxGuard Ultimate,61150,"$3,627 ",,,Purchase; Maxsum Solutions Pty Ltd,,GST,$362.70 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,"$3,989.70 ",,2643,2775
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Monash Self Storage Centre,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155287,19/05/2025,1017099,,P,Rental Fee Unit 034 26/05/25 - 25/06/25,61250,$163.64 ,,,Purchase; Monash Self Storage Centre,,GST,$16.36 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$0.00 ,,2292,2542
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Telstra Corp,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155288,22/05/2025,T311 May 25,,P,Mobile phones,61153,"$1,593.03 ",,,Purchase; Telstra Corp,,GST,$154.44 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$0.00 ,,5330,89
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Corinella Pty LTd - Jim's mowing,,Infracorr Consulting Pty Ltd,"20 Business Park Drive,",Notting Hill VIC 3168,,,155291,23/05/2025,INV-8365,,P,"Lawn mowing, gardening, weeding, weed spraying and blowing of car parks on 20/05/25",61250,$100 ,,,Purchase; Corinella Pty LTd - Jim's mowing,,GST,$10 ,$0.00 ,GST,$0.00 ,B,2,0,30,0,$0.00 ,,1693,2191

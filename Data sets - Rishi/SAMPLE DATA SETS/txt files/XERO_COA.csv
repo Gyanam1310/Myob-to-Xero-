@@ -1,0 +1,431 @@
+*Code,*Name,*Type,*Tax Code,Description,Dashboard,Expense Claims,Enable Payments
+10000,Assets,Current Asset,BAS Excluded,,No,No,No
+11000,Current Assets,Current Asset,BAS Excluded,,No,No,No
+11100,Cash On Hand,Current Asset,BAS Excluded,,No,No,No
+11101,Debtors Clearing Account,Bank,BAS Excluded,,Yes,No,No
+11102,Westpac Trading Account,Bank,BAS Excluded,,Yes,No,No
+11103,Westpac Invoice Finance,Bank,BAS Excluded,,Yes,No,No
+11110,Fasttrack Import Receipts,Bank,BAS Excluded,,Yes,No,No
+11120,NAB Trading Closed,Bank,BAS Excluded,,Yes,No,No
+11123,NAB Trading Account 1919,Bank,BAS Excluded,,Yes,No,No
+11124,NAB NDF A/C,Bank,BAS Excluded,,Yes,No,No
+11125,NAB - Pannawonica,Bank,BAS Excluded,,Yes,No,No
+11140,Petty Cash,Bank,BAS Excluded,,Yes,No,No
+11141,Petty Cash - GBP,Current Asset,BAS Excluded,,No,No,No
+11145,Petty Cash - Pluto,Current Asset,BAS Excluded,,No,No,No
+11150,Provision Account,Bank,BAS Excluded,,Yes,No,No
+11165,Bond Monies,Bank,BAS Excluded,,Yes,No,No
+11180,Undeposited Funds,Bank,BAS Excluded,,Yes,No,No
+11190,Electronic Clearing Account,Bank,BAS Excluded,,Yes,No,No
+11200,Trade Debtors - Venus & Astute,Accounts Receivable,BAS Excluded,,No,No,No
+11202,Accrued Income,Current Asset,BAS Excluded,,No,No,No
+11203,Sundry Debtors,Current Asset,BAS Excluded,,No,No,No
+11210,Less Prov'n for Doubtful Debts,Current Asset,BAS Excluded,,No,No,No
+11211,Employee Loan,Current Asset,BAS Excluded,,No,No,No
+11305,Loan - M&C Goh 2012,Current Asset,BAS Excluded,,No,No,No
+11306,Loan - M&C Goh 2013,Current Asset,BAS Excluded,,No,No,No
+11307,Loan - M&C Goh 2014,Current Asset,BAS Excluded,,No,No,No
+11308,Loan - M&C Goh 2015,Current Asset,BAS Excluded,,No,No,No
+11309,Loan - M&C Goh 2016,Current Asset,BAS Excluded,,No,No,No
+11310,Loan - Craig Van Heurck,Current Asset,BAS Excluded,,No,No,No
+11311,Loan - M&C Goh 2017,Current Asset,BAS Excluded,,No,No,No
+11371,Loan - Van Heurck F/T - 2007,Current Asset,BAS Excluded,,No,No,No
+11372,Loan - Simone Van Heurck,Current Asset,BAS Excluded,,No,No,No
+11378,Loan - Van Heurck F/T - 2014,Current Asset,BAS Excluded,,No,No,No
+11379,Loan - Van Heurck F/T - 2015,Current Asset,BAS Excluded,,No,No,No
+11380,Loan - Prime Int Consultants,Bank,BAS Excluded,,Yes,No,No
+11381,Loan - Van Heurck F/T - 2016,Current Asset,BAS Excluded,,No,No,No
+11382,Loan - Van Heurck F/T - 2017,Current Asset,BAS Excluded,,No,No,No
+11383,Loan - Van Heurck F/T - 2018,Current Asset,BAS Excluded,,No,No,No
+11384,Loan - Van Heurck F/T - 2019,Current Asset,BAS Excluded,,No,No,No
+11389,Loan - Goh Corp - 2014,Current Asset,BAS Excluded,,No,No,No
+11390,Loan - Personal Investment,Current Asset,BAS Excluded,,No,No,No
+11391,Loan - M & C Goh 145 Vic Ave,Current Asset,BAS Excluded,,No,No,No
+11392,Loan - M & C Goh 157 Vic Ave,Current Asset,BAS Excluded,,No,No,No
+11394,Loan - Midas Prime (Aust) P/L,Current Asset,BAS Excluded,,No,No,No
+11395,Loan - One Choice P/L,Current Asset,BAS Excluded,,No,No,No
+11396,Loan - Goh Corp P/L 2007-08,Current Asset,BAS Excluded,,No,No,No
+11397,Short Term Emp'ee Advance,Current Asset,BAS Excluded,,No,No,No
+11398,Adv- C & M Goh ( S&W),Current Asset,BAS Excluded,,No,No,No
+11399,Loan - Goh Corp P/L Current,Current Asset,BAS Excluded,,No,No,No
+11400,Prepaid Insurance,Current Asset,BAS Excluded,,No,No,No
+11500,Prov for Workers Comp Clearing,Current Asset,BAS Excluded,,No,No,No
+11700,Prepaid Other,Current Asset,BAS Excluded,,No,No,No
+11701,Prepaid Advertising,Current Asset,BAS Excluded,,No,No,No
+11710,Deposit - Contract,Current Asset,BAS Excluded,,No,No,No
+11750,Deposits,Current Asset,BAS Excluded,,No,No,No
+11800,Prepaid Rates & Taxes,Current Asset,BAS Excluded,,No,No,No
+11820,Unexpired Borrowing Expenses,Current Asset,BAS Excluded,,No,No,No
+11950,Withholding Credits,Current Asset,BAS Excluded,,No,No,No
+11960,Voluntary Withholding Credits,Current Asset,BAS Excluded,,No,No,No
+11970,ABN Withholding Credits,Current Asset,BAS Excluded,,No,No,No
+12000,Fixed Assets,Current Asset,BAS Excluded,,No,No,No
+12121,Loan - Marg Goh,Current Asset,BAS Excluded,,No,No,No
+12123,Loan - Goh Corp - 2011,Current Asset,BAS Excluded,,No,No,No
+12124,Loan - Goh Corp - 2012,Current Asset,BAS Excluded,,No,No,No
+12125,Loan - Goh Corp - 2013,Current Asset,BAS Excluded,,No,No,No
+12126,Loan - Goh Corp - 2014,Current Asset,BAS Excluded,,No,No,No
+12130,Investment Loan - Monnay ESAP,Current Asset,BAS Excluded,,No,No,No
+12140,Future Income Tax Benefit,Current Asset,BAS Excluded,,No,No,No
+12150,Pre-paid Interest - HP,Current Asset,BAS Excluded,,No,No,No
+12160,Suspense Account -  Tax Paid,Current Asset,BAS Excluded,,No,No,No
+12170,Suspense - To Be Cleared,Current Asset,BAS Excluded,,No,No,No
+12171,Venus Clearing Acc,Current Asset,BAS Excluded,,No,No,No
+12180,Fasttrack Clearing Acc,Current Asset,BAS Excluded,,No,No,No
+12185,Venus Payments Clearing Acc,Bank,BAS Excluded,,Yes,No,No
+12190,Goodwill- Chase Personnel,Current Asset,BAS Excluded,,No,No,No
+12191,Goodwill,Current Asset,BAS Excluded,,No,No,No
+12192,Goodwill- Choice Education,Current Asset,BAS Excluded,,No,No,No
+12200,Leasehold Improvements,Current Asset,BAS Excluded,,No,No,No
+12210,Improvements at Cost,Current Asset,GST on Capital,,No,No,No
+12220,Improvements Amortisation,Current Asset,BAS Excluded,,No,No,No
+12300,Plant & Equipment,Current Asset,BAS Excluded,,No,No,No
+12310,Plant & Equip at cost,Current Asset,GST on Capital,,No,No,No
+12320,Plant & Equip Accum Dep,Current Asset,BAS Excluded,,No,No,No
+12500,Vehicles,Current Asset,BAS Excluded,,No,No,No
+12510,Vehicles - at Cost,Current Asset,GST on Capital,,No,No,No
+12520,Vehicles - Accum Dep,Current Asset,BAS Excluded,,No,No,No
+12700,Furniture and Fixtures,Current Asset,BAS Excluded,,No,No,No
+12710,Furniture & Fixtures Orig Co,Current Asset,GST on Capital,,No,No,No
+12720,Furniture & Fixtures Accum Dep,Current Asset,BAS Excluded,,No,No,No
+14000,Loan - Goh Corp - 2013,Current Asset,BAS Excluded,,No,No,No
+20000,Liabilities,Liability,BAS Excluded,,No,No,No
+21000,Current Liabilities,Liability,BAS Excluded,,No,No,No
+21100,Credit Cards,Liability,BAS Excluded,,No,No,No
+21110,American Express Card Account,Bank,BAS Excluded,,Yes,No,No
+21111,Amex- MVH,Bank,BAS Excluded,,Yes,No,No
+21120,NAB Visa,Bank,BAS Excluded,,Yes,No,No
+21121,AMEX SVH and CG,Bank,BAS Excluded,,Yes,No,No
+21201,Trade Creditors,Accounts Payable,BAS Excluded,,No,No,No
+21205,Accrued Salaries,Current Liability,BAS Excluded,,No,No,No
+21206,Sundry Creditors,Current Liability,BAS Excluded,,No,No,No
+21210,Sundry Creditors,Accounts Payable,BAS Excluded,,No,No,No
+21300,GST Liabilities,Liability,BAS Excluded,,No,No,No
+21310,GST Collected,Current Liability,BAS Excluded,,No,No,No
+21315,GST Collected FT,Current Liability,BAS Excluded,,No,No,No
+21330,GST Paid Non Capital Purchases,Current Liability,BAS Excluded,,No,No,No
+21340,GST Paid - Capital Purchases,Current Liability,BAS Excluded,,No,No,No
+21345,GST adjustment,Current Liability,BAS Excluded,,No,No,No
+21346,GST Holding Account,Current Liability,BAS Excluded,,No,No,No
+21347,ATO Integrated Account,Current Liability,BAS Excluded,,No,No,No
+21350,Sales Tax Payable,Current Liability,BAS Excluded,,No,No,No
+21355,Current Provision - Income Tax,Current Liability,BAS Excluded,,No,No,No
+21356,Fringe Benefits Provision,Current Liability,BAS Excluded,,No,No,No
+21357,Provision for Commissions,Current Liability,BAS Excluded,,No,No,No
+21358,PAYG Instalment Payable,Current Liability,BAS Excluded,,No,No,No
+21360,Provision Prepaid Debtors,Current Liability,BAS Excluded,,No,No,No
+21361,Provision for Rates & Taxes,Current Liability,BAS Excluded,,No,No,No
+21362,Provision for Expenses,Current Liability,BAS Excluded,,No,No,No
+21370,Voluntary Withholdings Payable,Current Liability,BAS Excluded,,No,No,No
+21380,ABN Withholdings Payable,Current Liability,BAS Excluded,,No,No,No
+21390,Luxury Car Tax Payable,Current Liability,BAS Excluded,,No,No,No
+21400,Payroll Liabilities,Liability,BAS Excluded,,No,No,No
+21410,Internal Super Accrual,Current Liability,BAS Excluded,,No,No,No
+21420,PAYG Withholding Payable,Current Liability,BAS Excluded,,No,No,No
+21421,PAYG Witholding FT - Extra Tax,Current Liability,BAS Excluded,,No,No,No
+21422,Payroll Tax -  Other States,Current Liability,BAS Excluded,,No,No,No
+21430,Payroll Tax - Clearing Venus,Current Liability,BAS Excluded,,No,No,No
+21432,Payroll Tax clearing - FT,Current Liability,BAS Excluded,,No,No,No
+21433,Payroll Tax (Internal Staff),Current Liability,BAS Excluded,,No,No,No
+21439,Temps Pay Clearing Acc - FT,Current Liability,BAS Excluded,,No,No,No
+21441,Temps Pay Clearing Acc - Venus,Current Liability,BAS Excluded,,No,No,No
+21445,Staff payroll - Clearing Acc,Bank,BAS Excluded,,Yes,No,No
+21446,Provision for Annual leave Staff,Current Liability,BAS Excluded,,No,No,No
+21448,Provision for Long Service leave,Current Liability,BAS Excluded,,No,No,No
+21450,Temps Super Clearing Venus,Current Liability,BAS Excluded,,No,No,No
+21451,Temps Super Clearing FT,Current Liability,BAS Excluded,,No,No,No
+21452,Prov Sal Sacrifice Super,Current Liability,BAS Excluded,,No,No,No
+21453,Venus Repay Clearing Acc,Current Liability,BAS Excluded,,No,No,No
+21455,Parental Leave Clearing Acc,Current Liability,BAS Excluded,,No,No,No
+21460,Returned Super,Current Liability,BAS Excluded,,No,No,No
+21465,Staff Super Clr Acc - Sal Sac,Current Liability,BAS Excluded,,No,No,No
+21470,Workers Comp Clearing Account,Current Liability,BAS Excluded,,No,No,No
+21473,Provision for Workerscomp,Current Liability,BAS Excluded,,No,No,No
+21475,Child Support Clearing,Current Liability,BAS Excluded,,No,No,No
+21480,Employee Witholdings,Current Liability,BAS Excluded,,No,No,No
+21481,Provision for unpaid wages,Current Liability,BAS Excluded,,No,No,No
+21482,Provision - Temp LSL,Current Liability,BAS Excluded,,No,No,No
+21501,Accrued Expenses,Current Liability,BAS Excluded,,No,No,No
+21510,Insurance Premium Funding,Bank,BAS Excluded,,Yes,No,No
+21515,Unexpired Interest - Insurance,Current Liability,BAS Excluded,,No,No,No
+21520,Deferred Taxation Liability,Current Liability,BAS Excluded,,No,No,No
+21530,HP Liability - Current,Current Liability,BAS Excluded,,No,No,No
+21540,Unexpired Hire Purchase Liab,Current Liability,BAS Excluded,,No,No,No
+21600,Income Rec'd In Advance,Current Liability,BAS Excluded,,No,No,No
+21900,Other Current Liabilities,Current Liability,BAS Excluded,,No,No,No
+21904,Loan - Goh Corp 2016,Current Liability,BAS Excluded,,No,No,No
+21905,Loan - Goh Corp 2017,Current Liability,BAS Excluded,,No,No,No
+21906,Loan - Goh Corp 2018,Current Liability,BAS Excluded,,No,No,No
+21907,Simone Booth - Short Term Loan,Current Liability,BAS Excluded,,No,No,No
+21908,Loan - Goh Corp 2019,Current Liability,BAS Excluded,,No,No,No
+22000,Long Term Liabilities,Liability,BAS Excluded,,No,No,No
+22100,NAB Business Market Loan,Current Liability,BAS Excluded,,No,No,No
+22109,Unexp: Lease Interest Server,Current Liability,BAS Excluded,,No,No,No
+22110,Lease Liability - Server Upgrade,Current Liability,BAS Excluded,,No,No,No
+22111,Working Capital Loan Account,Current Liability,BAS Excluded,,No,No,No
+22140,Loan - Marg,Bank,BAS Excluded,,Yes,No,No
+22200,Loan - Van Heurck Nominees,Current Liability,BAS Excluded,,No,No,No
+22230,Provision for Deferred Tax,Current Liability,BAS Excluded,,No,No,No
+22250,HP Liability - Non Current,Current Liability,BAS Excluded,,No,No,No
+22260,Unexpired HP Liability,Current Liability,BAS Excluded,,No,No,No
+22300,Other Long Term Liabilities,Current Liability,BAS Excluded,,No,No,No
+30000,Equity,Equity,BAS Excluded,,No,No,No
+31000,Owner's/Shareholder's Equity,Equity,BAS Excluded,,No,No,No
+31200,Owner's/Sharehldr Drawings,Equity,BAS Excluded,,No,No,No
+31250,Dividends Paid,Equity,BAS Excluded,,No,No,No
+32000,Issued Capital,Equity,BAS Excluded,,No,No,No
+33000,Asset Revaluation Reserve,Equity,BAS Excluded,,No,No,No
+38000,Retained Earnings,Equity,BAS Excluded,,No,No,No
+39000,Current Year Earnings,Equity,BAS Excluded,,No,No,No
+39999,Historical Balancing,Equity,BAS Excluded,,No,No,No
+40000,Income,Revenue,BAS Excluded,,No,No,No
+41000,Sales - Permanent Fees,Revenue,GST on Income,,No,No,No
+41100,Sales - Temporary Fees (Venus),Revenue,GST on Income,,No,No,No
+41101,Sales -Temp Fees Astute,Revenue,GST on Income,,No,No,No
+41102,Less: Doubtful Debt,Revenue,BAS Excluded,Provision for Doubtful Debt,No,No,No
+41110,Sales - Oncharge Based,Revenue,GST on Income,,No,No,No
+41300,Traineeship Grants,Revenue,GST Free Income,,No,No,No
+41400,Workers Compensation Rebate,Revenue,BAS Excluded,,No,No,No
+43100,Recoveries - Temp Expenses Payroll,Revenue,BAS Excluded,"workers comp, ",No,No,No
+43500,Recoveries - Candidates,Revenue,BAS Excluded,,No,No,No
+43600,Accrued Income,Revenue,BAS Excluded,,No,No,No
+46000,Late Fees Collected,Revenue,BAS Excluded,,No,No,No
+48000,Miscellaneous Income,Revenue,BAS Excluded,,No,No,No
+48001,Interest Received,Revenue,GST Free Income,,No,No,No
+48002,Sales Refund,Revenue,BAS Excluded,,No,No,No
+48100,Dividends Received,Revenue,GST Free Income,,No,No,No
+49000,FBT employee cont,Revenue,GST on Income,,No,No,No
+50000,Cost of Sales,Direct Costs,BAS Excluded,,No,No,No
+51000,Discounts Given,Direct Costs,BAS Excluded,,No,No,No
+52000,Temp Costs,Direct Costs,BAS Excluded,,No,No,No
+52100,Temp - Wages & Salaries- Venus,Direct Costs,BAS Excluded,,No,No,No
+52101,Temp Wages and Salaries Astute,Direct Costs,BAS Excluded,,No,No,No
+52102,FTrack WComp Wage Paid,Direct Costs,BAS Excluded,,No,No,No
+52103,Temp - Child Support,Direct Costs,BAS Excluded,,No,No,No
+52104,Wages accrual Venus,Direct Costs,BAS Excluded,,No,No,No
+52105,Wages accrual FT,Direct Costs,BAS Excluded,,No,No,No
+52106,Candidate - McQuaig Testing,Direct Costs,BAS Excluded,,No,No,No
+52200,Temp - Allowances Venus,Direct Costs,BAS Excluded,,No,No,No
+52201,Temp Allowances - Astute,Direct Costs,BAS Excluded,,No,No,No
+52300,Non Taxable Allowances,Direct Costs,BAS Excluded,,No,No,No
+52301,Payroll Tax FT,Direct Costs,BAS Excluded,,No,No,No
+52302,Payroll Tax - Venus,Direct Costs,BAS Excluded,,No,No,No
+52303,Payroll Tax -Apprentice rebate,Direct Costs,BAS Excluded,,No,No,No
+52400,Temp - Training,Direct Costs,BAS Excluded,,No,No,No
+52500,Temp - Super Venus,Direct Costs,BAS Excluded,,No,No,No
+52501,Temp Superannuation Fasttrack,Direct Costs,BAS Excluded,,No,No,No
+52502,Contractors - Super/Paytax,Direct Costs,BAS Excluded,,No,No,No
+52503,Construction Industry LSL,Direct Costs,BAS Excluded,,No,No,No
+52600,Temp - Workers Comp,Direct Costs,BAS Excluded,,No,No,No
+52700,Salary Sacrifice,Direct Costs,BAS Excluded,,No,No,No
+53000,Candidate Costs - Payroll Items ,Direct Costs,BAS Excluded,,No,No,No
+53100,Candidate - Job Advertising,Direct Costs,BAS Excluded,,No,No,No
+53200,Candidate - Workers Comp,Direct Costs,BAS Excluded,,No,No,No
+53300,Candidate - Medical Costs,Direct Costs,BAS Excluded,,No,No,No
+53400,Candidate - Meals & Accom,Direct Costs,BAS Excluded,,No,No,No
+53500,Candidate - Expenses from Payroll,Direct Costs,BAS Excluded,,No,No,No
+53501,Candidate - Travel Payroll,Direct Costs,BAS Excluded,,No,No,No
+53601,Candidate - Psychometric Test,Direct Costs,BAS Excluded,,No,No,No
+53602,Candidate Skills Testing,Direct Costs,BAS Excluded,,No,No,No
+53650,Candidate Training,Direct Costs,BAS Excluded,,No,No,No
+53700,Candidate - Uniforms & PPE,Direct Costs,BAS Excluded,,No,No,No
+53800,Candidate Costs - Visas,Direct Costs,BAS Excluded,,No,No,No
+53900,Candidates-Other Disbursements,Direct Costs,BAS Excluded,,No,No,No
+54000,Contract Costs - Purchases,Direct Costs,BAS Excluded,,No,No,No
+54100,Contractor Wages - Westbrook,Direct Costs,BAS Excluded,,No,No,No
+54101,Sub Contractor Payments,Direct Costs,BAS Excluded,,No,No,No
+54150,Woodside Wages - FT,Direct Costs,BAS Excluded,,No,No,No
+54200,Contract Costs - Fees,Direct Costs,BAS Excluded,,No,No,No
+54201,Rebate - WALGA,Direct Costs,BAS Excluded,,No,No,No
+54300,Contract Costs - Disbursements,Direct Costs,BAS Excluded,,No,No,No
+54400,Contract Costs - Meals & Accom,Direct Costs,BAS Excluded,,No,No,No
+54500,Contract Costs - Travel,Direct Costs,BAS Excluded,,No,No,No
+54501,Contract Costs - M/V Hire,Direct Costs,BAS Excluded,,No,No,No
+54502,Contract Costs - M/V Fuel,Direct Costs,BAS Excluded,,No,No,No
+54503,Contract Costs - M/V Insurance,Direct Costs,BAS Excluded,,No,No,No
+54600,Contract Costs - Medicals,Direct Costs,BAS Excluded,,No,No,No
+54700,Contract Costs - Uniforms,Direct Costs,BAS Excluded,,No,No,No
+54800,Contract Costs - Subcontractor,Direct Costs,BAS Excluded,,No,No,No
+54900,Contract Costs - Training,Direct Costs,BAS Excluded,,No,No,No
+55000,Insurance Costs,Direct Costs,BAS Excluded,,No,No,No
+55200,Insurance - MV,Direct Costs,BAS Excluded,,No,No,No
+55300,Insurance - Liability,Direct Costs,BAS Excluded,,No,No,No
+55400,Insurance - Professional Indem,Direct Costs,BAS Excluded,,No,No,No
+55500,Insurance - Recoveries,Direct Costs,BAS Excluded,,No,No,No
+56000,ZParking,Direct Costs,BAS Excluded,,No,No,No
+56001,Taxi Services,Direct Costs,BAS Excluded,,No,No,No
+57000,Bad Debts Written Off,Direct Costs,BAS Excluded,,No,No,No
+58000,Commissions Paid Third Parties,Direct Costs,BAS Excluded,,No,No,No
+58001,Cancellation Fees - Nursing,Direct Costs,BAS Excluded,,No,No,No
+59000,COGS - Finance Charges,Direct Costs,BAS Excluded,,No,No,No
+59001,COS - Perm Disbursements,Direct Costs,BAS Excluded,,No,No,No
+59002,Consultancy Fees,Direct Costs,BAS Excluded,,No,No,No
+59003,Disbursements - Brightwater,Direct Costs,BAS Excluded,,No,No,No
+59004,Costs - Building Services,Direct Costs,BAS Excluded,,No,No,No
+59005,S&R Travel,Direct Costs,BAS Excluded,,No,No,No
+59006,Prior year adjustment,Direct Costs,BAS Excluded,,No,No,No
+60000,Expenses,Expense,BAS Excluded,,No,No,No
+61000,General & Administrative Exp,Expense,BAS Excluded,,No,No,No
+61005,Accounting Fees,Expense,GST on Expenses,,No,No,No
+61006,Administration Charges,Expense,GST on Expenses,,No,No,No
+61010,Legal Fees,Expense,GST on Expenses,,No,No,No
+61011,Prof Service Fees - Tax,Expense,GST on Expenses,,No,No,No
+61012,Prof Service Fees - Audit,Expense,GST on Expenses,,No,No,No
+61013,Prof Service Fees - Sundry,Expense,GST on Expenses,,No,No,No
+61014,Consultancy,Expense,GST on Expenses,,No,No,No
+61016,CV Formatting,Expense,BAS Excluded,,No,No,No
+61022,Borrowing Costs,Expense,BAS Excluded,,No,No,No
+61030,Depreciation,Expense,BAS Excluded,,No,No,No
+61035,Debts - Bad written off,Expense,GST on Expenses,,No,No,No
+61040,Amortisation,Expense,BAS Excluded,,No,No,No
+61050,Postage,Expense,GST on Expenses,,No,No,No
+61060,Office Supplies,Expense,GST on Expenses,,No,No,No
+61065,Printing & Stationery,Expense,GST on Expenses,,No,No,No
+61070,Subscriptions & Memberships,Expense,GST on Expenses,,No,No,No
+61080,Telephone,Expense,GST on Expenses,,No,No,No
+61085,Telephone - Mobile Phones,Expense,GST on Expenses,,No,No,No
+61110,Client Gifts and Support,Expense,GST on Expenses,,No,No,No
+61120,Newspapers & Periodicals,Expense,GST on Expenses,,No,No,No
+61130,Filing Fees,Expense,GST Free Expenses,,No,No,No
+61140,DO NOT USE,Expense,BAS Excluded,,No,No,No
+61150,Document & Equipment Storage,Expense,BAS Excluded,,No,No,No
+61155,Debt Collection Fees,Expense,GST on Expenses,,No,No,No
+61160,Licenses & Permits,Expense,GST on Expenses,,No,No,No
+61170,Fines & Penalties,Expense,GST Free Expenses,,No,No,No
+61180,Donations,Expense,GST Free Expenses,,No,No,No
+61190,General Expenses,Expense,GST on Expenses,,No,No,No
+61302,Advertising & Promotion,Expense,GST on Expenses,,No,No,No
+61650,Fees paid,Expense,GST on Expenses,,No,No,No
+61700,Freight Paid,Expense,GST on Expenses,,No,No,No
+61800,Late Fees Paid,Expense,BAS Excluded,,No,No,No
+61900,Company Taxes,Expense,BAS Excluded,,No,No,No
+62000,Motor Vehicle Exp,Expense,BAS Excluded,,No,No,No
+62010,M/V Exp - Fuel,Expense,GST on Expenses,,No,No,No
+62020,M/V Exp - Gen R & M,Expense,GST on Expenses,,No,No,No
+62030,M/V Exp - Insurance,Expense,GST on Expenses,,No,No,No
+62040,M/V Exp - License,Expense,GST Free Expenses,,No,No,No
+62050,M/V Exp - Servicing,Expense,GST on Expenses,,No,No,No
+62051,Parking,Expense,GST on Expenses,,No,No,No
+62052,Novated Lease ,Expense,GST on Expenses,,No,No,No
+62060,Depreciation - M/V's,Expense,BAS Excluded,,No,No,No
+62071,Hire - M/V's,Expense,GST on Expenses,,No,No,No
+62072,HP Interest Charges,Expense,GST Free Expenses,,No,No,No
+63000,Equipment Exp,Expense,BAS Excluded,,No,No,No
+63100,Equipment - General,Expense,BAS Excluded,,No,No,No
+63110,Equipment - Hire,Expense,GST on Expenses,,No,No,No
+63120,Equipment - Leasing,Expense,GST on Expenses,,No,No,No
+63130,Equipment - Rental,Expense,GST on Expenses,,No,No,No
+63140,Equipment - Repairs & Maint,Expense,GST on Expenses,,No,No,No
+63150,Leasing Charges,Expense,GST on Expenses,,No,No,No
+63151,Hire Purchase Charges,Expense,GST on Expenses,,No,No,No
+63155,Hire of Plant & Equipment,Expense,GST on Expenses,,No,No,No
+63160,Depreciation - FFE,Expense,BAS Excluded,,No,No,No
+63170,Equipment - Under $300,Expense,GST on Expenses,,No,No,No
+63200,Equipment - Computers,Expense,BAS Excluded,,No,No,No
+63210,Computer - Sundry Costs,Expense,GST on Expenses,,No,No,No
+63220,Computer - Software,Expense,GST on Expenses,,No,No,No
+63230,Computer - Internet Costs,Expense,GST on Expenses,,No,No,No
+63240,Computer - R & M,Expense,GST on Expenses,,No,No,No
+63250,Computer - Support,Expense,GST on Expenses,,No,No,No
+63251,Computer - Protection,Expense,GST on Expenses,,No,No,No
+65100,Employment Expenses,Expense,BAS Excluded,,No,No,No
+65101,Workers Comp Prov- Salary,Expense,BAS Excluded,,No,No,No
+65102,Temp - Admin,Expense,BAS Excluded,,No,No,No
+65105,Fringe Benefits Tax,Expense,BAS Excluded,,No,No,No
+65110,Staff Amenities,Expense,GST on Expenses,,No,No,No
+65120,Admin Superannuation,Expense,GST Free Expenses,,No,No,No
+65129,"Temp - Wages, P/Tax & Super",Expense,BAS Excluded,,No,No,No
+65130,Admin - Wages & Salaries,Expense,BAS Excluded,,No,No,No
+65131,Commission/Bonus Paid,Expense,BAS Excluded,,No,No,No
+65132,Salaries - Oncost - Accural,Expense,BAS Excluded,,No,No,No
+65133,WComp Payroll Paid,Expense,BAS Excluded,,No,No,No
+65135,Wages - Temp Astute,Expense,BAS Excluded,,No,No,No
+65136,Recruitment Costs,Expense,GST on Expenses,,No,No,No
+65137,Visa Application Costs,Expense,GST Free Expenses,,No,No,No
+65138,Rent Paid - Employee,Expense,GST on Expenses,,No,No,No
+65140,Admin Workers' Comp,Expense,GST Free Expenses,,No,No,No
+65150,Admin - Payroll Tax,Expense,BAS Excluded,,No,No,No
+65160,Admin - Training,Expense,GST on Expenses,,No,No,No
+65170,Admin - Allowances,Expense,BAS Excluded,,No,No,No
+65180,Admin - Annual Leave,Expense,BAS Excluded,,No,No,No
+65190,Admin - Sick leave,Expense,BAS Excluded,,No,No,No
+65191,Staff Incentives,Expense,GST on Expenses,,No,No,No
+65205,Superannuation - M & C Goh,Expense,BAS Excluded,,No,No,No
+65210,Product - Salaries & Wages,Expense,BAS Excluded,,No,No,No
+65220,Productive - Workers Comp,Expense,BAS Excluded,,No,No,No
+65230,Productive - Training,Expense,GST on Expenses,,No,No,No
+65240,Productive - Allowances,Expense,BAS Excluded,,No,No,No
+65250,Productive - Annual Leave,Expense,BAS Excluded,,No,No,No
+65260,Productive - Sick leave,Expense,BAS Excluded,,No,No,No
+65270,Productive - Payroll Tax,Expense,GST Free Expenses,,No,No,No
+65280,Apprentice Consultant,Expense,BAS Excluded,,No,No,No
+65281,Allied Consultant,Expense,BAS Excluded,,No,No,No
+65300,Professional Development,Expense,GST on Expenses,,No,No,No
+65310,Entertainment - FBT,Expense,BAS Excluded,,No,No,No
+65320,Entertainment - Non Allowable,Expense,BAS Excluded,,No,No,No
+65330,Non Deductible Expenses,Expense,BAS Excluded,,No,No,No
+65335,Light meals and refreshments,Expense,GST on Expenses,,No,No,No
+65336,Minor Benefits,Expense,BAS Excluded,,No,No,No
+65340,Uniforms & PPE,Expense,GST on Expenses,,No,No,No
+65345,Employee Entitlements,Expense,BAS Excluded,,No,No,No
+65390,Other Employer Expenses,Expense,GST on Expenses,,No,No,No
+65400,Travel Expenses,Expense,BAS Excluded,,No,No,No
+65410,Travel - Accomodation,Expense,GST on Expenses,,No,No,No
+65411,Travel - Insurance,Expense,BAS Excluded,,No,No,No
+65420,Travel - Domestic,Expense,GST on Expenses,,No,No,No
+65430,Travel - Conference Costs,Expense,GST on Expenses,,No,No,No
+65440,Travel - Local,Expense,GST on Expenses,,No,No,No
+65450,Travel - Meals,Expense,GST on Expenses,,No,No,No
+65460,Travel - Overseas,Expense,GST Free Expenses,,No,No,No
+65500,Insurances,Expense,BAS Excluded,,No,No,No
+65510,General Insurance,Expense,GST Free Expenses,,No,No,No
+65511,Insurances Expenses,Expense,BAS Excluded,,No,No,No
+65512,Professional Indemnity & Pubic Liability,Expense,GST Free Expenses,,No,No,No
+66000,Occupancy Costs,Expense,BAS Excluded,,No,No,No
+66010,Rent,Expense,GST on Expenses,,No,No,No
+66020,Rates & Land Tax,Expense,GST Free Expenses,,No,No,No
+66030,Electricity,Expense,GST on Expenses,,No,No,No
+66040,Water,Expense,GST Free Expenses,,No,No,No
+66050,Repairs & Maint - Buildings,Expense,GST on Expenses,,No,No,No
+66060,Building Insurance,Expense,BAS Excluded,,No,No,No
+66070,Security,Expense,GST on Expenses,,No,No,No
+66071,Sensitive Document Disposal,Expense,GST on Expenses,,No,No,No
+66072,Rubbish Removal,Expense,GST on Expenses,,No,No,No
+66080,Cleaning,Expense,GST on Expenses,,No,No,No
+66090,ZWater,Expense,GST Free Expenses,,No,No,No
+66100,Sundry Expenses,Expense,BAS Excluded,,No,No,No
+66500,Bank Charges,Expense,BAS Excluded,,No,No,No
+66515,Bank- AMEX Card Fees,Expense,BAS Excluded,,No,No,No
+66519,Bank - VISA Card fees,Expense,GST Free Expenses,,No,No,No
+66520,Bank Charges,Expense,GST Free Expenses,,No,No,No
+66600,Interest Paid,Expense,BAS Excluded,,No,No,No
+66621,Interest - Loan Accounts,Expense,GST Free Expenses,,No,No,No
+66624,Interest ATO,Expense,GST Free Expenses,,No,No,No
+66625,Interest - Premium Funding,Expense,GST Free Expenses,,No,No,No
+66626,Interest Other,Expense,GST Free Expenses,,No,No,No
+66628,Interest - HP,Expense,BAS Excluded,,No,No,No
+66629,Interest - Invoice Finance,Expense,GST Free Expenses,,No,No,No
+66650,Interest RBA for BAS,Expense,GST Free Expenses,,No,No,No
+66670,Interest - M/V's,Expense,GST Free Expenses,,No,No,No
+66685,zInterest - Premium Funding,Expense,GST Free Expenses,,No,No,No
+67000,Shared Services,Expense,BAS Excluded,,No,No,No
+67001,Shared Services Allocation,Expense,BAS Excluded,,No,No,No
+80000,Other Income,Other Income,BAS Excluded,,No,No,No
+81000,Interest Income,Other Income,GST Free Income,,No,No,No
+81010,Australian Tax Office/Cashflow Boost,Other Income,GST Free Income,,No,No,No
+81050,Interest - Division 7A Loans,Other Income,GST Free Income,,No,No,No
+81100,Profit/(Loss) - Disposal of FA,Other Income,GST Free Income,,No,No,No
+81150,Dividend Income,Other Income,GST Free Income,,No,No,No
+81160,Profit/Loss - Sundry,Other Income,GST on Income,,No,No,No
+81200,Administration Fee - Prime,Other Income,GST on Income,,No,No,No
+81250,Insurance Recoveries,Other Income,BAS Excluded,,No,No,No
+81300,Other Income,Other Income,BAS Excluded,,No,No,No
+81350,Unrealised Exchange Gain,Other Income,BAS Excluded,,No,No,No
+90000,Other Expenses,Expense,BAS Excluded,,No,No,No
+91000,Interest - General Finance,Expense,GST Free Expenses,,No,No,No
+91100,Interest - Other,Expense,GST on Expenses,,No,No,No
+91200,Expenses - Prime IC P/L,Expense,BAS Excluded,,No,No,No
+91300,Other Expenses,Expense,GST on Expenses,,No,No,No
+91400,Prior Year adjustments,Expense,BAS Excluded,,No,No,No
+91500,Debts Forgiven,Expense,BAS Excluded,,No,No,No
+92000,Income Tax Expense,Expense,BAS Excluded,,No,No,No

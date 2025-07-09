@@ -1,0 +1,219 @@
+*Code,*Name,*Type,*Tax Code,Description,Dashboard,Expense Claims,Enable Payments
+10000,Assets,Current Asset,BAS Excluded,,No,No,No
+11010,ANZ Aussie Billet #6506,Bank,BAS Excluded,,Yes,No,No
+11111,ANZ USD ac #00001,Bank,BAS Excluded,,Yes,No,No
+11112,USD Conversion Account,Bank,BAS Excluded,,Yes,No,No
+11113,ANZ AUD,Bank,BAS Excluded,USD feeder acc.,Yes,No,No
+11114,Paypal ,Bank,BAS Excluded,,Yes,No,No
+11115,Com Bank Account #5032,Bank,BAS Excluded,,Yes,No,No
+11116,Stripe Clearing Account,Bank,BAS Excluded,,Yes,No,No
+11117,Commonwealth - USD,Bank,BAS Excluded,,Yes,No,No
+11118,Commonwealth USD #5024,Bank,BAS Excluded,,Yes,No,No
+11120,EFTPOS Clearing Account,Bank,BAS Excluded,,Yes,No,No
+11121,Macquarie CMA 4987,Bank,BAS Excluded,Aussi Billet Cash Management Account,Yes,No,No
+11122,Macquarie Accelerator 1836,Bank,BAS Excluded,Aussie Cash Accelerator Account,Yes,No,No
+11130,Petty Cash,Bank,BAS Excluded,,Yes,No,No
+11140,Cash Drawer,Bank,BAS Excluded,,Yes,No,No
+11150,Electronic Clearing Account,Bank,BAS Excluded,,Yes,No,No
+11160,Undeposited Funds,Bank,BAS Excluded,,Yes,No,No
+11170,Customer Deposits,Current Asset,BAS Excluded,,No,No,No
+11180,Cheque Account Bank West,Bank,BAS Excluded,,Yes,No,No
+11190,CONTRA USD clearing,Bank,BAS Excluded,,Yes,No,No
+11191,Contra AUD clearing,Bank,BAS Excluded,,Yes,No,No
+11200,Accounts Receivable,Accounts Receivable,BAS Excluded,,No,No,No
+11210,Less Prov'n for Doubtful Debts,Current Asset,BAS Excluded,,No,No,No
+11300,Inventory,Current Asset,BAS Excluded,,No,No,No
+11310,Stock on Hand,Bank,BAS Excluded,,Yes,No,No
+11320,Finished Goods,Current Asset,BAS Excluded,,No,No,No
+11330,do not use,Current Asset,BAS Excluded,,No,No,No
+11340,Closing Stock,Current Asset,BAS Excluded,,No,No,No
+11350,Work in Progress - Opening,Current Asset,BAS Excluded,,No,No,No
+11360,Work in Progress - Closing,Current Asset,BAS Excluded,,No,No,No
+11510,Accrual - Recoveries (Related Party),Current Asset,BAS Excluded,,No,No,No
+11950,Withholding Credits,Current Asset,BAS Excluded,,No,No,No
+12000,Undeposited Funds Account,Bank,BAS Excluded,,Yes,No,No
+12100,Shareholders Loan Accounts,Current Asset,BAS Excluded,,No,No,No
+12200,Formation Costs,Current Asset,BAS Excluded,,No,No,No
+12250,Amortization,Current Asset,BAS Excluded,,No,No,No
+13100,Plant & Equipment,Current Asset,BAS Excluded,,No,No,No
+13110,Manufacturing Plant at Cost,Current Asset,GST on Capital,,No,No,No
+13120,Manufac. Plant Accum Dep,Current Asset,BAS Excluded,,No,No,No
+13130,Manufacturing Equipment Cost,Current Asset,GST on Capital,,No,No,No
+13140,Manufac. Equip Accum Dep,Current Asset,BAS Excluded,,No,No,No
+13150,Tools,Current Asset,BAS Excluded,,No,No,No
+13200,Furniture & Fixtures,Current Asset,BAS Excluded,,No,No,No
+13210,Furniture & Fixtures at Cost,Current Asset,BAS Excluded,,No,No,No
+13220,Furniture & Fixtures Accum Dep,Current Asset,BAS Excluded,,No,No,No
+13300,Office Equipment,Current Asset,BAS Excluded,,No,No,No
+13305,Adellaide Engine Development,Current Asset,BAS Excluded,,No,No,No
+13310,Office Equip at Cost,Current Asset,BAS Excluded,,No,No,No
+13320,Office Equip Accum Dep,Current Asset,BAS Excluded,,No,No,No
+13400,Motor Vehicles,Current Asset,BAS Excluded,,No,No,No
+13410,Motor Vehicles at Cost,Current Asset,BAS Excluded,,No,No,No
+13420,Motor Vehicles Accum Dep,Current Asset,BAS Excluded,,No,No,No
+13510, Property Improvements At Cost,Current Asset,BAS Excluded,,No,No,No
+13520,Less Accumulated Depreciation on Property Improvements,Current Asset,BAS Excluded,,No,No,No
+15000,Trade Debtors,Accounts Receivable,BAS Excluded,,No,No,No
+20000,Liabilities,Liability,BAS Excluded,,No,No,No
+21000,Trade Creditors,Accounts Payable,BAS Excluded,,No,No,No
+21100,Credit Cards,Liability,BAS Excluded,,No,No,No
+21140,Visa,Bank,BAS Excluded,,Yes,No,No
+21200,Trade Creditors,Accounts Payable,BAS Excluded,,No,No,No
+21215,Guarentee Holdback,Current Liability,BAS Excluded,,No,No,No
+21300,GST Liabilities,Liability,BAS Excluded,,No,No,No
+21330,GST Collected,Current Liability,BAS Excluded,,No,No,No
+21340,GST Paid,Current Liability,BAS Excluded,,No,No,No
+21350,ATO - ICA,Bank,BAS Excluded,,Yes,No,No
+21355,ATO - ITA,Current Liability,BAS Excluded,,No,No,No
+21357,ATO - SGC,Current Liability,BAS Excluded,,No,No,No
+21360,Import Duty Payable,Current Liability,BAS Excluded,,No,No,No
+21370,GST adjustment,Current Liability,BAS Excluded,,No,No,No
+21400,Payroll Liabilities,Liability,BAS Excluded,,No,No,No
+21410,Payroll Deductions Payable,Current Liability,BAS Excluded,,No,No,No
+21420,PAYG Withholding Payable,Current Liability,BAS Excluded,,No,No,No
+21430,PAYG tax inst,Current Liability,BAS Excluded,,No,No,No
+21440,Superannuation Liability,Current Liability,BAS Excluded,,No,No,No
+21450,PAYG-I Payable,Current Liability,BAS Excluded,,No,No,No
+21510,Accrued Charges - Related Party,Current Liability,BAS Excluded,,No,No,No
+21600,Customer Deposits,Current Liability,BAS Excluded,,No,No,No
+21700,Other Current Liabilities,Liability,BAS Excluded,,No,No,No
+21710,"Loan - BME (USD Funds) - $14,587 USD",Bank,BAS Excluded,,Yes,No,No
+21720,Loan - CNC Porting Pty Ltd,Bank,BAS Excluded,,Yes,No,No
+21730,Loan - DPR Enterprises,Current Liability,BAS Excluded,,No,No,No
+22500,Equipment Finance,Current Liability,BAS Excluded,,No,No,No
+25000,Loan Accounts - Directors,Liability,BAS Excluded,,No,No,No
+25100,Loan - D Palumbo - 40%,Bank,BAS Excluded,,Yes,No,No
+25200,Loan - Marcus Giobbi (MVS Trust) - 40%,Bank,BAS Excluded,,Yes,No,No
+25300,Loan - H Palumbo - 20%,Bank,BAS Excluded,,Yes,No,No
+26000,Provision for Income Tax,Current Liability,BAS Excluded,,No,No,No
+28888,Accrued Charges - Related Party,Current Liability,BAS Excluded,,No,No,No
+29999,Suspense Account,Bank,BAS Excluded,,Yes,No,No
+30000,Equity,Equity,BAS Excluded,,No,No,No
+31000,Capital,Equity,BAS Excluded,,No,No,No
+31100,Capital Investment,Equity,BAS Excluded,,No,No,No
+31150,ordinary shares $1.00 fp,Equity,BAS Excluded,,No,No,No
+31200,Capital Drawings,Equity,BAS Excluded,,No,No,No
+38000,Retained Earnings,Equity,BAS Excluded,,No,No,No
+39000,Current Year Earnings,Equity,BAS Excluded,,No,No,No
+39999,Historical Balancing,Equity,BAS Excluded,,No,No,No
+40000,Income,Revenue,BAS Excluded,,No,No,No
+41000,Sales,Revenue,BAS Excluded,,No,No,No
+41110,Income - General Sales,Revenue,GST on Income,,No,No,No
+41111,Income - Ebay Sales,Revenue,GST on Income,,No,No,No
+41112,Income Engine Shop,Revenue,GST on Income,Income from engine shop sales,No,No,No
+41113,Income CNC,Revenue,GST on Income,,No,No,No
+41120,Income - Export Sales,Revenue,BAS Excluded,,No,No,No
+41130,Income - Website Sales,Revenue,GST on Income,,No,No,No
+41135,Income - Website Export Sales,Revenue,BAS Excluded,,No,No,No
+41140,Income - Freight Sales,Revenue,GST on Income,,No,No,No
+41150,Income - Credit Card Surcharge,Revenue,GST on Income,,No,No,No
+41160,Interest income,Revenue,GST Free Income,,No,No,No
+41600,Income - Equipment Rental,Revenue,GST on Income,,No,No,No
+41610,Rental Income,Revenue,GST on Income,,No,No,No
+41620,Electricity Income,Revenue,GST on Income,,No,No,No
+41700,Income - Scrap Metal,Revenue,GST on Income,,No,No,No
+42000,Grants Received,Revenue,GST Free Income,,No,No,No
+49999,Currency Gain/Loss,Revenue,BAS Excluded,,No,No,No
+50000,Cost Of Sales,Direct Costs,BAS Excluded,,No,No,No
+51000,Retail Cost of Sales,Direct Costs,BAS Excluded,,No,No,No
+51110,Cost of Goods Sold - Inventory,Direct Costs,BAS Excluded,,No,No,No
+51111,Parts Engine Shop,Direct Costs,BAS Excluded,Parts used for Engine Builds,No,No,No
+51120,Cost of Goods - Materials & Supplies CNC,Direct Costs,BAS Excluded,,No,No,No
+51130,Cost of goods materials & supplies ENG,Direct Costs,BAS Excluded,,No,No,No
+51140,Cost of goods - Import (GST Free),Direct Costs,BAS Excluded,,No,No,No
+51150,Opening Stock,Direct Costs,BAS Excluded,,No,No,No
+51160,Closing Stock,Direct Costs,BAS Excluded,,No,No,No
+51170,Work in Progress - Opening,Direct Costs,BAS Excluded,,No,No,No
+51180,Work in Progress - Closing,Direct Costs,BAS Excluded,,No,No,No
+55100,Equipment Rent,Direct Costs,BAS Excluded,,No,No,No
+56000,Freight,Direct Costs,BAS Excluded,,No,No,No
+58000,Sub contractors eng,Direct Costs,BAS Excluded,,No,No,No
+58010,Sub contractor CNC,Direct Costs,BAS Excluded,,No,No,No
+58020,SUb contract R&D,Direct Costs,BAS Excluded,,No,No,No
+60000,Expenses,Expense,BAS Excluded,,No,No,No
+60100,Accounting Fees,Expense,GST on Expenses,,No,No,No
+60104,Advertising / Marketing,Expense,GST on Expenses,,No,No,No
+60105,ASIC Fees,Expense,GST Free Expenses,,No,No,No
+60106,Bad debts expense,Expense,BAS Excluded,,No,No,No
+60110,Bank Fees & Charges,Expense,GST Free Expenses,,No,No,No
+60115,Bank Merchant fees,Expense,GST on Expenses,,No,No,No
+60119,Computer Expenses &  Software,Expense,GST on Expenses,,No,No,No
+60120,Consumables,Expense,GST on Expenses,,No,No,No
+61010,Customs Duty / Import Fees,Expense,GST Free Expenses,,No,No,No
+61011,Custom Clearance Fees,Expense,GST on Expenses,,No,No,No
+61012,Dividend Paid,Expense,GST Free Expenses,,No,No,No
+61015,Depreciation Expense,Expense,BAS Excluded,,No,No,No
+61016,Electricity,Expense,GST on Expenses,,No,No,No
+61017,Fire & Safety,Expense,GST on Expenses,,No,No,No
+61018,Freight paid domestic,Expense,GST on Expenses,,No,No,No
+61019,Export Freight Costs,Expense,GST Free Expenses,,No,No,No
+61020,Freight Paid,Expense,GST on Expenses,,No,No,No
+61021,Packing and Boxing Exsp,Expense,GST on Expenses,,No,No,No
+61022,Freight Paid International Import,Expense,GST on Expenses,,No,No,No
+61023,Equipment rental,Expense,GST on Expenses,,No,No,No
+61024,RTW insurance,Expense,BAS Excluded,,No,No,No
+61025,Insurance,Expense,GST on Expenses,,No,No,No
+61026,Interest Paid,Expense,GST Free Expenses,,No,No,No
+61027,Income Tax Expense,Expense,BAS Excluded,,No,No,No
+61030,Legal  & Professional Fees,Expense,GST on Expenses,,No,No,No
+61040,License Fee - CNC (Related Party),Expense,GST on Expenses,,No,No,No
+61041,Management Fee - MVS,Expense,GST Free Expenses,,No,No,No
+61042,Management Fee- HPG,Expense,GST Free Expenses,,No,No,No
+61043,License Fee CNC - Accrual (Related Party),Expense,GST on Expenses,,No,No,No
+61050,Motor Vehicle Expenses,Expense,GST on Expenses,,No,No,No
+61051,Forklift,Expense,GST on Expenses,,No,No,No
+61060,Office Expenses / Printing & Stationery,Expense,GST on Expenses,,No,No,No
+61070,Postage,Expense,GST on Expenses,,No,No,No
+61080,Rent & Outgoings,Expense,GST on Expenses,,No,No,No
+61081,Rent,Expense,GST on Expenses,,No,No,No
+61082,Outgoings,Expense,GST on Expenses,,No,No,No
+61083,Penalty,Expense,BAS Excluded,,No,No,No
+61100,Repairs & Maintenance - Building,Expense,GST on Expenses,,No,No,No
+61111,Research & Development - New Products,Expense,GST on Expenses,,No,No,No
+62540,Security / Guard Dogs,Expense,GST on Expenses,,No,No,No
+62700,Subcontractor,Expense,GST on Expenses,,No,No,No
+62705,Subscription Fees,Expense,GST on Expenses,,No,No,No
+62710,Sponsorships,Expense,GST on Expenses,,No,No,No
+62800,Telephone / Internet,Expense,GST on Expenses,,No,No,No
+63000,"Travel, Meals & Entertainment",Expense,BAS Excluded,,No,No,No
+63110,Travel Expenses,Expense,GST on Expenses,,No,No,No
+63120,Meals & Entertainment,Expense,GST on Expenses,,No,No,No
+63160,Travel - International Trade Show,Expense,GST Free Expenses,PRI,No,No,No
+63500,Consultancy Fees,Expense,GST on Expenses,,No,No,No
+68000,Employment Expenses,Expense,BAS Excluded,,No,No,No
+68100,Wages & Salaries - Workshop,Expense,BAS Excluded,,No,No,No
+68110,Salary-Admin,Expense,BAS Excluded,,No,No,No
+68200,Wages & Salaries - Directors,Expense,BAS Excluded,,No,No,No
+68210,Website,Expense,GST on Expenses,,No,No,No
+68250,Other Employer Expenses,Expense,BAS Excluded,,No,No,No
+68300,Superannuation,Expense,BAS Excluded,,No,No,No
+68350,Superannuation - shortfall ATO,Expense,BAS Excluded,,No,No,No
+68900,Staff Amenities,Expense,GST on Expenses,,No,No,No
+68905,Staff Training,Expense,GST on Expenses,,No,No,No
+68910,Staff Uniforms,Expense,GST on Expenses,,No,No,No
+68950,Workers' Compensation,Expense,BAS Excluded,,No,No,No
+69000,Workshop Expenses,Expense,BAS Excluded,,No,No,No
+69100,Workshop - Warranty work,Expense,GST on Expenses,,No,No,No
+69200,Workshop - Machinery & Equipment,Expense,GST on Expenses,,No,No,No
+69300,Workshop - Tooling & fixtures  CNC,Expense,GST on Expenses,,No,No,No
+69310,Tooling & Fixtures ENG shop,Expense,GST on Expenses,,No,No,No
+69400,Workshop - Machine repairs,Expense,GST on Expenses,,No,No,No
+69500,Waste Removal,Expense,GST on Expenses,,No,No,No
+69999,Rounding Adjustment - ATO,Expense,BAS Excluded,,No,No,No
+80000,Other Income,Other Income,BAS Excluded,,No,No,No
+81000,Interest Income,Other Income,BAS Excluded,,No,No,No
+81111,Equipment rental fee,Other Income,BAS Excluded,Crank grinder,No,No,No
+82000,Grant received,Other Income,BAS Excluded,,No,No,No
+83000,Recoveries (Related Party),Other Income,BAS Excluded,,No,No,No
+84000,UKNOWN,Other Income,BAS Excluded,,No,No,No
+85000,COVID-19 Business Support,Other Income,BAS Excluded,,No,No,No
+85100,Job Keeper,Other Income,BAS Excluded,,No,No,No
+85200,Cash flow boost,Other Income,BAS Excluded,,No,No,No
+85300,Apprentice grant,Other Income,BAS Excluded,,No,No,No
+86000,Other Revenue,Other Income,BAS Excluded,,No,No,No
+90000,Other Expenses,Expense,BAS Excluded,,No,No,No
+91000,Interest Expense,Expense,BAS Excluded,,No,No,No
+91050,Dircectors fee + interest ,Expense,BAS Excluded,,No,No,No
+91100,Refund,Expense,BAS Excluded,,No,No,No
+92000,Income Tax Expense,Expense,BAS Excluded,,No,No,No
+94000,UNKNOWN,Expense,BAS Excluded,,No,No,No

@@ -1,0 +1,156 @@
+*ItemCode,ItemName,PurchasesDescription,PurchasesUnitPrice,PurchasesAccount,PurchasesTaxRate,SalesDescription,SalesUnitPrice,SalesAccount,SalesTaxRate
+Admin Fee ENV,Admin Fee Environment,.,,,,.,$0.00 ,42140.0,GST on Income
+Admin Fee OHS,Admin Fee Safety,.,,,,.,$0.00 ,43140.0,GST on Income
+Admin Fee ASS,Admin Fee Assurance,.,,,,.,$0.00 ,48140.0,GST on Income
+Advance from Client,Advance from Client,.,,,,.,$0.00 ,23010.0,BAS Excluded
+Advanced Diploma,Advanced Diploma,.,,,,.,$0.00 ,44030.0,BAS Excluded
+Assurance Income,Assurance Income,.,,,,.,$0.00 ,12320.0,BAS Excluded
+Bank Fee,Bank Fee,.,,,,.,$0.00 ,41030.0,GST Free Income
+BHP Hourly,BHP Hourly Charges,.,,,,.,$0.00 ,43022.0,GST on Income
+Central Asia Income,Central Asia Income,.,,,,.,$0.00 ,43022.0,GST on Income
+Diploma OHS-PPP,Diploma Vet PPP,.,,,,.,$0.00 ,44040.0,GST on Income
+Advaced Diploma OSH,Advanced Diploma OSH,.,,,,.,$0.00 ,44030.0,GST on Income
+Domestic Travel Reimb ENV,Domestic Travel Reimbursement,.,,,,.,$0.00 ,42120.0,GST on Income
+Domestic Travel Reimb OHS,Domestic Travel Reimb OHS,.,,,,.,$0.00 ,43120.0,GST on Income
+Domestic Travel Reimb ASS,Domestic Travel Reimb ASS,.,,,,.,$0.00 ,48120.0,GST on Income
+ENV Consultant DAY,ENV Consultant DAY,.,,,,.,$0.00 ,42022.0,GST on Income
+ENV Consultant LUMP SUM,ENV Consultant LUMP SUM,.,,,,.,$0.00 ,42022.0,GST on Income
+ENV Consultant HOURLY,ENV Consultant HOURLY,.,,,,.,$0.00 ,42022.0,GST on Income
+ENV Employee HOURLY,ENV Employee HOURLY,.,,,,.,$0.00 ,42012.0,GST on Income
+ENV Employee LUMP SUM,ENV Employee LUMP SUM,.,,,,.,$0.00 ,42012.0,GST on Income
+TECH Employee day,TECH Employee DAY,.,,,,.,$0.00 ,49012.0,GST on Income
+Inter Co CENTRAL ASIA,Inter Co CENTRAL ASIA,.,,,,.,$0.00 ,14130.0,FRE
+Inter Co EAST ASIA,Inter Co EAST ASIA,.,,,,.,$0.00 ,12320.0,FRE
+Inter Co ASSURANCE,Inter Co ASSURANCE,.,,,,.,$0.00 ,14140.0,GST
+International Reimb ENV,International Reimb ENV,.,,,,.,$0.00 ,42130.0,GST on Income
+International Reimb OHS,International Reimb OHS,.,,,,.,$0.00 ,43130.0,GST on Income
+International Reimb ASS,International Reimb ASS,.,,,,.,$0.00 ,48130.0,GST on Income
+Kilometres ENV,Kilometres,.,,,,.,$0.00 ,42110.0,GST on Income
+Kilometres OHS,Kilometres,.,,,,.,$0.00 ,43110.0,GST on Income
+Kilometres ASS,Kilometres,.,,,,.,$0.00 ,48110.0,GST on Income
+Lead Auditor Course,Lead Auditor Course,.,,,,.,$0.00 ,44020.0,GST on Income
+NEEBOSH,NEEBOSH,.,,,,.,$0.00 ,44010.0,GST on Income
+OHS Employee HOURLY,OHS Employee HOURLY,.,,,,.,$0.00 ,43012.0,GST on Income
+OHS Employee LUMP SUM,OHS Employee LUMP SUM,.,,,,.,$0.00 ,43012.0,GST on Income
+OHS Employee DAY,OHS Employee DAY,.,,,,.,$0.00 ,43012.0,GST on Income
+OHS Consultant DAY,OHS Consultant DAY,.,,,,.,$0.00 ,43022.0,GST on Income
+OHS Consultant HOURLY,OHS Consultant HOURLY,.,,,,.,$0.00 ,43022.0,GST on Income
+Overseas Travel Reimb ENV,Overseas Travel Reimb ENV,.,,,,.,$0.00 ,42130.0,GST on Income
+Overseas Travel Reimb OHS,Overseas Travel Reimb OHS,.,,,,.,$0.00 ,43130.0,GST on Income
+Overseas Travel Reimb ASS,Overseas Travel Reimb ASS,.,,,,.,$0.00 ,48130.0,GST on Income
+Project Mgmnt Fee ENV,Project Management Fee ENV,.,,,,.,$0.00 ,42140.0,GST on Income
+Project Mgmnt Fee OHS,Project Management Fee OHS,.,,,,.,$0.00 ,43140.0,GST on Income
+Project Mgmnt Fee ASS,Project Management Fee ASS,.,,,,.,$0.00 ,48140.0,GST on Income
+RABQSA,RABQSA,.,,,,.,$0.00 ,44060.0,GST on Income
+Rio Auditing Employee,Rio Auditing Employee,.,,,,.,$0.00 ,49012.0,GST on Income
+Rio Auditing Consultant,Rio Auditing Consultant,.,,,,.,$0.00 ,49022.0,GST on Income
+RIO Hourly Employee,RIO Hourly Employee,.,,,,.,$125.00 ,49012.0,GST on Income
+Rio Hourly Consultant,Rio Hourly Consultant,.,,,,.,$125.00 ,49022.0,GST on Income
+RIO Scheduling Fee,Scheduling Fee,.,,,,.,$50.00 ,49012.0,GST on Income
+RPL,Recognised Prior Learning,.,,,,.,$0.00 ,44070.0,GST on Income
+Site Allowance ENV,Site Allowance ENV,.,,,,.,$0.00 ,42140.0,GST on Income
+Site Allowance OHS,Site Allowance OHS,.,,,,.,$0.00 ,43140.0,GST on Income
+Site Allowance ASS,Site Allowance ASS,.,,,,.,$0.00 ,48140.0,GST on Income
+SMS,Security Management System,.,,,,.,$0.00 ,44020.0,GST on Income
+Training Income Other,Training Income Other,.,,,,.,$0.00 ,44090.0,GST on Income
+Training Room Hire,Training Room Hire,.,,,,.,$0.00 ,44080.0,GST on Income
+Travel Day ENV,Travel Day ENV,.,,,,.,$0.00 ,42120.0,GST on Income
+Travel Hours ENV,Travel Hours ENV,.,,,,.,$0.00 ,42120.0,GST on Income
+Travel Day OHS,Travel Day OHS,.,,,,.,$0.00 ,43120.0,GST on Income
+Travel Hours OHS,Travel Hours OHS,.,,,,.,$0.00 ,43120.0,GST on Income
+Travel Day ASS,Travel Day ASS,.,,,,.,$0.00 ,48120.0,GST on Income
+Travel Hours ASS,Travel Hours ASS,.,,,,.,$0.00 ,48120.0,GST on Income
+VimSuite,VimSuite Software License,.,,,,.,$0.00 ,41050.0,GST on Income
+Training Employee Day,Training Employee Day,.,,,,.,$0.00 ,44052.0,GST on Income
+Other fee training,Other fee training,.,,,,.,$0.00 ,44090.0,GST on Income
+Training Consultant Day,Training Consultant Day,.,,,,.,$0.00 ,44052.0,GST on Income
+Domestic Travel Reimb TRA,Domestic Travel Reimb TRA,.,,,,.,$0.00 ,44120.0,GST on Income
+Reimbursement ENV,Reimbursement ENV,.,,,,.,$0.00 ,42120.0,GST on Income
+Other fee-CA,Other fee -CA admin fee,.,,,,.,$0.00 ,41030.0,GST on Income
+Training Employee lumpsum,Traning employee lumpsum,.,,,,.,$0.00 ,44052.0,GST on Income
+International Reimb TRA,International Reimb TRA,.,,,,.,$0.00 ,44130.0,GST on Income
+Training employee hourly,Traning employee hourly,.,,,,.,$0.00 ,44052.0,GST on Income
+Lead Auditor course-Hr,Lead Auditor Course -Hr,.,,,,.,$0.00 ,44020.0,GST on Income
+Lead Auditor Course-Lumpsum,Lead Auditor Course-Lumpsum,.,,,,.,$0.00 ,44020.0,GST on Income
+Admin fee- TRA,Admin Fee -TRA,.,,,,.,$0.00 ,44090.0,GST on Income
+Prepayment,Prepayment,.,,,,.,$0.00 ,23010.0,GST
+OHS Consultant Lumpsum,OHS Consultant Lumpsum,.,,,,.,$0.00 ,43022.0,GST on Income
+Training Consultant lumpsum,Training Consultant Lumpsum,.,,,,.,$0.00 ,44052.0,GST on Income
+Training Consultant Hourly,Training Consultant Hourly,.,,,,.,$0.00 ,44052.0,GST on Income
+Domestic travel OHS Day,Domestic travel OHS Day,.,,,,.,$0.00 ,43120.0,GST on Income
+Refund for IT,Refund for IT,.,,,,.,$0.00 ,61532.0,GST on Expenses
+RIO Action Plan Report,Action Plan Report,.,,,,.,$50.00 ,49012.0,GST on Income
+Adjustment,Adjustment to tf bal,.,,,,.,$0.00 ,11160.0,BAS Excluded
+Kilometer TRA,Kilometers,.,,,,.,$0.75 ,44110.0,GST on Income
+Other Income,Other Income,.,,,,.,$0.00 ,41030.0,GST on Income
+reversal of advance,reversal of advance,.,,,,.,$0.00 ,23010.0,GST
+Project Mgmnt Fee TRA,Project Mgmnt Fee TRA,.,,,,.,$0.00 ,44090.0,GST on Income
+Provision for Doubtful Debts,Provision for Doubtful Debts,.,,,,.,$0.00 ,26040.0,GST
+Certificate Courses,Certificate Courses,.,,,,.,$0.00 ,44025.0,BAS Excluded
+Other Income OHS,Other income OHS,.,,,,.,$0.00 ,43040.0,GST on Income
+Training VOC,Verification of Competence,.,,,,.,$0.00 ,44092.0,GST on Income
+TECH Consultant Day,TECH Consultant Day,.,,,,.,$0.00 ,49022.0,GST on Income
+TECH Consultant Hourly,TECH Consultant Hourly,.,,,,.,$0.00 ,49022.0,GST on Income
+TECH Consultant Lumpsum,TECH Consultant Lumpsum,.,,,,.,$0.00 ,49022.0,GST on Income
+TECH Employee Day,TECH Employee Day,.,,,,.,$0.00 ,49012.0,GST on Income
+TECH Employee Hourly,TECH Employee Hourly,.,,,,.,$0.00 ,49012.0,GST on Income
+TECH Employee Lumpsum,TECH Employee Lumpsum,.,,,,.,$0.00 ,49012.0,GST on Income
+Travel Day TECH,Travel Day TECH,.,,,,.,$0.00 ,49120.0,GST on Income
+Travel Hours TECH,Travel Hours TECH,.,,,,.,$0.00 ,49120.0,GST on Income
+Site Allowance TECH,Site Allowance TECH,.,,,,.,$0.00 ,49140.0,GST on Income
+Project Mgmnt Fee TECH,Project Mgmnt Fee TECH,.,,,,.,$0.00 ,49140.0,GST on Income
+Kilometres TECH,Kilometres TECH,.,,,,.,$0.00 ,49110.0,GST on Income
+Overseas Travel Reimb TECH,Overseas Travel Reimb TECH,.,,,,.,$0.00 ,49130.0,GST on Income
+Domestic Travel Reimb TECH,Domestic Travel Reimb TECH,.,,,,.,$0.00 ,49120.0,GST on Income
+Traineeship,Traineeship,.,,,,.,$0.00 ,44040.0,BAS Excluded
+Admin fee- TECH,Project Administration Fee,.,,,,.,$0.00 ,49140.0,GST on Income
+Enterprise Grant,Ent Grant,.,,,,.,$0.00 ,42022.0,GST on Income
+printing 6-1475,New Item,.,$0.00 ,61745.0,GST,.,,,BAS Excluded
+international travel reimburse,int'l travel reimbursement-BUS,.,,,,.,$0.00 ,61220.0,GST on Expenses
+cap BPJ,capBPJ,.,$0.00 ,,GST,.,,,BAS Excluded
+freight- NC OHS,freight Nc OHS,.,$0.00 ,,GST,.,,,BAS Excluded
+ASQA Module,ASQA Module,.,$0.00 ,54070.0,GST,.,,,BAS Excluded
+DMS Module,DMS Module,.,$0.00 ,54070.0,GST,.,,,BAS Excluded
+ASQA Documents,ASQA Documents,.,$0.00 ,54070.0,GST,.,,,BAS Excluded
+quick corporate 120010800,Divider A4 Unpunch,.,$0.00 ,61545.0,N-T,.,,,BAS Excluded
+quick corporate 530102300,Forks Plastic 100's,.,$0.00 ,61560.0,N-T,.,,,BAS Excluded
+quick corporate 830006000,Leminating Pouch A4 80MIC ASP,.,$0.00 ,61560.0,N-T,.,,,BAS Excluded
+quick corporate 530108404,Napkin Dinner 2 Ply Bottle Gre,.,$0.00 ,61560.0,N-T,.,,,BAS Excluded
+quick corporate 660025200,Notebook 812 Recycled A5 120P,.,$0.00 ,61560.0,N-T,.,,,BAS Excluded
+quick corporate bus card TRA,Business Card,.,$0.00 ,64345.0,N-T,.,,,BAS Excluded
+Rental refund,office rent refund,.,,,,.,$0.00 ,61605.0,GST on Expenses
+netsavi,Netsavi,.,$0.00 ,61534.0,GST,.,,,BAS Excluded
+Salmark Yellow PPE,Salmark Yellow PPE,.,$0.00 ,61465.0,GST,.,,,BAS Excluded
+Salmark Women corporate shirt,Salmark Women corporate shirt,.,$0.00 ,61465.0,GST,.,,,BAS Excluded
+Salmark Women corporate skirt,Salmark Women corporate skirt,.,$0.00 ,61465.0,GST,.,,,BAS Excluded
+Salmark Mens Corporate Shirt,Salmark Mens Corporate Shirt,.,$0.00 ,61465.0,GST,.,,,BAS Excluded
+Ocean IT - ADM,Laptop,.,$0.00 ,15160.0,N-T,.,,,BAS Excluded
+Doubtful Debt,Doubtful Debt,.,,,,.,$0.00 ,61315.0,GST on Expenses
+Quick Corporate bus card TRA,business card,.,$0.00 ,69345.0,N-T,.,,,BAS Excluded
+RABQSA skill assessment,RABQSA skill assessment,.,,,,.,$0.00 ,44060.0,GST on Income
+undeposit fund,undeposit fund,.,,,,.,$0.00 ,11170.0,BAS Excluded
+Reimbursement TECH,Reimbursement TECH,.,,,,.,$0.00 ,49120.0,GST on Income
+Phone reimbursement,Phone reimbursement,.,,,,.,$0.00 ,61575.0,GST on Expenses
+Accommodation & Conference,Accommodation & Conference,.,$0.00 ,61640.0,GST,.,,,BAS Excluded
+CRM Software,CRM Software,.,$0.00 ,61532.0,GST,.,,,BAS Excluded
+IT Strategy,IT Strategy,.,$0.00 ,61534.0,GST,.,,,BAS Excluded
+printer sold out,printer sold out,.,,,,.,$0.00 ,41030.0,GST on Income
+PICS reimburse TWS Exp,PICS reimburse TWS Exp,.,,,,.,$0.00 ,24050.0,GST
+Sub lease PICS,Sub lease PICS,.,,,,.,$0.00 ,61606.0,GST on Expenses
+TWS pay to PICS,TWS pay to PICS,.,,,,.,$0.00 ,25030.0,GST
+netsavii,netsavii,.,$0.00 ,61534.0,GST,.,,,BAS Excluded
+netsavii month,netsavii month,.,$0.00 ,61534.0,GST,.,,,BAS Excluded
+Phone reimbursement - ENV,Phone reimbursement - ENV,.,,,,.,$0.00 ,62375.0,GST on Expenses
+intternational reimbur: TECH,intternational reimbur: TECH,.,,,,.,$0.00 ,49130.0,GST on Income
+Intl travel reiimbursement TEC,Intl travel reiimbursement TEC,.,,,,.,$0.00 ,49130.0,GST on Income
+Assurance employee hr,Assurance employee hr,.,,,,.,$0.00 ,48010.0,GST on Income
+ENV Employee Daily,ENV Employee Daily,.,,,,.,$0.00 ,42012.0,GST on Income
+Bad Debt write off,Bad Debt write off,.,,,,.,$0.00 ,92115.0,GST
+Office Furniture Sales,Office Furniture Sales,.,,,,.,$0.00 ,15140.0,GST
+Assurance employee lumpsum,Assurance employee lumpsum,.,,,,.,$0.00 ,48010.0,BAS Excluded
+ENV CoS chargable,ENV CoS chargable,.,,,,.,$0.00 ,42022.0,GST on Income
+Daily equipment rental,Daily equipment rental,.,$0.00 ,52030.0,GST,.,,,BAS Excluded
+freight- ENV,freight- ENV,.,$0.00 ,52030.0,GST,.,,,BAS Excluded
+Credit for Overpayment,Credit for Overpayment,.,,,,.,$0.00 ,23010.0,GST
+ADM Employee lumpsum,ADM Employee lumpsum,.,,,,.,$0.00 ,41030.0,GST on Income
+Reimburse Electricity,Reimburse Electricity,.,,,,.,$0.00 ,41030.0,GST on Income

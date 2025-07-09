@@ -1,0 +1,1118 @@
+ID	C-Name	Number	date	C-PON	Item-no	Item-Name	Quantity	Description	Uprice	TaxCode	Discount	Job-no	Job-Name	IsTaxInclusive	FreightTaxCode	Freightamt	Total-Amount	TaxTotalamt	LineTotalamt	AccountCode
+4bf02009-ffd5-4839-a403-2b5ce295f82e	Gloucestershire Hospitals NHS Foundation Trust	4941	DateTimD:4/4/2025	REFUND V032746						FRE				TRUE	FRE	0	-20379.09	0	-20379.09	ACC:6-2502
+bbc81ba7-e5be-4405-a06b-63d590c52a3a	BioAgilytix Labs LLC	4858	DateTimD:23/1/2025	Credit Note 124676				Credit Memo #124676		FRE				TRUE	FRE	0	-17938.06	0	-17938.06	ACC:6-5118
+9c7ec696-e5b2-486c-a363-4323c56d91cc	Thermo Fisher Scientific Australia	dit Note	DateTimD:8/1/2025	25-01 CR				Credit Note		GST				TRUE	GST	0	-15794.9	-1435.9	-15794.9	ACC:6-1510
+11d833b4-82c8-4ac5-b595-2eaf5b686941	Thermo Fisher Scientific Australia	NA	DateTimD:1/2/2025	25-01 CR				Corrective credit note to apply to equipment maintenance contract		GST				TRUE	GST	0	-8935.85	-812.35	-8935.85	ACC:6-1510
+aeaf3d3a-5562-4b87-a943-25d44f51b10f	Fertility Society of Australia	4854	DateTimD:1/2/2025	Reversal FSANZ24-582				NOT ATTENDING??? Exhibition Trade Stand - 944		GST				TRUE	GST	0	-6600	-600	-6600	ACC:6-2150
+7d3799bc-48fb-4e70-9f14-426a41f3728f	Australian Institute of Management	4315	DateTimD:1/2/2025	7167832 Reversal				"Transition to General Management, 24/03/2025 - Reimburse to HL"		FRE				TRUE	GST	0	-4226	0	-4226	ACC:6-2150
+1fd8199e-79bb-4b78-b0bc-b4e22a707490	Bio-Strategy Pty Ltd	4888	DateTimD:1/2/2025	7500388227 Reversal				DUPLICATE - EPPENDORF SERVICE AGREEMENT -STANDARD Year 2- SF00005028		GST				TRUE	GST	0	-1965.7	-178.7	-1965.7	ACC:6-1510
+46f51ef6-664c-43ea-914a-78868d1e7f4d	THE CONFERENCE COMPANY (AUSTRALIA) PTY. LTD.	4857	DateTimD:1/2/2025	Reversal ADC24-993				 Paid RL Card		GST				TRUE	GST	0	-513	-46.64	-513	ACC:6-2150
+27f3d46e-4a82-4d0d-ac9d-d15268aae00b	City of Subiaco	4860	DateTimD:24/1/2025					"825475 BOND 
+REFUND"		FRE				TRUE	GST	0	-430	0	-430	ACC:1-1510
+d3157a61-d33b-48d1-b628-7101e5d45cd4	Royal Freshwater Bay Yacht Club	4669	DateTimD:29/4/2025	114903 REFUND				PIQ 10 Year ASX Listing Celebration 16/04/2025		GST				TRUE	GST	0	-327.5	-29.77	-327.5	ACC:6-4122
+04ec5793-4469-4f31-8c4b-87232dd5b9d0	Churchill Knight	4893	DateTimD:1/2/2025	Adjustment						GST				TRUE	GST	0	-280	-25.45	-280	ACC:6-1110
+ce388dcf-b597-4803-9439-4d3caeb1d863	JB Hi-Fi	4855	DateTimD:1/2/2025	Reversal JB-18971427				"PAID ON DEBIT CARD - Samsung LS27C360 27"" FHD Curved"		GST				TRUE	GST	0	-278.99	-25.36	-278.99	ACC:6-4122
+1cd34f8a-af51-4896-9fbc-a6acaa689c2a	Australian Taxation Office	4890	DateTimD:1/2/2025	Adjustment Note				Late fee		N-T				TRUE	GST	0	-270	0	-492.66	ACC:6-0501
+1cd34f8a-af51-4896-9fbc-a6acaa689c2a	Australian Taxation Office	4890	DateTimD:1/2/2025	Adjustment Note				Late fee		N-T				TRUE	GST	0	-270	0	222.66	ACC:6-4122
+92ca6dc7-c2cf-4d42-ab0a-29a49c767d76	Churchill Knight	4803	DateTimD:2/4/2025	REFUND				Refund Car Bay Rent		FRE				TRUE	GST	0	-250	0	-250	ACC:6-0550
+624bd669-6863-4264-b52c-b3e8750d3d05	Adobe Systems Software	4853	DateTimD:1/2/2025	Reversal AE03434936644CAU				Adobe Stock photos - Paid on Db Card 01.01.25		GST				TRUE	GST	0	-87.99	-8	-87.99	ACC:6-7105
+fca0839d-2078-471a-a41c-75923988bad9	TNT Express	4858	DateTimD:1/2/2025	Reversal 46462764001						FRE				TRUE	GST	0	-83.85	0	-83.85	ACC:6-5020
+ce541bbf-7fc5-4e35-a2e5-d52c642d5038	Uber	4859	DateTimD:1/2/2025	Reversal 12-02						FRE				TRUE	GST	0	-65.2	0	-65.2	ACC:6-2102
+0a0042a9-0d10-49cf-ba8b-5b7b1d06cc6d	Uniprint	4860	DateTimD:1/2/2025	Reversal 198624-1				Printing for Flyer Promaker Endo		GST				TRUE	GST	0	-62.7	-5.7	-62.7	ACC:6-2200
+487b9d1e-0d7a-4f32-97b8-a1909196ecf8	Miscellaneous Creditor	4887	DateTimD:1/2/2025	Adjustment Note				USA Unlimited LITE - 15 Days		FRE				TRUE	GST	0	-44	0	-44	ACC:6-2102
+a3a24c35-8623-4091-9290-2b5047183ff7	Taxis/Trains/Ferry's	4856	DateTimD:1/2/2025	Reversal 24-12				HL Travel in California		FRE				TRUE	GST	0	-13.32	0	-13.32	ACC:6-2102
+cfa81c55-1804-4b10-97cb-1266176c7869	MYOB Australia	4886	DateTimD:1/2/2025	ADJUSTMENT Note				Online Payments Transaction Fees		GST				TRUE	GST	0	-6.69	-0.61	-2.63	ACC:6-4104
+cfa81c55-1804-4b10-97cb-1266176c7869	MYOB Australia	4886	DateTimD:1/2/2025	ADJUSTMENT Note				Online Payments Transaction Fees		GST				TRUE	GST	0	-6.69	-0.61	-3.22	ACC:6-7105
+cfa81c55-1804-4b10-97cb-1266176c7869	MYOB Australia	4886	DateTimD:1/2/2025	ADJUSTMENT Note				Online Payments Transaction Fees		GST				TRUE	GST	0	-6.69	-0.61	-0.84	ACC:6-7105
+06432fb0-46f4-4a7e-b540-da6e16b2f923	O'Sullivans Patent Attorneys	4895	DateTimD:28/2/2025	2025436				Japanese Patemt - 2022-553604. Professional Service Fee		GST				TRUE	GST	0	0	10.75	96.25	ACC:6-3525
+06432fb0-46f4-4a7e-b540-da6e16b2f923	O'Sullivans Patent Attorneys	4895	DateTimD:28/2/2025	2025436				Foreign Associates Fees (no GST) - Invoice No. 2025-013928		FRE				TRUE	GST	0	0	10.75	4642.68	ACC:6-3525
+06432fb0-46f4-4a7e-b540-da6e16b2f923	O'Sullivans Patent Attorneys	4895	DateTimD:28/2/2025	2025436				Other Service Charge - International Payment Bank Fee (GST)		GST				TRUE	GST	0	0	10.75	22	ACC:6-3525
+06432fb0-46f4-4a7e-b540-da6e16b2f923	O'Sullivans Patent Attorneys	4895	DateTimD:28/2/2025	2025436				Less: Retainer		N-T				TRUE	GST	0	0	10.75	-4760.93	ACC:1-1512
+e4f545d1-83a9-4646-b1b9-c4e1af57b623	O'Sullivans Patent Attorneys	4871	DateTimD:31/1/2025	2025388				"US PATENT - Method of Assessing a subject for abnormal kidney function.
+Professional Fee"		GST				TRUE	GST	0	0	25	275	ACC:6-3525
+e4f545d1-83a9-4646-b1b9-c4e1af57b623	O'Sullivans Patent Attorneys	4871	DateTimD:31/1/2025	2025388				Disbursement : Official Fees - renewal		FRE				TRUE	GST	0	0	25	2584.36	ACC:6-3525
+e4f545d1-83a9-4646-b1b9-c4e1af57b623	O'Sullivans Patent Attorneys	4871	DateTimD:31/1/2025	2025388				Less: Retainer		N-T				TRUE	GST	0	0	25	-2859.36	ACC:1-1512
+59c546c0-ec92-49c7-acd7-0934202b1239	O'Sullivans Patent Attorneys	4872	DateTimD:31/1/2025	2025378				"Japanese Patent - Endometriosis Biomarkers
+Professional Fee"		GST				TRUE	GST	0	0	291.67	3208.34	ACC:6-3525
+59c546c0-ec92-49c7-acd7-0934202b1239	O'Sullivans Patent Attorneys	4872	DateTimD:31/1/2025	2025378				Less: Retainer		N-T				TRUE	GST	0	0	291.67	-3208.34	ACC:1-1512
+5dbe6fbf-553c-4310-b810-14ac5e1b6b03	O'Sullivans Patent Attorneys	4896	DateTimD:28/2/2025	2025437				US Patent Application - Foreign Associates Fee		FRE				TRUE	GST	0	0	2	8639.02	ACC:6-3525
+5dbe6fbf-553c-4310-b810-14ac5e1b6b03	O'Sullivans Patent Attorneys	4896	DateTimD:28/2/2025	2025437				International Bank Fee		GST				TRUE	GST	0	0	2	22	ACC:6-3525
+5dbe6fbf-553c-4310-b810-14ac5e1b6b03	O'Sullivans Patent Attorneys	4896	DateTimD:28/2/2025	2025437				Less Retainer		N-T				TRUE	GST	0	0	2	-8661.02	ACC:1-1512
+a94de99b-15cc-4aa7-8e27-ced1b19d8698	O'Sullivans Patent Attorneys	4966	DateTimD:30/4/2025	2025554				Canadian Patent Application No. 3169082 - Professional Service Fee		GST				TRUE	GST	0	0	86.58	930.41	ACC:6-3525
+a94de99b-15cc-4aa7-8e27-ced1b19d8698	O'Sullivans Patent Attorneys	4966	DateTimD:30/4/2025	2025554				Foreign Associates Fees* (no GST)		FRE				TRUE	GST	0	0	86.58	2274.96	ACC:6-3525
+a94de99b-15cc-4aa7-8e27-ced1b19d8698	O'Sullivans Patent Attorneys	4966	DateTimD:30/4/2025	2025554				Other Service Charge - International Payment Bank Fee (GST)		GST				TRUE	GST	0	0	86.58	22	ACC:6-3525
+a94de99b-15cc-4aa7-8e27-ced1b19d8698	O'Sullivans Patent Attorneys	4966	DateTimD:30/4/2025	2025554				Less: Retainer		N-T				TRUE	GST	0	0	86.58	-3227.37	ACC:1-1512
+5310b436-3224-49a8-ab4d-0c005d6f46dd	O'Sullivans Patent Attorneys	NA	DateTimD:31/1/2025	2025379				European Patent Application - Endometriosis Biomarkers. Professional Service Fee		GST				TRUE	GST	0	0	7.83	64.16	ACC:6-3525
+5310b436-3224-49a8-ab4d-0c005d6f46dd	O'Sullivans Patent Attorneys	NA	DateTimD:31/1/2025	2025379				Disbursement - Foreign Associates		FRE				TRUE	GST	0	0	7.83	891.76	ACC:6-3525
+5310b436-3224-49a8-ab4d-0c005d6f46dd	O'Sullivans Patent Attorneys	NA	DateTimD:31/1/2025	2025379				Int Bank Fee		GST				TRUE	GST	0	0	7.83	22	ACC:6-3525
+5310b436-3224-49a8-ab4d-0c005d6f46dd	O'Sullivans Patent Attorneys	NA	DateTimD:31/1/2025	2025379				Less: Retainer		N-T				TRUE	GST	0	0	7.83	-977.92	ACC:1-1512
+37c316a6-508b-49cd-ae02-2f53cf329297	Coffee Anatomy	4813	DateTimD:8/4/2025	SP-66				Juice and Green Power (HL & DI)		FRE				TRUE	GST	0	13.7	0	13.7	ACC:6-4122
+6f393209-a6b3-4125-9765-d9222d1fa4bd	"Sony, Sreeja"	4943	DateTimD:22/4/2025	25-04 Reimbursement				Broadband		FRE				TRUE	GST	0	22.45	0	620	ACC:6-4122
+6f393209-a6b3-4125-9765-d9222d1fa4bd	"Sony, Sreeja"	4943	DateTimD:22/4/2025	25-04 Reimbursement				Mobile		FRE				TRUE	GST	0	22.45	0	588	ACC:6-4122
+6f393209-a6b3-4125-9765-d9222d1fa4bd	"Sony, Sreeja"	4943	DateTimD:22/4/2025	25-04 Reimbursement				"TOTAL INR 1,208. Diff in Currency  Indian Rupee 53.81"		FRE				TRUE	GST	0	22.45	0	-1185.55	ACC:6-4122
+b8d26ec6-3928-4c42-8acb-84171ebcac62	Coffee Anatomy	4952	DateTimD:28/4/2025	SP-65				"Cappuccino - Large (Kirstin)
+Orange Juice - Regular (Scott) 
+Batch Brew - Small (Hitormi)"		GST				TRUE	GST	0	23	1.41	15.51	ACC:6-4122
+b8d26ec6-3928-4c42-8acb-84171ebcac62	Coffee Anatomy	4952	DateTimD:28/4/2025	SP-65				Free GST items		FRE				TRUE	GST	0	23	1.41	7.49	ACC:6-4122
+f20d0fed-4795-4c7d-9c93-75ec717904a0	Jordana Sheahan Expenses	4942	DateTimD:16/4/2025	25-04 Reimbursement				Uber from PIQ Celebration Event on 16.04.25		GST				TRUE	GST	0	29.02	2.64	29.02	ACC:6-4122
+8af400c0-1dfa-46b2-9ae6-dd5c81c668b6	Kirsten Peters expenses	4942	DateTimD:16/4/2025	25-04 Reimbursement				Uber ride from PIQ Anniversary Dinner		GST				TRUE	GST	0	58.22	5.29	58.22	ACC:6-4122
+fc66eae4-d2ef-40ba-9904-3ccbbdbae383	Pearl Tan Expenses	4946	DateTimD:16/4/2025	25-04 Reimbursement				Uber to/from PIQ Celebration event		GST				TRUE	GST	0	90.9	8.26	90.9	ACC:6-4122
+5b4815a0-2888-4f84-84ce-0cef9b6e74ac	BOC Limited	ct Debit	DateTimD:28/4/2025	4039083412				R234E NITROGEN UHP E SIZE & R262G2 ARGON UHP G2 SIZE for period 29/03/2025 to 27/04/2025		GST				TRUE	GST	0	111.21	10.11	111.21	ACC:6-5010
+7c954d76-1c6e-443b-af7f-1942cd6d7243	A TEAM PRINTING PTY LTD	SD-4946	DateTimD:14/4/2025	137794				"interp guide 
+
+100 X A4, DOUBLE SIDED FLYER"		GST		GP	Group	TRUE	GST	0	121	11	121	ACC:6-2200
+dce57a05-9ad2-45fd-9b66-01cf76bb1bec	A TEAM PRINTING PTY LTD	SD-4946	DateTimD:14/4/2025	137793				"PROMARKER D MY TEST
+100 X DL, 6PP BROCHURE.  PRINTED ON 200GSM MATT."		GST		GP	Group	TRUE	GST	0	138.6	12.6	138.6	ACC:6-2200
+294b620d-cfbf-4f80-8e7c-e6af30054d64	Sigma-Aldrich Pty Ltd	DI-4952	DateTimD:15/4/2025	565084499				"TRIGLYCERIDE MIX,C2-C10,100MG NEAT"		GST		DB	Diagnostic Biomarker	TRUE	GST	0	158.62	14.42	92.62	ACC:6-5122
+294b620d-cfbf-4f80-8e7c-e6af30054d64	Sigma-Aldrich Pty Ltd	DI-4952	DateTimD:15/4/2025	565084499				Trans/Handling Adj		GST		DB	Diagnostic Biomarker	TRUE	GST	0	158.62	14.42	-38.5	ACC:6-5020
+294b620d-cfbf-4f80-8e7c-e6af30054d64	Sigma-Aldrich Pty Ltd	DI-4952	DateTimD:15/4/2025	565084499				Trans/Handling/Fee		GST		DB	Diagnostic Biomarker	TRUE	GST	0	158.62	14.42	71.5	ACC:6-5020
+294b620d-cfbf-4f80-8e7c-e6af30054d64	Sigma-Aldrich Pty Ltd	DI-4952	DateTimD:15/4/2025	565084499				Ice Fee		GST		DB	Diagnostic Biomarker	TRUE	GST	0	158.62	14.42	33	ACC:6-5020
+087dc9fd-4da8-446f-8920-24477bae030d	Graham Day & Associates Pty Ltd	4814	DateTimD:30/4/2025	32				Employee Parking - 168 Hampden Road 01.05.25 - 31.05.25		GST		GP	Group	TRUE	GST	0	165	15	165	ACC:6-0550
+71fb1b0f-a731-449d-8b0e-a2d86655ec78	Thermo Fisher Scientific Australia	DI-4940	DateTimD:11/4/2025	I4160361				Finntip 5mL bulk 500pcs		GST		GP	Group	TRUE	GST	0	173.78	15.8	173.78	ACC:6-5010
+ff5603a4-e1d0-401e-8e47-0535c55ba38f	A TEAM PRINTING PTY LTD	SD-4946	DateTimD:14/4/2025	137792				"PromarkerD HCP Brochure
+100 X A4, 4PP BROCHURE.  PRINTED ON 200GSM MATT ART  -"		GST		GP	Group	TRUE	GST	0	200.2	18.2	200.2	ACC:6-2200
+ac93ab25-eaa8-49e5-934a-13135efd5eaf	Interpath	DI-4939	DateTimD:10/4/2025	I100582				MICROTUBE GRAD NAT 1.5ML		GST		GP	Group	TRUE	GST	0	219.7	19.97	57.22	ACC:6-5010
+ac93ab25-eaa8-49e5-934a-13135efd5eaf	Interpath	DI-4939	DateTimD:10/4/2025	I100582				MICROTUBE GRAD - NAT 2ML		GST		GP	Group	TRUE	GST	0	219.7	19.97	28.61	ACC:6-5010
+ac93ab25-eaa8-49e5-934a-13135efd5eaf	Interpath	DI-4939	DateTimD:10/4/2025	I100582				SHARPS WASTE CONTAINER YELLOW 4LT		GST		GP	Group	TRUE	GST	0	219.7	19.97	40.92	ACC:6-5010
+ac93ab25-eaa8-49e5-934a-13135efd5eaf	Interpath	DI-4939	DateTimD:10/4/2025	I100582				CONTAINER SHARPS 24 LITRE RECYCLED		GST		GP	Group	TRUE	GST	0	219.7	19.97	37.95	ACC:6-5010
+ac93ab25-eaa8-49e5-934a-13135efd5eaf	Interpath	DI-4939	DateTimD:10/4/2025	I100582				Freight		GST		GP	Group	TRUE	GST	0	219.7	19.97	55	ACC:6-5020
+46cdef86-316e-4e1b-89cb-b9b437a59e5a	Restaurant	4889	DateTimD:1/3/2025	1058459				ProMarker D Dinner 05.02.25 - PAV Complete Event Solutions Charges		GST		GP	Group	TRUE	GST	0	250	22.73	250	ACC:6-4122
+bd0cc22d-8168-4337-938e-4dc16d683ee2	Sigma-Aldrich Pty Ltd	DI-4952	DateTimD:16/4/2025	565095261				"2 x TRIFLUOROACETIC ACID, REAGENTPLUS(R)"		GST		AS	Analytical Services	TRUE	GST	0	341.99	31.09	341.99	ACC:6-5210
+739ffb53-98fc-4efe-a4de-7b8e7fec62ed	Cygnet West Pty Ltd - Storage Server	Retainer	DateTimD:1/4/2025	INV-FSH1013				Storage Server April 2025 - June 2025		GST				TRUE	GST	0	359.36	32.67	359.36	ACC:6-7105
+833a1715-08f6-4af4-a3f5-4d5e07020cec	Dee's Cleaning	4943	DateTimD:17/4/2025	017042025PI				"Hampden Office Cleaning - 20 March, 3rd April and 17 April at $120/visit"		FRE				TRUE	GST	0	360	0	360	ACC:6-4122
+cf44fa91-3b77-4520-9114-23cacf5d7c2e	XCY Pty Ltd	4964	DateTimD:30/4/2025	XCYS10130				"Monthly Billing for April 2025
+Remote Management & Monitoring products are important for"		GST				TRUE	GST	0	376.2	34.2	376.2	ACC:6-7105
+fc1e6875-e50b-4069-8c8c-d033f3b684f3	Microsoft Regional Sales	ct Debit	DateTimD:26/2/2025	E0100VGA86				Online Service - 26/01/2025 - 25/02/2025		GST				TRUE	GST	0	420.05	38.19	420.05	ACC:6-7105
+17245998-400c-4d1c-8557-12bc6044ae79	HEALTHLINK GROUP PTY LIMITED	4314	DateTimD:30/4/2025	SIN-108911				"Pathology and Radiology Reports (HL7) - LAB-HL7,RSD -"		GST				TRUE	GST	0	440	40	440	ACC:6-7105
+d5f78e32-9f73-4558-b19f-731886bca2ae	Brightside Scientific Pty Ltd	4953	DateTimD:16/4/2025	1912412				"SSDR15-3 - Freezer Rack 15 placeSliding-Drawer - Inventory Racks, Stainless Steel Sliding-Drawer 15"		GST				TRUE	GST	0	445.5	40.5	247.5	ACC:6-5011
+d5f78e32-9f73-4558-b19f-731886bca2ae	Brightside Scientific Pty Ltd	4953	DateTimD:16/4/2025	1912412				DEL-ONLY - Delivery to Loading dock - To Proteomics		GST				TRUE	GST	0	445.5	40.5	198	ACC:6-5020
+403410b0-8134-461d-9451-af13d50c7caa	Microsoft Regional Sales	4947	DateTimD:26/4/2025	E0100W2MNL				Exchange online (Plan 1)		GST				TRUE	GST	0	450.51	40.96	450.51	ACC:6-7105
+5174a5ae-85f4-4942-bce9-a3496ef86ff2	Biotem	DT-4945	DateTimD:17/4/2025	FA20250417PTI-010				"PromarkerD CaptSure™ IVD ELISA kit - Assembly, Storage & Distribution
+EN Translation of EU MSDS"		FRE		PD	Promarker D	TRUE	GST	0	476	0	420	ACC:6-5114
+5174a5ae-85f4-4942-bce9-a3496ef86ff2	Biotem	DT-4945	DateTimD:17/4/2025	FA20250417PTI-010				Reissue of updated SDS in EN		FRE		PD	Promarker D	TRUE	GST	0	476	0	56	ACC:6-5114
+0e66af47-e41f-45cc-8551-d91cdeebb673	"Sony, Sreeja"	4952	DateTimD:18/3/2025	25-03 Reimbursement				Travel Reimbursement		FRE				TRUE	GST	0	500.8	0	25440.34	ACC:6-2102
+0e66af47-e41f-45cc-8551-d91cdeebb673	"Sony, Sreeja"	4952	DateTimD:18/3/2025	25-03 Reimbursement				Broadband and Mobile Phone		FRE				TRUE	GST	0	500.8	0	1088	ACC:6-4122
+0e66af47-e41f-45cc-8551-d91cdeebb673	"Sony, Sreeja"	4952	DateTimD:18/3/2025	25-03 Reimbursement				Bank Fee (as per Invoice 004/2024-25 attached)		FRE				TRUE	GST	0	500.8	0	826	ACC:6-4122
+0e66af47-e41f-45cc-8551-d91cdeebb673	"Sony, Sreeja"	4952	DateTimD:18/3/2025	25-03 Reimbursement				Less: AUD Diff		FRE				TRUE	GST	0	500.8	0	-24974.58	ACC:6-2102
+0e66af47-e41f-45cc-8551-d91cdeebb673	"Sony, Sreeja"	4952	DateTimD:18/3/2025	25-03 Reimbursement				Less: AUD Diff		FRE				TRUE	GST	0	500.8	0	-1878.96	ACC:6-4122
+4809241d-8e13-4df5-8e96-e87c547061e9	Thermo Fisher Scientific Australia	DI-4940	DateTimD:14/4/2025	25026211				2 x TRIFLUOROACETIC		GST		AS	Analytical Services	TRUE	GST	0	584.1	53.1	479.6	ACC:6-5210
+4809241d-8e13-4df5-8e96-e87c547061e9	Thermo Fisher Scientific Australia	DI-4940	DateTimD:14/4/2025	25026211				FREIGHT AND HANDLING		GST		AS	Analytical Services	TRUE	GST	0	584.1	53.1	71.5	ACC:6-5020
+4809241d-8e13-4df5-8e96-e87c547061e9	Thermo Fisher Scientific Australia	DI-4940	DateTimD:14/4/2025	25026211				HAZARDOUS CHARGES		GST		AS	Analytical Services	TRUE	GST	0	584.1	53.1	33	ACC:6-5020
+7ccc0c2e-67ce-44cf-8a18-4cc2a25554a2	Microsoft Regional Sales	bit Card	DateTimD:26/4/2025	E0100W2KII				Microsoft 365 Apps for Business		GST				TRUE	GST	0	586.3	53.3	586.3	ACC:6-7105
+1faf34c8-31c4-48fc-b525-dfc0003b1d6b	Burgess Rawson	4945	DateTimD:16/4/2025	188771				"3 x Car Park Rent, 2/186 Hampden Road Nedlands. $200/Bay for period 01/05/25 - 31/05/25"		GST				TRUE	GST	0	660	60	660	ACC:6-0550
+b6f54a6a-52b6-4eb9-b683-6829bb1b7673	Eppendorf South Pacific Pty Ltd	DI-4941	DateTimD:23/4/2025	95049849				"[sterile, pyrogen-, DNase-, RNase-, human and bacterial DNA-free. Non-cytotoxic, 10 mL, orange, 400 pcs. (4 × 100 pcs.), individually"		GST		GP	Group	TRUE	GST	0	663.3	60.3	160.6	ACC:6-5010
+b6f54a6a-52b6-4eb9-b683-6829bb1b7673	Eppendorf South Pacific Pty Ltd	DI-4941	DateTimD:23/4/2025	95049849				"[sterile, pyrogen-, DNase-, RNase-, human and bacterial DNA-free. Non-cytotoxic, 25 mL, red, 200 pcs. (4 × 50 pcs.), individually blister-wrapped"		GST		GP	Group	TRUE	GST	0	663.3	60.3	150.7	ACC:6-5010
+b6f54a6a-52b6-4eb9-b683-6829bb1b7673	Eppendorf South Pacific Pty Ltd	DI-4941	DateTimD:23/4/2025	95049849				"[sterile, pyrogen-, DNase-, RNase-, human and bacterial DNA-free. Non-cytotoxic, 50 mL, violet, 160 pcs. (4 × 40 pcs.), individually blister-wrapped}"		GST		GP	Group	TRUE	GST	0	663.3	60.3	352	ACC:6-5010
+2cd10f85-5170-4ccd-8c68-1a7e1929c613	Sigma-Aldrich Pty Ltd	DI-4929	DateTimD:9/4/2025	565042396				DL-DITHIOTHREITOL FOR ELECTROPHORESIS		GST		DB	Diagnostic Biomarker	TRUE	GST	0	873.51	79.41	722.7	ACC:6-5122
+2cd10f85-5170-4ccd-8c68-1a7e1929c613	Sigma-Aldrich Pty Ltd	DI-4929	DateTimD:9/4/2025	565042396				"AMMONIUM BICARBONATE, REAGENTPLUS"		GST		DB	Diagnostic Biomarker	TRUE	GST	0	873.51	79.41	117.81	ACC:6-5122
+2cd10f85-5170-4ccd-8c68-1a7e1929c613	Sigma-Aldrich Pty Ltd	DI-4929	DateTimD:9/4/2025	565042396				Trans/Handling Adj		GST		DB	Diagnostic Biomarker	TRUE	GST	0	873.51	79.41	-38.5	ACC:6-5020
+2cd10f85-5170-4ccd-8c68-1a7e1929c613	Sigma-Aldrich Pty Ltd	DI-4929	DateTimD:9/4/2025	565042396				Trans/Handling/Fee		GST		DB	Diagnostic Biomarker	TRUE	GST	0	873.51	79.41	71.5	ACC:6-5020
+72db7da8-2747-4cf4-8639-3efca9a98917	ROBERT ODZE MD	4670	DateTimD:23/4/2025	April 15 /25				Consultation -  PromarkerEso March CAB meetin - USD 600		FRE				TRUE	GST	0	935.89	30.54	600	ACC:6-2504
+72db7da8-2747-4cf4-8639-3efca9a98917	ROBERT ODZE MD	4670	DateTimD:23/4/2025	April 15 /25				Currency Diff - USD 0.6411		GST				TRUE	GST	0	935.89	30.54	335.89	ACC:6-2504
+18986b0e-c73a-43c1-b3c2-37b39cafdb09	Thermo Fisher Scientific Australia	DI-4940	DateTimD:11/4/2025	I4160440				4 x Water OPTIMA LCMS grade		GST		GP	Group	TRUE	GST	0	938.72	85.34	507.45	ACC:6-5012
+18986b0e-c73a-43c1-b3c2-37b39cafdb09	Thermo Fisher Scientific Australia	DI-4940	DateTimD:11/4/2025	I4160440				2 x Acetonitrile Optima LCMS		GST		GP	Group	TRUE	GST	0	938.72	85.34	431.27	ACC:6-5012
+cd422e69-dc47-40b8-a6d7-6dd80b0939ed	Shimadzu Scientific Instruments	DI-4951	DateTimD:30/4/2025	INV45864				FREIGHT AND HANDLING		GST		GP	Group	TRUE	GST	0	939.4	85.4	33	ACC:6-5020
+cd422e69-dc47-40b8-a6d7-6dd80b0939ed	Shimadzu Scientific Instruments	DI-4951	DateTimD:30/4/2025	INV45864				"Insert for 9mm, 2ml screw vials, 50ul, 6 x 29mm, precision"		GST		GP	Group	TRUE	GST	0	939.4	85.4	906.4	ACC:6-5010
+a247c465-5b1c-462d-a23c-c04e65442152	Employment Hero Pty Ltd	4954	DateTimD:30/4/2025	INV00640640				EH Payroll - Premium - Contracted Employees		GST		GP	Group	TRUE	GST	0	1070.3	97.3	297	ACC:6-7105
+a247c465-5b1c-462d-a23c-c04e65442152	Employment Hero Pty Ltd	4954	DateTimD:30/4/2025	INV00640640				EH Payroll - Premium - Additional Employees -- Overage		GST		GP	Group	TRUE	GST	0	1070.3	97.3	69.3	ACC:6-7105
+a247c465-5b1c-462d-a23c-c04e65442152	Employment Hero Pty Ltd	4954	DateTimD:30/4/2025	INV00640640				EH Software - Platinum - Contracted Users		GST		GP	Group	TRUE	GST	0	1070.3	97.3	528	ACC:6-7105
+a247c465-5b1c-462d-a23c-c04e65442152	Employment Hero Pty Ltd	4954	DateTimD:30/4/2025	INV00640640				EH Software - Platinum - Additional Users -- Overage		GST		GP	Group	TRUE	GST	0	1070.3	97.3	176	ACC:6-7105
+526e8505-87fe-4eb9-a5d3-2f74ccaf4ce0	Adelab Scientific	DI-4933	DateTimD:7/4/2025	136471				"1 X Labco Weigh boats, 100mL, Antistatic, 2.20g, 80 x 80x 24mm, pkt/250"		GST		GP	Group	TRUE	GST	0	1533.4	139.4	20.9	ACC:6-5010
+526e8505-87fe-4eb9-a5d3-2f74ccaf4ce0	Adelab Scientific	DI-4933	DateTimD:7/4/2025	136471				10 X RAININ 300uL refills (10x96)		GST		GP	Group	TRUE	GST	0	1533.4	139.4	737	ACC:6-5010
+526e8505-87fe-4eb9-a5d3-2f74ccaf4ce0	Adelab Scientific	DI-4933	DateTimD:7/4/2025	136471				10 X RAININ 250uL refills(10x96)		GST		GP	Group	TRUE	GST	0	1533.4	139.4	737	ACC:6-5010
+526e8505-87fe-4eb9-a5d3-2f74ccaf4ce0	Adelab Scientific	DI-4933	DateTimD:7/4/2025	136471				freight		GST		GP	Group	TRUE	GST	0	1533.4	139.4	38.5	ACC:6-5020
+92f2b8b0-d033-451c-8cae-103a5072334e	AB SCIEX Australia Pty Ltd	MM-4925	DateTimD:10/4/2025	390007210				To complete the rail clean on the MS -  Total Billable  4 hours 		GST		GP	Group	TRUE	GST	0	1640.63	149.15	1640.63	ACC:6-1510
+7d40f62a-aeea-4f5c-9c35-a4a6b55c2f8d	Biotech Daily	4941	DateTimD:14/4/2025	BDR/025/218				12-month subscription to Biotech Daily  + up to 30 delivery addresses		GST				TRUE	GST	0	2500	227.27	2500	ACC:6-4132
+c9d70226-3704-4d45-b454-939476335dcd	Words Mean Business	4909	DateTimD:14/4/2025	INV-1025				"50% final payment for Promarker®D and Eso brochures
+project"		GST				TRUE	GST	0	3293.4	299.4	3293.4	ACC:6-2200
+5ba415e0-f72f-430b-be00-1b08fef750ea	Churchill Knight	4944	DateTimD:1/5/2025	5673				Office Rent - 8/154 Hampden Road for period 01/05/25 - 31/05/25		GST				TRUE	GST	0	3405.68	309.61	3405.68	ACC:6-1110
+5bd20c0e-d852-4e73-8a5e-7518928a7622	MedNet GmbH	4942	DateTimD:14/4/2025	74109				Annual fee for European Authorized Representation (PromarkerD regulatory) for the interval May 2025 – April 2026. Total EUR 2475		FRE				TRUE	GST	0	4365.84	0	2475	ACC:6-4120
+5bd20c0e-d852-4e73-8a5e-7518928a7622	MedNet GmbH	4942	DateTimD:14/4/2025	74109				Currency Diff. EUR 0.5669		FRE				TRUE	GST	0	4365.84	0	1890.84	ACC:6-4120
+9d881ab0-d2d5-4a2d-abe7-9943ecc14f90	XCY Pty Ltd	4965	DateTimD:30/4/2025	XCYS10110				Engineer L2 -  0.25 Hr at $150/Hour		GST				TRUE	GST	0	5123.25	465.75	41.25	ACC:6-7105
+9d881ab0-d2d5-4a2d-abe7-9943ecc14f90	XCY Pty Ltd	4965	DateTimD:30/4/2025	XCYS10110				Engineer L3 - 22 Hr at $210/Hour - Summary of work:  PromarkerEso Hub & website backend tasks.		GST				TRUE	GST	0	5123.25	465.75	5082	ACC:6-7105
+194880c0-b573-4b55-bb32-fc1b7838b3ff	Virtue Insight	NA	DateTimD:25/4/2025	M015/2025-26				"16th Annual Clinical Trials Summit 2025 - Silver partner - Exhibition Stall. TOTAL INR 295,000"		FRE				TRUE	GST	0	5482.26	0	295000	ACC:6-2150
+194880c0-b573-4b55-bb32-fc1b7838b3ff	Virtue Insight	NA	DateTimD:25/4/2025	M015/2025-26				Currency Diff INR 53.81		FRE				TRUE	GST	0	5482.26	0	-289517.74	ACC:6-2150
+91a99271-c637-4abc-827c-7c5b174b0093	Agilent Technologies Australia Pty Ltd	HL-4668	DateTimD:27/4/2025	1810082910				"Service maintenance contract No. 5001320920 Invoice Period:
+27.04.2025 - 26.07.2025"		GST				TRUE	GST	0	7531.43	684.68	7531.43	ACC:6-1510
+bf7fd063-98ef-4740-bf78-751350e1a62a	Thermo Fisher Scientific Australia	DI-4940	DateTimD:11/4/2025	I4160534				1 x Finntip Flex 10mL Ext bulk		GST		GP	Group	TRUE	GST	0	7660.11	696.37	205.41	ACC:6-5010
+bf7fd063-98ef-4740-bf78-751350e1a62a	Thermo Fisher Scientific Australia	DI-4940	DateTimD:11/4/2025	I4160534				2 x EA Column PepMap100 C18		GST		DB	Diagnostic Biomarker	TRUE	GST	0	7660.11	696.37	4106.3	ACC:6-5122
+bf7fd063-98ef-4740-bf78-751350e1a62a	Thermo Fisher Scientific Australia	DI-4940	DateTimD:11/4/2025	I4160534				2 x EA Column Trap PepMap Neo		GST		DB	Diagnostic Biomarker	TRUE	GST	0	7660.11	696.37	3348.4	ACC:6-5122
+ddb6ae80-1408-4fb5-96eb-06bfb851092d	ResearchDx Inc	4962	DateTimD:30/4/2025	25-154				"Consultant Laboratory Director: April 2025 - USD 5,000"		FRE				TRUE	GST	0	10138.82	0	5000	ACC:6-5118
+ddb6ae80-1408-4fb5-96eb-06bfb851092d	ResearchDx Inc	4962	DateTimD:30/4/2025	25-154				"Quality Oversight - USD 1,500"		FRE				TRUE	GST	0	10138.82	0	1500	ACC:6-5118
+ddb6ae80-1408-4fb5-96eb-06bfb851092d	ResearchDx Inc	4962	DateTimD:30/4/2025	25-154				Currencvy Diff - USD 0.6411		FRE				TRUE	GST	0	10138.82	0	3638.82	ACC:6-5118
+742ad5e0-8c66-46bf-a73d-72fc5df88382	PAPER AND SPARK DIGITAL AGENCY PTY LTD	4942	DateTimD:29/4/2025	P001185				PromarkerD Launch Performance Assets - Final 25%		GST				TRUE	GST	0	11847	1077	10472	ACC:6-2503
+742ad5e0-8c66-46bf-a73d-72fc5df88382	PAPER AND SPARK DIGITAL AGENCY PTY LTD	4942	DateTimD:29/4/2025	P001185				"Google search, google ads - next 25%"		GST				TRUE	GST	0	11847	1077	1375	ACC:6-2503
+898df9d7-d8e7-4cfb-81ff-ea946e76a8dc	ResearchDx Inc	4963	DateTimD:1/5/2025	25-147				"Lab Rental May 2025 - USD 8,000/Month"		FRE				TRUE	GST	0	12478.55	0	8000	ACC:6-5118
+898df9d7-d8e7-4cfb-81ff-ea946e76a8dc	ResearchDx Inc	4963	DateTimD:1/5/2025	25-147				Currency Diff in AUD -$0.6411		FRE				TRUE	GST	0	12478.55	0	4478.55	ACC:6-5118
+0be1f42e-e333-407a-aa89-8e7e0e4a739b	PAPER AND SPARK DIGITAL AGENCY PTY LTD	4941	DateTimD:29/4/2025	P001186				Promarker Esso 15 Launch assets - 50% Complete		GST				TRUE	GST	0	12650	1150	12650	ACC:6-2503
+309bcc5b-9d4e-476f-8b90-07e2f02ba5ba	AB SCIEX Australia Pty Ltd	HL-4313	DateTimD:19/4/2025	390007218				Service contract for 5x Sciex mass spec- quarterly installment. Prepaid Mass Spec maintenance (1 Yr)		GST				TRUE	GST	0	33147.85	3013.44	33147.85	ACC:1-1510
+34833579-1cbf-4da5-80c5-c162a42ccfba	MYOB Australia	ct Debit	DateTimD:1/1/2025	2-10011092271				Online Payments Transaction Fees		GST				TRUE	GST	0	0.84	0.08	0.84	ACC:6-7105
+f6a3eec0-1812-469c-b7d5-0a0d2423e360	Coffee Anatomy	4877	DateTimD:3/2/2025	KA-2477906766				Flat White - Regular		GST				TRUE	GST	0	5	0.45	5	ACC:6-4122
+46a40d2d-0081-4a80-b794-ead3362b6a15	Spices Supermarket	ard - NF	DateTimD:5/3/2025	305211001				Milk for the office		FRE				TRUE	GST	0	5.3	0	5.3	ACC:6-4122
+5dbf013a-2fef-4b95-9697-8cca3d7b0819	Spices Supermarket	ard - NF	DateTimD:28/3/2025	328070401				Office Supply - Milk		FRE				TRUE	GST	0	5.3	0	5.3	ACC:6-4122
+4e480709-3426-45a5-80c5-9f18e8ab416f	Spices Supermarket	Dit Card - NF	DateTimD:6/1/2025	106356601				Milk		FRE				TRUE	GST	0	5.3	0	5.3	ACC:6-4122
+0c17f954-c701-45dc-b6eb-461e78c2923e	Spices Supermarket	ard - NF	DateTimD:10/2/2025	210353001				Milk		FRE				TRUE	GST	0	5.3	0	5.3	ACC:6-4122
+78f1d13e-da70-4ed8-acab-d56778b5c76c	Restaurant	ard - HL	DateTimD:30/4/2025	4437258				Coffees		GST		GP	Group	TRUE	GST	0	7.1	0.65	7.1	ACC:6-4122
+4568cf39-f946-450c-aa4a-d83f19b82511	Miscellaneous Creditor	ard - HL	DateTimD:25/2/2025	4377088				Flat white - JL and HL		GST				TRUE	GST	0	7.8	0.71	7.8	ACC:6-4122
+ac1702dc-0167-4432-ad25-189f4c107379	Restaurant	ard - HL	DateTimD:3/4/2025	4413234				2 Flat White - JL and HL		GST		GP	Group	TRUE	GST	0	7.8	0.71	7.8	ACC:6-4122
+dab24288-e1c6-4324-8439-95ef54ae4aaa	Restaurant	ard - HL	DateTimD:15/1/2025	4337456				Two Coffee - JL and HL		GST		GP	Group	TRUE	GST	0	7.8	0.71	7.8	ACC:6-4122
+0a4cbcdf-9184-4b0f-a405-8c96b242483e	Coffee Anatomy	4847	DateTimD:26/2/2025	KA-2502572979				Coffees		GST				TRUE	GST	0	10	0.91	10	ACC:6-4122
+f8701472-8489-4f53-be50-ca9147513c28	Coffee Anatomy	ard - HL	DateTimD:8/1/2025	SP-114				Coffees Jl & HL		GST				TRUE	GST	0	10	0.91	10	ACC:6-4122
+dc4ffa32-f463-4ac7-8c95-5b550aa42fdd	Coffee Anatomy	4892	DateTimD:10/3/2025	KA-2514991843				Tea & Coffee - Monday 10/03 ordered by JG		GST				TRUE	GST	0	10.6	0.96	10.6	ACC:6-4122
+bf147c54-a13c-4e6a-adc5-9ef4a0c51627	Coffee Anatomy	4873	DateTimD:12/2/2025	SP-266				Coffees		GST				TRUE	GST	0	11.7	1	11	ACC:6-4122
+bf147c54-a13c-4e6a-adc5-9ef4a0c51627	Coffee Anatomy	4873	DateTimD:12/2/2025	SP-266				Milk		FRE				TRUE	GST	0	11.7	1	0.7	ACC:6-4122
+fc63bfbb-bbfa-486e-a61e-376b765c699f	Coffee Anatomy	4953	DateTimD:31/3/2025	SP-171				Coffee - Monday 31st March - G7?		GST				TRUE	GST	0	14	0.59	6.49	ACC:6-4122
+fc63bfbb-bbfa-486e-a61e-376b765c699f	Coffee Anatomy	4953	DateTimD:31/3/2025	SP-171				Juice		FRE				TRUE	GST	0	14	0.59	7.51	ACC:6-4122
+5026720d-be45-47e0-a910-669e3537ace1	Miscellaneous Creditor	ard - NF	DateTimD:19/1/2025	2580227				CREDITPCK1 CCREDIT PACK 1		GST				TRUE	GST	0	14.3	1.3	14.3	ACC:6-4122
+7ae6d1ed-02b2-46b1-9b02-1431e45c778c	Australia Post	Debit Card NF	DateTimD:13/3/2025	4E+13				Renewal of PO BOX 3008 From 01/04/2025 - 31/03/2026		GST				TRUE	GST	0	17	1.55	17	ACC:6-4122
+acbbcc40-478f-4128-b3aa-6d9d4ae9ffb9	Uber	ard - HL	DateTimD:16/1/2025	25-01				Transport from Nedlands to Perth		GST				TRUE	GST	0	18.54	1.69	18.54	ACC:6-2101
+45bc325c-a019-43da-97ee-ed6d8cca8de3	Coffee Anatomy	4955	DateTimD:24/3/2025	SP-113				Coffees - Monday 24/03 ordered by HL		GST				TRUE	GST	0	19.2	1.75	19.2	ACC:6-4122
+1723ad42-af8b-49e6-96f2-bf47e3476f81	"Sony, Sreeja"	4322	DateTimD:15/2/2025	25-02				Broadband and mobile expenses		FRE				TRUE	FRE	0	19.73	0	19.73	ACC:6-4122
+80afb9f4-0d84-42f8-b16c-3a65abd95e98	Microsoft Regional Sales	ct Debit	DateTimD:27/3/2025	E0100VRF2E				Exchange Online Kiosk - 26/02/2025 - 25/03/2025		GST				TRUE	GST	0	19.8	1.8	19.8	ACC:6-7105
+4802e9bc-16e7-4da9-86e4-54aee1701f2a	Microsoft Regional Sales	ct Debit	DateTimD:26/4/2025	E0100W2KIH				Exchange Online Kiosk - 26/03/2025 - 25/04/2025		GST				TRUE	GST	0	19.8	1.8	19.8	ACC:6-7105
+da8a3af5-63b6-4a6b-ac3e-164343c5b354	Microsoft Regional Sales	ct Debit	DateTimD:26/2/2025	E0100VG1UC				Online Service - 26/01/2025 - 25/02/2025		GST				TRUE	GST	0	19.8	1.8	19.8	ACC:6-7105
+1d2a88a7-6db4-497f-af9a-b64e468c970c	Microsoft Regional Sales	4862	DateTimD:26/1/2025	 E0100V4P3O				Online Service 26/12/2024 - 25/01/2025		GST				TRUE	GST	0	19.8	1.8	19.8	ACC:6-7105
+0f6f9f98-9fb3-486b-8f3e-4f211fccc988	Coffee Anatomy	4876	DateTimD:1/2/2025	KA-2448671198				Teas and Coffee		GST				TRUE	GST	0	20.8	1.89	20.8	ACC:6-4122
+3c6b4bab-b7b0-4e88-a73b-de6440ed17de	Coffee Anatomy	4879	DateTimD:3/2/2025	KA-2477890554				Tea and Coffee		GST				TRUE	GST	0	22.2	2.02	22.2	ACC:6-4122
+dffaee03-725a-4179-a16a-870e69f9a1b4	Coffee Anatomy	4875	DateTimD:1/2/2025	KA-2455926030				"Tea, Cappuccino, Flat White"		GST				TRUE	GST	0	25.8	2.35	25.8	ACC:6-4122
+a8f70b07-9ce9-439c-8fa4-05497fcd3184	Coffee Anatomy	4874	DateTimD:1/2/2025	KA-2463293805				Tea English Breakfast - Regular		GST				TRUE	GST	0	25.8	2.35	5.1	ACC:6-4122
+a8f70b07-9ce9-439c-8fa4-05497fcd3184	Coffee Anatomy	4874	DateTimD:1/2/2025	KA-2463293805				Tea English Breakfast - Regular		GST				TRUE	GST	0	25.8	2.35	5.1	ACC:6-4122
+a8f70b07-9ce9-439c-8fa4-05497fcd3184	Coffee Anatomy	4874	DateTimD:1/2/2025	KA-2463293805				Tea Lemongrass & Ginger - Regular		GST				TRUE	GST	0	25.8	2.35	5.1	ACC:6-4122
+a8f70b07-9ce9-439c-8fa4-05497fcd3184	Coffee Anatomy	4874	DateTimD:1/2/2025	KA-2463293805				Flat White - Regular		GST				TRUE	GST	0	25.8	2.35	5	ACC:6-4122
+a8f70b07-9ce9-439c-8fa4-05497fcd3184	Coffee Anatomy	4874	DateTimD:1/2/2025	KA-2463293805				Cappuccino - Large		GST				TRUE	GST	0	25.8	2.35	5.5	ACC:6-4122
+e90e9954-7692-4761-ba7a-99c7e5de2c7a	Coffee Anatomy	4848	DateTimD:24/2/2025	KA-2500473456				Coffees and Teas - Monday (G7?)		GST				TRUE	GST	0	27.2	2.47	27.2	ACC:6-4122
+00cb19c5-083f-4fc6-b80c-866d7ba6343b	Coffee Anatomy	4852	DateTimD:10/2/2025	KA-2485297831				Hot & Cold Drinks - Monday (G7?)		GST				TRUE	GST	0	27.2	2.47	27.2	ACC:6-4122
+09eb7c0e-bf8f-4cdd-85f8-af216f01535e	HEALIUS PATHOLOGY PTY LTD	4925	DateTimD:1/4/2025	40329034				TEST GROUP 3 - SB		GST				TRUE	GST	0	27.5	2.5	27.5	ACC:6-4122
+b89d5987-ca1c-4e94-9e89-01e59c2b03f3	HEALIUS PATHOLOGY PTY LTD	4932	DateTimD:1/4/2025	40354266				TEST Group 3 - JB		GST				TRUE	GST	0	27.5	2.5	27.5	ACC:6-4122
+a019889c-249f-4fa5-bf58-94481291870f	Coffee Anatomy	4851	DateTimD:17/2/2025	KA-2492872613				"Drinks - Coffees, Teas & Juice. on Monday (G7?)"		GST				TRUE	GST	0	29.7	2.7	29.7	ACC:6-4122
+a45880d9-55a8-4f3f-a4e1-b906407c46ea	Coffee Anatomy	4954	DateTimD:24/3/2025	SP-30				Coffees and Juice - Monday 24/03 G7		GST				TRUE	GST	0	33.1	3.01	33.1	ACC:6-4122
+c095cd74-6a1b-414f-ac45-1855c0ef51c7	Bio Rad Laboratories	DI-4842	DateTimD:9/1/2025	907913158				"10 x 
+4--15% Criterion™ TGX™ Precast Midi Protein Gel, 12+2 well, 45 ?l Pkg of 1, 4--15% precast polyacrylamide gel, 13.3 × 8.7 cm (W × L), for use with Criterion and Criterion™ Dodeca™ electrophoresi"		GST		GP	Group	TRUE	GST	0	33.66	3.06	33.66	ACC:6-5010
+984eef8b-4823-47ce-ae22-6827ddc7c492	Microsoft Regional Sales	ct Debit	DateTimD:26/1/2025	E0100V4NH4				Microsoft Defender for Office 365 26/12/2024 - 25/01/2025		GST				TRUE	GST	0	482.66	43.88	482.66	ACC:6-7105
+a831d07d-0f67-4f9c-82a5-1ef753e8df55	Microsoft Regional Sales	bit Card	DateTimD:27/3/2025	E0100VRHP6				Microsoft 365 Business Premium		GST				TRUE	GST	0	36.19	3.29	36.19	ACC:6-7105
+aa9fdd72-c346-443c-a812-3fb0768967e6	Microsoft Regional Sales	bit Card	DateTimD:26/4/2025	E0100W2DLC				Microsoft 365 Business Premium		GST				TRUE	GST	0	36.19	3.29	36.19	ACC:6-7105
+be26e0cb-f3c2-4190-b3df-749cf2bb0b8d	Microsoft Regional Sales	ct Debit	DateTimD:26/1/2025	E0100V4SNA				Microsoft 365 Business Premium. Billing Period: 26/12/2024 - 25/01/2025		GST				TRUE	GST	0	36.19	3.29	36.19	ACC:6-7105
+b9344cc8-9db0-4b67-9e56-58abe11e3678	Microsoft Regional Sales	ct Debit	DateTimD:26/2/2025	E0100VG8AJ				Online Service - 26/01/2025 - 25/02/2025		GST				TRUE	GST	0	36.19	3.29	36.19	ACC:6-7105
+023611f5-2eb4-4f16-8c7c-a778413f08a1	Miscellaneous Creditor	ard - NF	DateTimD:19/1/2025	2580224				CREDITPCK3 CREDIT PACK 3		GST				TRUE	GST	0	39.6	3.6	39.6	ACC:6-4122
+90cda5ff-1427-41d6-b47d-4e6635d8cf75	Miscellaneous Creditor	ard - NF	DateTimD:19/1/2025	2580226				CREDITPCK3 CREDIT PACK 3		GST				TRUE	GST	0	39.6	3.6	39.6	ACC:6-4122
+e8b164eb-8188-4267-9fd8-af2b712a694c	Pearl Tan Expenses	4946	DateTimD:2/4/2025	25-04 Reimbursement				Reimbursement from Santi's and International calls credit		GST				TRUE	GST	0	43.5	3.95	43.5	ACC:6-4122
+cf9299c9-5065-483e-b9c2-cfcb5759f2e2	Exemplar Coaches & Limousines	4930	DateTimD:25/3/2025	25-03				Airport transfers - Scott Bringans Cairns trip		GST				TRUE	GST	0	46	4.18	46	ACC:6-2101
+5fd21b53-0eb1-48d7-b687-bb8f88ce31ed	Coffee Anatomy	4878	DateTimD:1/2/2025	KA-2466534202				Lunch and drinks		GST				TRUE	GST	0	46.2	4.2	46.2	ACC:6-4122
+e5e7314c-6b25-409e-85e9-5faa7802c956	Bulk SMS (Celerity Systems P/L)	HL-4927	DateTimD:13/3/2025	GBAC73884				Block of 1000 SMS credits (EUR 32.80 - AUD 57.12). SMS credit for Temptrack alarming		FRE				TRUE	GST	0	56.18	0	56.18	ACC:6-2200
+cb54d34d-41de-4f98-a3ea-c0593f3452ac	Mailchimp	4961	DateTimD:30/4/2025	MC20359945				Essentials plan - April 2025		FRE				TRUE	FRE	0	70.95	0	70.95	ACC:6-7105
+57e2d73e-d84d-49cf-88b7-35172fb38308	Mailchimp	4933	DateTimD:30/3/2025	MC20070241				Essentials plan - March 2025		FRE				TRUE	FRE	0	71.42	0	71.42	ACC:6-7105
+858c1f77-746c-40d7-858b-0235c76ac835	Officeworks	ard - HL	DateTimD:7/4/2025	621038489				HERC ANTBAC DINFEC XLG WIPE		GST				TRUE	GST	0	71.93	6.54	39.83	ACC:6-4122
+858c1f77-746c-40d7-858b-0235c76ac835	Officeworks	ard - HL	DateTimD:7/4/2025	621038489				UNIBLL SIGNO RT1 GEL RT .38 BK		GST				TRUE	GST	0	71.93	6.54	8.97	ACC:6-4122
+858c1f77-746c-40d7-858b-0235c76ac835	Officeworks	ard - HL	DateTimD:7/4/2025	621038489				PK6 REXEL C/HOLDER PORTRAIT BK		GST				TRUE	GST	0	71.93	6.54	23.13	ACC:6-4122
+256ae657-0a90-4baf-950c-4157e1d6f00d	Mailchimp	4549	DateTimD:28/2/2025	MC19770053				25-Feb		FRE				TRUE	FRE	0	72.59	0	72.59	ACC:6-7105
+f10d0d51-1e75-44b5-8a80-3369a512f298	Natalie Scott Dorta Expenses	ursement	DateTimD:15/4/2025	25-04				Uber Expenses from PI - Royal Perth Hospital (2 trips) for RUO Promarker Eso.		GST				TRUE	GST	0	75.78	6.89	75.78	ACC:6-2101
+c6754e06-d820-41e3-bf6a-cf4577042218	Officeworks	DI-4960	DateTimD:29/4/2025	621361784				"CTN REFLEX COPY PAPER 80GSM A4, SPIRAX 563A REPORTER NBK 200PG, PK2 DYMO PLSTIC 12MM BK ON WHT"		GST		GP	Group	TRUE	GST	0	78.2	7.11	78.2	ACC:6-4122
+7825498e-a8eb-4892-b488-64a9645cc5a7	Officeworks	ard - NF	DateTimD:11/3/2025	620530637				CTN REFLEX COPY PAPER 80GSM A4		GST				TRUE	GST	0	83	7.55	83	ACC:6-4122
+2da4999a-5ac1-44ae-82fb-e6f499b5f914	QR Stuff	ard - JG	DateTimD:5/3/2025	152052				12 Months Subscription - QR Code generator		FRE				TRUE	GST	0	84.39	0	84.39	ACC:6-7105
+3d751029-dd3e-4825-9bf0-3ed5ad2cb737	Twin Peaks Coffee Roasters	HL-4923	DateTimD:20/3/2025	INV-11585				Profiler kg		FRE				TRUE	GST	0	90	0	90	ACC:6-4122
+c12fab22-5c36-4a4a-aab3-c59012b5c51c	Thermo Fisher Scientific Australia	DI-4865	DateTimD:9/1/2025	I4122328				Syringe hypodermic luer lock		GST		GP	Group	TRUE	GST	0	92	8.36	59	ACC:6-5210
+c12fab22-5c36-4a4a-aab3-c59012b5c51c	Thermo Fisher Scientific Australia	DI-4865	DateTimD:9/1/2025	I4122328				Dangerous Goods Packaging		GST		GP	Group	TRUE	GST	0	92	8.36	33	ACC:6-5020
+2f363c3b-8cc1-4828-b242-4695df17a967	HUMANITIX LIMITED	ard - JG	DateTimD:25/3/2025	VF99D2MX				The 7th Annual Australasian Core Facilities Meeting' - Sat 17th May 2025		FRE				TRUE	GST	0	95.05	0	95.05	ACC:6-2150
+19a0da6a-6dc5-4b94-96c6-991c68d7f654	BOC Limited	ct Debit	DateTimD:26/2/2025	4038597074				Monthly Gas		GST				TRUE	GST	0	98.56	8.96	98.56	ACC:6-5010
+78ad1977-f926-4153-970b-27ae135ca4e2	Sigma-Aldrich Pty Ltd	DI-4845	DateTimD:20/2/2025	564685145				"TRIFLUOROACETIC ACID, REAGENTPLUS(R)"		GST		GP	Group	TRUE	GST	0	107.81	9.8	107.81	ACC:6-5010
+0f220b08-dc05-482b-b891-86ba2e4091f4	Sigma-Aldrich Pty Ltd	DI-4845	DateTimD:17/2/2025	564654490				"GLYCINE, REAGENTPLUS(TM), >= 99% (HPLC)"		GST				TRUE	GST	0	108.46	9.86	108.46	ACC:6-5010
+693ae5e3-829e-4606-90fe-33ae93247d5a	BOC Limited	ct Debit	DateTimD:29/1/2025	4038403789				R234E NITROGEN UHP E SIZE & R262G2 ARGON UHP G2 SIZE - Monthly Gas		GST				TRUE	GST	0	109.12	9.92	109.12	ACC:6-5010
+ec915f3a-5af2-4a84-b4b0-0f0f8cf1993d	Metropolitan Management Services Pty Ltd	4899	DateTimD:1/3/2025	30640				Car Bay #3 - 186 Hampden Road		GST				TRUE	GST	0	110	10	110	ACC:6-0550
+9f4f40d1-96a6-401c-a526-3bd6fd866bbe	Metropolitan Management Services Pty Ltd	Retainer	DateTimD:1/1/2025	30638				Car Bay #3 186 Hampden Rd		GST		GP	Group	TRUE	GST	0	110	10	110	ACC:6-0550
+38a3ee73-509e-44f6-8a0b-6187a6c9cb0b	Metropolitan Management Services Pty Ltd	4853	DateTimD:1/2/2025	30639				Mothly Leasing - Car Bay #3 186 Hampden Rd Nedlands		GST		GP	Group	TRUE	GST	0	110	10	110	ACC:6-0550
+b6a7584a-facd-449e-b3af-6eaa98fc16fd	Metropolitan Management Services Pty Ltd	4951	DateTimD:1/4/2025	30641				Car Bay #3 - 186 Hampden road Nedlands		GST				TRUE	GST	0	110	10	110	ACC:6-0550
+0335c9dc-3a9d-4d8e-a4bb-c5c570519130	Officeworks	ard - HL	DateTimD:24/2/2025	620250938				STAED 318 PERM MRKR BE		GST				TRUE	GST	0	112.43	10.22	14.97	ACC:6-4122
+0335c9dc-3a9d-4d8e-a4bb-c5c570519130	Officeworks	ard - HL	DateTimD:24/2/2025	620250938				CTN REFLEX COPY PAPER 80GSM A4		GST				TRUE	GST	0	112.43	10.22	41.5	ACC:6-4122
+0335c9dc-3a9d-4d8e-a4bb-c5c570519130	Officeworks	ard - HL	DateTimD:24/2/2025	620250938				COLLINS 3880 ACC MIN A4 84LF		GST				TRUE	GST	0	112.43	10.22	55.96	ACC:6-4122
+d1a824e4-871a-4c1d-897e-56825f2031c8	Pentanet Pty Ltd	ct Debit	DateTimD:1/3/2025	P697414				Fixed Wireless - 01/03/2025 - 31/03/2025		GST				TRUE	GST	0	114	10.36	114	ACC:6-4122
+c160c90f-153f-4b70-8624-03ab80cf81e0	Pentanet Pty Ltd	ct Debit	DateTimD:1/4/2025	P949736				Internet Bill at 1/154 Hampden Rd Nedlands for period 01/04/25 to 30/04/25		GST				TRUE	GST	0	114	10.36	114	ACC:6-4122
+51618d7e-8f25-4ff1-80a5-a7c4f01dd520	Pentanet Pty Ltd	ct Debit	DateTimD:1/2/2025	P688596				Fixed Wireless 01.02.25 - 28.02.25		GST				TRUE	GST	0	114	10.36	114	ACC:6-4122
+fa32d989-db15-4e9f-ae4d-df68a93221da	Pentanet Pty Ltd	ct Debit	DateTimD:1/1/2025	P478765				Goods / Services (Taxable)		GST				TRUE	GST	0	114	10.37	114.07	ACC:6-4122
+fa32d989-db15-4e9f-ae4d-df68a93221da	Pentanet Pty Ltd	ct Debit	DateTimD:1/1/2025	P478765				Rounding		FRE				TRUE	GST	0	114	10.37	-0.07	ACC:6-4122
+6160ada3-e61c-4b06-92e9-ca9ee959a9ab	BOC Limited	4942	DateTimD:29/3/2025	4038886341				R234E NITROGEN UHP E SIZE & R262G2 ARGON UHP G2 SIZE for period 26/02/2025 to 28/03/2025		GST				TRUE	GST	0	114.92	10.45	114.92	ACC:6-5010
+4c9f17bf-4c6d-4252-b994-1e1846adc432	Cygnet West Pty Ltd	DI-4847	DateTimD:7/1/2025	INV-QEII5347				Gloves - Store Purchases Internal SuppliesDec24		GST		GP	Group	TRUE	GST	0	117.23	10.66	117.23	ACC:6-5010
+5940ee83-7125-416a-8056-60a2d8913660	Twin Peaks Coffee Roasters	4863	DateTimD:5/1/2025	INV-11248				Profiler kg		FRE		GP	Group	TRUE	GST	0	120	0	120	ACC:6-4122
+c4ce2a3c-0a76-402c-a3f7-8265f8df31b9	Burgess Rawson	4895	DateTimD:11/3/2025	186070				3 Car Bays at  186 Hampden Rd. From 15.03.25 - 31.03.25		GST				TRUE	GST	0	120.65	10.97	120.65	ACC:6-0550
+9623f9b9-08d6-4ce8-a463-61c9622333fa	Bringans Expenses	4899	DateTimD:14/3/2025	25-03				Travel expenses 10 March to 13 March		GST				TRUE	GST	0	122.01	11.09	122.01	ACC:6-2101
+620bacdd-ac4d-4b24-a4f8-42de9924d661	CLSI LockBox	rd -= HL	DateTimD:1/4/2025	1320383				Regulatory guideline - EP37 Database Non-Member		FRE				TRUE	GST	0	127.48	0	127.48	ACC:6-4120
+3c026e41-3591-44e0-89d0-7703017ea8df	MYOB Australia	ct Debit	DateTimD:1/1/2025	2-10010995967				MYOB AccountRight Live Plus Recurring Subscription		GST				TRUE	GST	0	141	12.82	141	ACC:6-7105
+f61f6713-ba34-48d4-bf98-977fd23ef95f	MYOB Australia	ct Debit	DateTimD:1/2/2025	2-10011240937				MYOB AccountRight Live Plus Recurring Subscription		GST				TRUE	GST	0	141	12.82	141	ACC:6-7105
+f6958cb4-1334-4705-a0e3-023cabfc30b2	Australia Post	Debit Card-HL	DateTimD:7/1/2025	00/26934				Prepaid Express Small Satchel		GST				TRUE	GST	0	144.3	13.12	144.3	ACC:6-5020
+0d9e7a11-973f-420f-81b2-e315e9005caa	Cygnet West Pty Ltd	N/A	DateTimD:1/1/2025	INV-QE115337				Vocus Call Charges Jan-Mar 25		GST		GP	Group	TRUE	GST	0	148.5	13.5	148.5	ACC:6-4122
+3359f495-0f31-4a81-82a2-9eb672bb857f	Cygnet West Pty Ltd	4948	DateTimD:1/4/2025	INV-QEII5614				"Vocus Call Charges April 2025 - June
+2025"		GST				TRUE	GST	0	148.5	13.5	148.5	ACC:6-4122
+2f96fb76-d400-4a97-900f-3cc425e1e313	MYOB Australia	4546	DateTimD:1/3/2025	2-10011458854				1 x MYOB AccountRight Live Plus Recurring Subscription 01 Mar 2025 to 31 Mar 2025		GST				TRUE	GST	0	150	13.64	150	ACC:6-7105
+53d29195-2d26-44c9-9755-3489f789993a	MYOB Australia	4947	DateTimD:1/4/2025	2-10011829341				MYOB AccountRight Live Plus Recurring Subscription - 01 Apr 2025 to 30 Apr 2025		GST				TRUE	GST	0	150	13.64	150	ACC:6-7105
+4226f9a3-44d0-4891-80d6-187d7614a5ae	Synergy	4859	DateTimD:1/1/2025	2030311914				"Your energy supply details
+Supply address: U 8 154 Hampden Rd, Nedlands WA 6009
+NMI: 80017270068
+Next scheduled read date: 26 Feb 2025
+Supply period: 26 Oct 2024 - 24 Dec 2024"		GST		GP	Group	TRUE	GST	0	152.83	13.89	152.83	ACC:6-4122
+1b563377-685d-485c-a99c-a924d7701c8d	Miscellaneous Creditor	ard - NF	DateTimD:7/3/2025	3143				Stain Treatment - Hampden Rd Office		GST				TRUE	GST	0	152.98	13.91	152.98	ACC:6-4122
+47110c63-30ea-48f2-8506-b23b7476b6e3	Australasian Association for Clinical Biochemistry	4894	DateTimD:19/2/2025	25-02				membership subscription for JB (Josephine Bayliss) - as  part of staff training within 15189 expenses.		FRE				TRUE	GST	0	158.5	0	158.5	ACC:6-2150
+f2137c1d-4460-41a1-a242-1cfe9d8a4312	Restaurant	Debit Card-HL	DateTimD:23/1/2025	59412				Callum Farewell Gathering		GST		GP	Group	TRUE	GST	0	162	14.73	162	ACC:6-4122
+51152ed0-88c8-4ed2-a128-0dbbf4837a06	Australia Post	4885	DateTimD:6/2/2025	4E+13				PO Box yearly renewal		GST				TRUE	GST	0	164	14.91	164	ACC:6-4122
+eebb28c4-629d-4791-ba78-819d8192f7c2	Woolworths	Debit Card NF	DateTimD:11/4/2025	246860544				Staff amenities		GST				TRUE	GST	0	164.3	14.94	164.3	ACC:6-4122
+aaa5863f-eaa9-4d10-928d-bf70f41d736f	Graham Day & Associates Pty Ltd	4848	DateTimD:9/1/2025	29				Employee Parking 168 Hampden Rd - February 2025		GST		GP	Group	TRUE	GST	0	165	15	165	ACC:6-0550
+93aafa69-8c8b-4c88-8df4-bf8368beab26	Graham Day & Associates Pty Ltd	4314	DateTimD:1/2/2025	30				Employee Parking - 168 Hampden Road 01.03.25 - 31.03.25		GST		GP	Group	TRUE	GST	0	165	15	165	ACC:6-0550
+7685ad10-0fdd-49f4-bff7-782ad5d9eacb	Graham Day & Associates Pty Ltd	4945	DateTimD:1/4/2025	31				Employee Parking - 168 Hampden Road 01.04.25 - 30.04.25		GST		GP	Group	TRUE	GST	0	165	15	165	ACC:6-0550
+a014bdbb-be1a-45bf-97de-0b0bbd062921	WORLD ENDOMETRIOSIS SOCIETY	4932	DateTimD:11/3/2025	WES_MSHIP553				Membership registration		GST				TRUE	GST	0	167.21	15.2	167.21	ACC:6-2150
+71db6fc6-cd8c-4d9f-a196-d485946a5bac	Miscellaneous Creditor	ard - NF	DateTimD:5/2/2025	A11593089				1  Honeywell Voyager 1470G Extreme Performance 1D/2D USB Barcode Scanner Kit with USB Cable & Stand		GST				TRUE	GST	0	169	15.36	169	ACC:6-5010
+d296b1d2-7f12-44e2-b6d7-11d12b7eecf1	Sigma-Aldrich Pty Ltd	DI-4905	DateTimD:1/3/2025	564737418				"TRIFLUOROACETIC ACID, REAGENTPLUS(R"		GST		AS	Analytical Services	TRUE	GST	0	171	15.55	171	ACC:6-5012
+03357508-7851-4625-9c87-b4566763e2dd	TempTrack (E2E IT Solutions Pty Ltd)	4897	DateTimD:27/2/2025	E2E2682				Replace - TempTrack temperature monitoring system including + Freight		GST				TRUE	GST	0	181.5	16.5	181.5	ACC:6-5010
+a52e8be7-98be-4897-a362-14126c421fb9	Mega Office Supplies	4892	DateTimD:25/2/2025	597080				Office Stationaries		GST				TRUE	GST	0	198.64	18.06	198.64	ACC:6-4122
+dbb70eb2-9492-49a0-8d66-9780e211320e	Cygnet West Pty Ltd	4933	DateTimD:1/4/2025	INV-QEII5628				"Concierge Fee - Event Name - WA Endometriosis
+Awareness Month Symposium on Sunday, March 23 2025"		GST				TRUE	GST	0	200	18.18	200	ACC:6-4122
+22918db8-f33e-49eb-9d04-6706450ba19d	CLSI LockBox	ard - NF	DateTimD:24/4/2025	1331688				CLSI EP28 A3 guideline for clinical performance testing requirements for TGA submission		FRE				TRUE	GST	0	211.65	0	211.65	ACC:6-4120
+92d25251-ab0b-4ca8-a5d1-b59b66907763	OfficeHQ Pty Ltd	Debit Card DD	DateTimD:27/2/2025					February 25 My Receptionist		GST				TRUE	GST	0	216.11	19.65	216.11	ACC:6-4122
+00a36c12-ee05-4b63-8b59-fe7a7ba5dc0b	OfficeHQ Pty Ltd	bit Card	DateTimD:26/4/2025	870217				April 25 My Receptionist		GST				TRUE	GST	0	216.11	19.65	216.11	ACC:6-4122
+b3936c40-9a77-4a89-ad8b-918419c44686	OfficeHQ Pty Ltd	ct Debit	DateTimD:26/1/2025	847853				MyReceptionist 50		GST				TRUE	GST	0	216.11	19.65	203.5	ACC:6-4122
+b3936c40-9a77-4a89-ad8b-918419c44686	OfficeHQ Pty Ltd	ct Debit	DateTimD:26/1/2025	847853				Additional Contacts (Flat-rate)		GST				TRUE	GST	0	216.11	19.65	11	ACC:6-4122
+b3936c40-9a77-4a89-ad8b-918419c44686	OfficeHQ Pty Ltd	ct Debit	DateTimD:26/1/2025	847853				Payment Processing Fee		GST				TRUE	GST	0	216.11	19.65	1.61	ACC:6-4122
+9f96afbd-b397-4932-a9dc-512751cf5514	OfficeHQ Pty Ltd	Debit Card DD	DateTimD:26/3/2025	862606				March 25 My Receptionist		GST				TRUE	GST	0	216.11	19.65	216.11	ACC:6-4122
+61e7966f-3a79-4da3-afdb-c3e92f5e8bde	AusSMC	ard - JG	DateTimD:14/3/2025	25-03				Media Release (2nd Media Release) - 13.03.25		GST				TRUE	GST	0	220	20	220	ACC:6-2200
+81e9688b-03dc-4f6f-b0a4-b8e1a0e3a927	AusSMC	ard - JG	DateTimD:11/3/2025	25-03				Media Release (1st)		GST				TRUE	GST	0	220	20	220	ACC:6-2200
+f8b110ee-90f3-43b6-b557-cdbbeed9d3c5	STELLAR SCIENTIFIC	HL-4854	DateTimD:13/1/2025	IN93857				"A8403-SK - BenchBin3 Benchtop Biohazard Bag Holder
+With Push Button Lid, Starter Kit Includes One
+BenchBin And 400 10 x 12.5 inch Biohazard Bags"		FRE				TRUE	GST	0	225.12	0	225.12	ACC:6-5118
+ad51b3d1-b199-489f-adaf-8ae0c6064029	Sigma-Aldrich Pty Ltd	DI-4845	DateTimD:10/2/2025	564603034				CHYMOTRYPSIN SEQUENCING GRADE		GST		GP	Group	TRUE	GST	0	235.15	21.38	235.15	ACC:6-5010
+541580aa-e62a-4416-b754-72a483698819	Dee's Cleaning	NA	DateTimD:6/2/2025	06022025PI				Hampden Office Cleaning 23 Jan and 6 Feb 25		FRE				TRUE	GST	0	240	0	240	ACC:6-4122
+e7a54a1f-edd6-46b5-9704-8d6ff6ea9859	Dee's Cleaning	4894	DateTimD:6/3/2025	06038085P1				2 x Hampden Rd Office Cleaning (06.02 and 20.02) at $120/Visit		FRE				TRUE	GST	0	240	0	240	ACC:6-4122
+d9e65467-2089-410d-9657-183e5d152213	Dee's Cleaning	4866	DateTimD:9/1/2025	25-01				Hampden Office Cleaning		FRE				TRUE	GST	0	240	0	240	ACC:6-4122
+01d13855-06e3-433c-b344-f36b34be2638	IBM	ct Debit	DateTimD:14/4/2025	150354252				IBM SPSS Statistics Subscription Base Edition Start date: 14-Apr-2025 End date: 13-May-2025		GST		PD	Promarker D	TRUE	GST	0	240.55	21.87	133.79	ACC:6-7105
+01d13855-06e3-433c-b344-f36b34be2638	IBM	ct Debit	DateTimD:14/4/2025	150354252				"IBM SPSS Statistics Subscription, Custom Tables & Advanced Statistics Authorized Start date: 14-Apr-2025 End date: 13-May-2025"		GST		PD	Promarker D	TRUE	GST	0	240.55	21.87	106.76	ACC:6-7105
+bebb9dbc-11eb-4641-b92a-33208b5c35fe	IBM	ct Debit	DateTimD:14/3/2025	150352266				IBM SPSS Statistics Subscription 14-Mar-2025 End date: 13-Apr-2025		GST		PD	Promarker D	TRUE	GST	0	240.55	21.87	133.79	ACC:6-7105
+bebb9dbc-11eb-4641-b92a-33208b5c35fe	IBM	ct Debit	DateTimD:14/3/2025	150352266				IBM SPSS Statistics Subscription Start date: 14-Mar-2025 End date: 13-Apr-2025		GST		PD	Promarker D	TRUE	GST	0	240.55	21.87	106.76	ACC:6-7105
+54ba583f-3958-4c17-88f9-7c2be42ad367	IBM	Dit Card - NF	DateTimD:14/1/2025	150348563				Monthly Statistics subscription - KP		GST		PD	Promarker D	TRUE	GST	0	240.55	21.87	133.79	ACC:6-7105
+54ba583f-3958-4c17-88f9-7c2be42ad367	IBM	Dit Card - NF	DateTimD:14/1/2025	150348563				Monthly Statistics subscription - KP		GST		PD	Promarker D	TRUE	GST	0	240.55	21.87	106.76	ACC:6-7105
+a8fad247-64cc-4cf8-90b1-492f76126cf5	IBM	ct Debit	DateTimD:14/2/2025	150350369				"IBM SPSS Statistics Subscription, Base Edition Authorized User Per Month"		GST		PD	Promarker D	TRUE	GST	0	240.55	21.87	133.79	ACC:6-7105
+a8fad247-64cc-4cf8-90b1-492f76126cf5	IBM	ct Debit	DateTimD:14/2/2025	150350369				"IBM SPSS Statistics Subscription, Custom Tables & Advanced Statistics Authorized User Per Month"		GST		PD	Promarker D	TRUE	GST	0	240.55	21.87	106.76	ACC:6-7105
+dabd5528-49ab-4114-b481-8e184eb1420d	Lightyear Cloud Australia Pty Ltd	ct Debit	DateTimD:25/1/2025	1B926C47 0039				Renewal total amount  251.90 . Amount excluding GST  229.00 . Total tax GST		GST				TRUE	GST	0	251.9	22.9	251.9	ACC:6-7105
+13ca4305-b872-4f8c-88bb-e9f7ea2dbf9e	Thermo Fisher Scientific Australia	DI-4865	DateTimD:9/1/2025	I4122332				Water OPTIMA LCMS grade		GST		GP	Group	TRUE	GST	0	253.73	23.07	253.73	ACC:6-5012
+94665a96-3a00-4738-a66c-0bd48f9c2a94	Officeworks	ard - NF	DateTimD:29/1/2025	619645978				SAMSUNG 27' S36GD FHD CVD MON		GST				TRUE	GST	0	260.27	23.66	147	ACC:6-4122
+94665a96-3a00-4738-a66c-0bd48f9c2a94	Officeworks	ard - NF	DateTimD:29/1/2025	619645978				JB A5 HC NOTEBK REC 200PG BK		GST				TRUE	GST	0	260.27	23.66	5.89	ACC:6-4122
+94665a96-3a00-4738-a66c-0bd48f9c2a94	Officeworks	ard - NF	DateTimD:29/1/2025	619645978				KY-COLL NOTEBOOK FEINT A5 168PG		GST				TRUE	GST	0	260.27	23.66	35.68	ACC:6-4122
+94665a96-3a00-4738-a66c-0bd48f9c2a94	Officeworks	ard - NF	DateTimD:29/1/2025	619645978				COLLINS 3880 ACC MIN A4 84LF		GST				TRUE	GST	0	260.27	23.66	55.96	ACC:6-4122
+94665a96-3a00-4738-a66c-0bd48f9c2a94	Officeworks	ard - NF	DateTimD:29/1/2025	619645978				PK4 UNIBALL EYE MICRO BE		GST				TRUE	GST	0	260.27	23.66	15.74	ACC:6-4122
+13f0eb7f-7b91-4c39-bc99-ab8695117a53	Fisher Biotech Pty Ltd	DI-4801	DateTimD:27/3/2025	87527/03				Axygen Ultra Clear Pressure Sensitive		GST		DB	Diagnostic Biomarker	TRUE	GST	0	265.1	24.1	265.1	ACC:6-5140
+32231d8f-a358-4d38-b5f7-106fbbfb1863	AB SCIEX Australia Pty Ltd	DI-4917	DateTimD:7/3/2025	390007149				MS Synthetic Peptide		GST		GP	Group	TRUE	GST	0	266.17	24.2	213.53	ACC:6-5011
+32231d8f-a358-4d38-b5f7-106fbbfb1863	AB SCIEX Australia Pty Ltd	DI-4917	DateTimD:7/3/2025	390007149				Freight		GST		GP	Group	TRUE	GST	0	266.17	24.2	52.64	ACC:6-5020
+fc29e1a1-0cde-4614-a56d-a9f4e5c6d6b7	Lightyear Cloud Australia Pty Ltd	ct Debit	DateTimD:26/3/2025	1B926C47 0042				Renewal PI		GST				TRUE	GST	0	269.5	24.5	269.5	ACC:6-7105
+b8703bb9-1acd-4802-b1c0-7a7d600dbb12	Lightyear Cloud Australia Pty Ltd	ct Debit	DateTimD:25/2/2025	1B926C47-0040				Renewal total amount  269.50 . Amount excluding GST  245.00 . Total tax GST		GST				TRUE	GST	0	269.5	24.5	269.5	ACC:6-7105
+612e0b8f-d5c5-43b4-a5d4-5023e2b372f4	Miscellaneous Creditor	Debit Ca - NF	DateTimD:29/1/2025	3554554813				HEalth Domain		GST				TRUE	GST	0	271.36	24.67	271.36	ACC:6-7105
+3307ab0b-10dd-4911-9309-d47de64542bd	Lightyear Cloud Australia Pty Ltd	ct Debit	DateTimD:29/4/2025	1B926C47 0047				Lightyear renewal PI		GST				TRUE	GST	0	271.66	24.7	271.66	ACC:6-7105
+c7943e6b-5397-4dc6-85a9-c17969544045	Churchill Knight	4950	DateTimD:24/3/2025	5527				AC Maintenance at 8/154 Hampden Rd. Invoice from CAS attached.		GST				TRUE	GST	0	275	25	275	ACC:6-4122
+fdc1771d-608c-4026-b2da-54609677dc5f	American Diabetes Association	ard - NF	DateTimD:2/4/2025	6080-31-7968 8				Booth Space Corner position (Upgraded)		FRE				TRUE	GST	0	319.03	0	319.03	ACC:6-2150
+5e90f04a-bc25-4a4f-874a-91a3b0acc0dd	Kirsten Peters expenses	4893	DateTimD:11/3/2025	25-03				American Diabetes Assoc		FRE				TRUE	GST	0	320.94	9.63	214.97	ACC:6-2150
+5e90f04a-bc25-4a4f-874a-91a3b0acc0dd	Kirsten Peters expenses	4893	DateTimD:11/3/2025	25-03				Uber Trips		GST				TRUE	GST	0	320.94	9.63	105.97	ACC:6-2101
+92de0e11-e38c-4767-9f99-9c083466d900	ASIC	4891	DateTimD:23/2/2025					Proteomics International (IP) Pty Ltd		FRE				TRUE	GST	0	321	0	321	ACC:6-4530
+6de171ac-c17c-4bb2-8461-da6da95d356c	Miscellaneous Creditor	ard - HL	DateTimD:31/3/2025	1329-3030				MM Course - Ceri Accelerating Australia		GST				TRUE	GST	0	330	30	330	ACC:6-2150
+059120b8-b93c-4b88-8856-bd0bbe95c273	Cygnet West Pty Ltd	4886	DateTimD:3/2/2025	INV-QEII5437				"Gloves S, M, L"		GST		GP	Group	TRUE	GST	0	333.21	30.29	235.66	ACC:6-5010
+059120b8-b93c-4b88-8856-bd0bbe95c273	Cygnet West Pty Ltd	4886	DateTimD:3/2/2025	INV-QEII5437				"Gloves small, medium and large (Ansell)"		GST		GP	Group	TRUE	GST	0	333.21	30.29	186.25	ACC:6-5010
+059120b8-b93c-4b88-8856-bd0bbe95c273	Cygnet West Pty Ltd	4886	DateTimD:3/2/2025	INV-QEII5437				Credit		GST		GP	Group	TRUE	GST	0	333.21	30.29	-33.26	ACC:6-5010
+059120b8-b93c-4b88-8856-bd0bbe95c273	Cygnet West Pty Ltd	4886	DateTimD:3/2/2025	INV-QEII5437				Credit		GST		GP	Group	TRUE	GST	0	333.21	30.29	-33.26	ACC:6-5010
+059120b8-b93c-4b88-8856-bd0bbe95c273	Cygnet West Pty Ltd	4886	DateTimD:3/2/2025	INV-QEII5437				Credit		GST		GP	Group	TRUE	GST	0	333.21	30.29	-22.18	ACC:6-5010
+6779ca45-37ac-483a-87b9-a82309affebe	Centrewest Insurance Brokers	4320	DateTimD:14/2/2025	478964				Premium - to add theft cover		GST				TRUE	GST	0	335	28.01	308.11	ACC:6-7116
+6779ca45-37ac-483a-87b9-a82309affebe	Centrewest Insurance Brokers	4320	DateTimD:14/2/2025	478964				Premium - to add theft cover		FRE				TRUE	GST	0	335	28.01	26.89	ACC:6-7116
+fc99681d-88ea-4e59-baec-ac3702600520	Thermo Fisher Scientific Australia	DI-4912	DateTimD:17/3/2025	25017442				2 x ZEBASPIN DESALTING		GST		AS	Analytical Services	TRUE	GST	0	339.77	30.89	339.77	ACC:6-5240
+3540b4ae-baff-4ecc-a5e6-2e90e0d9ea2c	Cygnet West Pty Ltd	DI-4889	DateTimD:5/3/2025	INV-QEII5548				"FEB 2025 (transactions breakdown attached) - Autoclave bag, yellow, 72 x 91cm - 50/bag. Interpath (cat# ADVACB093)"		GST		GP	Group	TRUE	GST	0	344.62	31.33	67.17	ACC:6-5010
+3540b4ae-baff-4ecc-a5e6-2e90e0d9ea2c	Cygnet West Pty Ltd	DI-4889	DateTimD:5/3/2025	INV-QEII5548				"M, Nitrile powder free gloves"		GST		GP	Group	TRUE	GST	0	344.62	31.33	102.03	ACC:6-5010
+3540b4ae-baff-4ecc-a5e6-2e90e0d9ea2c	Cygnet West Pty Ltd	DI-4889	DateTimD:5/3/2025	INV-QEII5548				"L, Nitrile powder free gloves ("		GST		GP	Group	TRUE	GST	0	344.62	31.33	29.8	ACC:6-5010
+3540b4ae-baff-4ecc-a5e6-2e90e0d9ea2c	Cygnet West Pty Ltd	DI-4889	DateTimD:5/3/2025	INV-QEII5548				"S, Nitrile powder free gloves"		GST		GP	Group	TRUE	GST	0	344.62	31.33	44.77	ACC:6-5010
+3540b4ae-baff-4ecc-a5e6-2e90e0d9ea2c	Cygnet West Pty Ltd	DI-4889	DateTimD:5/3/2025	INV-QEII5548				"100well (10x10) freezer box, cardboard"		GST		GP	Group	TRUE	GST	0	344.62	31.33	100.86	ACC:6-5010
+3540b4ae-baff-4ecc-a5e6-2e90e0d9ea2c	Cygnet West Pty Ltd	DI-4889	DateTimD:5/3/2025	INV-QEII5548				Rounding row : 344.63		FRE		GP	Group	TRUE	GST	0	344.62	31.33	-0.01	ACC:6-5010
+c26198da-953b-410c-bf69-e805560b3572	MYOB Australia	ct Debit	DateTimD:1/1/2025	2-10011065362				MYOB AccountRight Live Premier Recurring Subscription		GST				TRUE	GST	0	354	32.18	177	ACC:6-7105
+c26198da-953b-410c-bf69-e805560b3572	MYOB Australia	ct Debit	DateTimD:1/1/2025	2-10011065362				MYOB AccountRight Live Premier Recurring Subscription		GST				TRUE	GST	0	354	32.18	177	ACC:6-7105
+e64cd550-78e2-418b-b2a2-4d4de9250717	MYOB Australia	ct Debit	DateTimD:1/2/2025	2-10011298770				MYOB AccountRight Live Premier Recurring Subscription		GST				TRUE	GST	0	354	32.18	177	ACC:6-7105
+e64cd550-78e2-418b-b2a2-4d4de9250717	MYOB Australia	ct Debit	DateTimD:1/2/2025	2-10011298770				MYOB AccountRight Live Premier Recurring Subscription		GST				TRUE	GST	0	354	32.18	177	ACC:6-7105
+35992937-bea8-43dd-ba0e-2c239ea23523	Cygnet West Pty Ltd - Storage Server	N/A	DateTimD:1/1/2025	INV-FSH0959				Storage Server - March Quarter 2025 (1 January 2025 to 31 March 2025)		GST		GP	Group	TRUE	GST	0	355.41	32.31	355.41	ACC:6-7105
+279e04ea-8994-458d-a0ea-f3f2ed28c8b8	Interpath	DI-4883	DateTimD:30/1/2025	I095629				PLATE PP - F/BOTTOM 96 WELL		GST		DB	Diagnostic Biomarker	TRUE	GST	0	360.36	32.76	360.36	ACC:6-5122
+06523e79-b9fd-4d5c-b899-d26a0d8de758	O'Sullivans Patent Attorneys	4897	DateTimD:28/2/2025	2025438				European Patent 21770607.6. - Professional Service Fee		GST				TRUE	GST	0	367.47	27	275	ACC:6-3525
+06523e79-b9fd-4d5c-b899-d26a0d8de758	O'Sullivans Patent Attorneys	4897	DateTimD:28/2/2025	2025438				Official Fees (no GST)		FRE				TRUE	GST	0	367.47	27	1702.9	ACC:6-3525
+06523e79-b9fd-4d5c-b899-d26a0d8de758	O'Sullivans Patent Attorneys	4897	DateTimD:28/2/2025	2025438				Other Service Charge - International Payment Bank Fee (GST)		GST				TRUE	GST	0	367.47	27	22	ACC:6-3525
+06523e79-b9fd-4d5c-b899-d26a0d8de758	O'Sullivans Patent Attorneys	4897	DateTimD:28/2/2025	2025438				Less Retainer		FRE				TRUE	GST	0	367.47	27	-1632.43	ACC:1-1512
+144e2a31-6d1a-49b4-ad2d-b1886fcb637b	XCY Pty Ltd	4873	DateTimD:31/1/2025	XCYS09999				"Monthly Billing for January 2025
+
+5) RMM: Remote Management & Monitoring products are important for"		GST				TRUE	GST	0	369.6	33.6	369.6	ACC:6-7105
+e5996fcc-b236-404f-8d9b-1324d21f9354	XCY Pty Ltd	4943	DateTimD:31/3/2025	XCYS10091				"Monthly Billing for March 2025
+
+RMM: Remote Management & Monitoring products are important for"		GST				TRUE	GST	0	369.6	33.6	369.6	ACC:6-7105
+920a414f-3a73-4301-911b-a0a9b7473102	XCY Pty Ltd	4551	DateTimD:28/2/2025	XCYS10046				"Monthly Billing for February 2025
+
+5) RMM: Remote Management & Monitoring products are important for"		GST				TRUE	GST	0	376.2	34.2	376.2	ACC:6-7105
+638d590e-c449-45fa-b033-645bd67b53aa	Harry Perkins Institute of Medical Research Inc	4842	DateTimD:20/1/2025	HPI010617				Chemical Waste Disposal November 2024		GST				TRUE	GST	0	381.74	34.7	381.74	ACC:6-1105
+fee7412e-99ea-48e9-8c9c-de1cc2ca1d24	Cygnet West Pty Ltd	DI-4935	DateTimD:1/4/2025	INV-QEII5664				"Kimtech Wipes 1 Ply, S &M Gloves Ref: DI-4910"		GST		GP	Group	TRUE	GST	0	386.66	35.15	54.01	ACC:6-5010
+fee7412e-99ea-48e9-8c9c-de1cc2ca1d24	Cygnet West Pty Ltd	DI-4935	DateTimD:1/4/2025	INV-QEII5664				"Gloves small & M (Ansell), Kimtech Wipes Supplies Ref: DI-4935"		GST		GP	Group	TRUE	GST	0	386.66	35.15	332.65	ACC:6-5010
+a2314cbd-ba74-4fe6-a7e4-145b2e8e354f	Interpath	DI-4911	DateTimD:10/3/2025	I098292				MICROTUBE GRAD - NAT 2ML		GST		GP	Group	TRUE	GST	0	388.97	35.36	28.61	ACC:6-5010
+a2314cbd-ba74-4fe6-a7e4-145b2e8e354f	Interpath	DI-4911	DateTimD:10/3/2025	I098292				PLATE PP - F/BOTTOM 96 WELL		GST		DB	Diagnostic Biomarker	TRUE	GST	0	388.97	35.36	360.36	ACC:6-5122
+d2ecb2b0-5861-4aa5-ab2a-f0dcb463fb35	MYOB Australia	4937	DateTimD:1/4/2025	2-10011894665				MYOB AccountRight Live Premier Recurring Subscription		GST				TRUE	GST	0	389.99	35.45	22.04	ACC:6-7105
+d2ecb2b0-5861-4aa5-ab2a-f0dcb463fb35	MYOB Australia	4937	DateTimD:1/4/2025	2-10011894665				MYOB AccountRight Live Premier Recurring Subscription		GST				TRUE	GST	0	389.99	35.45	172.95	ACC:6-7105
+d2ecb2b0-5861-4aa5-ab2a-f0dcb463fb35	MYOB Australia	4937	DateTimD:1/4/2025	2-10011894665				MYOB AccountRight Live Premier Recurring Subscription		GST				TRUE	GST	0	389.99	35.45	195	ACC:6-7105
+43a32e1e-080e-4090-a131-b6f317529616	MYOB Australia	4545	DateTimD:1/3/2025	2-10011512532				2 x MYOB AccountRight Live Premier Recurring Subscription 01 Mar 2025 to 31 Mar 2025		GST				TRUE	GST	0	390	35.45	390	ACC:6-7105
+0bd583f1-1d95-4ec5-82e8-5495a85fe2c2	Marken Time Critical Express	4874	DateTimD:1/2/2025	SYD119050				"Freight from PI Nedlands to Monash Institute of Pharmaceutical Sciences, Victoria"		GST				TRUE	GST	0	395.36	35.94	395.36	ACC:6-5020
+8da61ea1-982a-4f6f-acaa-dd194634178c	"Sony, Sreeja"	4867	DateTimD:15/1/2025	y 2025 Reimbursement				Flight Tickets for trip to Hyderabad: BioAsia Conference & Client Visits		FRE				TRUE	GST	0	424.93	0	172.05	ACC:6-2101
+8da61ea1-982a-4f6f-acaa-dd194634178c	"Sony, Sreeja"	4867	DateTimD:15/1/2025	y 2025 Reimbursement				"Conference Registration: BioAsia, India"		FRE				TRUE	GST	0	424.93	0	207.44	ACC:6-2150
+8da61ea1-982a-4f6f-acaa-dd194634178c	"Sony, Sreeja"	4867	DateTimD:15/1/2025	y 2025 Reimbursement				Mobile & Broadband Bill		FRE				TRUE	GST	0	424.93	0	21.9	ACC:6-4122
+8da61ea1-982a-4f6f-acaa-dd194634178c	"Sony, Sreeja"	4867	DateTimD:15/1/2025	y 2025 Reimbursement				Add: Dec Reimbursement not actually paid		FRE				TRUE	GST	0	424.93	0	23.54	ACC:6-4122
+bc7ec762-4566-48c6-9e03-8650fc130fe3	Thermo Fisher Scientific Australia	DI-4865	DateTimD:14/1/2025	I4124061				"ACETONITRILE OPTIMA
+LCMS GRADE 4L, LCMS
+APPLICATIONS CAS No. 75-05-8"		GST		GP	Group	TRUE	GST	0	431.27	39.21	431.27	ACC:6-5012
+43bf5d0b-10db-4896-b469-1b8ab46fd7e3	Microsoft Regional Sales	bit Card	DateTimD:27/3/2025	E0100VREWV				Exchange Online 26/02/2025 - 25/03/2025		GST				TRUE	GST	0	448.55	40.78	448.55	ACC:6-7105
+079adfad-36ca-4b2e-bb84-8aa9d70a6817	Martini Travel	4887	DateTimD:14/3/2025	I.0000035225				Car Hire for Scott Bringans's Melbourne Trip 10.03.25 - 13.03.25		GST				TRUE	GST	0	458.99	41.73	458.99	ACC:6-2101
+97a8b455-d7ca-4dbf-8f26-3725ed1f1714	Sarah Webster	NA	DateTimD:5/1/2025	PI019				Bookkeeper - December 2024 ( 8 hours at $55)		GST				TRUE	GST	0	484	44	484	ACC:6-3101
+e3d6723c-9ed0-454f-b208-9d320340d68e	Fisher Biotech Pty Ltd	DI-4862	DateTimD:1/1/2025	88011/01				"Axygen 500ul, 96 Well Assay ""V"" Bottom"		GST		DB	Diagnostic Biomarker	TRUE	GST	0	495	45	495	ACC:6-5120
+9eb0ab34-3227-498f-823d-181beb185065	Churchill Knight	NA	DateTimD:1/1/2025	4845				Car Bay Rent 01/02/25 - 28/02/25		FRE				TRUE	GST	0	500	0	500	ACC:6-0550
+2f0cbc85-5e7f-434c-8ee6-5544482f60d1	Royal Freshwater Bay Yacht Club	Debit Card NF	DateTimD:2/4/2025	1245				Deposit for Proteomics Cocktail Function in 16th  April 25		GST				TRUE	GST	0	500	45.45	500	ACC:6-4122
+dc8b7156-1168-4a46-8e29-ac0c9cfdbd76	Churchill Knight	4892	DateTimD:1/2/2025	4845a				Car Bay Rent 01/02/25 -28/02/25		FRE				TRUE	GST	0	500	0	500	ACC:6-0550
+0c5b8fac-f379-4058-b15d-aef948d3edda	Domain.com	ard - NF	DateTimD:28/4/2025	1808423428				Promarker Endometriosis Domain 1yr - USD 333.11		GST				TRUE	GST	0	522.85	47.53	522.85	ACC:6-7105
+5afbc12a-55d5-44f8-998f-68aad7f5248b	Officeworks	ard - NF	DateTimD:10/1/2025	618880071				"PK2 DYMO PLSTIC 12MM,  BK ON WHT"		GST				TRUE	GST	0	522.9	46.03	27.5	ACC:6-4122
+5afbc12a-55d5-44f8-998f-68aad7f5248b	Officeworks	ard - NF	DateTimD:10/1/2025	618880071				KY-CADBURY DRINKING CHOC 450ML		FRE				TRUE	GST	0	522.9	46.03	15.04	ACC:6-4122
+5afbc12a-55d5-44f8-998f-68aad7f5248b	Officeworks	ard - NF	DateTimD:10/1/2025	618880071				FOOTREST ANGLE		GST				TRUE	GST	0	522.9	46.03	33.49	ACC:6-4122
+5afbc12a-55d5-44f8-998f-68aad7f5248b	Officeworks	ard - NF	DateTimD:10/1/2025	618880071				MONITOR RISER WITH DRAWER		GST				TRUE	GST	0	522.9	46.03	49.9	ACC:6-4122
+5afbc12a-55d5-44f8-998f-68aad7f5248b	Officeworks	ard - NF	DateTimD:10/1/2025	618880071				KENS ALUM COLPSBL LAPTOP RISER		GST				TRUE	GST	0	522.9	46.03	119.91	ACC:6-4122
+5afbc12a-55d5-44f8-998f-68aad7f5248b	Officeworks	ard - NF	DateTimD:10/1/2025	618880071				JB A5 HC NOTEBK REC 200PG BK		GST				TRUE	GST	0	522.9	46.03	23.56	ACC:6-4122
+5afbc12a-55d5-44f8-998f-68aad7f5248b	Officeworks	ard - NF	DateTimD:10/1/2025	618880071				HP 330 WLESS KBD MSE COMBO		GST				TRUE	GST	0	522.9	46.03	252	ACC:6-4122
+5afbc12a-55d5-44f8-998f-68aad7f5248b	Officeworks	ard - NF	DateTimD:10/1/2025	618880071				Misc		FRE				TRUE	GST	0	522.9	46.03	1.5	ACC:6-4122
+77e5d9e7-5e9b-484d-b2a3-ca921f7ee6b9	Adelab Scientific	DI-4760	DateTimD:1/2/2025	133304				RAININ GPS-L250 PRELOAD TIPS 250uL/960		GST		GP	Group	TRUE	GST	0	533.5	48.5	357.5	ACC:6-5010
+77e5d9e7-5e9b-484d-b2a3-ca921f7ee6b9	Adelab Scientific	DI-4760	DateTimD:1/2/2025	133304				"RAININ GPS-L1000 PRELOAD TIP 1000uL/768 2 0 2 8x96 65.00 13.01430 143.00
+Lot No: 2250"		GST		GP	Group	TRUE	GST	0	533.5	48.5	143	ACC:6-5010
+77e5d9e7-5e9b-484d-b2a3-ca921f7ee6b9	Adelab Scientific	DI-4760	DateTimD:1/2/2025	133304				Freight		GST		GP	Group	TRUE	GST	0	533.5	48.5	33	ACC:6-5020
+33223b29-fd0a-4a3e-8706-9467dda4993d	BB POWER SOLUTIONS PTY LTD	DI-4861	DateTimD:9/1/2025	330104				3 Hrs - A. Zone 1 - 1 Technician Normal Hours Per Hour PP		GST		GP	Group	TRUE	GST	0	535.26	48.66	535.26	ACC:6-5011
+564d0484-6ca9-4efd-a6f3-8f58b7e99e0c	Eppendorf South Pacific Pty Ltd	DI-4921	DateTimD:31/3/2025	95027120				Rotor lid for FA-45-30-11 _____________		GST		GP	Group	TRUE	GST	0	551.1	50.1	551.1	ACC:6-5011
+051b305e-c989-493c-8a61-b80da38ab63c	Fisher Biotech Pty Ltd	DI-4931	DateTimD:1/4/2025	89573/01				"Axygen 500ul, 96 Well Assay ""V"" Bottom"		GST		PD	Promarker D	TRUE	GST	0	562.1	51.1	501.6	ACC:6-5025
+051b305e-c989-493c-8a61-b80da38ab63c	Fisher Biotech Pty Ltd	DI-4931	DateTimD:1/4/2025	89573/01				Freight		GST		DB	Diagnostic Biomarker	TRUE	GST	0	562.1	51.1	60.5	ACC:6-5116
+dbc6a87c-1d20-4808-8ac6-991cf4c563d1	Microsoft Regional Sales	ct Debit	DateTimD:26/2/2025	E0100VG1UD				Microsoft 365 Apps for business: 26/01/2025 - 25/02/2025		GST				TRUE	GST	0	569.23	51.75	569.23	ACC:6-7105
+54474781-15af-466a-a9b9-a49a4211b4f2	O'Sullivans Patent Attorneys	4898	DateTimD:28/2/2025	2025441				Australian Patent Application - 2021237128 - Professional Service Fee		GST				TRUE	GST	0	575	25	275	ACC:6-3525
+54474781-15af-466a-a9b9-a49a4211b4f2	O'Sullivans Patent Attorneys	4898	DateTimD:28/2/2025	2025441				Official fees - renewal		FRE				TRUE	GST	0	575	25	300	ACC:6-3525
+d85c9a81-5e4e-488f-85a5-593c30790ba4	Sapphire Bioscience Pty Ltd	DI-4831	DateTimD:20/1/2025	SI90412				Sheep anti Human inter alpha t 1M		GST		MP	Method Platform	TRUE	GST	0	586.3	53.3	586.3	ACC:6-5140
+02c2e212-6762-4833-96e2-3ee4b93b1e64	Microsoft Regional Sales	ct Debit	DateTimD:27/3/2025	E0100VREWW				Microsoft 365 Apps for Business - 26/02/2025 - 25/03/2025		GST				TRUE	GST	0	591.42	53.77	591.42	ACC:6-7105
+658454b8-0982-42eb-80f4-649cfd6761f6	O'Sullivans Patent Attorneys	4899	DateTimD:28/2/2025	2025439				Australian Patent Application 2025900435 - Professional Service Fee		GST				TRUE	GST	0	595	45	495	ACC:6-3525
+658454b8-0982-42eb-80f4-649cfd6761f6	O'Sullivans Patent Attorneys	4899	DateTimD:28/2/2025	2025439				Official Fees - Provisional patent application		FRE				TRUE	GST	0	595	45	100	ACC:6-3525
+f7acae50-92b7-49ab-bf2e-9f6e0a7c52ff	Microsoft Regional Sales	ct Debit	DateTimD:26/1/2025	E0100V4P3P				"Microsoft 
+365. Billing Period 26/12/2024 - 25/01/2025"		GST				TRUE	GST	0	609.83	55.44	609.83	ACC:6-7105
+e3d6fcd8-1e03-4a67-8cc5-6765f5c4142c	Peak Scientific Instruments	DI-4870	DateTimD:21/1/2025	INV00001138				"FILTER DRAIN 1/8"""		GST		GP	Group	TRUE	GST	0	610.96	55.54	500.96	ACC:6-1510
+e3d6fcd8-1e03-4a67-8cc5-6765f5c4142c	Peak Scientific Instruments	DI-4870	DateTimD:21/1/2025	INV00001138				Shipping & Handling - Small Spares (Fittings)		GST		GP	Group	TRUE	GST	0	610.96	55.54	110	ACC:6-5020
+40067bc0-09bb-4c15-a563-d384b914da87	Miscellaneous Creditor	ard - JG	DateTimD:26/2/2025	XXXV-ASM-2025- 52013				Allied Health Professional - inc medical students & RMO's		GST				TRUE	GST	0	619.15	56.29	619.15	ACC:6-2150
+5377c127-0d7f-484e-9510-baf6133b900d	Sigma-Aldrich Pty Ltd	DI-4905	DateTimD:1/3/2025	564726526				PNGASEF FROM FROM ELIZABETHKINGIA		GST		GP	Group	TRUE	GST	0	628.06	57.1	444.25	ACC:6-5010
+5377c127-0d7f-484e-9510-baf6133b900d	Sigma-Aldrich Pty Ltd	DI-4905	DateTimD:1/3/2025	564726526				PYREX(R) STANDARD GRIFFIN BEAKER LOW FO&		GST		GP	Group	TRUE	GST	0	628.06	57.1	117.81	ACC:6-5010
+5377c127-0d7f-484e-9510-baf6133b900d	Sigma-Aldrich Pty Ltd	DI-4905	DateTimD:1/3/2025	564726526				Trans/Handling Adj		GST		GP	Group	TRUE	GST	0	628.06	57.1	-38.5	ACC:6-5020
+5377c127-0d7f-484e-9510-baf6133b900d	Sigma-Aldrich Pty Ltd	DI-4905	DateTimD:1/3/2025	564726526				Trans/Handling/Fee & Ice Fee		GST		GP	Group	TRUE	GST	0	628.06	57.1	104.5	ACC:6-5020
+a6c447dc-cd2e-4f31-9bbb-b814599742f0	CartridgesDirect	DC - NF	DateTimD:15/1/2025	1028533				HP Color Laserjet PRO MFP4301		CAT				TRUE	GST	0	630.56	57.32	630.56	ACC:1-5100
+35a98dd1-eb78-4581-b09d-253cad60c45e	Marken Time Critical Express	DT-4838	DateTimD:1/1/2025	SYD117561				"Freight From: Wake Forest Uni School Winston-Salem, NC, United States
+To: ResearchDx, Irvine, CA, United State"		FRE				TRUE	GST	0	637.44	0	637.44	ACC:6-5116
+3afd0ff1-9e51-4339-8db8-23c46b28af68	WA Calibrations	HL-4922	DateTimD:26/3/2025	6473				Single Channel Pipette Calibration and Delivery		GST		GP	Group	TRUE	GST	0	638	58	594	ACC:6-1510
+3afd0ff1-9e51-4339-8db8-23c46b28af68	WA Calibrations	HL-4922	DateTimD:26/3/2025	6473				Delivery		GST		GP	Group	TRUE	GST	0	638	58	44	ACC:6-1510
+8b2382e6-7747-4543-8412-301f19e63384	Burgess Rawson	4896	DateTimD:17/3/2025	186382				3 Car bays at 186 Hampden Rd for April 2025at $200/Bay		GST				TRUE	GST	0	660	60	660	ACC:6-0550
+29da0dff-4ed4-40e8-b52d-1d57bea0dad6	O'Sullivans Patent Attorneys	4934	DateTimD:21/3/2025	2025464				Brazilian Patent Application No. BR 1120220183392						FALSE	GST	0	664.75	28.74	0	ACC:
+29da0dff-4ed4-40e8-b52d-1d57bea0dad6	O'Sullivans Patent Attorneys	4934	DateTimD:21/3/2025	2025464				Professional Service Fee		GST				FALSE	GST	0	664.75	28.74	250	ACC:6-3525
+29da0dff-4ed4-40e8-b52d-1d57bea0dad6	O'Sullivans Patent Attorneys	4934	DateTimD:21/3/2025	2025464				Foreign Assoc Fee		FRE				FALSE	GST	0	664.75	28.74	348.58	ACC:6-3525
+29da0dff-4ed4-40e8-b52d-1d57bea0dad6	O'Sullivans Patent Attorneys	4934	DateTimD:21/3/2025	2025464				Int Payment Bank Fee		GST				FALSE	GST	0	664.75	28.74	37.43	ACC:6-3525
+31f766d8-a258-4777-b25a-fa5166a2c354	Abcam Australia Pty Ltd	DI-4904	DateTimD:1/3/2025	2060687				"Anti-Hemoglobin subunit
+beta antibody"		GST		EN	Endometriosis	TRUE	GST	0	691.57	62.87	654.17	ACC:6-5121
+31f766d8-a258-4777-b25a-fa5166a2c354	Abcam Australia Pty Ltd	DI-4904	DateTimD:1/3/2025	2060687				Freight		GST		EN	Endometriosis	TRUE	GST	0	691.57	62.87	37.4	ACC:6-5020
+ac5ab3c6-a154-435c-ad36-6f9b14fe26a2	Dr Andrew Frankel	4815	DateTimD:1/4/2025	25-04				"FOR PROFESSIONAL SERVICES
+
+Pre-reading for Clinical Advisory Board 0.5 Hours and Attendance at Clinical Advisory Board 1 Hour at USD300/Hour"		FRE				TRUE	GST	0	701.03	0	701.03	ACC:6-2505
+0caa9137-5888-40eb-8209-46dd19802b2a	Castledine & Castledine Designers	4873	DateTimD:1/2/2025	3758				Design and production of finished artwork - Updates on all Promarker logos		GST				TRUE	GST	0	715	65	715	ACC:6-2200
+b60c869b-619a-4de8-9393-2b0042f2227e	Burgess Rawson	4882	DateTimD:14/2/2025	184264				" Car Bays 1, 2 & 3, 2/186 Hampden Road Nedlands 01.02.25 to 01.03.25"		FRE				TRUE	GST	0	738.56	0	738.56	ACC:6-0550
+b78bc64b-a7ad-48a4-9cf1-fe19dee71b65	QANTAS	ard - NF	DateTimD:23/4/2025	081-2369514542				Mrs Kirsten E Peters -  flights booked for the upcoming Endometriosis conference in Sydney. Travel period 21 May - 23 May 2025		GST				TRUE	GST	0	770.26	70.02	770.26	ACC:6-2101
+b1143e3a-60ae-4c09-9c8c-3858c140f9d0	Synergy	4931	DateTimD:1/3/2025	2070340704				"Supply - U 8 154 Hampden Rd, Nedlands WA 6009 for Supply period: 25 Dec 2024 - 26 Feb 2025"		GST				TRUE	GST	0	774.03	70.37	774.03	ACC:6-4122
+db0a9eef-4e42-40e3-996c-346d2c968057	O'Sullivans Patent Attorneys	4900	DateTimD:28/2/2025	2025440				CANADIAN Patent Application - 3169082. Professional Fee		GST				TRUE	GST	0	784.49	27	275	ACC:6-3525
+db0a9eef-4e42-40e3-996c-346d2c968057	O'Sullivans Patent Attorneys	4900	DateTimD:28/2/2025	2025440				Foreign Associates Fees (no GST) - Invoice No. 20445941		FRE				TRUE	GST	0	784.49	27	487.49	ACC:6-3525
+db0a9eef-4e42-40e3-996c-346d2c968057	O'Sullivans Patent Attorneys	4900	DateTimD:28/2/2025	2025440				Other Service Charge - International Payment Bank Fee (GST)		GST				TRUE	GST	0	784.49	27	22	ACC:6-3525
+01804497-61b6-42cf-aa7b-4126b2569d90	Gettysburg Healthcare Consulting	4840	DateTimD:1/1/2025	2024-122				Consulting Services		FRE				TRUE	GST	0	787.5	0	787.5	ACC:6-2501
+50bfd925-8682-4f9b-80cb-06c0f487fd06	Miscellaneous Creditor	ard - JG	DateTimD:24/1/2025	XXXV-ASM-2025- 51736				AGES Conference - Registration and dinner		GST				TRUE	GST	0	817.08	74.28	817.08	ACC:6-2150
+8b1b8349-327c-403c-a3e5-58401f332e72	AB SCIEX Australia Pty Ltd	HL-4891	DateTimD:18/2/2025	390007113				Billable Labor - 2 Hours		GST		GP	Group	TRUE	GST	0	820.32	74.57	820.32	ACC:6-1510
+a162eb4d-21e8-478a-a930-b2dc856f1af5	Thermo Fisher Scientific Australia	DI-4912	DateTimD:3/4/2025	I4156606				Finnpipette F2 1-10mL manual		GST		GP	Group	TRUE	GST	0	829.4	75.4	829.4	ACC:6-5010
+e6784e18-3d2a-4bf0-a4f2-4b8f339abf28	Best Practice Software Pty Ltd	ard - NF	DateTimD:4/3/2025	INC-076966				"Template Creation Bp Premier Simple fee -
+Diabetes type 2 chronic kidney disease
+prognostic - for self distribution"		GST				TRUE	GST	0	831.62	75.6	831.62	ACC:6-7105
+8303bd99-708f-45cd-afc3-f057fa295709	Abcam Australia Pty Ltd	DI-4887	DateTimD:3/2/2025	2053625				AB322113-1001 Anti-Prothrombin		GST		DB	Diagnostic Biomarker	TRUE	GST	0	852.5	77.5	815.1	ACC:6-5121
+8303bd99-708f-45cd-afc3-f057fa295709	Abcam Australia Pty Ltd	DI-4887	DateTimD:3/2/2025	2053625				FREIGHT		GST		DB	Diagnostic Biomarker	TRUE	GST	0	852.5	77.5	37.4	ACC:6-5020
+a5be98cc-f329-4745-a51d-c6330d83e623	Microsoft Regional Sales	Debit Card DD	DateTimD:28/2/2025							GST				TRUE	GST	0	868.85	78.99	868.85	ACC:6-7105
+0e38dae9-3005-46df-bbc5-8bdee383c0a6	Abcam Australia Pty Ltd	HL-4893	DateTimD:17/2/2025	2056673				"Anti-MUC16 antibody
+[CL2782]"		GST		DB	Diagnostic Biomarker	TRUE	GST	0	874.5	79.5	837.1	ACC:6-5121
+0e38dae9-3005-46df-bbc5-8bdee383c0a6	Abcam Australia Pty Ltd	HL-4893	DateTimD:17/2/2025	2056673				Freight Charge		GST		DB	Diagnostic Biomarker	TRUE	GST	0	874.5	79.5	37.4	ACC:6-5020
+864369b3-854d-41c7-961c-c58800b51482	Seek Limited	Debit Card-JG	DateTimD:29/1/2025	700999118				"Premium ad. Title: Industrial Graduate Scholarship -
+Research Scientist"		GST				TRUE	GST	0	874.5	79.5	874.5	ACC:6-0520
+372b6bd5-854e-49d8-b141-26d5beec2e1f	Sarstedt Australia Pty Ltd	DI-4890	DateTimD:12/2/2025	764980				FILTROPUR S0.2 SYRINGE FILTER		GST		AS	Analytical Services	TRUE	GST	0	924	84	863.5	ACC:6-5240
+372b6bd5-854e-49d8-b141-26d5beec2e1f	Sarstedt Australia Pty Ltd	DI-4890	DateTimD:12/2/2025	764980				Freight		GST		AS	Analytical Services	TRUE	GST	0	924	84	60.5	ACC:6-5020
+124f6a46-5e57-427a-ab95-ee42f979ad37	Interpath	DI-4864	DateTimD:10/1/2025	I094318				SHARPS WASTE CONTAINER YELLOW 4LT		GST		GP	Group	TRUE	GST	0	944.39	85.85	20.46	ACC:6-5010
+124f6a46-5e57-427a-ab95-ee42f979ad37	Interpath	DI-4864	DateTimD:10/1/2025	I094318				MICROPLATE F/WELL96 WELL		GST		GP	Group	TRUE	GST	0	944.39	85.85	108.39	ACC:6-5010
+124f6a46-5e57-427a-ab95-ee42f979ad37	Interpath	DI-4864	DateTimD:10/1/2025	I094318				CRYO V BASE INT CAP - NAT 1ML		GST		GP	Group	TRUE	GST	0	944.39	85.85	755.04	ACC:6-5010
+124f6a46-5e57-427a-ab95-ee42f979ad37	Interpath	DI-4864	DateTimD:10/1/2025	I094318				Freight		GST		GP	Group	TRUE	GST	0	944.39	85.85	60.5	ACC:6-5020
+dbd808a0-31f9-479e-a1b1-8465f7bfddd6	Alexander Turchin	4839	DateTimD:3/1/2025	7				"manuscript review, email communications. 1.5 hours. Billing period 01/09/2024 – 31/12/2024"		FRE				TRUE	GST	0	966.71	0	966.71	ACC:6-2505
+099f47f2-0bc2-4236-af08-2f37af9ba2d6	NATA	4553	DateTimD:26/2/2025	JIN706293				WA Proteomics Facility HP - 3 Hours Labour Charge		GST				TRUE	GST	0	990	90	990	ACC:6-2150
+439a1f2a-79ba-4272-886b-ddd0653bc39b	Zonya Bird	4938	DateTimD:21/3/2025	INV-1233				Final Payment - 50% BALANCE FOR Promotional work for two patient brochures (Promarker®D and Eso) and two physician brochures as per quotation cbd248.		GST				TRUE	GST	0	1017.5	92.5	1017.5	ACC:6-2503
+ffdd1d34-5d7a-4fe8-b488-9c2e379468ec	Zonya Bird	4325	DateTimD:4/2/2025	INV-1211				"50% DEPOSIT FOR:
+Promotional work for two patient brochures (Promarker®D and Eso) and two physician
+brochures as per quotation cbd248."		GST				TRUE	GST	0	1017.5	92.5	1017.5	ACC:6-2503
+fb77acbe-ffe7-418f-826b-8bd35583dd8a	Employment Hero Pty Ltd	4936	DateTimD:31/3/2025	INV00632181				EH Payroll - Premium - Contracted Employees		GST		GP	Group	TRUE	GST	0	1070.3	97.3	297	ACC:6-7105
+fb77acbe-ffe7-418f-826b-8bd35583dd8a	Employment Hero Pty Ltd	4936	DateTimD:31/3/2025	INV00632181				EH Payroll - Premium - Additional Employees -- Overage		GST		GP	Group	TRUE	GST	0	1070.3	97.3	69.3	ACC:6-7105
+fb77acbe-ffe7-418f-826b-8bd35583dd8a	Employment Hero Pty Ltd	4936	DateTimD:31/3/2025	INV00632181				EH Software - Platinum - Contracted Users		GST		GP	Group	TRUE	GST	0	1070.3	97.3	528	ACC:6-7105
+fb77acbe-ffe7-418f-826b-8bd35583dd8a	Employment Hero Pty Ltd	4936	DateTimD:31/3/2025	INV00632181				EH Software - Platinum - Additional Users -- Overage		GST		GP	Group	TRUE	GST	0	1070.3	97.3	176	ACC:6-7105
+5acbc2e7-bc30-4544-a565-dacf8839e510	QANTAS	ard - JG	DateTimD:25/3/2025	5QEMKW				Scott Bringans Flight Ticket Perth - CNS - Perth		GST				TRUE	GST	0	1074.72	97.7	1074.72	ACC:6-2101
+a2b62d60-1e90-4a02-b1ac-db1778d1bf34	Employment Hero Pty Ltd	ct Debit	DateTimD:31/1/2025	INV00576836				EH Payroll - Premium - Contracted Employees		GST		GP	Group	TRUE	GST	0	1080.2	98.2	297	ACC:6-7105
+a2b62d60-1e90-4a02-b1ac-db1778d1bf34	Employment Hero Pty Ltd	ct Debit	DateTimD:31/1/2025	INV00576836				EH Payroll - Premium - Additional Employees -- Overage		GST		GP	Group	TRUE	GST	0	1080.2	98.2	79.2	ACC:6-7105
+a2b62d60-1e90-4a02-b1ac-db1778d1bf34	Employment Hero Pty Ltd	ct Debit	DateTimD:31/1/2025	INV00576836				EH Software - Platinum - Contracted Users		GST		GP	Group	TRUE	GST	0	1080.2	98.2	528	ACC:6-7105
+a2b62d60-1e90-4a02-b1ac-db1778d1bf34	Employment Hero Pty Ltd	ct Debit	DateTimD:31/1/2025	INV00576836				EH Software - Platinum - Additional Users -- Overage		GST		GP	Group	TRUE	GST	0	1080.2	98.2	176	ACC:6-7105
+6db89b4b-2bb4-422f-9472-a28af5e0075d	Employment Hero Pty Ltd	4548	DateTimD:28/2/2025	INV00597963				EH Payroll & EH Software 01-02-2025 to 28-02-2025		GST		GP	Group	TRUE	GST	0	1087.9	98.9	1087.9	ACC:6-7105
+b09b58e5-c182-4087-8dbb-ab098272b0dd	Delicious Catering	4956	DateTimD:2/4/2025	726				"For the services of Delicious Catering on Sunday 23rd March 2025 at Harry Perkins, Nedland"		GST				TRUE	GST	0	1095.88	99.63	1095.88	ACC:6-4122
+a21e9990-16a5-4301-8102-d314c467166d	Thermo Fisher Scientific Australia	DI-4912	DateTimD:14/3/2025	14147181				2 x Acetonitrile Optima LCMS grade 4L EcoSafPak		GST				TRUE	GST	0	1156.07	105.1	426.38	ACC:6-5011
+a21e9990-16a5-4301-8102-d314c467166d	Thermo Fisher Scientific Australia	DI-4912	DateTimD:14/3/2025	14147181				5 x Water OPTIMA LCMS grade 4L		GST				TRUE	GST	0	1156.07	105.1	625.19	ACC:6-5010
+a21e9990-16a5-4301-8102-d314c467166d	Thermo Fisher Scientific Australia	DI-4912	DateTimD:14/3/2025	14147181				Dangerous Good Packaging		GST				TRUE	GST	0	1156.07	105.1	33	ACC:6-5020
+a21e9990-16a5-4301-8102-d314c467166d	Thermo Fisher Scientific Australia	DI-4912	DateTimD:14/3/2025	14147181				Freight		GST				TRUE	GST	0	1156.07	105.1	71.5	ACC:6-5020
+964e35b3-5996-4e69-ba1f-d48c7e14305c	Pathtech	DI-4928	DateTimD:20/3/2025	244141				"2 x Midi Plus Pipette Controller 1-100ml. S/N: 4545500074, 4545800269"		CAT		GP	Group	FALSE	GST	0	1168.33	106.21	997.12	ACC:1-5050
+964e35b3-5996-4e69-ba1f-d48c7e14305c	Pathtech	DI-4928	DateTimD:20/3/2025	244141				Freight		CAT		GP	Group	FALSE	GST	0	1168.33	106.21	65	ACC:1-5050
+3a379e92-3d8d-4c1a-9997-e2cb0967d2ad	Churchill Knight	4816	DateTimD:8/4/2025	5577				R&M - AC Repairs 02/04/25 - 02/04/25 at 8/154 Hampden Road		GST				TRUE	GST	0	1277.42	116.13	1277.42	ACC:6-4122
+8c889307-7ec6-4112-897d-03ab1306c8c0	O'Sullivans Patent Attorneys	4935	DateTimD:31/3/2025	2025508				US Patent APplication No.17165803						FALSE	GST	0	1305.63	93.79	0	ACC:
+8c889307-7ec6-4112-897d-03ab1306c8c0	O'Sullivans Patent Attorneys	4935	DateTimD:31/3/2025	2025508				Professional Service Fee		GST				FALSE	GST	0	1305.63	93.79	904.17	ACC:6-3525
+8c889307-7ec6-4112-897d-03ab1306c8c0	O'Sullivans Patent Attorneys	4935	DateTimD:31/3/2025	2025508				Foreign Assoc Fee		FRE				FALSE	GST	0	1305.63	93.79	273.97	ACC:6-3525
+8c889307-7ec6-4112-897d-03ab1306c8c0	O'Sullivans Patent Attorneys	4935	DateTimD:31/3/2025	2025508				Int Payment Bank Fee		GST				FALSE	GST	0	1305.63	93.79	33.7	ACC:6-3525
+96475abe-32d3-4a4e-baa4-92d3625ac5bc	Zonya Bird	4939	DateTimD:21/3/2025	INV-1234				A5 Potrraits for PromarkerD and PromarkerEso MyTest & GP Advertisements		GST				TRUE	GST	0	1320	120	1320	ACC:6-2503
+78fc8dc9-f45f-43db-83e6-c96aefd1df15	HUBSPOT AUSTRALIA PTY LTD	ct Debit	DateTimD:21/4/2025	30045218				"Seats, 2,000 Marketing Contacts) + Sales Hub Professional (1 Sales Seat) + 3 Additional Core Seats (Professional)"		GST				TRUE	GST	0	1385.98	126	1385.98	ACC:6-7105
+762ccd00-d0b0-4275-a577-5b25775a42e5	HUBSPOT AUSTRALIA PTY LTD	ard - NF	DateTimD:21/1/2025	26912019				"Seats, 2,000 Marketing Contacts)"		GST				TRUE	GST	0	1385.98	126	1078.46	ACC:6-7105
+762ccd00-d0b0-4275-a577-5b25775a42e5	HUBSPOT AUSTRALIA PTY LTD	ard - NF	DateTimD:21/1/2025	26912019				Sales Hub Professional (1 Sales Seat)		GST				TRUE	GST	0	1385.98	126	117.95	ACC:6-7105
+762ccd00-d0b0-4275-a577-5b25775a42e5	HUBSPOT AUSTRALIA PTY LTD	ard - NF	DateTimD:21/1/2025	26912019				3 Additional Core Seats (Professional)		GST				TRUE	GST	0	1385.98	126	189.57	ACC:6-7105
+1b2ad4e5-7f41-42e8-8acd-58df5dfd7c08	HUBSPOT AUSTRALIA PTY LTD	ct Debit	DateTimD:26/3/2025	29294849				"Seats, 2,000 Marketing Contacts)"		GST				TRUE	GST	0	1385.98	126	1078.46	ACC:6-7105
+1b2ad4e5-7f41-42e8-8acd-58df5dfd7c08	HUBSPOT AUSTRALIA PTY LTD	ct Debit	DateTimD:26/3/2025	29294849				Sales Hub Professional (1 Sales Seat)		GST				TRUE	GST	0	1385.98	126	117.95	ACC:6-7105
+1b2ad4e5-7f41-42e8-8acd-58df5dfd7c08	HUBSPOT AUSTRALIA PTY LTD	ct Debit	DateTimD:26/3/2025	29294849				3 Additional Core Seats (Professional)		GST				TRUE	GST	0	1385.98	126	189.57	ACC:6-7105
+0f103794-c411-4a3b-9d14-156111affcb6	HUBSPOT AUSTRALIA PTY LTD	ct Debit	DateTimD:21/2/2025	28168539				"Seats, 2,000 Marketing Contacts)"		GST				TRUE	GST	0	1385.98	126	1078.46	ACC:6-7105
+0f103794-c411-4a3b-9d14-156111affcb6	HUBSPOT AUSTRALIA PTY LTD	ct Debit	DateTimD:21/2/2025	28168539				Sales Hub Professional (1 Sales Seat)		GST				TRUE	GST	0	1385.98	126	117.95	ACC:6-7105
+0f103794-c411-4a3b-9d14-156111affcb6	HUBSPOT AUSTRALIA PTY LTD	ct Debit	DateTimD:21/2/2025	28168539				3 Additional Core Seats (Professional)		GST				TRUE	GST	0	1385.98	126	189.57	ACC:6-7105
+19a23602-b106-4543-ba1b-db57dbe9af7b	Fisher Biotech Pty Ltd	DI-4862	DateTimD:7/1/2025	88011/02				Beckman Coulter Biomek i-Series Tips 230uL Non-Sterile		GST		DB	Diagnostic Biomarker	TRUE	GST	0	1391.5	126.5	1320	ACC:6-5120
+19a23602-b106-4543-ba1b-db57dbe9af7b	Fisher Biotech Pty Ltd	DI-4862	DateTimD:7/1/2025	88011/02				Freight		GST		DB	Diagnostic Biomarker	TRUE	GST	0	1391.5	126.5	71.5	ACC:6-5116
+ac688c00-c265-4733-b209-474c7bc3dac1	Lenovo	4896	DateTimD:3/2/2025	G900663659				"ThinkPad E14 Gen 6 (Intel)
+21M7001QAU
+
+3Y Premier Support upgrade from
+
+1Y Premier Support
+5WS1B38519"		CAT				TRUE	GST	0	1395.33	126.85	1395.33	ACC:1-5100
+485723e6-ec5b-4143-b00a-45b63c1d1d95	James Lui expenses	4324	DateTimD:1/2/2025	25-02				travel overseas - James Liu		FRE				TRUE	GST	0	1415.26	0	1415.26	ACC:6-2102
+2ca644ef-b303-4f1f-a9a5-f61d9100fd2e	Fisher Biotech Pty Ltd	DI-4895	DateTimD:1/3/2025	88384/01				Beckman Coulter Biomek i-Series Tips 230µL Non-Sterile		GST		DB	Diagnostic Biomarker	TRUE	GST	0	1446.5	131.5	1375	ACC:6-5120
+2ca644ef-b303-4f1f-a9a5-f61d9100fd2e	Fisher Biotech Pty Ltd	DI-4895	DateTimD:1/3/2025	88384/01				Beckman Standard Delivery		GST		DB	Diagnostic Biomarker	TRUE	GST	0	1446.5	131.5	71.5	ACC:6-5116
+ef3e0a6e-6fa8-49af-aa6e-e49ab11201c5	Officeworks	ard - NF	DateTimD:6/2/2025	619897660				Lenovo IdeaCentre Mini Desktop Core i7 32GB/2TB		CAT				TRUE	GST	0	1497	136.09	1497	ACC:1-5100
+1dcd5d53-3db6-44e5-af23-5a67f8782433	"My One Medical Source, Inc."	ard - NF	DateTimD:14/4/2025	EF2115330001				Time on MAP Network Access from 11 Apr 2025 until 11 May 2025		FRE		PD	Promarker D	TRUE	GST	0	1573.6	0	1573.6	ACC:6-2503
+ee15f12b-8368-414b-9ebc-26d3731b4c74	Abcam Australia Pty Ltd	DI-4887	DateTimD:1/3/2025	2060675				"Anti-Plasminogen
+antibody [EPR22254-115]
+- BSA and Azide free"		GST		EN	Endometriosis	TRUE	GST	0	1612.6	146.6	1612.6	ACC:6-5121
+5f55ead3-2812-44fe-bea7-3a22cbf42604	AB SCIEX Australia Pty Ltd	MM-4925	DateTimD:1/4/2025	390007190				Billable Labor		GST		GP	Group	TRUE	GST	0	1640.63	149.15	1640.63	ACC:6-1510
+d615b80f-fce3-442d-9ede-61bc9baf3592	AB SCIEX Australia Pty Ltd	DI-4860	DateTimD:21/1/2025	390007069				Billable Labor		GST		GP	Group	TRUE	GST	0	1640.63	149.15	1640.63	ACC:6-1510
+c82c5e29-1ebc-4fc2-ae7c-a6303a41a987	AB SCIEX Australia Pty Ltd	DI-4836	DateTimD:1/1/2025	390006996				Billable Labor		GST		GP	Group	TRUE	GST	0	1640.63	149.15	1640.63	ACC:6-1510
+f61fa3db-929a-41f4-8856-9abeab2cd447	"MCRA, LLC"	PT-4718	DateTimD:1/1/2025	57237				Prepare for and meet with Proteomics to discuss Endo and Eso breakthrough device designation assessments.		GST		DB	Diagnostic Biomarker	TRUE	GST	0	1691.73	153.78	1691.73	ACC:6-2503
+57a3179b-0b8d-492f-91fc-c7139d859410	QANTAS	4895	DateTimD:17/2/2025	5NZQJT 				SB and DI - Melb Perth Round Trip 10.03.25 to 13.03.25		GST				TRUE	GST	0	1740.4	158.22	1740.4	ACC:6-2101
+eba4696d-c2b7-433d-afd5-6edf5830efb9	Blue Heeler Trading	SD-4892	DateTimD:14/2/2025	6040				Proteomics notebook and pens		GST				FALSE	GST	0	1768.25	160.75	1607.5	ACC:6-2200
+3b1a4520-05f5-4c2d-a2f6-bd744495ae58	Lenovo	DC - NF	DateTimD:6/1/2025	G900579923				Thinkpad E14 Gen 6		CAT				TRUE	GST	0	1779.59	161.78	1779.59	ACC:1-5100
+779022dc-cd97-44f6-ad9e-7d3abf7c35b4	Thermo Fisher Scientific Australia	DI-4885	DateTimD:7/2/2025	25007756				NP-40 SURFACT-AMPS		GST		GP	Group	TRUE	GST	0	1797.35	163.4	1725.85	ACC:6-5012
+779022dc-cd97-44f6-ad9e-7d3abf7c35b4	Thermo Fisher Scientific Australia	DI-4885	DateTimD:7/2/2025	25007756				FREIGHT AND HANDLING		GST		GP	Group	TRUE	GST	0	1797.35	163.4	71.5	ACC:6-5020
+a4a14ced-b453-4674-af53-9fb796944ff4	ISO Store	Debit Card NF	DateTimD:1/4/2025	INV00783244				Standard for Regulatory approvals and study development		FRE				TRUE	FRE	0	1883.03	0	1883.03	ACC:6-2150
+ebaf6d76-bba2-4fd3-b4e1-f377ab612dff	Sigma-Aldrich Pty Ltd	DI-4905	DateTimD:13/3/2025	564843965				"TRYPSIN,SEQUENCING GRADE,MODIFIED,4X25UG"		GST		EN	Endometriosis	TRUE	GST	0	1908.63	173.51	1908.63	ACC:6-5121
+325ba173-affc-4829-ba79-9f65ec42836f	Australian Institute of Management	Debit Card JG	DateTimD:20/2/2025	7171252				"Applied Project Management, 17/03/2025"		FRE				TRUE	GST	0	1926	0	1926	ACC:6-2150
+108d416c-981f-4f49-b26c-184de2a15732	Bio-Strategy Pty Ltd	HL-4490	DateTimD:24/1/2025	7500388227				EPPENDORF SERVICE AGREEMENT -STANDARD Year 2- SF00005028		GST				TRUE	GST	0	1965.7	178.7	1965.7	ACC:6-1510
+cb850061-a365-4fce-9e7e-055c539a6a54	Bio-Strategy Pty Ltd	HL-4490	DateTimD:28/1/2025	7570534782				Maintenance Yr 2 - EPPENDORF SERVICE AGREEMENT		GST		GP	Group	TRUE	GST	0	1965.7	178.7	1965.7	ACC:6-1510
+36ebd222-e26c-4e1e-af1d-c0ca55be7134	ASN Conferences Pty Ltd	ard - JG	DateTimD:26/3/2025	AUSO-282022				Hilton Cairns - Hilton Guest Room 17/05 - 22/05		GST				TRUE	GST	0	1999.69	181.79	1999.69	ACC:6-2101
+b87630e2-4f5a-421d-901d-8f1e1fbddeec	Medical Director	4940	DateTimD:14/4/2025	CTI0014023H				ProD and ProEso test referral forms in Medical Director		GST				TRUE	GST	0	2200	200	2200	ACC:6-2200
+2acc1d18-edd6-4d7e-a043-ca2b9c6153cf	Sigma-Aldrich Pty Ltd	DI-4884	DateTimD:3/2/2025	564548449				ALBUMIN CHICKEN EGG GRADE V		GST		DB	Diagnostic Biomarker	TRUE	GST	0	2263.68	205.79	430.65	ACC:6-5122
+2acc1d18-edd6-4d7e-a043-ca2b9c6153cf	Sigma-Aldrich Pty Ltd	DI-4884	DateTimD:3/2/2025	564548449				CARBONIC ANHYDRASE FROM BOVINE ERYTHRO&		GST		GP	Group	TRUE	GST	0	2263.68	205.79	158.02	ACC:6-5012
+2acc1d18-edd6-4d7e-a043-ca2b9c6153cf	Sigma-Aldrich Pty Ltd	DI-4884	DateTimD:3/2/2025	564548449				"ENDOPROTEINASE GLU-C SEQ.-GRADE,"		GST		GP	Group	TRUE	GST	0	2263.68	205.79	720.52	ACC:6-5012
+2acc1d18-edd6-4d7e-a043-ca2b9c6153cf	Sigma-Aldrich Pty Ltd	DI-4884	DateTimD:3/2/2025	564548449				PNGASEF FROM FROM ELIZABETHKINGIA		GST		MP	Method Platform	TRUE	GST	0	2263.68	205.79	888.49	ACC:6-5140
+2acc1d18-edd6-4d7e-a043-ca2b9c6153cf	Sigma-Aldrich Pty Ltd	DI-4884	DateTimD:3/2/2025	564548449				Trans/Handling Adj		GST		PD	Promarker D	TRUE	GST	0	2263.68	205.79	-38.5	ACC:6-5020
+2acc1d18-edd6-4d7e-a043-ca2b9c6153cf	Sigma-Aldrich Pty Ltd	DI-4884	DateTimD:3/2/2025	564548449				Trans/Handling/Fee + Ice Fee		GST		DB	Diagnostic Biomarker	TRUE	GST	0	2263.68	205.79	104.5	ACC:6-5020
+d1a123b1-719e-4236-a2ee-4594182cb28a	Thermo Fisher Scientific Australia	DI-4906	DateTimD:27/3/2025	25021140				HEAVYPEPTIDE AQUA		GST		EN	Endometriosis	TRUE	GST	0	2292.55	208.41	2292.55	ACC:6-5121
+ea4f1ff0-53fe-429d-a536-5a097cb2144f	Promega Corporation	DI-4866	DateTimD:20/1/2025	221060177				Rapid Digestion Kit - Trypsin		GST		GP	Group	TRUE	GST	0	2387.88	217.08	2387.88	ACC:6-5122
+c92447e7-318c-4790-b08a-69cc44a77a16	CartridgesDirect	4671	DateTimD:11/3/2025	1032999				"HP 416X Cyan, Yellow , Magenta and HP 210X Toner Cartridge Value Pack"		GST				TRUE	GST	0	2426.34	220.58	2426.34	ACC:6-4122
+622db07a-c5f3-4e53-9066-31dfe6e94f6f	Zoom Video Communications	ard - JG	DateTimD:31/1/2025	INV291136466				Zoom workplace Annual 31 Jan 2025 to 30 Jan 2026		FRE				TRUE	GST	0	2430.5	0	2430.5	ACC:6-7105
+a05e1f23-b69a-48f1-aefd-bac18c228cd6	Eide Bailly LLP	4849	DateTimD:28/2/2025	EI01816330				Preparation of 2023 federal and state corporate income tax returns + Technology Fee		FRE				TRUE	GST	0	2493.17	0	2493.17	ACC:6-3101
+31e4ba45-088b-4436-ae6a-abe521adf488	Nicholas Floan Expenses	4928	DateTimD:17/3/2025	25-03 Reimbursement				CA Unit - Strategy and Business Performance		FRE				TRUE	GST	0	2604	0	1804	ACC:6-2150
+31e4ba45-088b-4436-ae6a-abe521adf488	Nicholas Floan Expenses	4928	DateTimD:17/3/2025	25-03 Reimbursement				Commonwealth Bank (accident transfer from NF Personal to Business Acc)		N-T				TRUE	GST	0	2604	0	800	ACC:6-4122
+08c92092-6d44-4345-baf8-e328c3783fee	AB SCIEX Australia Pty Ltd	DI-4840	DateTimD:21/1/2025	390007068				PWR SUP* 900W 24V 5V		GST				TRUE	GST	0	2629.37	239.03	2566.64	ACC:6-1510
+08c92092-6d44-4345-baf8-e328c3783fee	AB SCIEX Australia Pty Ltd	DI-4840	DateTimD:21/1/2025	390007068				Freight		GST		GP	Group	TRUE	GST	0	2629.37	239.03	62.73	ACC:6-1510
+c730899e-7f47-4fd5-84db-e82785591a2c	HEALTHLINK GROUP PTY LIMITED	4929	DateTimD:1/3/2025	SIN-100235				"MS Software Testing 
+Upon Signing (50%)"		GST				TRUE	GST	0	2750	250	2750	ACC:6-7105
+74985cdb-b6e5-4ede-881e-1bf2ea6138e8	Biotem	JY-4857	DateTimD:1/1/2025	FA20241216PTI-013				1L clear bottle 1 Pack : 50 Units		FRE		PD	Promarker D	TRUE	GST	0	2756.66	0	764.25	ACC:6-5114
+74985cdb-b6e5-4ede-881e-1bf2ea6138e8	Biotem	JY-4857	DateTimD:1/1/2025	FA20241216PTI-013				1L amber bottle 1 Pack : 50 Units		FRE		PD	Promarker D	TRUE	GST	0	2756.66	0	1041.26	ACC:6-5114
+74985cdb-b6e5-4ede-881e-1bf2ea6138e8	Biotem	JY-4857	DateTimD:1/1/2025	FA20241216PTI-013				Red Caps 1 Pack : 1000 Units		FRE		PD	Promarker D	TRUE	GST	0	2756.66	0	317.05	ACC:6-5114
+74985cdb-b6e5-4ede-881e-1bf2ea6138e8	Biotem	JY-4857	DateTimD:1/1/2025	FA20241216PTI-013				Green Caps 1 Pack : 1000 Units		FRE		PD	Promarker D	TRUE	GST	0	2756.66	0	317.05	ACC:6-5114
+74985cdb-b6e5-4ede-881e-1bf2ea6138e8	Biotem	JY-4857	DateTimD:1/1/2025	FA20241216PTI-013				Yellow Caps 1 Pack : 1000 Units		FRE		PD	Promarker D	TRUE	GST	0	2756.66	0	317.05	ACC:6-5114
+4cb48284-ab80-4b57-a39d-bd064c3b4412	Turacoz Solutions Pte Ltd	SD-4669	DateTimD:1/3/2025	TSPL-2024-033				Final Milestone - Medical Writing Support with Completion and submission of PromarkerD EHB		FRE				TRUE	GST	0	2828.41	0	2828.41	ACC:6-2502
+271ae07d-a65a-4b45-884f-3fc6a0cf3fc7	Thermo Fisher Scientific Australia	DI-4896	DateTimD:27/2/2025	25013044				DYNABEADS M-270		GST		EN	Endometriosis	TRUE	GST	0	2840.88	258.26	2769.38	ACC:6-5121
+271ae07d-a65a-4b45-884f-3fc6a0cf3fc7	Thermo Fisher Scientific Australia	DI-4896	DateTimD:27/2/2025	25013044				FREIGHT AND HANDLING		GST		EN	Endometriosis	TRUE	GST	0	2840.88	258.26	71.5	ACC:6-5020
+53d2dd79-fa93-42d8-a3d2-95d1b77a14bd	Eide Bailly LLP	4850	DateTimD:23/2/2025	EI01814399				Preparation of 2023 federal and state corporate income tax returns + Technology Fee		FRE				TRUE	GST	0	2908.7	0	2908.7	ACC:6-3101
+88ddd8cf-c2e5-4342-bea3-ac907582b637	Restaurant	Debit Ca - NF	DateTimD:24/1/2025	1057846				Deposit Payment at BWG Steak for ProMarker D Dinner 05.02.25		GST				TRUE	GST	0	2991.3	271.94	2991.3	ACC:6-4122
+749628df-9dbb-454f-a681-bd150ebeccc7	Cecilia Clennell	NA	DateTimD:1/1/2025	24-12				Bill Parker Scholarship - 2nd Half Payment ($6k total) year 1		N-T				TRUE	FRE	0	3000	0	3000	ACC:6-0600
+bb181430-d8e3-4844-9fff-a5746d42558d	"Deng, Angela"	NA	DateTimD:1/1/2025	24-12				Bill Parker Scholarship - 2nd Half Payment ($6k total) year 2		N-T				TRUE	GST	0	3000	0	3000	ACC:6-0600
+b000fa19-45c8-4e4c-9b58-eb86db690175	Caleb Zhou	NA	DateTimD:1/1/2025	24-12				Bill Parker Scholarship - 2nd Half Payment ($6k total) year 3		N-T				TRUE	N-T	0	3000	0	3000	ACC:6-0600
+23a5ba8b-2036-4962-995a-628fb0f47097	Macquarie University	DI-4790	DateTimD:1/1/2025	SDI198552				"Amino acid profile with Hydroxyproline & Taurine, Qty 15"		GST		AS	Analytical Services	TRUE	GST	0	3052.5	277.5	3052.5	ACC:6-5210
+af43887f-70f3-4c9a-aca1-11bf5c3fed8c	Qserve Group UK Inc	4889	DateTimD:1/2/2025	I160400151				UK Responsible Person Annual License Fee Jan/01/2025		FRE				TRUE	GST	0	3067.64	0	3067.64	ACC:6-4120
+21664dc9-28fe-4335-9890-f1b7d0288fa3	Sarah Daly	4883	DateTimD:14/2/2025	Reimbursement				Visa application		FRE				TRUE	GST	0	3214.61	0	3158.61	ACC:6-4122
+21664dc9-28fe-4335-9890-f1b7d0288fa3	Sarah Daly	4883	DateTimD:14/2/2025	Reimbursement				Police clearance		FRE				TRUE	GST	0	3214.61	0	56	ACC:6-4122
+ff072e6e-c140-4db5-afc4-ea9ef53d8f90	Words Mean Business	4863	DateTimD:1/1/2025	INV-1004				Proteomics: copy for 2 landing pages		GST				TRUE	GST	0	3272.5	297.5	3272.5	ACC:6-2200
+7dba14b0-79b6-4f1a-8de9-39876bde8107	Words Mean Business	4864	DateTimD:31/1/2025	INV-1008				"50% first payment for Promarker®D and Eso brochures
+project"		GST				TRUE	GST	0	3293.4	299.4	3293.4	ACC:6-2200
+b1373457-035f-4514-b938-e423c9b15ac8	Abcam Australia Pty Ltd	DI-4887	DateTimD:1/3/2025	2058658				"Anti-SHBG antibody
+[EPR21758-3] - BSA and
+Azide free (Capture)"		GST		EN	Endometriosis	TRUE	GST	0	3323.1	302.1	1254	ACC:6-5121
+b1373457-035f-4514-b938-e423c9b15ac8	Abcam Australia Pty Ltd	DI-4887	DateTimD:1/3/2025	2058658				"Anti-Factor X antibody
+[EPR24169-68] - BSA and
+Azide free (Capture)"		GST		ENDO2023	New Job	TRUE	GST	0	3323.1	302.1	1254	ACC:6-5121
+b1373457-035f-4514-b938-e423c9b15ac8	Abcam Australia Pty Ltd	DI-4887	DateTimD:1/3/2025	2058658				"Anti-Prothrombin
+antibody [RM1252"		GST		EN	Endometriosis	TRUE	GST	0	3323.1	302.1	815.1	ACC:6-5121
+d8bb9e23-cb8a-4260-bc85-a4f188be3958	Hitormi Lim Expenses	4875	DateTimD:12/2/2025	Reimbursement				80% of the course		GST				TRUE	GST	0	3380.8	307.35	3380.8	ACC:6-2150
+11d948a7-3d31-4bb5-a50f-cb62126376c2	Churchill Knight	4891	DateTimD:1/4/2025	5406				8/154 Hampden Road - Rent 01/04/25 - 30/04/25		GST				TRUE	GST	0	3405.68	309.61	3405.68	ACC:6-1110
+b70e6f0b-0ceb-455e-8db4-c2fac0c3d7c7	Churchill Knight	4894	DateTimD:1/3/2025	5162				8/154 Hampden Road - Rent 01/03/25 - 31/03/25		GST				TRUE	GST	0	3405.68	309.61	3405.68	ACC:6-1110
+eb22ad42-eadd-4dd2-a1e7-4db1745f982b	Churchill Knight	NA	DateTimD:20/1/2025	4773				8/154 Hampden Rd - Rent 01/02/25 - 28/02/25		GST				TRUE	GST	0	3405.68	309.61	3405.68	ACC:6-1110
+c254474b-5e58-4951-8fd6-5bdc37210a66	Churchill Knight	4891	DateTimD:1/2/2025	4773a				8/154 Hampden Rd - Rent 01-28 Feb25		GST				TRUE	GST	0	3405.68	309.61	3405.68	ACC:6-1110
+cec9fa30-85f3-4a2b-87cd-075e69c95816	Sigma-Aldrich Pty Ltd	JY-4841	DateTimD:1/1/2025	564155636				CYTOCHROME C FROM BOVINE HEART		GST		PD	Promarker D	TRUE	GST	0	3597	327	1782	ACC:6-5112
+cec9fa30-85f3-4a2b-87cd-075e69c95816	Sigma-Aldrich Pty Ltd	JY-4841	DateTimD:1/1/2025	564155636				CYTOCHROME C FROM BOVINE HEART		GST		PD	Promarker D	TRUE	GST	0	3597	327	1782	ACC:6-5112
+cec9fa30-85f3-4a2b-87cd-075e69c95816	Sigma-Aldrich Pty Ltd	JY-4841	DateTimD:1/1/2025	564155636				Trans/Handling Adj		GST		PD	Promarker D	TRUE	GST	0	3597	327	-38.5	ACC:6-5116
+cec9fa30-85f3-4a2b-87cd-075e69c95816	Sigma-Aldrich Pty Ltd	JY-4841	DateTimD:1/1/2025	564155636				Trans/Handling/Fee		GST		PD	Promarker D	TRUE	GST	0	3597	327	71.5	ACC:6-5116
+d17631f3-1146-4264-9c27-db4500dd0a69	University of Canterbury	JL-4684	DateTimD:7/3/2025	1395571				5 SAMPLES at $800 old rate valid until 31st JULY 2024		FRE		AS	Analytical Services	TRUE	GST	0	3651.98	0	3651.98	ACC:6-5140
+f9d86074-c3d6-4bec-838e-fdb6b4b113dd	Microsoft Regional Sales	ct Debit	DateTimD:9/1/2025	12/2024 - 31/12/2024				Goods / Services (Taxable)		GST				TRUE	GST	0	3655.72	332.33	3655.63	ACC:6-7105
+f9d86074-c3d6-4bec-838e-fdb6b4b113dd	Microsoft Regional Sales	ct Debit	DateTimD:9/1/2025	12/2024 - 31/12/2024				Goods / Services (Tax Free)		FRE				TRUE	GST	0	3655.72	332.33	0.09	ACC:6-7105
+033fc56d-d1a2-45d7-8d35-06da7662e261	Marken Time Critical Express	DT-4886	DateTimD:1/3/2025	SYD119976				"From PI Nedlands to Biotem France. Freight for 
+Reagent and Antibodies"		FRE		PD	Promarker D	TRUE	GST	0	3688.5	0	3688.5	ACC:6-5116
+6d279768-41b4-4a22-8454-ebcd45b35a1a	Microsoft Regional Sales	ct Debit	DateTimD:9/3/2025	AU-TI2500531915				Microsoft Azure 01/02/2025 - 28/02/2025		GST				TRUE	GST	0	3716.85	337.9	3716.85	ACC:6-7105
+4b2293a4-844d-4ce5-bd71-15a91b708213	Biotem	JY-4909	DateTimD:12/3/2025	FA20250312PTI-008				"ELISA session (up to 10 plates) according to plate map C
+of PDI_WI_009 PromarkerD Lot Test for Release v1
+250225"		FRE		PD	Promarker D	TRUE	GST	0	3885.44	0	3885.44	ACC:6-5114
+f451fffa-9d79-4790-8761-54cbc8ad0a5e	MDPI	4670	DateTimD:6/3/2025	3489674				"Article Processing Charges - PromarkerD versus standard of care biochemical measures for
+assessing future renal function decline in type 2 diabetes"		FRE				TRUE	GST	0	3897.61	0	3897.61	ACC:6-4120
+3a9378cc-6e90-4f05-b505-15aefc874352	Gettysburg Healthcare Consulting	4901	DateTimD:7/3/2025	2025-27				" Consulting Services
+ 
+ PLA Application
+ (PI-2024-049.002) Invoice #2"		GST				TRUE	FRE	0	3926.99	357	3926.99	ACC:6-2501
+341296a9-e22e-43b6-82bd-a6162b8aa365	Microsoft Regional Sales	ct Debit	DateTimD:9/4/2025	AU-TI2500766651				Microsoft Azure 01/03/2025 - 31/03/2025		GST				TRUE	GST	0	3942.74	358.43	3942.74	ACC:6-7105
+c15d0d1a-4c49-4fa8-a26b-4d88f13cb90b	Microsoft Regional Sales	ct Debit	DateTimD:9/2/2025	AU-T12500285616				Microsoft Azure Support 01.01.25 to 31.01.25		GST				TRUE	GST	0	3997.65	363.42	3997.65	ACC:6-7105
+2efa0bb8-aaaf-433c-ae66-7d35a61c08d5	Macquarie University	DI-4823	DateTimD:1/1/2025	SDI198670				"CD Analysis, Qty 12"		GST		AS	Analytical Services	TRUE	GST	0	4092	372	4092	ACC:6-5240
+09777617-1d55-4fdc-8634-d2ceaf8a72fc	WALDRON SMITH MANAGEMENT PTY LTD	t Card -	DateTimD:11/3/2025	WCE25-710				"Clinical Fellow Registration
+ and Congress Celebration (CW)"		GST				TRUE	GST	0	4100	372.73	860	ACC:6-2150
+09777617-1d55-4fdc-8634-d2ceaf8a72fc	WALDRON SMITH MANAGEMENT PTY LTD	t Card -	DateTimD:11/3/2025	WCE25-710				"Clinical Fellow Registration
+ and Congress Celebration (KP)"		GST				TRUE	GST	0	4100	372.73	860	ACC:6-2150
+09777617-1d55-4fdc-8634-d2ceaf8a72fc	WALDRON SMITH MANAGEMENT PTY LTD	t Card -	DateTimD:11/3/2025	WCE25-710				"Clinical Fellow Registration
+ and Congress Celebration (RL)"		GST				TRUE	GST	0	4100	372.73	1190	ACC:6-2150
+09777617-1d55-4fdc-8634-d2ceaf8a72fc	WALDRON SMITH MANAGEMENT PTY LTD	t Card -	DateTimD:11/3/2025	WCE25-710				"Clinical Fellow Registration
+ and Congress Celebration (JG)"		GST				TRUE	GST	0	4100	372.73	1190	ACC:6-2150
+3dafb760-d3a5-4f9c-8d77-740c970526fc	"Sony, Sreeja"	4898	DateTimD:15/3/2025	25-03				"Professional Services: Sales Management and Business Development
+ - Analytical Services, March 2025"		FRE				TRUE	GST	0	4215.11	0	4200.16	ACC:6-0509
+3dafb760-d3a5-4f9c-8d77-740c970526fc	"Sony, Sreeja"	4898	DateTimD:15/3/2025	25-03				Bank Fee		FRE				TRUE	GST	0	4215.11	0	14.95	ACC:6-0509
+381a48f9-8765-4128-b25f-b66107070617	"Sony, Sreeja"	4321	DateTimD:15/2/2025	011/2024-25				"Professional Services: Sales Management and Business Development
+ - Analytical Services, February 2025"		FRE				TRUE	FRE	0	4220.63	0	4205.66	ACC:6-0509
+381a48f9-8765-4128-b25f-b66107070617	"Sony, Sreeja"	4321	DateTimD:15/2/2025	011/2024-25				Bank Fee		FRE				TRUE	FRE	0	4220.63	0	14.97	ACC:6-0509
+98638153-1b5f-46d5-b79c-66d5aa815031	"Sony, Sreeja"	4934	DateTimD:15/4/2025	001/2025-26				"Professional Services: Sales Management and Business Development
+ - Analytical Services, April 2025"		FRE				TRUE	FRE	0	4271.08	0	4255.93	ACC:6-0509
+98638153-1b5f-46d5-b79c-66d5aa815031	"Sony, Sreeja"	4934	DateTimD:15/4/2025	001/2025-26				Bank Fee		FRE				TRUE	FRE	0	4271.08	0	15.15	ACC:6-0509
+e646bef9-60f9-49b0-88a5-0963f85709ce	"Sony, Sreeja"	4861	DateTimD:15/1/2025	 010/2024-25				"Professional Services: Sales Management and Business Development
+ - Analytical Services, January 2025"		FRE				TRUE	FRE	0	4313.41	0	4298.11	ACC:6-0509
+e646bef9-60f9-49b0-88a5-0963f85709ce	"Sony, Sreeja"	4861	DateTimD:15/1/2025	 010/2024-25				BANK Fees		FRE				TRUE	FRE	0	4313.41	0	15.3	ACC:6-0509
+92ffd211-5e7b-4a82-837d-3a8058fffcb5	Abacus dx Pty Ltd	DI-4868	DateTimD:24/1/2025	IN00846363				Vector JACALIN (25mg)		GST		DB	Diagnostic Biomarker	TRUE	GST	0	4357.1	396.1	4268	ACC:6-5122
+92ffd211-5e7b-4a82-837d-3a8058fffcb5	Abacus dx Pty Ltd	DI-4868	DateTimD:24/1/2025	IN00846363				"Packaging, Shipping and Handling Charge"		GST		DB	Diagnostic Biomarker	TRUE	GST	0	4357.1	396.1	89.1	ACC:6-5020
+9d9d172a-cac7-4ac5-8f57-ed62df0bfd7b	PAPER AND SPARK DIGITAL AGENCY PTY LTD	4897	DateTimD:27/2/2025	P001095				Social Media Channel Setup		GST				TRUE	GST	0	4400	400	4400	ACC:6-2503
+785fec14-f474-4cac-8678-e7d754987bb5	Biotem	DT-4897	DateTimD:1/3/2025	FA20250220PTI-002_A				"40% x Classification verification of the EU MSDS “Sample dilution
+buffer” and “Wash Buffer 10X” already produced by
+EcoMundo, and update if necessary:"		FRE		PD	Promarker D	TRUE	GST	0	4433.16	0	584.69	ACC:6-5114
+785fec14-f474-4cac-8678-e7d754987bb5	Biotem	DT-4897	DateTimD:1/3/2025	FA20250220PTI-002_A				"40% x Preparation of SDS in accordance with Regulation (EU)
+2020/878"		FRE		PD	Promarker D	TRUE	GST	0	4433.16	0	1461.75	ACC:6-5114
+785fec14-f474-4cac-8678-e7d754987bb5	Biotem	DT-4897	DateTimD:1/3/2025	FA20250220PTI-002_A				"40% x Adaptation for the US market of SDS already produced by
+EcoMundo for another region of the world:"		FRE		PD	Promarker D	TRUE	GST	0	4433.16	0	1193.36	ACC:6-5114
+785fec14-f474-4cac-8678-e7d754987bb5	Biotem	DT-4897	DateTimD:1/3/2025	FA20250220PTI-002_A				"40% x Adaptation to GHS UN of MSDSs already produced by us
+for another region of the world"		FRE		PD	Promarker D	TRUE	GST	0	4433.16	0	1193.36	ACC:6-5114
+5d652fb0-5adc-4f4b-8c93-305e7d94f920	Biotem	JY-4872	DateTimD:1/2/2025	FA20250120PTI-001_A				test T=18m – APOA4		FRE		PD	Promarker D	TRUE	GST	0	4483.61	0	1494.53	ACC:6-5114
+5d652fb0-5adc-4f4b-8c93-305e7d94f920	Biotem	JY-4872	DateTimD:1/2/2025	FA20250120PTI-001_A				test T=18m – CD5L		FRE		PD	Promarker D	TRUE	GST	0	4483.61	0	1494.54	ACC:6-5114
+5d652fb0-5adc-4f4b-8c93-305e7d94f920	Biotem	JY-4872	DateTimD:1/2/2025	FA20250120PTI-001_A				test T=18m – IGFBP3		FRE		PD	Promarker D	TRUE	GST	0	4483.61	0	1494.54	ACC:6-5114
+fb900464-5ae1-42b7-affe-7e8e451f196e	Promega Corporation	DI-4916	DateTimD:10/3/2025	221060816				Rapid Digestion Kit - Trypsin		GST		EN	Endometriosis	TRUE	GST	0	4510.44	410.04	4510.44	ACC:6-5121
+4d05685b-710a-4c2c-a072-30e50eb29221	J C Morrison & Associates	4900	DateTimD:18/3/2025	161				Consulting services for the month of March		FRE				TRUE	GST	0	4716.39	0	4716.39	ACC:6-0511
+c6c1d73f-3b8a-436e-a0d3-45c5ffd80cfd	Gettysburg Healthcare Consulting	4881	DateTimD:1/2/2025	2025-003				"PLA Code Application
+PI-2024-49.002"		FRE				TRUE	GST	0	4720.86	0	4720.86	ACC:6-2501
+868b1443-0959-48b6-aba5-dbf834e3bad9	Pipette	HL-4852	DateTimD:1/1/2025	1004700				"Oxford Lab Products - Serological Pipettes, 25 mL"		FRE		GP	Group	TRUE	GST	0	4998.84	0	68.55	ACC:6-5118
+868b1443-0959-48b6-aba5-dbf834e3bad9	Pipette	HL-4852	DateTimD:1/1/2025	1004700				Eppendorf - PIPETTE CONTROLLERS - 71948 (Certified Refurbished)		FRE		GP	Group	TRUE	GST	0	4998.84	0	396.89	ACC:6-5118
+868b1443-0959-48b6-aba5-dbf834e3bad9	Pipette	HL-4852	DateTimD:1/1/2025	1004700				Rainin - Pipettes - LA8-50XLSR (Certified Refurbished)		FRE		GP	Group	TRUE	GST	0	4998.84	0	1757.21	ACC:6-5118
+868b1443-0959-48b6-aba5-dbf834e3bad9	Pipette	HL-4852	DateTimD:1/1/2025	1004700				Eppendorf - Pipettes - ES-8-300R (Certified Refurbished)		FRE		GP	Group	TRUE	GST	0	4998.84	0	878.6	ACC:6-5118
+868b1443-0959-48b6-aba5-dbf834e3bad9	Pipette	HL-4852	DateTimD:1/1/2025	1004700				Eppendorf - Pipettes - ES-1000R (Certified Refurbished)		FRE		GP	Group	TRUE	GST	0	4998.84	0	245.34	ACC:6-5118
+868b1443-0959-48b6-aba5-dbf834e3bad9	Pipette	HL-4852	DateTimD:1/1/2025	1004700				Eppendorf - Pipettes - ES-200R (Certified Refurbished)		FRE		GP	Group	TRUE	GST	0	4998.84	0	262.86	ACC:6-5118
+868b1443-0959-48b6-aba5-dbf834e3bad9	Pipette	HL-4852	DateTimD:1/1/2025	1004700				Eppendorf - Pipettes - ES-20R (Certified Refurbished)		FRE		GP	Group	TRUE	GST	0	4998.84	0	245.34	ACC:6-5118
+868b1443-0959-48b6-aba5-dbf834e3bad9	Pipette	HL-4852	DateTimD:1/1/2025	1004700				Eppendorf - EP-ST6 (Certified Refurbished)		FRE		GP	Group	TRUE	GST	0	4998.84	0	206.45	ACC:6-5118
+868b1443-0959-48b6-aba5-dbf834e3bad9	Pipette	HL-4852	DateTimD:1/1/2025	1004700				"ISO Accredited Service, 8 channel"		FRE		GP	Group	TRUE	GST	0	4998.84	0	307.27	ACC:6-5118
+868b1443-0959-48b6-aba5-dbf834e3bad9	Pipette	HL-4852	DateTimD:1/1/2025	1004700				"ISO Accredited Service, 1 channel"		FRE		GP	Group	TRUE	GST	0	4998.84	0	281.67	ACC:6-5118
+868b1443-0959-48b6-aba5-dbf834e3bad9	Pipette	HL-4852	DateTimD:1/1/2025	1004700				Shipping		FRE		GP	Group	TRUE	GST	0	4998.84	0	33.9	ACC:6-5118
+868b1443-0959-48b6-aba5-dbf834e3bad9	Pipette	HL-4852	DateTimD:1/1/2025	1004700				US Taxes		FRE		GP	Group	TRUE	GST	0	4998.84	0	314.76	ACC:6-5118
+8c664fac-e47b-4217-82f0-57bfee472728	GrowthMedics BV	Retainer	DateTimD:7/4/2025	20250411				Sales Development April		FRE				TRUE	GST	0	5060.49	0	7820.76	ACC:6-2503
+8c664fac-e47b-4217-82f0-57bfee472728	GrowthMedics BV	Retainer	DateTimD:7/4/2025	20250411				Credit staff change		FRE				TRUE	GST	0	5060.49	0	-2760.27	ACC:6-2503
+464f8f3f-da8e-4b74-8708-3a2639a9abbf	J C Morrison & Associates	Retainer	DateTimD:14/4/2025	162				Consulting services for the month of April		FRE				TRUE	GST	0	5221.67	0	4733.71	ACC:6-0511
+464f8f3f-da8e-4b74-8708-3a2639a9abbf	J C Morrison & Associates	Retainer	DateTimD:14/4/2025	162				Registration NKF Conference April 10th 2025		FRE				TRUE	GST	0	5221.67	0	355.03	ACC:6-2150
+464f8f3f-da8e-4b74-8708-3a2639a9abbf	J C Morrison & Associates	Retainer	DateTimD:14/4/2025	162				Bond Printing		FRE				TRUE	GST	0	5221.67	0	60.35	ACC:6-2200
+464f8f3f-da8e-4b74-8708-3a2639a9abbf	J C Morrison & Associates	Retainer	DateTimD:14/4/2025	162				Parking at conference		FRE				TRUE	GST	0	5221.67	0	72.58	ACC:6-2102
+7f430553-4b1f-4b4d-8243-d198b27f7ce7	XCY Pty Ltd	4552	DateTimD:28/2/2025	XCYS10022				Engineer L2 (E2) - 0.25 Hour at $150/Hr		GST				TRUE	GST	0	5238.75	476.25	41.25	ACC:6-7105
+7f430553-4b1f-4b4d-8243-d198b27f7ce7	XCY Pty Ltd	4552	DateTimD:28/2/2025	XCYS10022				Engineer L3 (E3) - 22.5 Hours at $210/Hr		GST				TRUE	GST	0	5238.75	476.25	5197.5	ACC:6-7105
+2028ef26-77b0-4e89-9a65-06a40ad01d3a	Allied Digital Pty Ltd	4861	DateTimD:5/3/2025	PIQ-009				"Work on the Promarker Hub for interfacing with SLIMS including Write Testing & Validation Reports, Update Software Release Plan & 
+Report."		GST				TRUE	GST	0	5280	480	5280	ACC:6-7105
+05eeb0b0-105e-44a4-a924-a676da54b91e	Thermo Fisher Scientific Australia	HL-4903	DateTimD:7/3/2025	25015192				DYNABEADS M-270		GST		EN	Endometriosis	TRUE	GST	0	5538.76	503.52	5538.76	ACC:6-5121
+18660959-3ce9-45ab-8db5-deb3e774ccfb	Royal Freshwater Bay Yacht Club	ard - NF	DateTimD:24/4/2025	114903				PIQ 10 Year ASX Listing Celebration 16/04/2025. Reminder Balance of PI Cocktail Function.		GST				TRUE	GST	0	5553	504.82	5553	ACC:6-4122
+5301c673-bb96-4ae6-90fc-e88b41eb4723	PM Separations Pty Ltd	HL-4924	DateTimD:3/4/2025	1148873				"TBC4_15ML GWB Human Plasma EDTA Single Donor Chronic Kidney Disease, 15mL"		GST		PD	Promarker D	TRUE	GST	0	5601.75	509.25	2172.5	ACC:6-5112
+5301c673-bb96-4ae6-90fc-e88b41eb4723	PM Separations Pty Ltd	HL-4924	DateTimD:3/4/2025	1148873				"uman Plasma EDTA Single Donor Type II
+Diabetes with NO KD 1 x 15mL"		GST		PD	Promarker D	TRUE	GST	0	5601.75	509.25	1430	ACC:6-5112
+5301c673-bb96-4ae6-90fc-e88b41eb4723	PM Separations Pty Ltd	HL-4924	DateTimD:3/4/2025	1148873				"Human Plasma EDTA Endometriosis positive
+higher Stages Single Donor 1 x 15mL"		GST		EN	Endometriosis	TRUE	GST	0	5601.75	509.25	1936	ACC:6-5121
+5301c673-bb96-4ae6-90fc-e88b41eb4723	PM Separations Pty Ltd	HL-4924	DateTimD:3/4/2025	1148873				Freight		GST		PD	Promarker D	TRUE	GST	0	5601.75	509.25	63.25	ACC:6-5116
+0e408e18-c385-46dc-b9f3-2217df92ee33	Thermo Fisher Scientific Australia	DI-4912	DateTimD:17/3/2025	I4147644				Finnpipette F2 0.5-5mL		GST		GP	Group	TRUE	GST	0	6254.2	568.56	414.7	ACC:6-5010
+0e408e18-c385-46dc-b9f3-2217df92ee33	Thermo Fisher Scientific Australia	DI-4912	DateTimD:17/3/2025	I4147644				Column PepMap100 C18		GST		GP	Group	TRUE	GST	0	6254.2	568.56	4106.3	ACC:6-5011
+0e408e18-c385-46dc-b9f3-2217df92ee33	Thermo Fisher Scientific Australia	DI-4912	DateTimD:17/3/2025	I4147644				Column Trap PepMap Neo		GST		GP	Group	TRUE	GST	0	6254.2	568.56	1674.2	ACC:6-5011
+0e408e18-c385-46dc-b9f3-2217df92ee33	Thermo Fisher Scientific Australia	DI-4912	DateTimD:17/3/2025	I4147644				Syringe hypodermic luer lock		GST		AS	Analytical Services	TRUE	GST	0	6254.2	568.56	59	ACC:6-5210
+9f8a8703-be46-4616-9e64-df085b7a1b62	GrowthMedics BV	4888	DateTimD:6/3/2025	20250211				Sales Development March + Expenses Reimbursement (Ivan to support the distributor in BE ). Credit for Key Manager has been resigned and doesn't have any replacement yet. 		FRE				TRUE	GST	0	6359.23	0	6359.23	ACC:6-2503
+7502f849-7688-4ca4-8a80-d53d3b7cc476	American Diabetes Association	DebitCard JG	DateTimD:13/2/2025	6080-31-7968_1				Booth Space - Standard - American Diabetes Association 85th Scientific		FRE				FALSE	FRE	0	6521.74	0	6521.74	ACC:6-2150
+d08b49f1-d5aa-45dc-b3bf-b17e8612acdd	Biotem	JY-4872	DateTimD:4/2/2025	FA20250120PTI-001_Z				Stability test T=18m – APOA4 Standard (3x VP batches)		FRE		PD	Promarker D	TRUE	GST	0	6725.42	0	3736.35	ACC:6-5114
+d08b49f1-d5aa-45dc-b3bf-b17e8612acdd	Biotem	JY-4872	DateTimD:4/2/2025	FA20250120PTI-001_Z				Stability test T=18m – CD5L Standard (3x VP batches)		FRE		PD	Promarker D	TRUE	GST	0	6725.42	0	3736.34	ACC:6-5114
+d08b49f1-d5aa-45dc-b3bf-b17e8612acdd	Biotem	JY-4872	DateTimD:4/2/2025	FA20250120PTI-001_Z				Stability test T=18m – IGFBP3 Standard (2x VP batches)		FRE		PD	Promarker D	TRUE	GST	0	6725.42	0	3736.34	ACC:6-5114
+d08b49f1-d5aa-45dc-b3bf-b17e8612acdd	Biotem	JY-4872	DateTimD:4/2/2025	FA20250120PTI-001_Z				Deposit invoice FA20250120PTI-001_A		FRE		PD	Promarker D	TRUE	GST	0	6725.42	0	-4483.61	ACC:6-5114
+1ea8d4ee-aaf3-47e2-8c96-2e597f8cf12e	GrowthMedics BV	Retainer	DateTimD:6/1/2025	20250111				Sales Development January		FRE				TRUE	GST	0	7062.55	0	7062.55	ACC:6-2503
+48ddcd94-55f5-4816-ace8-56485b654721	GrowthMedics BV	Retainer	DateTimD:4/2/2025	202502A11				Sales Development February		FRE				TRUE	GST	0	7064.57	0	7064.57	ACC:6-2503
+c3d6ab58-ec25-4a48-ae04-8f0903564b10	QRA CONSULTING PTY LTD	4805	DateTimD:2/4/2025	0001PI				Monthly Consultancy Fees (March-25) - 22 Hours at $300/Hour		GST		PD	Promarker D	TRUE	GST	0	7260	660	7260	ACC:6-2502
+94d3212b-f2d2-4781-86c7-2fed87879889	Agilent Technologies Australia Pty Ltd	HL-4668	DateTimD:27/1/2025	1810080609				Service contract No. 5001320920 for period 27.10.24 - 28.10.25		GST				TRUE	GST	0	7531.43	684.68	7531.43	ACC:6-1510
+158eca28-ba46-4bd7-8674-11fc7c114aad	XCY Pty Ltd	4874	DateTimD:30/1/2025	XCYS09973				Engineer L2 (E2)		GST				TRUE	GST	0	7947.5	722.5	41.25	ACC:6-7105
+158eca28-ba46-4bd7-8674-11fc7c114aad	XCY Pty Ltd	4874	DateTimD:30/1/2025	XCYS09973				Account Manager (AM) Metro Business Hrs		GST				TRUE	GST	0	7947.5	722.5	173.25	ACC:6-7105
+158eca28-ba46-4bd7-8674-11fc7c114aad	XCY Pty Ltd	4874	DateTimD:30/1/2025	XCYS09973				Engineer L2 (E2)		GST				TRUE	GST	0	7947.5	722.5	398.75	ACC:6-7105
+158eca28-ba46-4bd7-8674-11fc7c114aad	XCY Pty Ltd	4874	DateTimD:30/1/2025	XCYS09973				Engineer L3 (E3)		GST				TRUE	GST	0	7947.5	722.5	7334.25	ACC:6-7105
+48870c47-8a1b-4645-aa47-bbe322b5e8b2	Thermo Fisher Scientific Australia	HL-4903	DateTimD:1/3/2025	25013424				DYNABEADS ANTIBODY x 10		GST		EN	Endometriosis	TRUE	GST	0	8808.69	800.79	8737.19	ACC:6-5121
+48870c47-8a1b-4645-aa47-bbe322b5e8b2	Thermo Fisher Scientific Australia	HL-4903	DateTimD:1/3/2025	25013424				FREIGHT AND HANDLING		GST		EN	Endometriosis	TRUE	GST	0	8808.69	800.79	71.5	ACC:6-5020
+d62f9c09-2c24-45f8-a4c4-cf56bba5e210	Thermo Fisher Scientific Australia	4884	DateTimD:1/2/2025	I4110305/24094092/I4122328/I4122332/I4124061						GST				TRUE	GST	0	8935.85	812.35	8935.85	ACC:6-1510
+2b51974f-6d1a-4c2a-b647-090f2b9a665c	BSI Standards	4875	DateTimD:1/2/2025	96741759				Continuing Assessment (Surveillance) - ISO 13485		GST				TRUE	GST	0	9594.06	872.19	7535	ACC:6-2502
+2b51974f-6d1a-4c2a-b647-090f2b9a665c	BSI Standards	4875	DateTimD:1/2/2025	96741759				Travel Time - 4 Hours @ GBP 160 per hour		GST				TRUE	GST	0	9594.06	872.19	1425.56	ACC:6-2502
+2b51974f-6d1a-4c2a-b647-090f2b9a665c	BSI Standards	4875	DateTimD:1/2/2025	96741759				Travel Expenses		GST				TRUE	GST	0	9594.06	872.19	633.5	ACC:6-2502
+848a8072-cdcf-424a-9d76-7dc3a99346b6	ResearchDx Inc	4944	DateTimD:31/3/2025	25-101				Consultant Laboratory Director: March 2025		FRE				TRUE	GST	0	10308.3	0	7929.46	ACC:6-5118
+848a8072-cdcf-424a-9d76-7dc3a99346b6	ResearchDx Inc	4944	DateTimD:31/3/2025	25-101				Quality Oversight		FRE				TRUE	GST	0	10308.3	0	2378.84	ACC:6-5118
+fa4eea14-a1ae-43f3-a9e3-a9c037cbf263	ResearchDx Inc	NA	DateTimD:1/1/2025	24-554				Consultant Laboratory Director - December 2024		FRE				TRUE	GST	0	10407.54	0	8005.8	ACC:6-5118
+fa4eea14-a1ae-43f3-a9e3-a9c037cbf263	ResearchDx Inc	NA	DateTimD:1/1/2025	24-554				Quality Oversight		FRE				TRUE	GST	0	10407.54	0	2401.74	ACC:6-5118
+d4901dc7-47c9-4507-a13c-3a22beaf9a1f	Thermo Fisher Scientific Australia	DI-4876	DateTimD:27/2/2025	25013042				HVYPEP AQUA ULTIMATE		GST		DB	Diagnostic Biomarker	TRUE	GST	0	10646.61	967.87	1912.02	ACC:6-5121
+d4901dc7-47c9-4507-a13c-3a22beaf9a1f	Thermo Fisher Scientific Australia	DI-4876	DateTimD:27/2/2025	25013042				HVYPEP AQUA ULTIMATE		GST		DB	Diagnostic Biomarker	TRUE	GST	0	10646.61	967.87	1813.88	ACC:6-5121
+d4901dc7-47c9-4507-a13c-3a22beaf9a1f	Thermo Fisher Scientific Australia	DI-4876	DateTimD:27/2/2025	25013042				HVYPEP AQUA ULTIMATE		GST		DB	Diagnostic Biomarker	TRUE	GST	0	10646.61	967.87	1726.05	ACC:6-5121
+d4901dc7-47c9-4507-a13c-3a22beaf9a1f	Thermo Fisher Scientific Australia	DI-4876	DateTimD:27/2/2025	25013042				HVYPEP AQUA ULTIMATE		GST		DB	Diagnostic Biomarker	TRUE	GST	0	10646.61	967.87	1726.05	ACC:6-5121
+d4901dc7-47c9-4507-a13c-3a22beaf9a1f	Thermo Fisher Scientific Australia	DI-4876	DateTimD:27/2/2025	25013042				HVYPEP AQUA ULTIMATE		GST		DB	Diagnostic Biomarker	TRUE	GST	0	10646.61	967.87	1726.05	ACC:6-5121
+d4901dc7-47c9-4507-a13c-3a22beaf9a1f	Thermo Fisher Scientific Australia	DI-4876	DateTimD:27/2/2025	25013042				HVYPEP AQUA ULTIMATE		GST		DB	Diagnostic Biomarker	TRUE	GST	0	10646.61	967.87	1726.05	ACC:6-5121
+d4901dc7-47c9-4507-a13c-3a22beaf9a1f	Thermo Fisher Scientific Australia	DI-4876	DateTimD:27/2/2025	25013042				PRIMER HANDLING CHARGES		GST		DB	Diagnostic Biomarker	TRUE	GST	0	10646.61	967.87	16.5	ACC:6-5020
+d4901dc7-47c9-4507-a13c-3a22beaf9a1f	Thermo Fisher Scientific Australia	DI-4876	DateTimD:27/2/2025	25013042				Rounding row : 10646.60		FRE		DB	Diagnostic Biomarker	TRUE	GST	0	10646.61	967.87	0.01	ACC:6-5010
+fd23ad08-c573-4891-8c96-6de269c81fb6	Biotem	JY-4908	DateTimD:25/2/2025	FA20250226PTI-002_A				Solubilization of IGFBP3 protein stock at 0.5 mg/mL x 40%		FRE		PD	Promarker D	TRUE	GST	0	10708.81	0	488.01	ACC:6-5114
+fd23ad08-c573-4891-8c96-6de269c81fb6	Biotem	JY-4908	DateTimD:25/2/2025	FA20250226PTI-002_A				Calibration test on IGFBP3 protein (15 plates) x 40%		FRE		PD	Promarker D	TRUE	GST	0	10708.81	0	2196.06	ACC:6-5114
+fd23ad08-c573-4891-8c96-6de269c81fb6	Biotem	JY-4908	DateTimD:25/2/2025	FA20250226PTI-002_A				Shipping Cost (France – Poolbox 4 L ) x 40%		FRE		PD	Promarker D	TRUE	GST	0	10708.81	0	42.62	ACC:6-5114
+fd23ad08-c573-4891-8c96-6de269c81fb6	Biotem	JY-4908	DateTimD:25/2/2025	FA20250226PTI-002_A				Formula preparation and vials filling x 40%		FRE		PD	Promarker D	TRUE	GST	0	10708.81	0	336.8	ACC:6-5114
+fd23ad08-c573-4891-8c96-6de269c81fb6	Biotem	JY-4908	DateTimD:25/2/2025	FA20250226PTI-002_A				Freeze-drying cycle x 40%		FRE		PD	Promarker D	TRUE	GST	0	10708.81	0	2474.44	ACC:6-5114
+fd23ad08-c573-4891-8c96-6de269c81fb6	Biotem	JY-4908	DateTimD:25/2/2025	FA20250226PTI-002_A				Screwing and grading x 40%		FRE		PD	Promarker D	TRUE	GST	0	10708.81	0	346.42	ACC:6-5114
+fd23ad08-c573-4891-8c96-6de269c81fb6	Biotem	JY-4908	DateTimD:25/2/2025	FA20250226PTI-002_A				Residual moisture assessment (KF analysis)  x 40%		FRE		PD	Promarker D	TRUE	GST	0	10708.81	0	154.65	ACC:6-5114
+fd23ad08-c573-4891-8c96-6de269c81fb6	Biotem	JY-4908	DateTimD:25/2/2025	FA20250226PTI-002_A				"Shipment Between lyofal and Biotem - Controlled temper-
+ature conditions (49L - 24h) x 40%"		FRE		PD	Promarker D	TRUE	GST	0	10708.81	0	380.1	ACC:6-5114
+fd23ad08-c573-4891-8c96-6de269c81fb6	Biotem	JY-4908	DateTimD:25/2/2025	FA20250226PTI-002_A				AQL assessment x 40%		FRE		PD	Promarker D	TRUE	GST	0	10708.81	0	2938.39	ACC:6-5114
+fd23ad08-c573-4891-8c96-6de269c81fb6	Biotem	JY-4908	DateTimD:25/2/2025	FA20250226PTI-002_A				Report x 40%		FRE		PD	Promarker D	TRUE	GST	0	10708.81	0	1351.32	ACC:6-5114
+38c08b23-b80d-4441-b0ae-f185ff47a9b6	J C Morrison & Associates	Retainer	DateTimD:18/2/2025	160				Consulting services for the month of February		FRE				TRUE	GST	0	11006.81	0	11006.81	ACC:6-0511
+4f8ea864-11bd-4cb4-b179-91c7a8d6fe1e	J C Morrison & Associates	Retainer	DateTimD:15/1/2025	159				Consulting Services - January		FRE				TRUE	GST	0	11259.54	0	11259.54	ACC:6-0511
+d4681e24-085c-4a6f-9537-b8f78d8efd8d	DIABETES AUSTRALIA	4808	DateTimD:8/4/2025	ORD0000604031-N				PromarkerD Advocacy (promotional/marketing) - Circle Full Page and DQ HP E-Newsletter Banne		GST		PD	Promarker D	TRUE	GST	0	11374	1034	11374	ACC:6-2200
+cc494c5c-5337-4e32-adfc-048cc4282bf5	ECD CONSULTING PTY LTD	4323	DateTimD:1/2/2025	INV-0142				video project for PromarkerD and Eso		GST				TRUE	GST	0	11770	1070	11770	ACC:6-2503
+96734c62-1d2e-4dba-abed-8f7664d703c2	Get Levrg Inc.	DebitCard JG	DateTimD:18/2/2025	22				Sales Data & CRM Optimization Quarterly - Starter Package		FRE				TRUE	GST	0	11830.38	0	11830.38	ACC:6-2503
+d98dfe13-0849-4f9c-a07a-21898b5d227f	PAPER AND SPARK DIGITAL AGENCY PTY LTD	4326	DateTimD:1/2/2025	P001069				"Website, PromarkerD & Media and Performance"		GST				TRUE	GST	0	11990	1090	11990	ACC:6-2503
+3967830f-00d9-4a05-9788-f3b9e5246536	Thermo Fisher Scientific Australia	DI-4865	DateTimD:23/1/2025	25004131				"2 x DYNABEADS MYONE TOSYLACTIVATE
+10 ML"		GST		DB	Diagnostic Biomarker	TRUE	GST	0	12083.46	1098.5	12083.46	ACC:6-5122
+383c6426-3117-470f-a998-9f2db99b717e	ResearchDx Inc	4910	DateTimD:1/3/2025	25-082				Lab Rental March 2025		FRE				TRUE	GST	0	12553.02	0	12553.02	ACC:6-5118
+8de89ab0-32d5-490f-a2dd-5fee22460cab	Biotem	JY-4873	DateTimD:1/2/2025	FA20250123PTI-007				6 x Storage 6m3 in cold room(+2/+8°C) for 1 month		FRE		PD	Promarker D	TRUE	GST	0	12576.48	0	10675.26	ACC:6-5114
+8de89ab0-32d5-490f-a2dd-5fee22460cab	Biotem	JY-4873	DateTimD:1/2/2025	FA20250123PTI-007				6 x Storage 5m3 at room temperature for 1 month		FRE		PD	Promarker D	TRUE	GST	0	12576.48	0	864.19	ACC:6-5114
+8de89ab0-32d5-490f-a2dd-5fee22460cab	Biotem	JY-4873	DateTimD:1/2/2025	FA20250123PTI-007				60x Storage in 1 drawer (190 L) at -80°C for 1 month		FRE		PD	Promarker D	TRUE	GST	0	12576.48	0	1037.03	ACC:6-5114
+fcdb85c7-e99a-4947-bb72-abcd31059d0a	ResearchDx Inc	4317	DateTimD:1/2/2025	25-019				Lab Rental Feb 2025		FRE				TRUE	FRE	0	12610.94	0	12610.94	ACC:6-5118
+b909a236-47bc-4072-820b-509024070ec8	ResearchDx Inc	4941	DateTimD:1/4/2025	25-110				Lab Rental April 2025		FRE				TRUE	GST	0	12687.14	0	12687.14	ACC:6-5118
+a6e2a366-42ff-42e6-a006-01bdccd9eef3	RX AUSTRALIA PTY LTD	4809	DateTimD:8/4/2025	5002114421				Booth for GPCE Conference Melbourne - 11 July to 13 July		GST				TRUE	GST	0	13005.3	1182.3	13005.3	ACC:6-2150
+8baef8aa-0f6a-4597-bee3-cf02a80c645c	ECD CONSULTING PTY LTD	4890	DateTimD:11/3/2025	INV-0145				"Filming and Crew for 1 Day, Directing, Editing 2x 2-minute videos - Second 50%"		GST				TRUE	GST	0	13750	1250	9295	ACC:6-2503
+8baef8aa-0f6a-4597-bee3-cf02a80c645c	ECD CONSULTING PTY LTD	4890	DateTimD:11/3/2025	INV-0145				Executive Production - Second 50%		GST				TRUE	GST	0	13750	1250	2475	ACC:6-2503
+8baef8aa-0f6a-4597-bee3-cf02a80c645c	ECD CONSULTING PTY LTD	4890	DateTimD:11/3/2025	INV-0145				Talent Fees		GST				TRUE	GST	0	13750	1250	1980	ACC:6-2503
+fd0d30a6-19f3-4167-91cb-d651866afef6	XCY Pty Ltd	4802	DateTimD:31/3/2025	XCYS10066				Technician L2 - 0.25 Hour at $150/Hr		GST				TRUE	GST	0	14503.5	1318.5	41.25	ACC:6-7105
+fd0d30a6-19f3-4167-91cb-d651866afef6	XCY Pty Ltd	4802	DateTimD:31/3/2025	XCYS10066				Account Manager (AM) Metro Business - 0.75 Hr at $210/Hr		GST				TRUE	GST	0	14503.5	1318.5	173.25	ACC:6-7105
+fd0d30a6-19f3-4167-91cb-d651866afef6	XCY Pty Ltd	4802	DateTimD:31/3/2025	XCYS10066				Engineer L2 (E2) - 4 Hrs at $150/Hr		GST				TRUE	GST	0	14503.5	1318.5	660	ACC:6-7105
+fd0d30a6-19f3-4167-91cb-d651866afef6	XCY Pty Ltd	4802	DateTimD:31/3/2025	XCYS10066				Engineer L3 (E3)  - 59 Hrs at $210/Hr		GST				TRUE	GST	0	14503.5	1318.5	13629	ACC:6-7105
+e4d48d17-df8d-48fc-87ef-e19a749b948e	Biotem	JY-4937	DateTimD:1/4/2025	FA20250331PTI-001				Raw Material Procurement		FRE		PD	Promarker D	TRUE	GST	0	15156.81	0	15156.81	ACC:6-5114
+afe77eca-6e00-48c7-884b-93600f59004a	ResearchDx Inc	4319	DateTimD:1/2/2025	25-035				Milestone 3a Clinical Implementation		FRE				TRUE	FRE	0	16583.38	0	16583.38	ACC:6-5118
+8b09e3ee-173b-4505-b099-d882bcf692a1	Biotem	JY-4908	DateTimD:1/4/2025	FA20250226PTI-002_Z				"Solubilization of IGFBP3 protein stock at 0.5 mg/mL
+
+60% Balance of Quotation 6543/20210322PTI-150. PromarkerD CaptSure™ IVD ELISA kit – IGFBP3 Lyophilisation"		FRE		PD	Promarker D	TRUE	GST	0	16586.97	0	1259.82	ACC:6-5114
+8b09e3ee-173b-4505-b099-d882bcf692a1	Biotem	JY-4908	DateTimD:1/4/2025	FA20250226PTI-002_Z				Calibration test on IGFBP3 protein (15 plates)		FRE		PD	Promarker D	TRUE	GST	0	16586.97	0	5669.17	ACC:6-5114
+8b09e3ee-173b-4505-b099-d882bcf692a1	Biotem	JY-4908	DateTimD:1/4/2025	FA20250226PTI-002_Z				"Shipping cost – France – Poolbox 4 L – Controlled
+temperature conditions (24h)"		FRE		PD	Promarker D	TRUE	GST	0	16586.97	0	110.01	ACC:6-5114
+8b09e3ee-173b-4505-b099-d882bcf692a1	Biotem	JY-4908	DateTimD:1/4/2025	FA20250226PTI-002_Z				Formula preparation and vials filling		FRE		PD	Promarker D	TRUE	GST	0	16586.97	0	869.45	ACC:6-5114
+8b09e3ee-173b-4505-b099-d882bcf692a1	Biotem	JY-4908	DateTimD:1/4/2025	FA20250226PTI-002_Z				Freeze-drying cycle		FRE		PD	Promarker D	TRUE	GST	0	16586.97	0	6387.79	ACC:6-5114
+8b09e3ee-173b-4505-b099-d882bcf692a1	Biotem	JY-4908	DateTimD:1/4/2025	FA20250226PTI-002_Z				Screwing and grading		FRE		PD	Promarker D	TRUE	GST	0	16586.97	0	894.29	ACC:6-5114
+8b09e3ee-173b-4505-b099-d882bcf692a1	Biotem	JY-4908	DateTimD:1/4/2025	FA20250226PTI-002_Z				Residual moisture assessment (KF analysis)		FRE		PD	Promarker D	TRUE	GST	0	16586.97	0	399.24	ACC:6-5114
+8b09e3ee-173b-4505-b099-d882bcf692a1	Biotem	JY-4908	DateTimD:1/4/2025	FA20250226PTI-002_Z				"Shipment Between lyofal and Biotem - Controlled temper-
+ature conditions (49L - 24h"		FRE		PD	Promarker D	TRUE	GST	0	16586.97	0	981.24	ACC:6-5114
+8b09e3ee-173b-4505-b099-d882bcf692a1	Biotem	JY-4908	DateTimD:1/4/2025	FA20250226PTI-002_Z				AQL assessment		FRE		PD	Promarker D	TRUE	GST	0	16586.97	0	7585.5	ACC:6-5114
+8b09e3ee-173b-4505-b099-d882bcf692a1	Biotem	JY-4908	DateTimD:1/4/2025	FA20250226PTI-002_Z				Report		FRE		PD	Promarker D	TRUE	GST	0	16586.97	0	3488.44	ACC:6-5114
+8b09e3ee-173b-4505-b099-d882bcf692a1	Biotem	JY-4908	DateTimD:1/4/2025	FA20250226PTI-002_Z				Deposit invoice FA20250226PTI-002_A		FRE		PD	Promarker D	TRUE	GST	0	16586.97	0	-11057.98	ACC:6-5114
+5ccf6f77-02a2-49fa-91b0-6ea5cdffa606	Office of State Revenue	4893	DateTimD:7/3/2025					Feb 2025 Lodgement		N-T				TRUE	GST	0	17202.96	0	17202.96	ACC:6-0510
+11c6759d-18c2-4e05-aae4-a7d5655cd275	Office of State Revenue	4807	DateTimD:4/4/2025					MARCH 2025 Lodgement		N-T				TRUE	GST	0	17855.09	0	17855.09	ACC:6-0510
+4eb3949d-577f-42c5-b440-e36922713b0a	Thermo Fisher Scientific Australia	HL-4544	DateTimD:21/2/2025	I4138850				Equipment Maintenance - Service plan for Mass spec & HPLC - Feb to April		GST				TRUE	GST	0	18066.13	1642.38	18066.13	ACC:6-1510
+49856456-bd45-4f74-9fec-9b0c9889c8b9	Harry Perkins Institute of Medical Research Inc	4812	DateTimD:3/4/2025	HPI010800				Rent Jun qtr 25 Proteomics International		GST				TRUE	GST	0	18176.68	1652.43	8977.38	ACC:1-1510
+49856456-bd45-4f74-9fec-9b0c9889c8b9	Harry Perkins Institute of Medical Research Inc	4812	DateTimD:3/4/2025	HPI010800				Outgoings Jun qtr 25 Proteomics International		GST				TRUE	GST	0	18176.68	1652.43	9199.3	ACC:1-1510
+153a7e11-14ee-4978-82fe-52f37cde9721	Harry Perkins Institute of Medical Research Inc	4866	DateTimD:13/1/2025	HPI010584				Rent March Qtr		GST				TRUE	GST	0	18176.68	1652.43	8977.38	ACC:1-1510
+153a7e11-14ee-4978-82fe-52f37cde9721	Harry Perkins Institute of Medical Research Inc	4866	DateTimD:13/1/2025	HPI010584				Outgoing March Qtr		GST				TRUE	GST	0	18176.68	1652.43	9199.3	ACC:1-1510
+05c756aa-87b5-423b-b951-cd19ab8afce3	University of Canterbury	DI-4849	DateTimD:7/3/2025	1395573				14 Samples at $1300 - Dec 2024		FRE		AS	Analytical Services	TRUE	GST	0	18227.47	0	17012.31	ACC:6-5210
+05c756aa-87b5-423b-b951-cd19ab8afce3	University of Canterbury	DI-4849	DateTimD:7/3/2025	1395573				1 Sample at $1300		FRE		AS	Analytical Services	TRUE	GST	0	18227.47	0	1215.16	ACC:6-5140
+df44e58c-860a-4c85-8508-dd892bebaca8	Abcam Australia Pty Ltd	DI-4904	DateTimD:10/3/2025	2063692				"3 x Anti-HC-II antibody
+[EPR25618-1"		GST		EN	Endometriosis	TRUE	GST	0	20497.69	1863.43	2705.51	ACC:6-5121
+df44e58c-860a-4c85-8508-dd892bebaca8	Abcam Australia Pty Ltd	DI-4904	DateTimD:10/3/2025	2063692				"6 x Anti-HC-II antibody
+[EPR25618-1]"		GST		EN	Endometriosis	TRUE	GST	0	20497.69	1863.43	5411.01	ACC:6-5121
+df44e58c-860a-4c85-8508-dd892bebaca8	Abcam Australia Pty Ltd	DI-4904	DateTimD:10/3/2025	2063692				"1 x Anti-CFHR2 antibody
+[EPR25758-10] - BSA and
+Azide free (Capture)"		GST		EN	Endometriosis	TRUE	GST	0	20497.69	1863.43	1113.97	ACC:6-5121
+df44e58c-860a-4c85-8508-dd892bebaca8	Abcam Australia Pty Ltd	DI-4904	DateTimD:10/3/2025	2063692				"1 x Anti-HC-II antibody
+[EPR25618-1]"		GST		EN	Endometriosis	TRUE	GST	0	20497.69	1863.43	901.84	ACC:6-5121
+df44e58c-860a-4c85-8508-dd892bebaca8	Abcam Australia Pty Ltd	DI-4904	DateTimD:10/3/2025	2063692				"4 x Anti-CFHR2 antibody
+[EPR25758-10] - BSA and
+Azide free (Capture)"		GST		EN	Endometriosis	TRUE	GST	0	20497.69	1863.43	4455.88	ACC:6-5121
+df44e58c-860a-4c85-8508-dd892bebaca8	Abcam Australia Pty Ltd	DI-4904	DateTimD:10/3/2025	2063692				"3 x Anti-PON1 antibody
+[EPR24616-32] - BSA and
+Azide free (Capture"		GST		EN	Endometriosis	TRUE	GST	0	20497.69	1863.43	3545.69	ACC:6-5121
+df44e58c-860a-4c85-8508-dd892bebaca8	Abcam Australia Pty Ltd	DI-4904	DateTimD:10/3/2025	2063692				"1 x Anti-PON1 antibody
+[EPR24616-32] - BSA and
+Azide free (Capture)"		GST		EN	Endometriosis	TRUE	GST	0	20497.69	1863.43	1181.9	ACC:6-5121
+df44e58c-860a-4c85-8508-dd892bebaca8	Abcam Australia Pty Ltd	DI-4904	DateTimD:10/3/2025	2063692				"1 x Anti-PON1 antibody
+[EPR24616-32] - BSA and
+Azide free (Capture)"		GST		EN	Endometriosis	TRUE	GST	0	20497.69	1863.43	1181.91	ACC:6-5121
+df44e58c-860a-4c85-8508-dd892bebaca8	Abcam Australia Pty Ltd	DI-4904	DateTimD:10/3/2025	2063692				Rounding row : 20497.71		FRE		EN	Endometriosis	TRUE	GST	0	20497.69	1863.43	-0.02	ACC:6-5010
+cc91409d-79b3-44fc-8ae8-14b416b03c2d	Biotem	JY-4824	DateTimD:6/1/2025	FA20241108PTI-004_Z				Calibration test on raw protein (15 plates)		FRE				TRUE	GST	0	20909.27	0	5172.93	ACC:6-5114
+cc91409d-79b3-44fc-8ae8-14b416b03c2d	Biotem	JY-4824	DateTimD:6/1/2025	FA20241108PTI-004_Z				"An engineer (Jade Jacquier) travels to Lyofal to set up the
+IGFBP3 homogenization process"		FRE				TRUE	GST	0	20909.27	0	2786.7	ACC:6-5114
+cc91409d-79b3-44fc-8ae8-14b416b03c2d	Biotem	JY-4824	DateTimD:6/1/2025	FA20241108PTI-004_Z				"Formula preparation, vials filling & sampling for liquid vials
+(group 1-3)"		FRE				TRUE	GST	0	20909.27	0	1985.73	ACC:6-5114
+cc91409d-79b3-44fc-8ae8-14b416b03c2d	Biotem	JY-4824	DateTimD:6/1/2025	FA20241108PTI-004_Z				"Freeze-drying cycle determined during optimization step &
+sampling for lyophilized vials (group 2-2)"		FRE				TRUE	GST	0	20909.27	0	6007.26	ACC:6-5114
+cc91409d-79b3-44fc-8ae8-14b416b03c2d	Biotem	JY-4824	DateTimD:6/1/2025	FA20241108PTI-004_Z				Screwing / identification		FRE				TRUE	GST	0	20909.27	0	842.68	ACC:6-5114
+cc91409d-79b3-44fc-8ae8-14b416b03c2d	Biotem	JY-4824	DateTimD:6/1/2025	FA20241108PTI-004_Z				Shipping cost – France		FRE				TRUE	GST	0	20909.27	0	922.78	ACC:6-5114
+cc91409d-79b3-44fc-8ae8-14b416b03c2d	Biotem	JY-4824	DateTimD:6/1/2025	FA20241108PTI-004_Z				AQL Assessment – Groups 1-3 & 2-2		FRE				TRUE	GST	0	20909.27	0	13850.07	ACC:6-5114
+cc91409d-79b3-44fc-8ae8-14b416b03c2d	Biotem	JY-4824	DateTimD:6/1/2025	FA20241108PTI-004_Z				"Report (Lyofal & Biotem without in depth statistical
+analysis)"		FRE				TRUE	GST	0	20909.27	0	3280.63	ACC:6-5114
+cc91409d-79b3-44fc-8ae8-14b416b03c2d	Biotem	JY-4824	DateTimD:6/1/2025	FA20241108PTI-004_Z				Deposit invoice FA20241108PTI-004_A		FRE				TRUE	GST	0	20909.27	0	-13939.51	ACC:6-5114
+2ab874b5-a909-4313-8967-c9c37e981ca1	O'Sullivans Patent Attorneys - Prepayment	NA	DateTimD:1/1/2025	24-12				Advance Funds (retainer) for PI		N-T				TRUE	GST	0	22100	0	22100	ACC:1-1512
+cd50bb0d-2fb7-450f-bbb8-81c5ff0b635c	ROSEMARY HEALTH PTY LTD	4811	DateTimD:1/4/2025	INV-0058				3 months - Platform for Promarker ESO & Telehealth partner connector		GST				TRUE	GST	0	23100	2100	23100	ACC:6-2503
+7ae7b468-3cd3-46a0-9771-c5c216f85d2f	ROSEMARY HEALTH PTY LTD	4850	DateTimD:7/1/2025	INV-0052				Next Best action Promaker ESO (for 3 months)		GST				TRUE	GST	0	23100	2100	16500	ACC:6-2503
+7ae7b468-3cd3-46a0-9771-c5c216f85d2f	ROSEMARY HEALTH PTY LTD	4850	DateTimD:7/1/2025	INV-0052				Telehealth partner connector (for 3 months)		GST				TRUE	GST	0	23100	2100	6600	ACC:6-2503
+45aa0c0d-85ac-433d-9171-31f0abcbd96f	O'Sullivans Patent Attorneys - Prepayment	4804	DateTimD:6/4/2025	25-04				Advance Funds of Proteomics International Pty Ltd Q4 2024/2025		N-T				TRUE	GST	0	23500	0	23500	ACC:1-1512
+4f967aef-f960-42ff-9656-c1ebe838a5be	Biotem	JY-4833	DateTimD:1/1/2025	FA20241119PTI-007_Z				Calibration test on APOA4 protein (15 plates)		FRE		PD	Promarker D	TRUE	GST	0	28251.47	0	5172.92	ACC:6-5114
+4f967aef-f960-42ff-9656-c1ebe838a5be	Biotem	JY-4833	DateTimD:1/1/2025	FA20241119PTI-007_Z				Calibration test on CD5L protein (6 plates)		FRE		PD	Promarker D	TRUE	GST	0	28251.47	0	3470.86	ACC:6-5114
+4f967aef-f960-42ff-9656-c1ebe838a5be	Biotem	JY-4833	DateTimD:1/1/2025	FA20241119PTI-007_Z				"? Lyophilisation of APOA4, CD5L"		FRE		PD	Promarker D	TRUE	GST	0	28251.47	0	0	ACC:6-5114
+4f967aef-f960-42ff-9656-c1ebe838a5be	Biotem	JY-4833	DateTimD:1/1/2025	FA20241119PTI-007_Z				Shipment Between Biotem and Lyofal - Controlled temperature conditions (24h)		FRE		PD	Promarker D	TRUE	GST	0	28251.47	0	196.9	ACC:6-5114
+4f967aef-f960-42ff-9656-c1ebe838a5be	Biotem	JY-4833	DateTimD:1/1/2025	FA20241119PTI-007_Z				"Preparation of the formulations and filling of the vials (1,200 vials per batch and per biomarker)"		FRE		PD	Promarker D	TRUE	GST	0	28251.47	0	1868.92	ACC:6-5114
+4f967aef-f960-42ff-9656-c1ebe838a5be	Biotem	JY-4833	DateTimD:1/1/2025	FA20241119PTI-007_Z				Screwing and grading		FRE		PD	Promarker D	TRUE	GST	0	28251.47	0	1682.03	ACC:6-5114
+4f967aef-f960-42ff-9656-c1ebe838a5be	Biotem	JY-4833	DateTimD:1/1/2025	FA20241119PTI-007_Z				Freeze-drying cycle		FRE		PD	Promarker D	TRUE	GST	0	28251.47	0	12014.52	ACC:6-5114
+4f967aef-f960-42ff-9656-c1ebe838a5be	Biotem	JY-4833	DateTimD:1/1/2025	FA20241119PTI-007_Z				Shipment Between lyofal and Biotem - Controlled temperature conditions (49L - 24h)		FRE		PD	Promarker D	TRUE	GST	0	28251.47	0	1845.56	ACC:6-5114
+4f967aef-f960-42ff-9656-c1ebe838a5be	Biotem	JY-4833	DateTimD:1/1/2025	FA20241119PTI-007_Z				AQL assessment		FRE		PD	Promarker D	TRUE	GST	0	28251.47	0	13850.07	ACC:6-5114
+4f967aef-f960-42ff-9656-c1ebe838a5be	Biotem	JY-4833	DateTimD:1/1/2025	FA20241119PTI-007_Z				Report per Biomarker		FRE		PD	Promarker D	TRUE	GST	0	28251.47	0	6561.26	ACC:6-5114
+4f967aef-f960-42ff-9656-c1ebe838a5be	Biotem	JY-4833	DateTimD:1/1/2025	FA20241119PTI-007_Z				Residual moisture assessment (KF analysis)		FRE		PD	Promarker D	TRUE	GST	0	28251.47	0	750.91	ACC:6-5114
+4f967aef-f960-42ff-9656-c1ebe838a5be	Biotem	JY-4833	DateTimD:1/1/2025	FA20241119PTI-007_Z				Less: Deposit Invoice		FRE		PD	Promarker D	TRUE	GST	0	28251.47	0	-18965.58	ACC:6-5114
+4f967aef-f960-42ff-9656-c1ebe838a5be	Biotem	JY-4833	DateTimD:1/1/2025	FA20241119PTI-007_Z				Less: Shipment		FRE		PD	Promarker D	TRUE	GST	0	28251.47	0	-196.9	ACC:6-5114
+9f7cacc6-6caf-4639-8168-c478c26b650c	University of Canterbury	DI-4742	DateTimD:7/3/2025	1395572				27 Samples at $1300 each - Sept 2024		FRE		AS	Analytical Services	TRUE	GST	0	32097.74	0	32097.74	ACC:6-5210
+886006b7-c7d7-4ee7-b271-f30721fd05de	ROSEMARY HEALTH PTY LTD	4849	DateTimD:7/1/2025	INV-0054				Next best action platform For Patients for 3 months		GST				TRUE	GST	0	33000	3000	23100	ACC:6-2503
+886006b7-c7d7-4ee7-b271-f30721fd05de	ROSEMARY HEALTH PTY LTD	4849	DateTimD:7/1/2025	INV-0054				"Platform Add On - Telehealth partner connector for 3
+months"		GST				TRUE	GST	0	33000	3000	9900	ACC:6-2503
+a76826a9-b899-41c0-9fdc-250577d505d2	ROSEMARY HEALTH PTY LTD	4810	DateTimD:1/4/2025	INV-0059				3 months - Platform for Patients & Telehealth partner connector		GST				TRUE	GST	0	33000	3000	33000	ACC:6-2503
+1ec68578-68cf-4a4d-a957-c9602d4a6997	AB SCIEX Australia Pty Ltd	HL-4313	DateTimD:3/2/2025	390007085				Prepaid Mass Spec maintenance (1 Yr)		GST		GP	Group	TRUE	GST	0	33147.84	3013.44	33147.84	ACC:1-1510
+ba0887e3-05ee-40ca-ae6f-23087cf367af	ResearchDx Inc	4318	DateTimD:1/2/2025	25-028				Consultant Laboratory Director - Jan 2025		FRE				TRUE	FRE	0	33891.89	0	33891.89	ACC:6-5118
+91377b93-212a-4789-806b-38f891777f3e	Allied Digital Pty Ltd	4880	DateTimD:1/2/2025	PIQ-008				Goods / Services (Taxable)		GST				TRUE	GST	0	34155	3105	34155	ACC:6-7105
+25afe590-556f-4c50-b5d9-8bcbf9d0765d	PAPER AND SPARK DIGITAL AGENCY PTY LTD	4898	DateTimD:27/2/2025	P001096				"Goods and ServicesMedia Strategy - 100% complete
+Google search, google ads - 50% complete"		GST				TRUE	GST	0	34738	3158	34738	ACC:6-2503
+3e9ccef5-cf3a-4aae-9043-b9d8a00d106c	Agilent Technologies Australia Pty Ltd	HL-4879	DateTimD:7/4/2025	129843734				R4525A - SLIMS Cloud		GST		GP	Group	TRUE	GST	0	34858.67	3168.97	34858.67	ACC:6-7105
+848d719f-01c8-4ff5-b00d-5c4b806bce5b	ResearchDx Inc	4316	DateTimD:1/2/2025	25-012				"Lab Rental - November, December and January at $8k per month "		FRE				TRUE	FRE	0	37832.81	0	37832.81	ACC:6-5118
+799091f9-632d-434f-929c-eb05fadae811	Abcam Australia Pty Ltd	DI-4904	DateTimD:13/3/2025	2063765				"5 x Anti-C9 antibody
+[EPR23645-52] - BSA and
+Azide free (Capture)"		GST		EN	Endometriosis	TRUE	GST	0	44522.25	4047.48	5726.6	ACC:6-5121
+799091f9-632d-434f-929c-eb05fadae811	Abcam Australia Pty Ltd	DI-4904	DateTimD:13/3/2025	2063765				"1 x Anti-Factor XII antibody
+[EPR22292-127]"		GST		EN	Endometriosis	TRUE	GST	0	44522.25	4047.48	6481.09	ACC:6-5121
+799091f9-632d-434f-929c-eb05fadae811	Abcam Australia Pty Ltd	DI-4904	DateTimD:13/3/2025	2063765				"1 x Anti-Factor XII antibody
+[EPR22292-127]"		GST		EN	Endometriosis	TRUE	GST	0	44522.25	4047.48	720.01	ACC:6-5121
+799091f9-632d-434f-929c-eb05fadae811	Abcam Australia Pty Ltd	DI-4904	DateTimD:13/3/2025	2063765				"1 x Anti-Protein S antibody
+[EPR24509-70]"		GST		EN	Endometriosis	TRUE	GST	0	44522.25	4047.48	1041.88	ACC:6-5121
+799091f9-632d-434f-929c-eb05fadae811	Abcam Australia Pty Ltd	DI-4904	DateTimD:13/3/2025	2063765				"1 x Anti-SEPP1 antibody
+[EPR24174-24]"		GST		EN	Endometriosis	TRUE	GST	0	44522.25	4047.48	9376.79	ACC:6-5121
+799091f9-632d-434f-929c-eb05fadae811	Abcam Australia Pty Ltd	DI-4904	DateTimD:13/3/2025	2063765				"1 x Anti-Hemoglobin subunit
+beta antibody
+[EPR20614]"		GST		EN	Endometriosis	TRUE	GST	0	44522.25	4047.48	5889.62	ACC:6-5121
+799091f9-632d-434f-929c-eb05fadae811	Abcam Australia Pty Ltd	DI-4904	DateTimD:13/3/2025	2063765				"5 x Anti-AFM antibody
+[EPR25764-62] - BSA and
+Azide free (Capture"		GST		EN	Endometriosis	TRUE	GST	0	44522.25	4047.48	5909.48	ACC:6-5121
+799091f9-632d-434f-929c-eb05fadae811	Abcam Australia Pty Ltd	DI-4904	DateTimD:13/3/2025	2063765				"1 x Anti-Protein S antibody
+[EPR24509-70]"		GST		EN	Endometriosis	TRUE	GST	0	44522.25	4047.48	9376.8	ACC:6-5121
+799091f9-632d-434f-929c-eb05fadae811	Abcam Australia Pty Ltd	DI-4904	DateTimD:13/3/2025	2063765				Rounding row : 44522.27		FRE		EN	Endometriosis	TRUE	GST	0	44522.25	4047.48	-0.02	ACC:6-5010
+c79b4ce8-1fd6-49ca-8a52-6a19f5940c40	Cygnet West Pty Ltd	NA	DateTimD:1/1/2025	INV-QE115334				Rent plus Outgoings - Jan25 to March 25		GST		GP	Group	TRUE	GST	0	47565.93	4324.18	47565.93	ACC:1-1510
+10690a88-e108-443e-9c40-49538a86536c	Cygnet West Pty Ltd	4949	DateTimD:1/4/2025	INV-QEII5612				"Rent Plus Outgoings April 2025 - June
+2025"		GST				TRUE	GST	0	47565.93	4324.18	47565.93	ACC:1-1510
+dd6bcd9a-02b7-4304-8f40-b47f5a6d277b	ResearchDx Inc	NA	DateTimD:1/1/2025	24-575				"Milestone 2: CLIA Validation - 3 - marker (APOA4, CD5L, IGFBP3) Assay Testing"		FRE				TRUE	GST	0	67936.75	0	48634.69	ACC:6-5118
+dd6bcd9a-02b7-4304-8f40-b47f5a6d277b	ResearchDx Inc	NA	DateTimD:1/1/2025	24-575				Validation Report/SOP/Worksheets		FRE				TRUE	GST	0	67936.75	0	16104.2	ACC:6-5118
+dd6bcd9a-02b7-4304-8f40-b47f5a6d277b	ResearchDx Inc	NA	DateTimD:1/1/2025	24-575				Sample/Reagent Acquisition (Cost+15%)		FRE				TRUE	GST	0	67936.75	0	3197.86	ACC:6-5118
+00ed1b64-e3b7-4b4c-98c4-5005f0391bd1	Australian Taxation Office	4833	DateTimD:7/1/2025	IAS NOV 2024				PAYG + STSSL		N-T		GP	Group	TRUE	GST	0	71962.66	0	71470	ACC:2-3085
+00ed1b64-e3b7-4b4c-98c4-5005f0391bd1	Australian Taxation Office	4833	DateTimD:7/1/2025	IAS NOV 2024				Late fee		N-T		GP	Group	TRUE	GST	0	71962.66	0	492.66	ACC:6-0501
+2540460f-acc0-4178-b85b-176ab7f9137f	Australian Taxation Office	4894	DateTimD:20/3/2025	IAS FEB 25						N-T				TRUE	GST	0	80344	0	80344	ACC:2-3085
+f46ea260-87aa-4ae7-b044-1a5047891fba	ResearchDx Inc	4897	DateTimD:1/3/2025	25-064				Consultant Laboratory Director: February 2025 / Quality Oversight / Consulting Fee + CMS Fee: Receipt attached		FRE				TRUE	GST	0	81040.82	0	81040.82	ACC:6-5118
+b552e1c8-6a80-42bf-8d07-7c4ae8f15acd	Australian Taxation Office	4550	DateTimD:20/2/2025	IAS JAN 25				PAYG + STSSL		N-T		GP	Group	TRUE	GST	0	81145	0	81145	ACC:2-3085
+b7bd6e30-3de2-46e3-a297-3ca533312304	ROSEMARY HEALTH PTY LTD	4940	DateTimD:1/4/2025	INV-0057				3 months (Apr / May / Jun) for ProD platform and platform add on for USA		GST				FALSE	GST	0	105188.33	9562.57	95625.76	ACC:6-2503
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				

@@ -1,0 +1,432 @@
+{}
+Account Number	Account Name	Header	Balance	Account Type	Last Cheque Number	Tax Code	Inactive Account	AccountantLink Code	BSB Number	B/Account Number	B/Account Name	Company Trading Name	Create Bank Files	Bank Code	Direct Entry User ID	Self Balancing Transaction	Description	Classification for Statement of Cash Flow	Subtotal Header Accounts
+10000	Assets	H	£9,122,436.72	Asset			N												Y
+11000	Current Assets	H	£8,674,107.91	Asset			N												Y
+11100	Cash On Hand	H	-£179,495.50	Asset			N												Y
+11101	Debtors Clearing Account		£0.00	Bank	300401	N-T	Y						N			N			
+11102	Westpac Trading Account		£0.00	Bank	94	N-T	Y		036-000	467545	CHOICEONE PTY LTD	CHOICEONE	N	WBC	407922	N			
+11103	Westpac Invoice Finance		£0.00	Bank	0	N-T	Y						N			N			
+11110	Fasttrack Import Receipts		£0.00	Bank	70	N-T	Y						Y			N			
+11120	NAB Trading Closed		£0.00	Bank	400328	N-T	Y				CHOICEONE PTY LTD	CHOICEONE	N	NAB	210891	Y			
+11123	NAB Trading Account 1919		£158,585.56	Bank	569	N-T	N		086-006	733651919	CHOICEONE PTY LTD	CHOICEONE	Y	NAB	210891	Y			
+11124	NAB NDF A/C		-£343,480.94	Bank	5497	N-T	N		086-006	730667982	CHOICEONE	CHOICEONE	Y	NAB	210891	Y			
+11125	NAB - Pannawonica		£0.00	Bank	1	N-T	Y						N			N			
+11140	Petty Cash		£14.30	Bank	56	N-T	N						N			N			
+11141	Petty Cash - GBP		£0.00	Other Asset		N-T	Y											O	
+11145	Petty Cash - Pluto		£0.00	Other Asset		N-T	Y											O	
+11150	Provision Account		£0.00	Bank	0	N-T	N						N			N			
+11165	Bond Monies		£0.00	Bank	0	N-T	Y						N			N			
+11180	Undeposited Funds		£5,385.58	Bank	1	N-T	N						N			N			
+11190	Electronic Clearing Account		£0.00	Bank	308737	N-T	N		000-000	000000000	CLEARING	CHOICE	Y	NAB	010101	N			
+11200	Trade Debtors - Venus & Astute		£2,125,180.62	Accounts Receivable		N-T	N											O	
+11202	Accrued Income		£0.00	Other Asset		N-T	N											O	
+11203	Sundry Debtors		£3,239.74	Other Asset		N-T	N											O	
+11210	Less Prov'n for Doubtful Debts		£0.00	Other Asset		N-T	N											O	
+11211	Employee Loan		£0.00	Other Asset		N-T	N											O	
+11305	Loan - M&C Goh 2012		£0.00	Other Asset		N-T	Y											O	
+11306	Loan - M&C Goh 2013		£0.00	Other Asset		N-T	Y											O	
+11307	Loan - M&C Goh 2014		£0.00	Other Asset		N-T	Y											O	
+11308	Loan - M&C Goh 2015		£0.00	Other Asset		N-T	Y											O	
+11309	Loan - M&C Goh 2016		£0.00	Other Asset		N-T	Y											O	
+11310	Loan - Craig Van Heurck		£0.00	Other Asset		N-T	Y											O	
+11311	Loan - M&C Goh 2017		£0.00	Other Asset		N-T	Y											O	
+11371	Loan - Van Heurck F/T - 2007		£0.00	Other Asset		N-T	Y											O	
+11372	Loan - Simone Van Heurck		£0.00	Other Asset		N-T	Y											O	
+11378	Loan - Van Heurck F/T - 2014		£0.00	Other Asset		N-T	Y											O	
+11379	Loan - Van Heurck F/T - 2015		£0.00	Other Asset		N-T	Y											O	
+11380	Loan - Prime Int Consultants		£3,259,181.03	Bank	0	N-T	N						N			N			
+11381	Loan - Van Heurck F/T - 2016		£0.00	Other Asset		N-T	Y											O	
+11382	Loan - Van Heurck F/T - 2017		£0.00	Other Asset		N-T	Y											O	
+11383	Loan - Van Heurck F/T - 2018		£0.00	Other Asset		N-T	Y											O	
+11384	Loan - Van Heurck F/T - 2019		£604,118.48	Other Asset		N-T	N											O	
+11389	Loan - Goh Corp - 2014		£0.00	Other Asset		N-T	Y											O	
+11390	Loan - Personal Investment		£706.38	Other Asset		N-T	N											O	
+11391	Loan - M & C Goh 145 Vic Ave		£0.00	Other Asset		N-T	Y											O	
+11392	Loan - M & C Goh 157 Vic Ave		£0.00	Other Asset		N-T	Y											O	
+11394	Loan - Midas Prime (Aust) P/L		£13,884.67	Other Asset		N-T	N											O	
+11395	Loan - One Choice P/L		£20,892.49	Other Asset		N-T	N											O	
+11396	Loan - Goh Corp P/L 2007-08		£0.00	Other Asset		N-T	Y											O	
+11397	Short Term Emp'ee Advance		£0.00	Other Asset		N-T	Y											O	
+11398	Adv- C & M Goh ( S&W)		£193,452.79	Other Current Asset		N-T	N											O	
+11399	Loan - Goh Corp P/L Current		£68,304.65	Other Asset		N-T	N											O	
+11400	Prepaid Insurance		£264,460.14	Other Asset		N-T	N											O	
+11500	Prov for Workers Comp Clearing		£8,586.04	Other Asset		N-T	N											O	
+11700	Prepaid Other		£7,344.00	Other Asset		N-T	N											O	
+11701	Prepaid Advertising		£0.00	Other Asset		N-T	N											O	
+11710	Deposit - Contract		£2,255,749.09	Other Asset		N-T	N											O	
+11750	Deposits		£0.00	Other Asset		N-T	N											O	
+11800	Prepaid Rates & Taxes		£28,503.29	Other Asset		FRE	N											O	
+11820	Unexpired Borrowing Expenses		£0.00	Other Asset		N-T	N											O	
+11950	Withholding Credits	H	£0.00	Asset			N												Y
+11960	Voluntary Withholding Credits		£0.00	Other Asset		N-T	Y											O	
+11970	ABN Withholding Credits		£0.00	Other Asset		N-T	Y											O	
+12000	Fixed Assets	H	£448,328.81	Asset			N												Y
+12121	Loan - Marg Goh		£0.00	Other Asset		N-T	Y											O	
+12123	Loan - Goh Corp - 2011		£0.00	Other Asset		N-T	Y											O	
+12124	Loan - Goh Corp - 2012		£0.00	Other Asset		N-T	Y											O	
+12125	Loan - Goh Corp - 2013		£0.00	Other Asset		N-T	Y											O	
+12126	Loan - Goh Corp - 2014		£0.00	Other Asset		N-T	Y											O	
+12130	Investment Loan - Monnay ESAP		£0.00	Other Asset		N-T	Y											O	
+12140	Future Income Tax Benefit		£0.00	Other Asset		N-T	Y											O	
+12150	Pre-paid Interest - HP		£0.00	Other Asset		N-T	Y											O	
+12160	Suspense Account -  Tax Paid		£0.00	Other Asset		N-T	Y											O	
+12170	Suspense - To Be Cleared		£0.00	Other Asset		N-T	N											O	
+12171	Venus Clearing Acc		£0.00	Other Asset		N-T	Y											O	
+12180	Fasttrack Clearing Acc		£0.00	Other Asset		N-T	Y											O	
+12185	Venus Payments Clearing Acc		£0.00	Bank	1	N-T	N						N			N			
+12190	Goodwill- Chase Personnel		£40,000.00	Other Asset		N-T	N											O	
+12191	Goodwill		£350,000.00	Other Asset		N-T	N											O	
+12192	Goodwill- Choice Education		£15,000.00	Other Asset		N-T	N											O	
+12200	Leasehold Improvements	H	£15,802.26	Asset			N												Y
+12210	Improvements at Cost		£46,472.00	Other Asset		CAP	N											O	
+12220	Improvements Amortisation		-£30,669.74	Other Asset		N-T	N											O	
+12300	Plant & Equipment	H	£7,371.02	Asset			N												Y
+12310	Plant & Equip at cost		£458,164.00	Other Asset		CAP	N											O	
+12320	Plant & Equip Accum Dep		-£450,792.98	Other Asset		N-T	N											O	
+12500	Vehicles	H	£443.00	Asset			N												Y
+12510	Vehicles - at Cost		£37,778.35	Other Asset		CAP	N											O	
+12520	Vehicles - Accum Dep		-£37,335.35	Other Asset		N-T	N											O	
+12700	Furniture and Fixtures	H	£19,712.53	Asset			N												Y
+12710	Furniture & Fixtures Orig Co		£100,666.00	Other Asset		CAP	N											O	
+12720	Furniture & Fixtures Accum Dep		-£80,953.47	Other Asset		N-T	N											O	
+14000	Loan - Goh Corp - 2013		£0.00	Other Asset		N-T	Y											O	
+20000	Liabilities	H	£2,247,958.73	Liability			N												Y
+21000	Current Liabilities	H	£1,549,937.73	Liability			N												Y
+21100	Credit Cards	H	£5,991.76	Liability			N												Y
+21110	American Express Card Account		£0.00	Credit Card		N-T	N						N			N		O	
+21111	Amex- MVH		£1,861.34	Credit Card		N-T	N						N			N		O	
+21120	NAB Visa		£4,130.42	Credit Card		N-T	N						N			N		O	
+21121	AMEX SVH and CG		£0.00	Credit Card		N-T	Y						N			N		O	
+21201	Trade Creditors		£69,754.80	Accounts Payable		N-T	N											O	
+21205	Accrued Salaries		£130,104.91	Other Current Liability		N-T	N											O	
+21206	Sundry Creditors		£37,070.32	Other Current Liability		N-T	N											O	
+21210	Sundry Creditors		£0.00	Accounts Payable		N-T	Y											O	
+21300	GST Liabilities	H	£595,474.46	Liability			N												Y
+21310	GST Collected		£636,617.39	Other Liability		N-T	N											O	
+21315	GST Collected FT		£0.00	Other Liability		N-T	N											O	
+21330	GST Paid Non Capital Purchases		-£40,539.82	Other Liability		N-T	N											O	
+21340	GST Paid - Capital Purchases		£0.00	Other Liability		N-T	N											O	
+21345	GST adjustment		-£603.11	Other Liability		N-T	N											O	
+21346	GST Holding Account		£0.00	Other Liability		N-T	N											O	
+21347	ATO Integrated Account		£0.00	Other Liability		N-T	N											O	
+21350	Sales Tax Payable		£0.00	Other Liability		N-T	Y											O	
+21355	Current Provision - Income Tax		-£254,951.00	Other Liability		N-T	N											O	
+21356	Fringe Benefits Provision		£19,887.90	Other Liability		N-T	N											O	
+21357	Provision for Commissions		£0.00	Other Liability		N-T	N											O	
+21358	PAYG Instalment Payable		£0.00	Other Liability		N-T	N											O	
+21360	Provision Prepaid Debtors		£0.00	Other Liability		N-T	Y											O	
+21361	Provision for Rates & Taxes		£0.00	Other Liability		N-T	N											O	
+21362	Provision for Expenses		£0.00	Other Liability		N-T	N											O	
+21370	Voluntary Withholdings Payable		£0.00	Other Liability		N-T	Y											O	
+21380	ABN Withholdings Payable		£0.00	Other Liability		N-T	Y											O	
+21390	Luxury Car Tax Payable		£0.00	Other Liability		N-T	Y											O	
+21400	Payroll Liabilities	H	£829,811.53	Liability			N												Y
+21410	Internal Super Accrual		£24,323.00	Other Liability		N-T	N											O	
+21420	PAYG Withholding Payable		£263,306.56	Other Liability		N-T	N											O	
+21421	PAYG Witholding FT - Extra Tax		£0.00	Other Liability		N-T	Y											O	
+21422	Payroll Tax -  Other States		£22,162.55	Other Liability		N-T	N											O	
+21430	Payroll Tax - Clearing Venus		£9,706.79	Other Liability		N-T	N											O	
+21432	Payroll Tax clearing - FT		£43,518.98	Other Liability		N-T	N											O	
+21433	Payroll Tax (Internal Staff)		£24,144.94	Other Current Liability		N-T	N											O	
+21439	Temps Pay Clearing Acc - FT		£190,644.01	Other Liability		N-T	N											O	
+21441	Temps Pay Clearing Acc - Venus		£0.00	Other Liability		N-T	N											O	
+21445	Staff payroll - Clearing Acc		£0.00	Credit Card		N-T	N						N			N		O	
+21446	Provision for Annual leave Staff		£217,110.49	Other Liability		N-T	N											O	
+21448	Provision for Long Service leave		£137,619.89	Other Liability		N-T	N											O	
+21450	Temps Super Clearing Venus		£6,379.45	Other Liability		N-T	N											O	
+21451	Temps Super Clearing FT		£24,520.38	Other Liability		N-T	N											O	
+21452	Prov Sal Sacrifice Super		£2,290.80	Other Liability		N-T	N											O	
+21453	Venus Repay Clearing Acc		£0.00	Other Liability		N-T	N											O	
+21455	Parental Leave Clearing Acc		£0.00	Other Liability		N-T	N											O	
+21460	Returned Super		£0.00	Other Liability		N-T	N											O	
+21465	Staff Super Clr Acc - Sal Sac		£626.92	Other Liability		N-T	N											O	
+21470	Workers Comp Clearing Account		£0.00	Other Liability		N-T	Y											O	
+21473	Provision for Workerscomp		-£138,076.37	Other Liability		N-T	N											O	
+21475	Child Support Clearing		£1,533.14	Other Liability		N-T	N											O	
+21480	Employee Witholdings		£0.00	Other Liability		N-T	N											O	
+21481	Provision for unpaid wages		£0.00	Other Liability		N-T	N											O	
+21482	Provision - Temp LSL		£0.00	Other Liability		N-T	N											O	
+21501	Accrued Expenses		£0.00	Other Liability		N-T	N											O	
+21510	Insurance Premium Funding		£116,793.05	Credit Card		N-T	N						N			N		O	
+21515	Unexpired Interest - Insurance		£0.00	Other Liability		N-T	N											O	
+21520	Deferred Taxation Liability		£0.00	Other Liability		N-T	Y											O	
+21530	HP Liability - Current		£0.00	Other Liability		N-T	N											O	
+21540	Unexpired Hire Purchase Liab		£0.00	Other Liability		N-T	N											O	
+21600	Income Rec'd In Advance		£0.00	Other Liability		N-T	N											O	
+21900	Other Current Liabilities		£0.00	Other Liability		N-T	Y											O	
+21904	Loan - Goh Corp 2016		£0.00	Other Liability		N-T	Y											O	
+21905	Loan - Goh Corp 2017		£0.00	Other Liability		N-T	Y											O	
+21906	Loan - Goh Corp 2018		£0.00	Other Liability		N-T	Y											O	
+21907	Simone Booth - Short Term Loan		£0.00	Other Liability		N-T	Y											F	
+21908	Loan - Goh Corp 2019		£0.00	Other Liability		N-T	N											F	
+22000	Long Term Liabilities	H	£698,021.00	Liability			N												Y
+22100	NAB Business Market Loan		£698,021.00	Other Liability		N-T	N											O	
+22109	Unexp: Lease Interest Server		£0.00	Other Liability		N-T	N											O	
+22110	Lease Liability - Server Upgrade		£0.00	Other Liability		N-T	N											O	
+22111	Working Capital Loan Account		£0.00	Other Liability		N-T	N											O	
+22140	Loan - Marg		£0.00	Credit Card		N-T	N						N			N		O	
+22200	Loan - Van Heurck Nominees		£0.00	Other Liability		N-T	Y											O	
+22230	Provision for Deferred Tax		£0.00	Other Liability		N-T	Y											O	
+22250	HP Liability - Non Current		£0.00	Other Liability		N-T	N											O	
+22260	Unexpired HP Liability		£0.00	Other Liability		N-T	N											O	
+22300	Other Long Term Liabilities		£0.00	Other Liability		N-T	Y											O	
+30000	Equity	H	£7,015,974.01	Equity			N												Y
+31000	Owner's/Shareholder's Equity	H	-£295,000.00	Equity			N												Y
+31200	Owner's/Sharehldr Drawings		£0.00	Equity		N-T	Y											F	
+31250	Dividends Paid		-£295,000.00	Equity		N-T	N											F	
+32000	Issued Capital		£350,038.00	Equity		N-T	N											F	
+33000	Asset Revaluation Reserve		£0.00	Equity		N-T	N											F	
+38000	Retained Earnings		£4,988,603.15	Equity		N-T	N											F	
+39000	Current Year Earnings		£1,972,332.86	Equity		N-T	N												
+39999	Historical Balancing		£0.00	Equity		N-T	N											F	
+40000	Income	H	£27,897,472.46	Income			N												Y
+41000	Sales - Permanent Fees		£2,246,142.63	Income		GST	N												
+41100	Sales - Temporary Fees (Venus)		£3,974,121.56	Income		GST	N												
+41101	Sales -Temp Fees Astute		£21,550,396.09	Income		GST	N												
+41102	Less: Doubtful Debt		£0.00	Income		N-T	N										Provision for Doubtful Debt		
+41110	Sales - Oncharge Based		£35,496.88	Income		GST	N												
+41300	Traineeship Grants		£41,468.32	Income		FRE	N												
+41400	Workers Compensation Rebate		£0.00	Income		N-T	N												
+43100	Recoveries - Temp Expenses Payroll		£0.00	Income		N-T	N										workers comp, 		
+43500	Recoveries - Candidates		£6,430.89	Income		N-T	N												
+43600	Accrued Income		£0.00	Income		N-T	N												
+46000	Late Fees Collected		£0.00	Income		N-T	Y												
+48000	Miscellaneous Income		£43,416.09	Income		N-T	N												
+48001	Interest Received		£0.00	Income		FRE	N												
+48002	Sales Refund		£0.00	Income		N-T	N												
+48100	Dividends Received		£0.00	Income		FRE	N												
+49000	FBT employee cont		£0.00	Income		GST	N												
+50000	Cost of Sales	H	£21,924,039.61	Cost of Sales			N												Y
+51000	Discounts Given		£0.00	Cost of Sales		GST	Y												
+52000	Temp Costs	H	£21,214,534.41	Cost of Sales			N												N
+52100	Temp - Wages & Salaries- Venus		£3,246,193.67	Cost of Sales		N-T	N												
+52101	Temp Wages and Salaries Astute		£14,730,180.24	Cost of Sales		N-T	N												
+52102	FTrack WComp Wage Paid		£0.00	Cost of Sales		N-T	Y												
+52103	Temp - Child Support		£0.00	Cost of Sales		N-T	N												
+52104	Wages accrual Venus		-£209.00	Cost of Sales		N-T	N												
+52105	Wages accrual FT		-£248,617.03	Cost of Sales		N-T	N												
+52106	Candidate - McQuaig Testing		£4,476.00	Cost of Sales		GST	N												
+52200	Temp - Allowances Venus		£0.00	Cost of Sales		N-T	N												
+52201	Temp Allowances - Astute		£0.00	Cost of Sales		N-T	N												
+52300	Non Taxable Allowances		£0.00	Cost of Sales		N-T	N												
+52301	Payroll Tax FT		£861,197.02	Cost of Sales		N-T	N												
+52302	Payroll Tax - Venus		£192,309.59	Cost of Sales		N-T	N												
+52303	Payroll Tax -Apprentice rebate		-£2,198.55	Cost of Sales		N-T	N												
+52400	Temp - Training		£0.00	Cost of Sales		GST	Y												
+52500	Temp - Super Venus		£336,510.02	Cost of Sales		N-T	N												
+52501	Temp Superannuation Fasttrack		£1,379,978.01	Cost of Sales		N-T	N												
+52502	Contractors - Super/Paytax		£0.00	Cost of Sales		N-T	N												
+52503	Construction Industry LSL		£0.00	Cost of Sales		N-T	N												
+52600	Temp - Workers Comp		£714,714.44	Cost of Sales		N-T	N												
+52700	Salary Sacrifice		£0.00	Cost of Sales		N-T	N												
+53000	Candidate Costs - Payroll Items 	H	£123,691.60	Cost of Sales			N												N
+53100	Candidate - Job Advertising		£0.00	Cost of Sales		GST	Y												
+53200	Candidate - Workers Comp		£0.00	Cost of Sales		GST	Y												
+53300	Candidate - Medical Costs		£59,320.67	Cost of Sales		GST	N												
+53400	Candidate - Meals & Accom		£7,249.33	Cost of Sales		GST	N												
+53500	Candidate - Expenses from Payroll		£4,906.43	Cost of Sales		GST	N												
+53501	Candidate - Travel Payroll		£3,222.35	Cost of Sales		GST	N												
+53601	Candidate - Psychometric Test		£0.00	Cost of Sales		GST	N												
+53602	Candidate Skills Testing		£568.18	Cost of Sales		N-T	N												
+53650	Candidate Training		£12,100.06	Cost of Sales		GST	N												
+53700	Candidate - Uniforms & PPE		£13,008.01	Cost of Sales		GST	N												
+53800	Candidate Costs - Visas		£0.00	Cost of Sales		FRE	N												
+53900	Candidates-Other Disbursements		£23,316.57	Cost of Sales		GST	N												
+54000	Contract Costs - Purchases	H	£285,176.62	Cost of Sales			N												N
+54100	Contractor Wages - Westbrook		£0.00	Cost of Sales		N-T	Y												
+54101	Sub Contractor Payments		£162,529.75	Cost of Sales		GST	N												
+54150	Woodside Wages - FT		£0.00	Cost of Sales		N-T	Y												
+54200	Contract Costs - Fees		£0.00	Cost of Sales		GST	Y												
+54201	Rebate - WALGA		£122,646.87	Cost of Sales		GST	N												
+54300	Contract Costs - Disbursements		£0.00	Cost of Sales		GST	N												
+54400	Contract Costs - Meals & Accom		£0.00	Cost of Sales		GST	N												
+54500	Contract Costs - Travel		£0.00	Cost of Sales		GST	N												
+54501	Contract Costs - M/V Hire		£0.00	Cost of Sales		GST	Y												
+54502	Contract Costs - M/V Fuel		£0.00	Cost of Sales		GST	Y												
+54503	Contract Costs - M/V Insurance		£0.00	Cost of Sales		GST	Y												
+54600	Contract Costs - Medicals		£0.00	Cost of Sales		GST	N												
+54700	Contract Costs - Uniforms		£0.00	Cost of Sales		GST	N												
+54800	Contract Costs - Subcontractor		£0.00	Cost of Sales		GST	Y												
+54900	Contract Costs - Training		£0.00	Cost of Sales		GST	N												
+55000	Insurance Costs	H	£1,508.16	Cost of Sales			N												N
+55200	Insurance - MV		£0.00	Cost of Sales		GST	N												
+55300	Insurance - Liability		£0.00	Cost of Sales		GST	N												
+55400	Insurance - Professional Indem		£1,508.16	Cost of Sales		N-T	N												
+55500	Insurance - Recoveries		£0.00	Cost of Sales		N-T	N												
+56000	ZParking		£0.00	Cost of Sales		GST	Y												
+56001	Taxi Services		£0.00	Cost of Sales		GST	Y												
+57000	Bad Debts Written Off		£0.00	Cost of Sales		GST	N												
+58000	Commissions Paid Third Parties		£0.00	Cost of Sales		GST	N												
+58001	Cancellation Fees - Nursing		£0.00	Cost of Sales		GST	N												
+59000	COGS - Finance Charges		£0.00	Cost of Sales		N-T	N												
+59001	COS - Perm Disbursements		£0.00	Cost of Sales		GST	N												
+59002	Consultancy Fees		£0.00	Cost of Sales		GST	N												
+59003	Disbursements - Brightwater		£0.00	Cost of Sales		GST	Y												
+59004	Costs - Building Services		£0.00	Cost of Sales		GST	Y												
+59005	S&R Travel		£478.13	Cost of Sales		GST	N												
+59006	Prior year adjustment		£298,650.69	Cost of Sales		FRE	N												
+60000	Expenses	H	£4,511,362.92	Expense			N												Y
+61000	General & Administrative Exp	H	£195,081.11	Expense			N												Y
+61005	Accounting Fees		£45,808.47	Expense		GST	N												
+61006	Administration Charges		£34.98	Expense		GST	N												
+61010	Legal Fees		£0.00	Expense		GST	N												
+61011	Prof Service Fees - Tax		£0.00	Expense		GST	Y												
+61012	Prof Service Fees - Audit		£0.00	Expense		GST	Y												
+61013	Prof Service Fees - Sundry		£0.00	Expense		GST	Y												
+61014	Consultancy		£0.00	Expense		GST	N												
+61016	CV Formatting		£3,213.00	Expense		N-T	N												
+61022	Borrowing Costs		£0.00	Expense		N-T	N												
+61030	Depreciation		£5,255.36	Expense		N-T	N												
+61035	Debts - Bad written off		£0.00	Expense		GST	N												
+61040	Amortisation		£0.00	Expense		N-T	Y												
+61050	Postage		£37.71	Expense		GST	N												
+61060	Office Supplies		£2,998.30	Expense		GST	N												
+61065	Printing & Stationery		£6,956.32	Expense		GST	N												
+61070	Subscriptions & Memberships		£7,878.02	Expense		GST	N												
+61080	Telephone		£9,195.65	Expense		GST	N												
+61085	Telephone - Mobile Phones		£2,667.86	Expense		GST	N												
+61110	Client Gifts and Support		£393.08	Expense		GST	N												
+61120	Newspapers & Periodicals		£0.00	Expense		GST	N												
+61130	Filing Fees		£310.00	Expense		FRE	N												
+61140	DO NOT USE		£0.00	Expense		N-T	Y												
+61150	Document & Equipment Storage		£0.00	Expense		N-T	Y												
+61155	Debt Collection Fees		£0.00	Expense		GST	Y												
+61160	Licenses & Permits		£2,795.92	Expense		GST	N												
+61170	Fines & Penalties		£0.00	Expense		FRE	Y												
+61180	Donations		£1,251.00	Expense		FRE	N												
+61190	General Expenses		£0.00	Expense		GST	Y												
+61302	Advertising & Promotion		£106,225.44	Expense		GST	N												
+61650	Fees paid		£0.00	Expense		GST	Y												
+61700	Freight Paid		£60.00	Expense		GST	N												
+61800	Late Fees Paid		£0.00	Expense		N-T	Y												
+61900	Company Taxes		£0.00	Expense		N-T	Y												
+62000	Motor Vehicle Exp	H	£21,519.69	Expense			N												N
+62010	M/V Exp - Fuel		£7,667.51	Expense		GST	N												
+62020	M/V Exp - Gen R & M		£9,444.55	Expense		GST	N												
+62030	M/V Exp - Insurance		£2,456.02	Expense		GST	N												
+62040	M/V Exp - License		£389.39	Expense		FRE	N												
+62050	M/V Exp - Servicing		£1,505.22	Expense		GST	N												
+62051	Parking		£18.55	Expense		GST	N												
+62052	Novated Lease 		£0.00	Expense		GST	Y												
+62060	Depreciation - M/V's		£0.00	Expense		N-T	Y												
+62071	Hire - M/V's		£0.00	Expense		GST	Y												
+62072	HP Interest Charges		£38.45	Expense		FRE	N												
+63000	Equipment Exp	H	£208,710.70	Expense			N												N
+63100	Equipment - General	H	£710.00	Expense			N												N
+63110	Equipment - Hire		£0.00	Expense		GST	N												
+63120	Equipment - Leasing		£0.00	Expense		GST	Y												
+63130	Equipment - Rental		£0.00	Expense		GST	Y												
+63140	Equipment - Repairs & Maint		£440.00	Expense		GST	N												
+63150	Leasing Charges		£0.00	Expense		GST	Y												
+63151	Hire Purchase Charges		£0.00	Expense		GST	Y												
+63155	Hire of Plant & Equipment		£0.00	Expense		GST	Y												
+63160	Depreciation - FFE		£0.00	Expense		N-T	Y												
+63170	Equipment - Under $300		£270.00	Expense		GST	N												
+63200	Equipment - Computers	H	£208,000.70	Expense			N												N
+63210	Computer - Sundry Costs		£0.00	Expense		GST	Y												
+63220	Computer - Software		£72,234.93	Expense		GST	N												
+63230	Computer - Internet Costs		£13,306.47	Expense		GST	N												
+63240	Computer - R & M		£0.00	Expense		GST	N												
+63250	Computer - Support		£122,459.30	Expense		GST	N												
+63251	Computer - Protection		£0.00	Expense		GST	N												
+65100	Employment Expenses	H	£3,228,863.37	Expense			N												Y
+65101	Workers Comp Prov- Salary		£51,566.92	Expense		N-T	N												
+65102	Temp - Admin		£0.00	Expense		N-T	Y												
+65105	Fringe Benefits Tax		£47,801.90	Expense		N-T	N												
+65110	Staff Amenities		£14,318.69	Expense		GST	N												
+65120	Admin Superannuation		£280,436.59	Expense		FRE	N												
+65129	Temp - Wages, P/Tax & Super		£0.00	Expense		N-T	Y												
+65130	Admin - Wages & Salaries		£1,998,969.52	Expense		N-T	N												
+65131	Commission/Bonus Paid		£391,091.13	Expense		N-T	N												
+65132	Salaries - Oncost - Accural		£203,827.91	Expense		N-T	N												
+65133	WComp Payroll Paid		£0.00	Expense		N-T	N												
+65135	Wages - Temp Astute		£2,221.56	Expense		N-T	N												
+65136	Recruitment Costs		£11,207.64	Expense		GST	N												
+65137	Visa Application Costs		£0.00	Expense		FRE	N												
+65138	Rent Paid - Employee		£0.00	Expense		GST	Y												
+65140	Admin Workers' Comp		£0.00	Expense		FRE	N												
+65150	Admin - Payroll Tax		£171,045.79	Expense		N-T	N												
+65160	Admin - Training		£8,400.00	Expense		GST	N												
+65170	Admin - Allowances		£0.00	Expense		N-T	N												
+65180	Admin - Annual Leave		£0.00	Expense		N-T	Y												
+65190	Admin - Sick leave		£0.00	Expense		N-T	Y												
+65191	Staff Incentives		£0.00	Expense		GST	N												
+65205	Superannuation - M & C Goh		£27,500.00	Expense		N-T	N												
+65210	Product - Salaries & Wages		£0.00	Expense		N-T	Y												
+65220	Productive - Workers Comp		£0.00	Expense		N-T	Y												
+65230	Productive - Training		£0.00	Expense		GST	Y												
+65240	Productive - Allowances		£0.00	Expense		N-T	Y												
+65250	Productive - Annual Leave		£0.00	Expense		N-T	Y												
+65260	Productive - Sick leave		£0.00	Expense		N-T	Y												
+65270	Productive - Payroll Tax		£0.00	Expense		FRE	Y												
+65280	Apprentice Consultant		£0.00	Expense		N-T	Y												
+65281	Allied Consultant		£0.00	Expense		N-T	Y												
+65300	Professional Development		£0.00	Expense		GST	N												
+65310	Entertainment - FBT		£11,442.81	Expense		N-T	N												
+65320	Entertainment - Non Allowable		£7,908.19	Expense		N-T	N												
+65330	Non Deductible Expenses		£0.00	Expense		N-T	N												
+65335	Light meals and refreshments		£62.09	Expense		GST	N												
+65336	Minor Benefits		£250.00	Expense		N-T	N												
+65340	Uniforms & PPE		£199.97	Expense		GST	N												
+65345	Employee Entitlements		£0.00	Expense		N-T	N												
+65390	Other Employer Expenses		£612.66	Expense		GST	N												
+65400	Travel Expenses	H	£284.31	Expense			N												N
+65410	Travel - Accomodation		£140.91	Expense		GST	N												
+65411	Travel - Insurance		-£1.14	Expense		N-T	N												
+65420	Travel - Domestic		£105.70	Expense		GST	N												
+65430	Travel - Conference Costs		£0.00	Expense		GST	N												
+65440	Travel - Local		£0.00	Expense		GST	N												
+65450	Travel - Meals		£38.84	Expense		GST	N												
+65460	Travel - Overseas		£0.00	Expense		FRE	N												
+65500	Insurances	H	£125,279.43	Expense			N												N
+65510	General Insurance		£77,608.58	Expense		FRE	N												
+65511	Insurances Expenses		£0.00	Expense		N-T	Y												
+65512	Professional Indemnity & Pubic Liability		£47,670.85	Expense		FRE	N												
+66000	Occupancy Costs	H	£595,370.76	Expense			N												N
+66010	Rent		£414,545.40	Expense		GST	N												
+66020	Rates & Land Tax		£112,406.98	Expense		FRE	N												
+66030	Electricity		£15,454.89	Expense		GST	N												
+66040	Water		£2,779.57	Expense		FRE	N												
+66050	Repairs & Maint - Buildings		£11,527.77	Expense		GST	N												
+66060	Building Insurance		£4,493.63	Expense		N-T	N												
+66070	Security		£1,346.00	Expense		GST	N												
+66071	Sensitive Document Disposal		£151.24	Expense		GST	N												
+66072	Rubbish Removal		£893.78	Expense		GST	N												
+66080	Cleaning		£31,771.50	Expense		GST	N												
+66090	ZWater		£0.00	Expense		FRE	Y												
+66100	Sundry Expenses		£0.00	Expense		N-T	Y												
+66500	Bank Charges	H	£36,338.65	Expense			N												Y
+66515	Bank- AMEX Card Fees		£0.00	Expense		N-T	N												
+66519	Bank - VISA Card fees		£88.00	Expense		FRE	N												
+66520	Bank Charges		£36,250.65	Expense		FRE	N												
+66600	Interest Paid	H	£99,914.90	Expense			N												Y
+66621	Interest - Loan Accounts		£52,519.75	Expense		FRE	N												
+66624	Interest ATO		£0.00	Expense		FRE	N												
+66625	Interest - Premium Funding		£10,904.04	Expense		FRE	N												
+66626	Interest Other		£2.10	Expense		FRE	N												
+66628	Interest - HP		£0.00	Expense		N-T	N												
+66629	Interest - Invoice Finance		£36,489.01	Expense		FRE	N												
+66650	Interest RBA for BAS		£0.00	Expense		FRE	Y												
+66670	Interest - M/V's		£0.00	Expense		FRE	Y												
+66685	zInterest - Premium Funding		£0.00	Expense		FRE	Y												
+67000	Shared Services	H	£0.00	Expense			N												N
+67001	Shared Services Allocation		£0.00	Expense		N-T	N												
+80000	Other Income	H	£71,100.22	Other Income			N												Y
+81000	Interest Income		£70,389.44	Other Income		FRE	N												
+81010	Australian Tax Office/Cashflow Boost		£0.00	Other Income		FRE	N												
+81050	Interest - Division 7A Loans		£0.00	Other Income		FRE	N												
+81100	Profit/(Loss) - Disposal of FA		£0.00	Other Income		FRE	N												
+81150	Dividend Income		£710.77	Other Income		FRE	N												
+81160	Profit/Loss - Sundry		£0.00	Other Income		GST	Y												
+81200	Administration Fee - Prime		£0.00	Other Income		GST	Y												
+81250	Insurance Recoveries		£0.00	Other Income		N-T	N												
+81300	Other Income		£0.01	Other Income		N-T	N												
+81350	Unrealised Exchange Gain		£0.00	Other Income		N-T	Y												
+90000	Other Expenses	H	-£298,650.69	Other Expense			N												Y
+91000	Interest - General Finance		£0.00	Other Expense		FRE	Y												
+91100	Interest - Other		£0.00	Other Expense		GST	Y												
+91200	Expenses - Prime IC P/L		£0.00	Other Expense		N-T	Y												
+91300	Other Expenses		£0.00	Other Expense		GST	Y												
+91400	Prior Year adjustments		-£298,650.69	Other Expense		N-T	N												
+91500	Debts Forgiven		£0.00	Other Expense		N-T	Y												
+92000	Income Tax Expense		£0.00	Other Expense		N-T	N												
